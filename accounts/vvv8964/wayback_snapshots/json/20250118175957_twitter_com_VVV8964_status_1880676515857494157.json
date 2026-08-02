@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1880599500655636955",
+    "created_at": "2025-01-18T17:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T18:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880676515857494157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3022697779",
+          "start": 0,
+          "username": "RXdruglab"
+        },
+        {
+          "end": 25,
+          "id": "1797727504540807168",
+          "start": 11,
+          "username": "Sakura_botnet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880676515857494157",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880600234612715727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RXdruglab @Sakura_botnet 笑死我了，跟你之前发的内容不像同一个人"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1880600234612715727].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1880600234612715727",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1880600234612715727"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1880599500655636955",
+        "created_at": "2025-01-18T17:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T18:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880676515857494157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 25,
+              "id": "1797727504540807168",
+              "start": 11,
+              "username": "Sakura_botnet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880676515857494157",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880600234612715727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab @Sakura_botnet 笑死我了，跟你之前发的内容不像同一个人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 145,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 686
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3965,
+          "following_count": 15,
+          "like_count": 11,
+          "listed_count": 3,
+          "media_count": 22,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "☆､｡･:*:･ﾟ`★.｡･:*:･ﾟ`☆ Blog:https://t.co/CoNXKs3HPa | 业务频道：https://t.co/KuajOFKCBm | 如果爱不用犯罪 哪里来钱去消费 *+:｡.｡†｡.｡:+*🤍*+:｡.｡†｡.｡:+",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lsd.kim",
+                "end": 50,
+                "expanded_url": "http://lsd.kim",
+                "start": 27,
+                "url": "https://t.co/CoNXKs3HPa"
+              },
+              {
+                "display_url": "t.me/Sakura_Networks",
+                "end": 81,
+                "expanded_url": "https://t.me/Sakura_Networks",
+                "start": 58,
+                "url": "https://t.co/KuajOFKCBm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lsd.kim",
+                "end": 23,
+                "expanded_url": "https://lsd.kim/",
+                "start": 0,
+                "url": "https://t.co/LA6zxBLpBA"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "Sakura",
+        "pinned_tweet_id": "1880620099159355415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880615931434745856/OxGlTI8r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 2536,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/LA6zxBLpBA",
+        "username": "Sakura_botnet",
+        "verified": false
+      }
+    ]
+  }
+}
