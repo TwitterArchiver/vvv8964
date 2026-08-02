@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1927587343201886480",
+    "created_at": "2025-05-28T05:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T06:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927600423029846231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690721268373581824",
+          "start": 0,
+          "username": "Celsius233C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927600423029846231",
+    "in_reply_to_user_id": "1690721268373581824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 13,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927587343201886480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Celsius233C 经典语录"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1927587343201886480",
+        "created_at": "2025-05-28T05:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T06:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927600423029846231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690721268373581824",
+              "start": 0,
+              "username": "Celsius233C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927600423029846231",
+        "in_reply_to_user_id": "1690721268373581824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927587343201886480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Celsius233C 经典语录"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690721268373581824",
+        "conversation_id": "1927587343201886480",
+        "created_at": "2025-05-28T04:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T05:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927587343201886480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/simone_luxem/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/simone_luxem/status/1927528200931807721",
+              "start": 37,
+              "url": "https://t.co/BpAMbYfSV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927587343201886480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927528200931807721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我才不怕闹，一听反抗我就高兴；不仅要活着，还要活得让老保比吃了苍蝇还恶心 https://t.co/BpAMbYfSV3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 235,
+          "like_count": 649,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 1534
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T13:45:44.000Z",
+        "description": "Gender undefined｜zh-CN/en-US｜R-18G｜Film Photography📷｜Planes✈️｜Amateur Radio📻｜War Thunder",
+        "id": "1690721268373581824",
+        "location": "Washington, USA",
+        "name": "233°C",
+        "pinned_tweet_id": "1882365999896543468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709080494498054145/b4FIrcBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5651,
+          "following_count": 750,
+          "like_count": 14681,
+          "listed_count": 19,
+          "media_count": 58,
+          "tweet_count": 1030
+        },
+        "username": "Celsius233C",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1967383549922992198",
+    "created_at": "2025-09-15T04:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T05:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967448430852427783"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1967448430852427783",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967437466333507676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "找不到东西有点烦 补一两口 onehitter抽起来比preroll对嗓子更友好 可能是因为烟管比较长 烟雾可以冷却的缘故"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1967383549922992198",
+        "created_at": "2025-09-15T04:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T05:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967448430852427783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967448430852427783",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967437466333507676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "找不到东西有点烦 补一两口 onehitter抽起来比preroll对嗓子更友好 可能是因为烟管比较长 烟雾可以冷却的缘故"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1967383549922992198",
+        "created_at": "2025-09-15T03:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T04:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967437466333507676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967437466333507676",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967396958789931106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药效快下去了还是很轻松 明明剂量很低 vyvanse的crash似乎也被抵消了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 333,
+          "like_count": 3007,
+          "listed_count": 4,
+          "media_count": 249,
+          "tweet_count": 4097
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1899710890578186275",
+    "created_at": "2025-03-12T07:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T08:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899717563363574100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1467368317258248192",
+          "start": 0,
+          "username": "loolzaozmin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899717563363574100",
+    "in_reply_to_user_id": "1467368317258248192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899714618060415155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loolzaozmin 这个监管是苹果遵守各国政府法律的文件，不是你是否被监管，苹果即使对中国政府妥协来监视用户，也不会让你看出来的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1899710890578186275",
+        "created_at": "2025-03-12T07:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T08:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899717563363574100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1467368317258248192",
+              "start": 0,
+              "username": "loolzaozmin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899717563363574100",
+        "in_reply_to_user_id": "1467368317258248192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899714618060415155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loolzaozmin 这个监管是苹果遵守各国政府法律的文件，不是你是否被监管，苹果即使对中国政府妥协来监视用户，也不会让你看出来的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467368317258248192",
+        "conversation_id": "1899710890578186275",
+        "created_at": "2025-03-12T06:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T07:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899714618060415155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899714618060415155",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899714069554143513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 什么意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 159,
+          "like_count": 300,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 908
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "我是藻｜撒旦之子｜它/ta｜非二元性别",
+        "id": "1467368317258248192",
+        "name": "小藻",
+        "pinned_tweet_id": "1845795124061823157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879431026067521536/DL95lh-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12312,
+          "following_count": 197,
+          "like_count": 600,
+          "listed_count": 17,
+          "media_count": 114,
+          "tweet_count": 479
+        },
+        "username": "loolzaozmin",
+        "verified": false
+      }
+    ]
+  }
+}

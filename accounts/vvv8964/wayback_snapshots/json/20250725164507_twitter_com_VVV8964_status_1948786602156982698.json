@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1948786602156982698",
+    "created_at": "2025-07-25T16:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T17:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948786602156982698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/M4cron1te/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/M4cron1te/status/1948611021180207552",
+          "start": 11,
+          "url": "https://t.co/9H7CyQWgus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948786602156982698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948611021180207552",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎我们欧洲真是没落了 https://t.co/9H7CyQWgus"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_1948611018613043200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrbZbHXsAA0mtm.jpg",
+        "width": 689
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1948786602156982698",
+        "created_at": "2025-07-25T16:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T17:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948786602156982698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/M4cron1te/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/M4cron1te/status/1948611021180207552",
+              "start": 11,
+              "url": "https://t.co/9H7CyQWgus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948786602156982698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948611021180207552",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎我们欧洲真是没落了 https://t.co/9H7CyQWgus"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948611018613043200"
+          ]
+        },
+        "author_id": "1827377479998148608",
+        "conversation_id": "1948611021180207552",
+        "created_at": "2025-07-25T05:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T06:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948611021180207552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZDBykPaZD",
+              "end": 46,
+              "expanded_url": "https://x.com/M4cron1te/status/1948611021180207552/photo/1",
+              "media_key": "3_1948611018613043200",
+              "start": 23,
+              "url": "https://t.co/OZDBykPaZD"
+            },
+            {
+              "display_url": "x.com/escapefrommelo…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/escapefrommelos/status/1948470999164268743",
+              "start": 47,
+              "url": "https://t.co/bxwAWuUnkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948611021180207552",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 832,
+          "impression_count": 154388,
+          "like_count": 7158,
+          "quote_count": 19,
+          "reply_count": 27,
+          "retweet_count": 300
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948470999164268743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "They're doing the meme https://t.co/OZDBykPaZD https://t.co/bxwAWuUnkz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 290,
+          "like_count": 1664,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 2510
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T16:08:59.000Z",
+        "description": "17|EU-State affiliated media|Francophile|Priv: @Macarthurpriv|if you're over 190 hit me up",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 47,
+                "username": "Macarthurpriv"
+              }
+            ]
+          }
+        },
+        "id": "1827377479998148608",
+        "location": "Brussels, Belgium",
+        "name": "Punished Goontherite🇪🇺🇭🇺🇺🇦🇹🇭",
+        "pinned_tweet_id": "1916821095727993108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939582604186976256/8S4y-X_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 779,
+          "like_count": 80310,
+          "listed_count": 5,
+          "media_count": 836,
+          "tweet_count": 8357
+        },
+        "username": "M4cron1te",
+        "verified": false
+      }
+    ]
+  }
+}

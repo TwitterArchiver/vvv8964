@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943956311311610000",
+    "created_at": "2025-07-12T08:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T09:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943956311311610000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shitpost_2049/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/shitpost_2049/status/1943874402384293986",
+          "start": 9,
+          "url": "https://t.co/sXfaeTHoCd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943956311311610000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943874402384293986",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就要扶他就要扶他 https://t.co/sXfaeTHoCd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20833,
+        "height": 604,
+        "media_key": "13_1943874337825599488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1943874337825599488/img/OGusIrHFSarCgy2J.jpg",
+        "public_metrics": {
+          "view_count": 50642
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943874337825599488/vid/avc1/320x334/HG_JJHlT8J1vQBR3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943874337825599488/vid/avc1/480x502/_IykZPkktPE2WZLG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943874337825599488/vid/avc1/576x604/N6uu59ay7vvPE3Un.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1943874337825599488/pl/VOWKo5jJkflS6mZf.m3u8?tag=14&v=cbc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943956311311610000",
+        "created_at": "2025-07-12T08:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T09:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943956311311610000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shitpost_2049/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/shitpost_2049/status/1943874402384293986",
+              "start": 9,
+              "url": "https://t.co/sXfaeTHoCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943956311311610000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943874402384293986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就要扶他就要扶他 https://t.co/sXfaeTHoCd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1943874337825599488"
+          ]
+        },
+        "author_id": "1757461351629303808",
+        "conversation_id": "1943874402384293986",
+        "created_at": "2025-07-12T03:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T04:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943874402384293986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXRYaRpd9q",
+              "end": 23,
+              "expanded_url": "https://x.com/shitpost_2049/status/1943874402384293986/video/1",
+              "media_key": "13_1943874337825599488",
+              "start": 0,
+              "url": "https://t.co/JXRYaRpd9q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943874402384293986",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 604,
+          "impression_count": 121518,
+          "like_count": 2263,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JXRYaRpd9q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 281,
+          "like_count": 1407,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 2295
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T17:47:09.000Z",
+        "description": "shitpost post until 2049",
+        "id": "1757461351629303808",
+        "location": "Dm for credit or removal ",
+        "name": "Shitpost 2049",
+        "pinned_tweet_id": "1943451023437115833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804319750282940416/J_TYwmyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184592,
+          "following_count": 49,
+          "like_count": 5897,
+          "listed_count": 183,
+          "media_count": 2428,
+          "tweet_count": 2965
+        },
+        "username": "shitpost_2049",
+        "verified": true
+      }
+    ]
+  }
+}

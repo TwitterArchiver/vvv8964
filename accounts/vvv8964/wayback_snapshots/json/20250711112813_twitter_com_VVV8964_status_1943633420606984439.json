@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943573123296579623",
+    "created_at": "2025-07-11T11:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T12:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943633420606984439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1922656344731172864",
+          "start": 0,
+          "username": "dngshn330507"
+        },
+        {
+          "end": 24,
+          "id": "1659962043460354050",
+          "start": 14,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943633420606984439",
+    "in_reply_to_user_id": "1922656344731172864",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943585655059361844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dngshn330507 @SalviaSWC 1000😱😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943573123296579623",
+        "created_at": "2025-07-11T11:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T12:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943633420606984439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1922656344731172864",
+              "start": 0,
+              "username": "dngshn330507"
+            },
+            {
+              "end": 24,
+              "id": "1659962043460354050",
+              "start": 14,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943633420606984439",
+        "in_reply_to_user_id": "1922656344731172864",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943585655059361844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dngshn330507 @SalviaSWC 1000😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922656344731172864",
+        "conversation_id": "1943573123296579623",
+        "created_at": "2025-07-11T08:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T09:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943585655059361844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943585655059361844",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943573123296579623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 我试过1000ug 个人认为没那么恐怖并且是good trip 但是提醒新手千万不要上来就大剂量。最重要的是环境和氛围，千万不要在有事情的时候使用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 274,
+          "like_count": 1334,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 2239
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T14:13:03.000Z",
+        "description": "",
+        "id": "1922656344731172864",
+        "name": "Dizzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942548843771432960/HwBjWL4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 26,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 40
+        },
+        "username": "dngshn330507",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 253,
+          "like_count": 4002,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1444
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

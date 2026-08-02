@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1861523714321314020",
+    "created_at": "2024-11-27T03:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T04:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861620440290205888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826961681886355456",
+          "start": 0,
+          "username": "luotutu111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861620440290205888",
+    "in_reply_to_user_id": "1826961681886355456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861523714321314020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luotutu111 人称地铁革命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1861523714321314020",
+        "created_at": "2024-11-27T03:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T04:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861620440290205888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826961681886355456",
+              "start": 0,
+              "username": "luotutu111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861620440290205888",
+        "in_reply_to_user_id": "1826961681886355456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861523714321314020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luotutu111 人称地铁革命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826961681886355456",
+        "conversation_id": "1861523714321314020",
+        "created_at": "2024-11-26T21:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T22:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861523714321314020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1861352322867368325",
+              "start": 10,
+              "url": "https://t.co/dPvGIzt6r4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861523714321314020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861352322867368325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真是傻逼李颖没活了 https://t.co/dPvGIzt6r4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  \n推特有时候莫名其妙收不到消息我会尽量回复回关  \n不OD 正常用药  正在解锁致幻剂  \n大脑损伤逆转中   \n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1861216042522931472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 106,
+          "like_count": 117,
+          "listed_count": 0,
+          "tweet_count": 372
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T12:36:56.000Z",
+        "description": "暂驻蒙特利尔，中国人\n\ntemporary in Montreal,Chinese\n\ntemporaire en Montréal,Chinoise",
+        "id": "1826961681886355456",
+        "location": "Canada",
+        "name": "444xibiwx",
+        "pinned_tweet_id": "1846719580258832681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826962492183965696/Hn0zcCCg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 1049,
+          "like_count": 14935,
+          "listed_count": 0,
+          "tweet_count": 4506
+        },
+        "username": "luotutu111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1960515932729872650",
+    "created_at": "2025-08-27T07:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T08:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960604193858986233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "972145472495210496",
+          "start": 0,
+          "username": "Bill8910XJP8964"
+        },
+        {
+          "end": 32,
+          "id": "1903099585129816064",
+          "start": 17,
+          "username": "tokerumaisurii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960604193858986233",
+    "in_reply_to_user_id": "972145472495210496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960520881597239403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bill8910XJP8964 @tokerumaisurii 我怎么40刀就可以了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1960515932729872650",
+        "created_at": "2025-08-27T07:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T08:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960604193858986233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "972145472495210496",
+              "start": 0,
+              "username": "Bill8910XJP8964"
+            },
+            {
+              "end": 32,
+              "id": "1903099585129816064",
+              "start": 17,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960604193858986233",
+        "in_reply_to_user_id": "972145472495210496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960520881597239403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bill8910XJP8964 @tokerumaisurii 我怎么40刀就可以了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "972145472495210496",
+        "conversation_id": "1960515932729872650",
+        "created_at": "2025-08-27T01:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T02:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960520881597239403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960520881597239403",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960515932729872650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 附近有沃尔玛可以试试开个会员免运费，网上选要买的东西集齐100刀直接送货上门"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 331,
+          "like_count": 2652,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 3541
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-09T16:21:57.000Z",
+        "description": "",
+        "id": "972145472495210496",
+        "name": "Bill",
+        "pinned_tweet_id": "1017675231702454272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1072868824217640961/ErX8chQq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 604,
+          "like_count": 140523,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 5355
+        },
+        "username": "Bill8910XJP8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 我主人呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 199,
+          "like_count": 40014,
+          "listed_count": 7,
+          "media_count": 560,
+          "tweet_count": 7371
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

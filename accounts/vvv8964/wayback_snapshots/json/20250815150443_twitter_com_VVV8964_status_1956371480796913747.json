@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1956371480796913747",
+    "created_at": "2025-08-15T15:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T16:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956371480796913747"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "MDMA",
+          "probability": 0.6317,
+          "start": 27,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1898225989714432000",
+          "start": 3,
+          "username": "Mycelium_Daddy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956371480796913747",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956047644415107443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mycelium_Daddy: I wish MDMA grew on trees"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1956371480796913747",
+        "created_at": "2025-08-15T15:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T16:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956371480796913747"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "MDMA",
+              "probability": 0.6317,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1898225989714432000",
+              "start": 3,
+              "username": "Mycelium_Daddy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956371480796913747",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956047644415107443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mycelium_Daddy: I wish MDMA grew on trees"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898225989714432000",
+        "conversation_id": "1956047644415107443",
+        "created_at": "2025-08-14T17:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T18:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956047644415107443"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "MDMA",
+              "probability": 0.6317,
+              "start": 7,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956047644415107443",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2084,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "I wish MDMA grew on trees"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 319,
+          "like_count": 2318,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 3099
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T04:15:36.000Z",
+        "description": "Colorado Mycologist | Black Swan Farms 🧬 | Mycology Research and Development | NFS | 𓍊𓋼𓍊𓋼𓍊",
+        "id": "1898225989714432000",
+        "location": "Denver, CO",
+        "name": "Bomp 🎰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899136725118857217/qRH1nFhN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 100,
+          "like_count": 9086,
+          "listed_count": 4,
+          "media_count": 451,
+          "tweet_count": 2972
+        },
+        "username": "Mycelium_Daddy",
+        "verified": true
+      }
+    ]
+  }
+}

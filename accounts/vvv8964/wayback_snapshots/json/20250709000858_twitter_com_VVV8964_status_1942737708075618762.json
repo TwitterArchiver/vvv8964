@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1942612718919508078",
+    "created_at": "2025-07-09T00:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T01:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942737708075618762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1768328423498276864",
+          "start": 0,
+          "username": "aociig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942737708075618762",
+    "in_reply_to_user_id": "1768328423498276864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942612718919508078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aociig 精湛细腻的工笔画"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942612701374734337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvWL9aGaYAEHfl9.jpg",
+        "width": 1500
+      },
+      {
+        "height": 752,
+        "media_key": "3_1942612701575835648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvWL9a2W8AA06Q_.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1942612718919508078",
+        "created_at": "2025-07-09T00:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T01:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942737708075618762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1768328423498276864",
+              "start": 0,
+              "username": "aociig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942737708075618762",
+        "in_reply_to_user_id": "1768328423498276864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942612718919508078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aociig 精湛细腻的工笔画"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942612701374734337",
+            "3_1942612701575835648"
+          ]
+        },
+        "author_id": "1768328423498276864",
+        "conversation_id": "1942612718919508078",
+        "created_at": "2025-07-08T15:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T16:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942612718919508078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OhiXmCfVir",
+              "end": 26,
+              "expanded_url": "https://x.com/aociig/status/1942612718919508078/photo/1",
+              "media_key": "3_1942612701374734337",
+              "start": 3,
+              "url": "https://t.co/OhiXmCfVir"
+            },
+            {
+              "display_url": "pic.x.com/OhiXmCfVir",
+              "end": 26,
+              "expanded_url": "https://x.com/aociig/status/1942612718919508078/photo/1",
+              "media_key": "3_1942612701575835648",
+              "start": 3,
+              "url": "https://t.co/OhiXmCfVir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942612718919508078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "写。 https://t.co/OhiXmCfVir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 273,
+          "like_count": 1237,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 2164
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T17:29:17.000Z",
+        "description": "葵(あおい)|中国 17|病み垢|愚痴|リスカ|簡単の日本語◎English and Chinese◎ DM◎|FF大歓迎 無言フォロー◎",
+        "id": "1768328423498276864",
+        "location": "明日、死にますように",
+        "name": "寝言犬",
+        "pinned_tweet_id": "1929355587961196841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924750203141173248/3i-cqu6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 383,
+          "like_count": 6861,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 8135
+        },
+        "username": "aociig",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1939475359822684467",
+    "created_at": "2025-06-30T00:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T01:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939475361072591088"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1939475361072591088",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 21,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939475359822684467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在中国高中被学校残酷压迫，丧失了很多兴趣爱好，导致我随便看点课外书都津津有味。但是加拿大高中生才不看什么课外书，他们只想玩手机。\n我在中国特别想吃蘑菇，等我在加拿大了，蘑菇坐个车就能买到，我倒不想吃了。\n我之前特别想抽大麻但是买不到，我现在抽过了，但是我大麻店都没进去过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1939475359822684467",
+        "created_at": "2025-06-30T00:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T01:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939475361072591088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939475361072591088",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939475359822684467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在中国高中被学校残酷压迫，丧失了很多兴趣爱好，导致我随便看点课外书都津津有味。但是加拿大高中生才不看什么课外书，他们只想玩手机。\n我在中国特别想吃蘑菇，等我在加拿大了，蘑菇坐个车就能买到，我倒不想吃了。\n我之前特别想抽大麻但是买不到，我现在抽过了，但是我大麻店都没进去过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1939475359822684467",
+        "created_at": "2025-06-30T00:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T01:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939475359822684467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939475359822684467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "选择权有时比选择本身更加重要\n我很喜欢逛超市，不一定要买什么东西，单单是漫无目的地走来走去就让人心满意足\n温哥华好玩的很多，但我也没玩多少，我经常错过一些很有节目效果的集会之类的活动，但我目前不觉得遗憾，最多有点可惜。但是说不定等我到了冰天雪地的阿尔伯塔，我就怀念温哥华起来了(1/n)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 261,
+          "like_count": 1023,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 2001
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1979339270797299855",
+    "created_at": "2025-10-18T00:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T01:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979339270797299855"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1979318814002274429",
+          "start": 27,
+          "url": "https://t.co/bWxjLSDYW2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979339270797299855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979318814002274429",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "李颖怎么这么无聊的都开始发了，是不是要史称发霉革命了 https://t.co/bWxjLSDYW2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_1979317732714692608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3fy_bQXQAAlG1_.jpg",
+        "width": 517
+      },
+      {
+        "height": 1099,
+        "media_key": "3_1979317749244403712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3fzAY1WoAAXn2h.jpg",
+        "width": 525
+      },
+      {
+        "height": 496,
+        "media_key": "3_1979317755024130048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3fzAuXWQAAXmpQ.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1979339270797299855",
+        "created_at": "2025-10-18T00:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T01:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979339270797299855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1979318814002274429",
+              "start": 27,
+              "url": "https://t.co/bWxjLSDYW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979339270797299855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979318814002274429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "李颖怎么这么无聊的都开始发了，是不是要史称发霉革命了 https://t.co/bWxjLSDYW2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979317732714692608",
+            "3_1979317749244403712",
+            "3_1979317755024130048"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1979318814002274429",
+        "created_at": "2025-10-17T22:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T23:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979318814002274429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mrOVHYfIEH",
+              "end": 66,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1979318814002274429/photo/1",
+              "media_key": "3_1979317732714692608",
+              "start": 43,
+              "url": "https://t.co/mrOVHYfIEH"
+            },
+            {
+              "display_url": "pic.x.com/mrOVHYfIEH",
+              "end": 66,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1979318814002274429/photo/1",
+              "media_key": "3_1979317749244403712",
+              "start": 43,
+              "url": "https://t.co/mrOVHYfIEH"
+            },
+            {
+              "display_url": "pic.x.com/mrOVHYfIEH",
+              "end": 66,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1979318814002274429/photo/1",
+              "media_key": "3_1979317755024130048",
+              "start": 43,
+              "url": "https://t.co/mrOVHYfIEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979318814002274429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 34648,
+          "like_count": 184,
+          "quote_count": 1,
+          "reply_count": 50,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "近日，有一网友称自己将购买的枸杞用AI工具P成发霉的样子，上传照片后成功“仅退款”。 https://t.co/mrOVHYfIEH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 340,
+          "like_count": 3596,
+          "listed_count": 7,
+          "media_count": 338,
+          "tweet_count": 4791
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1966463459425497352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2124049,
+          "following_count": 983,
+          "like_count": 8267,
+          "listed_count": 8370,
+          "media_count": 36244,
+          "tweet_count": 43073
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

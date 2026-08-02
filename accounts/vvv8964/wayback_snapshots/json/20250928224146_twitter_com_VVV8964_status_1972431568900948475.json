@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1972431568900948475",
+    "created_at": "2025-09-28T22:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T23:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972431568900948475"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1972431568900948475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哪怕连续用了两周 vyvanse依旧给我惊喜 \ncomeup的时候真的嗨到不行了 给人一种clubdrug的感觉 但是真要去club没人会吃缓释的vyvanse 肯定都是阿德拉或者冰 \n我其实可以向医生要缓释的阿德拉然后想办法拆开来咬碎了当速释的吃 但是我不是很想 感觉没必要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1972431568900948475",
+        "created_at": "2025-09-28T22:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T23:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972431568900948475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972431568900948475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪怕连续用了两周 vyvanse依旧给我惊喜 \ncomeup的时候真的嗨到不行了 给人一种clubdrug的感觉 但是真要去club没人会吃缓释的vyvanse 肯定都是阿德拉或者冰 \n我其实可以向医生要缓释的阿德拉然后想办法拆开来咬碎了当速释的吃 但是我不是很想 感觉没必要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 336,
+          "like_count": 3254,
+          "listed_count": 5,
+          "media_count": 278,
+          "tweet_count": 4394
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

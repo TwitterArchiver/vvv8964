@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977152137214787584"
+      ],
+      "media_source_tweet_id": [
+        "1977152650585022793"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1977647581867196713",
+    "created_at": "2025-10-13T08:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T09:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977647581867196713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1056989027981762561",
+          "start": 3,
+          "username": "8tsuki_yume"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N125v267Mp",
+          "end": 40,
+          "expanded_url": "https://x.com/8tsuki_yume/status/1977152650585022793/photo/1",
+          "media_key": "3_1977152137214787584",
+          "start": 17,
+          "url": "https://t.co/N125v267Mp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977647581867196713",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977152650585022793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8tsuki_yume: https://t.co/N125v267Mp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1075,
+        "media_key": "3_1977152137214787584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3BBZLWXgAAJM96.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977152137214787584"
+          ],
+          "media_source_tweet_id": [
+            "1977152650585022793"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1977647581867196713",
+        "created_at": "2025-10-13T08:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T09:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977647581867196713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1056989027981762561",
+              "start": 3,
+              "username": "8tsuki_yume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N125v267Mp",
+              "end": 40,
+              "expanded_url": "https://x.com/8tsuki_yume/status/1977152650585022793/photo/1",
+              "media_key": "3_1977152137214787584",
+              "start": 17,
+              "url": "https://t.co/N125v267Mp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977647581867196713",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977152650585022793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8tsuki_yume: https://t.co/N125v267Mp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977152137214787584"
+          ]
+        },
+        "author_id": "1056989027981762561",
+        "conversation_id": "1977152650585022793",
+        "created_at": "2025-10-11T23:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T00:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977152650585022793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N125v267Mp",
+              "end": 23,
+              "expanded_url": "https://x.com/8tsuki_yume/status/1977152650585022793/photo/1",
+              "media_key": "3_1977152137214787584",
+              "start": 0,
+              "url": "https://t.co/N125v267Mp"
+            },
+            {
+              "display_url": "x.com/mrphillipchan/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/mrphillipchan/status/1976006553049366943",
+              "start": 24,
+              "url": "https://t.co/hIeRtNE3WL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977152650585022793",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 10806,
+          "like_count": 738,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976006553049366943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/N125v267Mp https://t.co/hIeRtNE3WL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 335,
+          "like_count": 3498,
+          "listed_count": 6,
+          "media_count": 322,
+          "tweet_count": 4680
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-29T19:19:56.000Z",
+        "description": "🇻🇦 | Artist | Cutepost Dispenser | Check Pinned for indieslop\n\n (Coal) Art account: @yume_tsuki8\nPersonal Dicsord server: https://t.co/sX9FGkAmJO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 84,
+                "username": "yume_tsuki8"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/ZW4JgVPnKw",
+                "end": 145,
+                "expanded_url": "https://discord.gg/ZW4JgVPnKw",
+                "start": 122,
+                "url": "https://t.co/sX9FGkAmJO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicecrew.digital/@YumeTsuki",
+                "end": 23,
+                "expanded_url": "https://nicecrew.digital/@YumeTsuki",
+                "start": 0,
+                "url": "https://t.co/1wzWH6v2yd"
+              }
+            ]
+          }
+        },
+        "id": "1056989027981762561",
+        "location": "Hell, Norway",
+        "name": "Nick Fuentes deported to Transylvania groyper",
+        "pinned_tweet_id": "1964860244183666801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974656057554137088/OlficCd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 264,
+          "like_count": 325194,
+          "listed_count": 14,
+          "media_count": 1575,
+          "tweet_count": 34066
+        },
+        "url": "https://t.co/1wzWH6v2yd",
+        "username": "8tsuki_yume",
+        "verified": false
+      }
+    ]
+  }
+}

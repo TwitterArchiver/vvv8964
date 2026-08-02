@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1977567961419493376"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1977558784856961532",
+    "created_at": "2025-10-13T02:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T03:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977567967329292523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1868121512710201344",
+          "start": 0,
+          "username": "Isacc0219"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AQwoJMbVn9",
+          "end": 34,
+          "expanded_url": "https://x.com/VVV8964/status/1977567967329292523/photo/1",
+          "media_key": "16_1977567961419493376",
+          "start": 11,
+          "url": "https://t.co/AQwoJMbVn9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977567967329292523",
+    "in_reply_to_user_id": "1868121512710201344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977558784856961532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Isacc0219 https://t.co/AQwoJMbVn9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 164,
+        "media_key": "16_1977567961419493376",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G3G7lVOaMAABxpP.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G3G7lVOaMAABxpP.mp4"
+          }
+        ],
+        "width": 164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1977567961419493376"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1977558784856961532",
+        "created_at": "2025-10-13T02:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T03:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977567967329292523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1868121512710201344",
+              "start": 0,
+              "username": "Isacc0219"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQwoJMbVn9",
+              "end": 34,
+              "expanded_url": "https://x.com/VVV8964/status/1977567967329292523/photo/1",
+              "media_key": "16_1977567961419493376",
+              "start": 11,
+              "url": "https://t.co/AQwoJMbVn9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977567967329292523",
+        "in_reply_to_user_id": "1868121512710201344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977558784856961532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isacc0219 https://t.co/AQwoJMbVn9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868121512710201344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1977558784856961532",
+        "created_at": "2025-10-13T02:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T03:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977558784856961532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977558784856961532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人什么时候能少精神cosplay雅利安人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 335,
+          "like_count": 3493,
+          "listed_count": 6,
+          "media_count": 321,
+          "tweet_count": 4674
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "description": "戒毒中，，，少话。专心和米老鼠和男女人互爱中，所有照片经过米老鼠神奇妙妙和男女人社评，可以在波士顿的和我一起魔怔但是我是ylg吧，给老资历磕头了！查成分互关，我一直在说话（背景图摄自那个谁）",
+        "id": "1868121512710201344",
+        "location": "United States",
+        "name": "isac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 67,
+          "like_count": 2194,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1310
+        },
+        "username": "Isacc0219",
+        "verified": false
+      }
+    ]
+  }
+}

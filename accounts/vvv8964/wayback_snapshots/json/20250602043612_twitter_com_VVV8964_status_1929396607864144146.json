@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1929396607864144146",
+    "created_at": "2025-06-02T04:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T05:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929396607864144146"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 5,
+          "normalized_text": "Autism",
+          "probability": 0.7506,
+          "start": 0,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/louiemustdie_/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/louiemustdie_/status/1929188812900442252",
+          "start": 19,
+          "url": "https://t.co/IDFAhnP2ay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929396607864144146",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929188812900442252",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Autism at its peak https://t.co/IDFAhnP2ay"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 408,
+        "media_key": "3_1929188809981276160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsXbAFuXsAAaqUn.jpg",
+        "width": 680
+      },
+      {
+        "height": 452,
+        "media_key": "3_1929188809930940416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsXbAFiXoAAfMZF.jpg",
+        "width": 679
+      },
+      {
+        "height": 429,
+        "media_key": "3_1929188810090270720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsXbAGIW0AA_xRU.jpg",
+        "width": 715
+      },
+      {
+        "height": 415,
+        "media_key": "3_1929188811075923970",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsXbAJzWsAIrDNN.jpg",
+        "width": 739
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1929396607864144146",
+        "created_at": "2025-06-02T04:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T05:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929396607864144146"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Autism",
+              "probability": 0.7506,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/louiemustdie_/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/louiemustdie_/status/1929188812900442252",
+              "start": 19,
+              "url": "https://t.co/IDFAhnP2ay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929396607864144146",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929188812900442252",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Autism at its peak https://t.co/IDFAhnP2ay"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929188809981276160",
+            "3_1929188809930940416",
+            "3_1929188810090270720",
+            "3_1929188811075923970"
+          ]
+        },
+        "author_id": "1754371421382336512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1929188812900442252",
+        "created_at": "2025-06-01T14:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T15:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929188812900442252"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "DINOSSAURO",
+              "probability": 0.3516,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jxmapqpI55",
+              "end": 64,
+              "expanded_url": "https://x.com/louiemustdie_/status/1929188812900442252/photo/1",
+              "media_key": "3_1929188809981276160",
+              "start": 41,
+              "url": "https://t.co/jxmapqpI55"
+            },
+            {
+              "display_url": "pic.x.com/jxmapqpI55",
+              "end": 64,
+              "expanded_url": "https://x.com/louiemustdie_/status/1929188812900442252/photo/1",
+              "media_key": "3_1929188809930940416",
+              "start": 41,
+              "url": "https://t.co/jxmapqpI55"
+            },
+            {
+              "display_url": "pic.x.com/jxmapqpI55",
+              "end": 64,
+              "expanded_url": "https://x.com/louiemustdie_/status/1929188812900442252/photo/1",
+              "media_key": "3_1929188810090270720",
+              "start": 41,
+              "url": "https://t.co/jxmapqpI55"
+            },
+            {
+              "display_url": "pic.x.com/jxmapqpI55",
+              "end": 64,
+              "expanded_url": "https://x.com/louiemustdie_/status/1929188812900442252/photo/1",
+              "media_key": "3_1929188811075923970",
+              "start": 41,
+              "url": "https://t.co/jxmapqpI55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929188812900442252",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4307,
+          "impression_count": 963463,
+          "like_count": 60196,
+          "quote_count": 516,
+          "reply_count": 256,
+          "retweet_count": 13466
+        },
+        "reply_settings": "everyone",
+        "text": "FELIZ MÊS LGBT E FELIZ DIA DO DINOSSAURO https://t.co/jxmapqpI55"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 242,
+          "like_count": 725,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1645
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T05:09:03.000Z",
+        "description": "faço live no site roxo 🤟 | amo 👉 @liloverses 💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "liloverses"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/lolouiegaming",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/lolouiegaming",
+                "start": 0,
+                "url": "https://t.co/3BjxLYYeD3"
+              }
+            ]
+          }
+        },
+        "id": "1754371421382336512",
+        "location": "ela/dela",
+        "name": "loló farofa",
+        "pinned_tweet_id": "1921965351786381783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911773421081395201/y_IGA3_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7624,
+          "following_count": 705,
+          "like_count": 8830,
+          "listed_count": 8,
+          "media_count": 889,
+          "tweet_count": 18723
+        },
+        "url": "https://t.co/3BjxLYYeD3",
+        "username": "louiemustdie_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1932421182047109387",
+    "created_at": "2025-06-10T22:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T23:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932567216186401085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796084888241860608",
+          "start": 0,
+          "username": "chiyoko4o4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932567216186401085",
+    "in_reply_to_user_id": "1796084888241860608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932421182047109387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiyoko4o4 给老资历跪了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 555,
+        "media_key": "3_1932421179828252672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFW0xwasAAaEtX.jpg",
+        "width": 949
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1932421182047109387",
+        "created_at": "2025-06-10T22:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T23:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932567216186401085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796084888241860608",
+              "start": 0,
+              "username": "chiyoko4o4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932567216186401085",
+        "in_reply_to_user_id": "1796084888241860608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932421182047109387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiyoko4o4 给老资历跪了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932421179828252672"
+          ]
+        },
+        "author_id": "1796084888241860608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1932421182047109387",
+        "created_at": "2025-06-10T12:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T13:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932421182047109387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v4p0RRTTii",
+              "end": 35,
+              "expanded_url": "https://x.com/chiyoko4o4/status/1932421182047109387/photo/1",
+              "media_key": "3_1932421179828252672",
+              "start": 12,
+              "url": "https://t.co/v4p0RRTTii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932421182047109387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“你才当几天汉奸？！” https://t.co/v4p0RRTTii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 245,
+          "like_count": 813,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 1765
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T07:43:13.000Z",
+        "description": "@Grok what is this about?\n@Grok is this true?",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "Grok"
+              },
+              {
+                "end": 31,
+                "start": 26,
+                "username": "Grok"
+              }
+            ]
+          }
+        },
+        "id": "1796084888241860608",
+        "name": "ちょちょ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848693364042141696/dyFUl7La_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 4399,
+          "like_count": 8278,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 32
+        },
+        "username": "chiyoko4o4",
+        "verified": false
+      }
+    ]
+  }
+}

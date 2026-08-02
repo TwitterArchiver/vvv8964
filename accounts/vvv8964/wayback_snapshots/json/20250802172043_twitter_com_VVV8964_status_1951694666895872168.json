@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1951511983720923269",
+    "created_at": "2025-08-02T17:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T18:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951694666895872168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1819944260239851520",
+          "start": 0,
+          "username": "Alice14_88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951694666895872168",
+    "in_reply_to_user_id": "1819944260239851520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951511983720923269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alice14_88 野蛮，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1951511983720923269",
+        "created_at": "2025-08-02T17:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T18:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951694666895872168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1819944260239851520",
+              "start": 0,
+              "username": "Alice14_88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951694666895872168",
+        "in_reply_to_user_id": "1819944260239851520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951511983720923269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice14_88 野蛮，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819944260239851520",
+        "conversation_id": "1951511983720923269",
+        "created_at": "2025-08-02T05:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T06:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951511983720923269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951511983720923269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2128,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "野蛮人比文明人更高贵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 302,
+          "like_count": 1931,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 2722
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T03:51:46.000Z",
+        "description": "以文明为耻",
+        "id": "1819944260239851520",
+        "location": "Lifelover",
+        "name": "⸸𝔄𝔩𝔦𝔠𝔢⸸",
+        "pinned_tweet_id": "1893208949001789801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951387707671977989/fEjVB8L1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 2607,
+          "like_count": 37612,
+          "listed_count": 7,
+          "media_count": 1235,
+          "tweet_count": 15637
+        },
+        "username": "Alice14_88",
+        "verified": false
+      }
+    ]
+  }
+}

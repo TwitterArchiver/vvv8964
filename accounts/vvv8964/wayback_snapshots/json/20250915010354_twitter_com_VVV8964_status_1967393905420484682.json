@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967393902652174336"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1967393905420484682",
+    "created_at": "2025-09-15T01:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T02:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967393905420484682"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8qnA4biUGw",
+          "end": 100,
+          "expanded_url": "https://x.com/VVV8964/status/1967393905420484682/photo/1",
+          "media_key": "3_1967393902652174336",
+          "start": 77,
+          "url": "https://t.co/8qnA4biUGw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967393905420484682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很幸运能在加拿大  想要什么种类的大麻基本都可以搞到 虽然也不是很容易 但是跟中国比起来根本不是一个难度的\n我现在想慢慢尝试 看看什么strain适合我 https://t.co/8qnA4biUGw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967393902652174336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G02WVKzaMAAKwkX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967393902652174336"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1967393905420484682",
+        "created_at": "2025-09-15T01:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T02:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967393905420484682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8qnA4biUGw",
+              "end": 100,
+              "expanded_url": "https://x.com/VVV8964/status/1967393905420484682/photo/1",
+              "media_key": "3_1967393902652174336",
+              "start": 77,
+              "url": "https://t.co/8qnA4biUGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967393905420484682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很幸运能在加拿大  想要什么种类的大麻基本都可以搞到 虽然也不是很容易 但是跟中国比起来根本不是一个难度的\n我现在想慢慢尝试 看看什么strain适合我 https://t.co/8qnA4biUGw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 333,
+          "like_count": 3005,
+          "listed_count": 4,
+          "media_count": 249,
+          "tweet_count": 4089
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

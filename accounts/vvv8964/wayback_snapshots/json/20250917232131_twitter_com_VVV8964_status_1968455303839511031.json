@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968455300920524804"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1968455303839511031",
+    "created_at": "2025-09-17T23:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T00:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968455303839511031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3JiATj8YKt",
+          "end": 40,
+          "expanded_url": "https://x.com/VVV8964/status/1968455303839511031/photo/1",
+          "media_key": "3_1968455300920524804",
+          "start": 17,
+          "url": "https://t.co/3JiATj8YKt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968455303839511031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日挑战 抽完大麻去学校参加辩论 https://t.co/3JiATj8YKt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968455300920524804",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1FbqreaQAQvx9D.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968455300920524804"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1968455303839511031",
+        "created_at": "2025-09-17T23:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T00:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968455303839511031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3JiATj8YKt",
+              "end": 40,
+              "expanded_url": "https://x.com/VVV8964/status/1968455303839511031/photo/1",
+              "media_key": "3_1968455300920524804",
+              "start": 17,
+              "url": "https://t.co/3JiATj8YKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968455303839511031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日挑战 抽完大麻去学校参加辩论 https://t.co/3JiATj8YKt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 331,
+          "like_count": 3051,
+          "listed_count": 4,
+          "media_count": 256,
+          "tweet_count": 4157
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

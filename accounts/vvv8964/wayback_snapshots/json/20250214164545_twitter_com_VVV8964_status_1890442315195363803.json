@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1890442315195363803",
+    "created_at": "2025-02-14T16:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T17:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890442315195363803"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1890442315195363803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做梦梦到大麻电子烟突然被放到桌上了，正想着怎么重新藏起来，我妈出现了，原来是她发现我抽大麻了，后面忘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1890442315195363803",
+        "created_at": "2025-02-14T16:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T17:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890442315195363803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890442315195363803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做梦梦到大麻电子烟突然被放到桌上了，正想着怎么重新藏起来，我妈出现了，原来是她发现我抽大麻了，后面忘了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 157,
+          "like_count": 229,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 791
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

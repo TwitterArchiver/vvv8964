@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943968227245404658",
+    "created_at": "2025-07-12T13:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T14:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944031775174406576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901299981518286848",
+          "start": 0,
+          "username": "kami18181818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944031775174406576",
+    "in_reply_to_user_id": "1901299981518286848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943968227245404658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kami18181818 怎么还有zyn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1587,
+        "media_key": "3_1943968210551795712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvpcybSXcAAUMCo.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943968227245404658",
+        "created_at": "2025-07-12T13:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T14:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944031775174406576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901299981518286848",
+              "start": 0,
+              "username": "kami18181818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944031775174406576",
+        "in_reply_to_user_id": "1901299981518286848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943968227245404658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami18181818 怎么还有zyn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943968210551795712"
+          ]
+        },
+        "author_id": "1901299981518286848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1943968227245404658",
+        "created_at": "2025-07-12T09:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T10:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943968227245404658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oCKnSpjmG",
+              "end": 61,
+              "expanded_url": "https://x.com/kami18181818/status/1943968227245404658/photo/1",
+              "media_key": "3_1943968210551795712",
+              "start": 38,
+              "url": "https://t.co/8oCKnSpjmG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943968227245404658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上午抽了1.5gkookiez\n现在+50mg大麻布朗尼\n绿茶味和奶茶味的 https://t.co/8oCKnSpjmG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 281,
+          "like_count": 1408,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2296
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T15:50:27.000Z",
+        "description": "",
+        "id": "1901299981518286848",
+        "name": "kami",
+        "pinned_tweet_id": "1943247985607090250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909312547976888320/uoGqMJXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 149,
+          "like_count": 1674,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 122
+        },
+        "username": "kami18181818",
+        "verified": false
+      }
+    ]
+  }
+}

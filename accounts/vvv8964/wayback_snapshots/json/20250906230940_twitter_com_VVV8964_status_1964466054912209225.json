@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964466052148121600",
+        "3_1964466052215312385"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1964466054912209225",
+    "created_at": "2025-09-06T23:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T00:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964466054912209225"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 4,
+          "normalized_text": "dubai",
+          "probability": 0.6239,
+          "start": 0,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2DUqQYIRB3",
+          "end": 39,
+          "expanded_url": "https://x.com/VVV8964/status/1964466054912209225/photo/1",
+          "media_key": "3_1964466052148121600",
+          "start": 16,
+          "url": "https://t.co/2DUqQYIRB3"
+        },
+        {
+          "display_url": "pic.x.com/2DUqQYIRB3",
+          "end": 39,
+          "expanded_url": "https://x.com/VVV8964/status/1964466054912209225/photo/1",
+          "media_key": "3_1964466052215312385",
+          "start": 16,
+          "url": "https://t.co/2DUqQYIRB3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964466054912209225",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "dubai chocolate https://t.co/2DUqQYIRB3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964466052148121600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Mvd1uaUAAH2Jy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964466052215312385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Mvd1-bkAEzepN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964466052148121600",
+            "3_1964466052215312385"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1964466054912209225",
+        "created_at": "2025-09-06T23:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T00:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964466054912209225"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "dubai",
+              "probability": 0.6239,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2DUqQYIRB3",
+              "end": 39,
+              "expanded_url": "https://x.com/VVV8964/status/1964466054912209225/photo/1",
+              "media_key": "3_1964466052148121600",
+              "start": 16,
+              "url": "https://t.co/2DUqQYIRB3"
+            },
+            {
+              "display_url": "pic.x.com/2DUqQYIRB3",
+              "end": 39,
+              "expanded_url": "https://x.com/VVV8964/status/1964466054912209225/photo/1",
+              "media_key": "3_1964466052215312385",
+              "start": 16,
+              "url": "https://t.co/2DUqQYIRB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964466054912209225",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "dubai chocolate https://t.co/2DUqQYIRB3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 333,
+          "like_count": 2855,
+          "listed_count": 4,
+          "media_count": 221,
+          "tweet_count": 3860
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

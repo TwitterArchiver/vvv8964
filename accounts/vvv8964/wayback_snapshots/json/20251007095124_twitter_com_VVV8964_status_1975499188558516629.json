@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1975320137231413277",
+    "created_at": "2025-10-07T09:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T10:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975499188558516629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1707911374377213952",
+          "start": 0,
+          "username": "Rainyufanf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975499188558516629",
+    "in_reply_to_user_id": "1707911374377213952",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975488656334061947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainyufanf Metrolist"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1975320137231413277",
+        "created_at": "2025-10-07T09:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T10:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975499188558516629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1707911374377213952",
+              "start": 0,
+              "username": "Rainyufanf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975499188558516629",
+        "in_reply_to_user_id": "1707911374377213952",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975488656334061947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainyufanf Metrolist"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707911374377213952",
+        "conversation_id": "1975320137231413277",
+        "created_at": "2025-10-07T09:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T10:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975488656334061947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975488656334061947",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975320137231413277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 什么播放器，看着好舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 334,
+          "like_count": 3387,
+          "listed_count": 6,
+          "media_count": 305,
+          "tweet_count": 4588
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T00:13:26.000Z",
+        "description": "外烟，电子烟，免费收代理赚钱找我；键盘代改代组，德国进口亚克力水道板定制；原神，崩铁，三角洲，鸣潮代肝\n自用VPN：https://t.co/fqrZNUODbS\n邀请码51a4f3351c",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "congyu.moe/auth/register?…",
+                "end": 81,
+                "expanded_url": "https://congyu.moe/auth/register?invite=51a4f3351c",
+                "start": 58,
+                "url": "https://t.co/fqrZNUODbS"
+              }
+            ]
+          }
+        },
+        "id": "1707911374377213952",
+        "location": "你心里",
+        "name": "雨凡🏳‍⚧🍥",
+        "pinned_tweet_id": "1911489021806805410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848327034537394176/2ld1xMwW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 198,
+          "like_count": 4403,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 913
+        },
+        "username": "Rainyufanf",
+        "verified": false
+      }
+    ]
+  }
+}

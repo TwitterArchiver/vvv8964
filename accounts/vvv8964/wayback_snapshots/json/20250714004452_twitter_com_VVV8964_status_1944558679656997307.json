@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1944328172595757377",
+    "created_at": "2025-07-14T00:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T01:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944558679656997307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1733139095352918016",
+          "start": 0,
+          "username": "aoi4uto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944558679656997307",
+    "in_reply_to_user_id": "1733139095352918016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944328172595757377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoi4uto 我会戴耳塞吹头发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1944328172595757377",
+        "created_at": "2025-07-14T00:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T01:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944558679656997307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733139095352918016",
+              "start": 0,
+              "username": "aoi4uto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944558679656997307",
+        "in_reply_to_user_id": "1733139095352918016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944328172595757377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoi4uto 我会戴耳塞吹头发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733139095352918016",
+        "conversation_id": "1944328172595757377",
+        "created_at": "2025-07-13T09:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T10:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944328172595757377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944328172595757377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去住宿以后了解到世界上有种人嫌吹风机很吵都是用毛巾擦干的\n很像猫咪啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 282,
+          "like_count": 1473,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2327
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T14:59:03.000Z",
+        "description": "尸体拒绝了采访",
+        "id": "1733139095352918016",
+        "location": "午夜沙发电视",
+        "name": "噪点",
+        "pinned_tweet_id": "1944300202443092313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942971447841857536/eJDp5rPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 1635,
+          "like_count": 38624,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 6123
+        },
+        "username": "aoi4uto",
+        "verified": false
+      }
+    ]
+  }
+}

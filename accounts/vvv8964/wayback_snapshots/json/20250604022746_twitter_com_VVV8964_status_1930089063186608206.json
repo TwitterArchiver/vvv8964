@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1928858893100396622",
+    "created_at": "2025-06-04T02:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T03:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930089063186608206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1922656344731172864",
+          "start": 0,
+          "username": "dngshn330507"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930089063186608206",
+    "in_reply_to_user_id": "1922656344731172864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929894788461146146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dngshn330507 我没有吧，我就是怕被我房东发现，他们告诉我父母"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1928858893100396622",
+        "created_at": "2025-06-04T02:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T03:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930089063186608206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1922656344731172864",
+              "start": 0,
+              "username": "dngshn330507"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930089063186608206",
+        "in_reply_to_user_id": "1922656344731172864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929894788461146146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dngshn330507 我没有吧，我就是怕被我房东发现，他们告诉我父母"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922656344731172864",
+        "conversation_id": "1928858893100396622",
+        "created_at": "2025-06-03T13:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T14:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929894788461146146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929894788461146146",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928913293692854430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 Bro看起来你trip的时候有人群焦虑症"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 243,
+          "like_count": 750,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 1678
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T14:13:03.000Z",
+        "description": "",
+        "id": "1922656344731172864",
+        "name": "Dizzy Dee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929894993424199681/jCf4o3xB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "dngshn330507",
+        "verified": false
+      }
+    ]
+  }
+}

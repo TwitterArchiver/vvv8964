@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1955832084557390327",
+    "created_at": "2025-08-14T03:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T04:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955836722211905882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "823739846229303296",
+          "start": 0,
+          "username": "wholock1011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955836722211905882",
+    "in_reply_to_user_id": "823739846229303296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955832084557390327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wholock1011 流汗了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1955832084557390327",
+        "created_at": "2025-08-14T03:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T04:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955836722211905882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "823739846229303296",
+              "start": 0,
+              "username": "wholock1011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955836722211905882",
+        "in_reply_to_user_id": "823739846229303296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955832084557390327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wholock1011 流汗了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "823739846229303296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Vancouver",
+              "id": "861946485511823361",
+              "name": "Vancouver"
+            }
+          }
+        ],
+        "conversation_id": "1955832084557390327",
+        "created_at": "2025-08-14T03:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T04:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955832084557390327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amazingzoltan/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/amazingzoltan/status/1955491742549160007",
+              "start": 2,
+              "url": "https://t.co/RXFLcdLSno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955832084557390327",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955491742549160007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "， https://t.co/RXFLcdLSno"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 318,
+          "like_count": 2257,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 3027
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-24T03:50:58.000Z",
+        "description": "Hi, I'm Rusty.🇨🇦 INTJ/Capricorn摩羯座/Pansexual泛性恋FTX/BPD/FemDom/ Switch可s可m/点赞转推狂魔 可以去highlights媒体看我/ ntr重度爱好者/找绿奴对象中/RPN student/185cm 120kg/🚪30加币 可约可聊天~",
+        "id": "823739846229303296",
+        "location": "CAMH",
+        "name": "Rusty. V 🇨🇦🏳️‍⚧️",
+        "pinned_tweet_id": "1952638818198397149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344676520447496194/CA9B_Q7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2957,
+          "following_count": 2143,
+          "like_count": 48261,
+          "listed_count": 11,
+          "media_count": 975,
+          "tweet_count": 25267
+        },
+        "username": "wholock1011",
+        "verified": true
+      }
+    ]
+  }
+}

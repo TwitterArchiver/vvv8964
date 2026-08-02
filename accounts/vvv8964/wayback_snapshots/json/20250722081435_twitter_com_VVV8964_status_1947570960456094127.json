@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1947554762402234582",
+    "created_at": "2025-07-22T08:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T09:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947570960456094127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1868121512710201344",
+          "start": 0,
+          "username": "Isacc0219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947570960456094127",
+    "in_reply_to_user_id": "1868121512710201344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 28,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947554762402234582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Isacc0219 创嘴"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1947554762402234582].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1947554762402234582",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1947554762402234582"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947554762402234582",
+        "created_at": "2025-07-22T08:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T09:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947570960456094127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1868121512710201344",
+              "start": 0,
+              "username": "Isacc0219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947570960456094127",
+        "in_reply_to_user_id": "1868121512710201344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947554762402234582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isacc0219 创嘴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 286,
+          "like_count": 1608,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2428
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "description": "喜欢听米老鼠练琴 中/eng/español",
+        "id": "1868121512710201344",
+        "name": "isacc",
+        "pinned_tweet_id": "1924111426529989104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941117398876061696/A2dJzmVc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 43,
+          "like_count": 1317,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1165
+        },
+        "username": "Isacc0219",
+        "verified": false
+      }
+    ]
+  }
+}

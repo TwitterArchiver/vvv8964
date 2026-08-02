@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1950419918153011266",
+    "created_at": "2025-07-30T12:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T13:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950531686665798091"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1950531686665798091",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950519133239738569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "安全到家了，当时在外面真的是极端的被害妄想，我怀疑自己要精神分裂了，然后在外面坐着还会担心后面路过的人把我打晕，虽然我很清楚这些都是妄想，但是还是止不住地去想，我之前一直以为焦虑发作这种事情离我很远"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1950419918153011266",
+        "created_at": "2025-07-30T12:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T13:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950531686665798091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950531686665798091",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950519133239738569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "安全到家了，当时在外面真的是极端的被害妄想，我怀疑自己要精神分裂了，然后在外面坐着还会担心后面路过的人把我打晕，虽然我很清楚这些都是妄想，但是还是止不住地去想，我之前一直以为焦虑发作这种事情离我很远"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1950419918153011266",
+        "created_at": "2025-07-30T11:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T12:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950519133239738569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950519133239738569",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950466730448519555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "极端焦虑，可能是我有生以来最焦虑的一次，我必须要一直刷手机来控制我的大脑不要胡思乱想，让网络世界的洪流堵住我神经多样的缺口，就在现在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 299,
+          "like_count": 1857,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 2668
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1937967378291474581",
+    "created_at": "2025-06-25T22:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T23:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938004941353951725"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1938004941353951725",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937982542160007457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "效果比上次明显，可能是因为加服了酪氨酸和苯丙氨酸，这两个都是多巴胺的前体。苯丙氨酸的名字很有意思，读音跟苯丙胺一样，我现在吃的vyvanse就是利右苯丙胺。vyvanse是缓释的，药效很长，长到食欲抑制的作用挥之不去，长到根本不用担心药效太短干的事情太少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1937967378291474581",
+        "created_at": "2025-06-25T22:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T23:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938004941353951725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938004941353951725",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937982542160007457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "效果比上次明显，可能是因为加服了酪氨酸和苯丙氨酸，这两个都是多巴胺的前体。苯丙氨酸的名字很有意思，读音跟苯丙胺一样，我现在吃的vyvanse就是利右苯丙胺。vyvanse是缓释的，药效很长，长到食欲抑制的作用挥之不去，长到根本不用担心药效太短干的事情太少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1937967378291474581",
+        "created_at": "2025-06-25T21:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T22:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937982542160007457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937982542160007457",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937977366846042575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咀嚼，进食，吞咽，变得缓慢而令人不快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 250,
+          "like_count": 934,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1912
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

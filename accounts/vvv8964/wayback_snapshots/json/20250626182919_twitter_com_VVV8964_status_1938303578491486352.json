@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1937967378291474581",
+    "created_at": "2025-06-26T18:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T19:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938303578491486352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1693671300496031744",
+          "start": 0,
+          "username": "suslemonsoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938303578491486352",
+    "in_reply_to_user_id": "1693671300496031744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938237309985456433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suslemonsoda 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1937967378291474581",
+        "created_at": "2025-06-26T18:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T19:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938303578491486352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1693671300496031744",
+              "start": 0,
+              "username": "suslemonsoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938303578491486352",
+        "in_reply_to_user_id": "1693671300496031744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938237309985456433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suslemonsoda 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693671300496031744",
+        "conversation_id": "1937967378291474581",
+        "created_at": "2025-06-26T14:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T15:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938237309985456433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938237309985456433",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937967378291474581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 Tyrosine就是那种保健品罐子装的那种吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 254,
+          "like_count": 952,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1929
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T17:08:06.000Z",
+        "description": "",
+        "id": "1693671300496031744",
+        "name": "suslemonsoda",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 537,
+          "like_count": 1082,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 59
+        },
+        "username": "suslemonsoda",
+        "verified": false
+      }
+    ]
+  }
+}

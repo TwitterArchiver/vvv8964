@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1850729249709387789",
+    "created_at": "2024-11-16T04:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T05:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857641158677024986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696818325832261632",
+          "start": 0,
+          "username": "Yuuko_kitsune"
+        },
+        {
+          "end": 28,
+          "id": "1717434951497629696",
+          "start": 15,
+          "username": "GongShi22101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857641158677024986",
+    "in_reply_to_user_id": "1696818325832261632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852230230137802837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuuko_kitsune @GongShi22101 可惜了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1850729249709387789",
+        "created_at": "2024-11-16T04:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T05:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857641158677024986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1696818325832261632",
+              "start": 0,
+              "username": "Yuuko_kitsune"
+            },
+            {
+              "end": 28,
+              "id": "1717434951497629696",
+              "start": 15,
+              "username": "GongShi22101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857641158677024986",
+        "in_reply_to_user_id": "1696818325832261632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852230230137802837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuuko_kitsune @GongShi22101 可惜了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852230219685609472",
+            "3_1852230221317234688"
+          ]
+        },
+        "author_id": "1696818325832261632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1850729249709387789",
+        "created_at": "2024-11-01T06:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T07:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852230230137802837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717434951497629696",
+              "start": 0,
+              "username": "GongShi22101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K98l1RdwZO",
+              "end": 82,
+              "expanded_url": "https://x.com/Yuuko_kitsune/status/1852230230137802837/photo/1",
+              "media_key": "3_1852230219685609472",
+              "start": 59,
+              "url": "https://t.co/K98l1RdwZO"
+            },
+            {
+              "display_url": "pic.x.com/K98l1RdwZO",
+              "end": 82,
+              "expanded_url": "https://x.com/Yuuko_kitsune/status/1852230230137802837/photo/1",
+              "media_key": "3_1852230221317234688",
+              "start": 59,
+              "url": "https://t.co/K98l1RdwZO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852230230137802837",
+        "in_reply_to_user_id": "1717434951497629696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850729249709387789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GongShi22101 叶藏，疑似于 2024.11.1 12:30 跳楼，愿逝者安息\n我们终将在虚无的彼岸重聚 https://t.co/K98l1RdwZO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 如果你给我点赞的话我会很开心\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 88,
+          "like_count": 102,
+          "listed_count": 0,
+          "tweet_count": 335
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-30T09:33:23.000Z",
+        "description": "潜伏于这人世间的狐狸",
+        "id": "1696818325832261632",
+        "name": "キーツーネー",
+        "pinned_tweet_id": "1804614998674846113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840985552818159616/9xOK0Mvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 562,
+          "like_count": 105,
+          "listed_count": 0,
+          "tweet_count": 13
+        },
+        "username": "Yuuko_kitsune",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T06:56:23.000Z",
+        "description": "愛 しているのに 😿",
+        "id": "1717434951497629696",
+        "name": "叶藏Escitalopram",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801042697609994240/R1nuWnSd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 176,
+          "like_count": 274,
+          "listed_count": 0,
+          "tweet_count": 494
+        },
+        "username": "GongShi22101",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1959486569578136006",
+    "created_at": "2025-08-24T05:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T06:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959486572027613331"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959486572027613331",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959486569578136006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然instagram上也不喜欢LGBT，但是很多人觉得那些反同然后觉得自己很厉害的小学生其实更加Gay，having sex with another man is not even top 10 gayest things you can do"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1959486569578136006",
+        "created_at": "2025-08-24T05:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T06:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959486572027613331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959486572027613331",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959486569578136006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然instagram上也不喜欢LGBT，但是很多人觉得那些反同然后觉得自己很厉害的小学生其实更加Gay，having sex with another man is not even top 10 gayest things you can do"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1959486569578136006",
+        "created_at": "2025-08-24T05:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T06:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959486569578136006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959486569578136006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉之前我天天跟我妈说男同和跨性别的事情，她有点怀疑我在试探她\n虽然我成功说服了她说这些东西大部分都是天生的\n确实感觉自己离传统的性别理论那一套越来越远了，也不知道是加拿大导致的还是玩推特导致的\n加拿大这里高中其实只有校方不是劳保，同学还是很劳保的，LGBT会被嘲笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 327,
+          "like_count": 2563,
+          "listed_count": 4,
+          "media_count": 181,
+          "tweet_count": 3433
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

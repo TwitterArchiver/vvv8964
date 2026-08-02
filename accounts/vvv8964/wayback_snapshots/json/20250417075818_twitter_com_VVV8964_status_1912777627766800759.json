@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1912731078600847429",
+    "created_at": "2025-04-17T07:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T08:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912777627766800759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4258489634",
+          "start": 0,
+          "username": "Nico1_Fn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912777627766800759",
+    "in_reply_to_user_id": "4258489634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912762321094537685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nico1_Fn 德国没有吗，荷兰我记得是不是合法化了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1912731078600847429",
+        "created_at": "2025-04-17T07:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T08:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912777627766800759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4258489634",
+              "start": 0,
+              "username": "Nico1_Fn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912777627766800759",
+        "in_reply_to_user_id": "4258489634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912762321094537685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nico1_Fn 德国没有吗，荷兰我记得是不是合法化了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4258489634",
+        "conversation_id": "1912731078600847429",
+        "created_at": "2025-04-17T06:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T07:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912762321094537685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912762321094537685",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912731078600847429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 羡慕了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 167,
+          "like_count": 380,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 1051
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-16T16:38:11.000Z",
+        "description": "温和安那其主义者\n食髓知味*（判定成功）",
+        "id": "4258489634",
+        "location": "Chuo-ku, Tokyo",
+        "name": "FN 酚鍩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517345190217805824/M1XW1zYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 355,
+          "like_count": 3752,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 1954
+        },
+        "username": "Nico1_Fn",
+        "verified": false
+      }
+    ]
+  }
+}

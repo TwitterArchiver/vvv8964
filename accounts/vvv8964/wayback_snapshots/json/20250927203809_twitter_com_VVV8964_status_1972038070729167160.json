@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972038068741066759"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1972038070729167160",
+    "created_at": "2025-09-27T20:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T21:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972038070729167160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7EvesYOR7X",
+          "end": 43,
+          "expanded_url": "https://x.com/VVV8964/status/1972038070729167160/photo/1",
+          "media_key": "3_1972038068741066759",
+          "start": 20,
+          "url": "https://t.co/7EvesYOR7X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972038070729167160",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Speak chinese nigga https://t.co/7EvesYOR7X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972038068741066759",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G14WLNrb0Ac8LfU.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972038068741066759"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1972038070729167160",
+        "created_at": "2025-09-27T20:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T21:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972038070729167160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7EvesYOR7X",
+              "end": 43,
+              "expanded_url": "https://x.com/VVV8964/status/1972038070729167160/photo/1",
+              "media_key": "3_1972038068741066759",
+              "start": 20,
+              "url": "https://t.co/7EvesYOR7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972038070729167160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Speak chinese nigga https://t.co/7EvesYOR7X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 336,
+          "like_count": 3226,
+          "listed_count": 5,
+          "media_count": 276,
+          "tweet_count": 4368
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

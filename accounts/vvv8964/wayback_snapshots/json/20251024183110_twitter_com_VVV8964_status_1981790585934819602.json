@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1981493646320177609",
+    "created_at": "2025-10-24T18:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T19:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981790585934819602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981790585934819602",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981538440606077102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 这不是我精神老家本拿比吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1664,
+        "media_key": "3_1981538431831330816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3_WtIIXUAAWXIL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1981493646320177609",
+        "created_at": "2025-10-24T18:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T19:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981790585934819602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981790585934819602",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981538440606077102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 这不是我精神老家本拿比吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981538431831330816"
+          ]
+        },
+        "author_id": "1657055349982244865",
+        "conversation_id": "1981493646320177609",
+        "created_at": "2025-10-24T01:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T02:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981538440606077102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BI6i11HoBa",
+              "end": 55,
+              "expanded_url": "https://x.com/Glagagapot/status/1981538440606077102/photo/1",
+              "media_key": "3_1981538431831330816",
+              "start": 32,
+              "url": "https://t.co/BI6i11HoBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981538440606077102",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1211,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981493646320177609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是afab...给你们看出生证明\n这个体型不是一眼女吗我服了 https://t.co/BI6i11HoBa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 344,
+          "like_count": 3691,
+          "listed_count": 7,
+          "media_count": 363,
+          "tweet_count": 4903
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "嘎生物｜郭楠｜讲话猎奇恶俗请谨慎关注",
+        "id": "1657055349982244865",
+        "location": "被窝",
+        "name": "ガガ鳥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974696682429497344/1ctxEGsf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1928,
+          "following_count": 1067,
+          "like_count": 71352,
+          "listed_count": 7,
+          "media_count": 1980,
+          "tweet_count": 24069
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

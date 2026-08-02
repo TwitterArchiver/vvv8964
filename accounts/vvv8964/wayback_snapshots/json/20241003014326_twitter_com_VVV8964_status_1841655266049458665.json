@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "US Central Intelligence Agency",
+          "id": "954105882161307648",
+          "name": "US Central Intelligence Agency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US Central Intelligence Agency",
+          "id": "954105882161307648",
+          "name": "US Central Intelligence Agency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "1841468925378171381",
+    "created_at": "2024-10-03T01:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T02:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841655266049458665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 4,
+          "id": "2359926157",
+          "start": 0,
+          "username": "CIA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841655266049458665",
+    "in_reply_to_user_id": "2359926157",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841468925378171381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CIA 收到收到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "US Central Intelligence Agency",
+              "id": "954105882161307648",
+              "name": "US Central Intelligence Agency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Central Intelligence Agency",
+              "id": "954105882161307648",
+              "name": "US Central Intelligence Agency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1841468925378171381",
+        "created_at": "2024-10-03T01:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T02:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841655266049458665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 4,
+              "id": "2359926157",
+              "start": 0,
+              "username": "CIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841655266049458665",
+        "in_reply_to_user_id": "2359926157",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841468925378171381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CIA 收到收到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1841468100933193728"
+          ]
+        },
+        "author_id": "2359926157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "US Central Intelligence Agency",
+              "id": "954105882161307648",
+              "name": "US Central Intelligence Agency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Central Intelligence Agency",
+              "id": "954105882161307648",
+              "name": "US Central Intelligence Agency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1841468925378171381",
+        "created_at": "2024-10-02T13:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T14:21:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841468597031277036",
+          "1841468925378171381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "美国中央情报局 #CIA 以多国语言说明如何安全联系CIA。我们的全球任务要求让所有人能从任何地点安全地联系CIA。请小心任何自称代表CIA的帐号，检查比对CIA公开的官方网站与帐号清单，并且注意检查利用相似拼音伪装为CIA官方网站的假帐号。",
+              "display_url": "youtu.be/AFJ9HVIVjIk?si…",
+              "end": 41,
+              "expanded_url": "https://youtu.be/AFJ9HVIVjIk?si=6kQm9AhUFagFN2FR",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1841468928058445826/TwHAMTzO?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1841468928058445826/TwHAMTzO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 18,
+              "status": 200,
+              "title": "安全联系美国中央情报局（CIA）",
+              "unwound_url": "https://www.youtube.com/watch?si=6kQm9AhUFagFN2FR&v=AFJ9HVIVjIk&feature=youtu.be",
+              "url": "https://t.co/PyjPgvNqW2"
+            },
+            {
+              "display_url": "pic.x.com/6ZU3rhGzWd",
+              "end": 65,
+              "expanded_url": "https://x.com/CIA/status/1841468925378171381/video/1",
+              "media_key": "7_1841468100933193728",
+              "start": 42,
+              "url": "https://t.co/6ZU3rhGzWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841468925378171381",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1131,
+          "impression_count": 539221,
+          "like_count": 1953,
+          "quote_count": 145,
+          "reply_count": 159,
+          "retweet_count": 562
+        },
+        "reply_settings": "everyone",
+        "text": "安全联系美国中央情报局（CIA）\n\nhttps://t.co/PyjPgvNqW2 https://t.co/6ZU3rhGzWd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 如果你给我点赞的话我会很开心\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 58,
+          "like_count": 53,
+          "listed_count": 0,
+          "tweet_count": 137
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-24T19:08:11.000Z",
+        "description": "We are the Nation's first line of defense. We accomplish what others cannot accomplish and go where others cannot go.\n\nhttps://t.co/yhjtYvFBiJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/s/securelycont…",
+                "end": 142,
+                "expanded_url": "https://t.me/s/securelycontactingcia",
+                "start": 119,
+                "url": "https://t.co/yhjtYvFBiJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cia.gov",
+                "end": 23,
+                "expanded_url": "http://cia.gov",
+                "start": 0,
+                "url": "https://t.co/tKucZyJmxL"
+              }
+            ]
+          }
+        },
+        "id": "2359926157",
+        "location": "Langley, VA",
+        "name": "CIA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344919364039045120/7gBb2rC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3453835,
+          "following_count": 56,
+          "like_count": 146,
+          "listed_count": 11686,
+          "tweet_count": 5219
+        },
+        "url": "https://t.co/tKucZyJmxL",
+        "username": "CIA",
+        "verified": true
+      }
+    ]
+  }
+}

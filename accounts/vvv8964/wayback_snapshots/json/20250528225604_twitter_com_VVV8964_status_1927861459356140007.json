@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1927637869457543203",
+    "created_at": "2025-05-28T22:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T23:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927861459356140007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "756406740",
+          "start": 0,
+          "username": "asya_abdoel"
+        },
+        {
+          "end": 28,
+          "id": "1909859675530797056",
+          "start": 13,
+          "username": "suk1202xwast3d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927861459356140007",
+    "in_reply_to_user_id": "756406740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927796260066467877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asya_abdoel @suk1202xwast3d 没有啊，1t就是100mg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1927637869457543203",
+        "created_at": "2025-05-28T22:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T23:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927861459356140007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "756406740",
+              "start": 0,
+              "username": "asya_abdoel"
+            },
+            {
+              "end": 28,
+              "id": "1909859675530797056",
+              "start": 13,
+              "username": "suk1202xwast3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927861459356140007",
+        "in_reply_to_user_id": "756406740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927796260066467877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asya_abdoel @suk1202xwast3d 没有啊，1t就是100mg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "756406740",
+        "conversation_id": "1927637869457543203",
+        "created_at": "2025-05-28T18:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T19:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927796260066467877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909859675530797056",
+              "start": 0,
+              "username": "suk1202xwast3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927796260066467877",
+        "in_reply_to_user_id": "1909859675530797056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927637869457543203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suk1202xwast3d 不是，这玩意吃1-3t就行了，你一次吃了10t。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 235,
+          "like_count": 651,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 1539
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-14T03:51:38.000Z",
+        "description": "",
+        "id": "756406740",
+        "name": "tears in rain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680793925894938625/BViUh8vU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 195,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "username": "asya_abdoel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T06:43:41.000Z",
+        "description": "",
+        "id": "1909859675530797056",
+        "name": ".",
+        "pinned_tweet_id": "1926562117085204724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919626873979731970/hJoHIbkU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 247,
+          "like_count": 2277,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 610
+        },
+        "username": "suk1202xwast3d",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1968326355336269827",
+    "created_at": "2025-09-17T16:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T17:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968353113301250381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1949031083829346305",
+          "start": 0,
+          "username": "s0manull"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968353113301250381",
+    "in_reply_to_user_id": "1949031083829346305",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968326355336269827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s0manull Just say nigga"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 229,
+        "media_key": "3_1968326344963739648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DmYdGbUAA2Jim.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1968326355336269827",
+        "created_at": "2025-09-17T16:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T17:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968353113301250381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1949031083829346305",
+              "start": 0,
+              "username": "s0manull"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968353113301250381",
+        "in_reply_to_user_id": "1949031083829346305",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968326355336269827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s0manull Just say nigga"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968326344963739648"
+          ]
+        },
+        "author_id": "1949031083829346305",
+        "conversation_id": "1968326355336269827",
+        "created_at": "2025-09-17T14:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T15:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968326355336269827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tkn9AnzqfO",
+              "end": 91,
+              "expanded_url": "https://x.com/s0manull/status/1968326355336269827/photo/1",
+              "media_key": "3_1968326344963739648",
+              "start": 68,
+              "url": "https://t.co/Tkn9AnzqfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968326355336269827",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "im tweaking cuz idk how 2 talk w ppl on disc without being autistic https://t.co/Tkn9AnzqfO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 331,
+          "like_count": 3044,
+          "listed_count": 4,
+          "media_count": 254,
+          "tweet_count": 4150
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T08:56:43.000Z",
+        "description": "我重生了👁 | genderfluid they/them/any | shedtwt drugtwt | mw @moritehhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "moritehhhh"
+              }
+            ]
+          }
+        },
+        "id": "1949031083829346305",
+        "name": "William Afton",
+        "pinned_tweet_id": "1954087428895170706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953424683032080384/uMQIfxzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 110,
+          "like_count": 798,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 113
+        },
+        "username": "s0manull",
+        "verified": false
+      }
+    ]
+  }
+}

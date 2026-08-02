@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1938115713027477647",
+    "created_at": "2025-06-26T06:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T07:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938115713027477647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1937572978361061555",
+          "start": 10,
+          "url": "https://t.co/mxP3KSv0VD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938115713027477647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937572978361061555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们沙东人就是仗义 https://t.co/mxP3KSv0VD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 95875,
+        "height": 960,
+        "media_key": "13_1937568577868996609",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1937568577868996609/img/Xba_F90jv0WkB8iO.jpg",
+        "public_metrics": {
+          "view_count": 892169
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937568577868996609/vid/avc1/320x564/hzZa9mHa6W-7axHu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937568577868996609/vid/avc1/480x846/snF0cyWXdbgNnIuq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937568577868996609/vid/avc1/544x960/P2wmJ_uHVqX--IH9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1937568577868996609/pl/mPy4JcNz-zGZKFox.m3u8?v=cfc"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1938115713027477647",
+        "created_at": "2025-06-26T06:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T07:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938115713027477647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1937572978361061555",
+              "start": 10,
+              "url": "https://t.co/mxP3KSv0VD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938115713027477647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937572978361061555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们沙东人就是仗义 https://t.co/mxP3KSv0VD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1937568577868996609"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1937572978361061555",
+        "created_at": "2025-06-24T18:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T19:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937572978361061555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Ao4u9QbvE",
+              "end": 166,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1937572978361061555/video/1",
+              "media_key": "13_1937568577868996609",
+              "start": 143,
+              "url": "https://t.co/6Ao4u9QbvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937572978361061555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "6月22日凌晨，山东临沂中鲁石化加油站前，魏某某与一社会青年王某贺发生矛盾，后者叫来20多人追打前者，前者跑到朋友的车里躲避，结果被团团围住，社会青年们用砖块和棍棒对车辆疯狂打砸，并把躲在车里的两人揪出殴打。视频显示，车窗被全部砸碎，车身多处凹陷，白衣男子蜷缩在地上，身上有大片血迹。目前当地警方通报，已抓获23人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 758,
+          "impression_count": 2002798,
+          "like_count": 3434,
+          "quote_count": 69,
+          "reply_count": 650,
+          "retweet_count": 454
+        },
+        "reply_settings": "everyone",
+        "text": "6月22日凌晨，山东临沂中鲁石化加油站前，魏某某与一社会青年王某贺发生矛盾，后者叫来20多人追打前者，前者跑到朋友的车里躲避，结果被团团围住，社会青年们用砖块和棍棒对车辆疯狂打砸，并把躲在车里的两人揪出殴打。视频显示，车窗被全部砸碎，车身多处凹陷，白衣男子蜷缩在地上，身上有大片血迹。 https://t.co/6Ao4u9QbvE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 253,
+          "like_count": 943,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1920
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1933896398610526577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2021914,
+          "following_count": 973,
+          "like_count": 7135,
+          "listed_count": 8170,
+          "media_count": 30570,
+          "tweet_count": 37158
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

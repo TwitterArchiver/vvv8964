@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1974042985953476929",
+    "created_at": "2025-10-03T16:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T17:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974146277849080182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944351426827735040",
+          "start": 0,
+          "username": "kiss_u_back"
+        },
+        {
+          "end": 27,
+          "id": "1929427985205198848",
+          "start": 13,
+          "username": "p1nkpills_666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974146277849080182",
+    "in_reply_to_user_id": "1944351426827735040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974042985953476929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiss_u_back @p1nkpills_666 节目效果"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36670,
+        "height": 1280,
+        "media_key": "13_1974042841375768576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1974042841375768576/img/avCJ-nVai-8izka0.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974042841375768576/vid/avc1/320x568/vIC6a9qwtv4Bvy3Y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974042841375768576/vid/avc1/480x852/_lWHwGBF7KDGuehb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974042841375768576/vid/avc1/720x1280/EBPCCGnFu6VpVsle.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1974042841375768576/pl/UErXVQ4UeGSjtJ1f.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1974042985953476929",
+        "created_at": "2025-10-03T16:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T17:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974146277849080182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944351426827735040",
+              "start": 0,
+              "username": "kiss_u_back"
+            },
+            {
+              "end": 27,
+              "id": "1929427985205198848",
+              "start": 13,
+              "username": "p1nkpills_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974146277849080182",
+        "in_reply_to_user_id": "1944351426827735040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974042985953476929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss_u_back @p1nkpills_666 节目效果"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974042841375768576"
+          ]
+        },
+        "author_id": "1944351426827735040",
+        "conversation_id": "1974042985953476929",
+        "created_at": "2025-10-03T09:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T10:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974042985953476929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wieCai2TUT",
+              "end": 28,
+              "expanded_url": "https://x.com/kiss_u_back/status/1974042985953476929/video/1",
+              "media_key": "13_1974042841375768576",
+              "start": 5,
+              "url": "https://t.co/wieCai2TUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974042985953476929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不中了 https://t.co/wieCai2TUT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 336,
+          "like_count": 3321,
+          "listed_count": 6,
+          "media_count": 296,
+          "tweet_count": 4511
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "已死勿call 我不稳定 我是疯狗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccccindy11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ccccindy11",
+                "start": 0,
+                "url": "https://t.co/5cwDcyH0re"
+              }
+            ]
+          }
+        },
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1957691726635888962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950024167241502722/DbHwNpOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 94,
+          "like_count": 615,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 647
+        },
+        "url": "https://t.co/5cwDcyH0re",
+        "username": "kiss_u_back",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T06:41:05.000Z",
+        "description": "=愤愤 pan🏳️‍🌈🏴‍☠️这里是🚮🩵🩷💜🤍🖤 约炮滚没有几把没有逼",
+        "id": "1929427985205198848",
+        "name": "粉藥丸",
+        "pinned_tweet_id": "1951784333745803686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970174663159619589/NdopfwTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 384,
+          "like_count": 4403,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1098
+        },
+        "username": "p1nkpills_666",
+        "verified": false
+      }
+    ]
+  }
+}

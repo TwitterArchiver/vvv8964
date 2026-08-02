@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1985525789321052501",
+    "created_at": "2025-11-04T06:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T07:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985596900461138349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808697284206678016",
+          "start": 0,
+          "username": "D1nn2r_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985596900461138349",
+    "in_reply_to_user_id": "1808697284206678016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985580091238494269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D1nn2r_8964 澳洲也不难搞吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1985525789321052501",
+        "created_at": "2025-11-04T06:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T07:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985596900461138349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808697284206678016",
+              "start": 0,
+              "username": "D1nn2r_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985596900461138349",
+        "in_reply_to_user_id": "1808697284206678016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985580091238494269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D1nn2r_8964 澳洲也不难搞吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808697284206678016",
+        "conversation_id": "1985525789321052501",
+        "created_at": "2025-11-04T05:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T06:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985580091238494269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985580091238494269",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985525789321052501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 我好羡慕北美人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品\n\n埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZ3Lh"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 357,
+          "like_count": 3796,
+          "listed_count": 9,
+          "media_count": 402,
+          "tweet_count": 5036
+        },
+        "url": "https://t.co/tuzURhZ3Lh",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T03:00:22.000Z",
+        "description": "UoA🇳🇿环境科学/动物学 月厨/没有性别和性取向 老号@EeyoreYan 小号：@Dinnerstuff🚪：89.64（聊得来免费）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "EeyoreYan"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "Dinnerstuff"
+              }
+            ]
+          }
+        },
+        "id": "1808697284206678016",
+        "location": "纽村中南海",
+        "name": "D1nn2r Stuff🇳🇿8964（苦命煮饭婆",
+        "pinned_tweet_id": "1967842252434313226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874622533544353793/adP8-2Gp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 877,
+          "like_count": 8037,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 3558
+        },
+        "username": "D1nn2r_8964",
+        "verified": false
+      }
+    ]
+  }
+}

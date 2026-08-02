@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1964717906392232318",
+    "created_at": "2025-09-08T02:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T03:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964883212821471269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944351426827735040",
+          "start": 0,
+          "username": "kiss_u_back"
+        },
+        {
+          "end": 24,
+          "id": "1658664482632253441",
+          "start": 13,
+          "username": "jujube8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964883212821471269",
+    "in_reply_to_user_id": "1944351426827735040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964882445171568852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiss_u_back @jujube8964 有点流汗了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1964717906392232318",
+        "created_at": "2025-09-08T02:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T03:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964883212821471269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944351426827735040",
+              "start": 0,
+              "username": "kiss_u_back"
+            },
+            {
+              "end": 24,
+              "id": "1658664482632253441",
+              "start": 13,
+              "username": "jujube8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964883212821471269",
+        "in_reply_to_user_id": "1944351426827735040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964882445171568852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss_u_back @jujube8964 有点流汗了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944351426827735040",
+        "conversation_id": "1964717906392232318",
+        "created_at": "2025-09-08T02:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T03:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964882445171568852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            },
+            {
+              "end": 20,
+              "id": "1658664482632253441",
+              "start": 9,
+              "username": "jujube8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964882445171568852",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964882357086978186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 @jujube8964 有问题🤨？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 334,
+          "like_count": 2894,
+          "listed_count": 4,
+          "media_count": 226,
+          "tweet_count": 3900
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "已死亡💀会移动肉体with out soul 上一世@Cruc1fy_MyS0ul 🔞 已阳痿 FTX🔞 泛性恋 性别为meg 💙meg=Cindy=辛大迪=大迪💙无🚪不是🚪妹 欢迎来闲聊我真的很无聊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "Cruc1fy_MyS0ul"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccccindy11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ccccindy11",
+                "start": 0,
+                "url": "https://t.co/5cwDcyH0re"
+              }
+            ]
+          }
+        },
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1957691726635888962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950024167241502722/DbHwNpOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 82,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/5cwDcyH0re",
+        "username": "kiss_u_back",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T02:43:36.000Z",
+        "description": "🇨🇳🇨🇳我不懂什么卖淫赌博吸毒。我是三好学生，我是少先队员。我从来没有发表过对国家不利的消息。我爱国爱党爱社会。我始终坚持拥护中国共产党的领导与党的教诲，在中国共产党的领导下为社会添砖加瓦，为实现中华民族的伟大复兴，为社会主义的建设做贡献。我深知即使个人的力量渺小，也可以融入国家的整体。🇨🇳🇨🇳",
+        "id": "1658664482632253441",
+        "location": "党的光芒照耀下的每一寸伟大中国的领土",
+        "name": "党的光辉照冬枣",
+        "pinned_tweet_id": "1956031170053071371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964614874266521600/6X-PARwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 355,
+          "like_count": 1507,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 1945
+        },
+        "username": "jujube8964",
+        "verified": false
+      }
+    ]
+  }
+}

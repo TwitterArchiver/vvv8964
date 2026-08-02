@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1942735494825271591",
+    "created_at": "2025-07-09T00:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T01:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942735494825271591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VVV8964/status…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/VVV8964/status/1942209478335815784",
+          "start": 20,
+          "url": "https://t.co/wR26qhWyQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942735494825271591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942209478335815784",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么这条推文来了好多约炮的，害怕困惑 https://t.co/wR26qhWyQ1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1942735494825271591",
+        "created_at": "2025-07-09T00:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T01:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942735494825271591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VVV8964/status…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/VVV8964/status/1942209478335815784",
+              "start": 20,
+              "url": "https://t.co/wR26qhWyQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942735494825271591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942209478335815784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么这条推文来了好多约炮的，害怕困惑 https://t.co/wR26qhWyQ1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1942209478335815784",
+        "created_at": "2025-07-07T13:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T14:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942209478335815784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942209478335815784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1054,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "澳门有无推友，来一起玩耍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 273,
+          "like_count": 1233,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 2161
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

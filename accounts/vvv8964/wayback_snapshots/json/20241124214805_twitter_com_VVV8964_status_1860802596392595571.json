@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1860789868349272498",
+    "created_at": "2024-11-24T21:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T22:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860802596392595571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1537169949755682816",
+          "start": 0,
+          "username": "watchingdead09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860802596392595571",
+    "in_reply_to_user_id": "1537169949755682816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860789868349272498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@watchingdead09 吃啥了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1860789868349272498",
+        "created_at": "2024-11-24T21:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T22:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860802596392595571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1537169949755682816",
+              "start": 0,
+              "username": "watchingdead09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860802596392595571",
+        "in_reply_to_user_id": "1537169949755682816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860789868349272498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@watchingdead09 吃啥了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537169949755682816",
+        "conversation_id": "1860789868349272498",
+        "created_at": "2024-11-24T20:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T21:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860789868349272498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860789868349272498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回来了 预期效果是三小时完全结束 现在感觉差不多已经在收尾了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高\n推特有时候莫名其妙收不到消息我会尽量回复回关\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 106,
+          "like_count": 113,
+          "listed_count": 0,
+          "tweet_count": 362
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T20:27:47.000Z",
+        "description": "🔞猫毛下藏着什么？｜不是地雷妹妹哦我是C4｜无预警自伤/uncensored sh｜中/en｜日本語勉強中",
+        "id": "1537169949755682816",
+        "location": "somewhere but not here",
+        "name": "猫之猫",
+        "pinned_tweet_id": "1540523238094151680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826204521858482177/HHK9xRzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 15,
+          "like_count": 3326,
+          "listed_count": 0,
+          "tweet_count": 820
+        },
+        "username": "watchingdead09",
+        "verified": false
+      }
+    ]
+  }
+}

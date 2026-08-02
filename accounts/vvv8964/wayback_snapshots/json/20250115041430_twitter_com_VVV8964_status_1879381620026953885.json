@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1879074350353227791",
+    "created_at": "2025-01-15T04:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T05:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879381620026953885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690721268373581824",
+          "start": 0,
+          "username": "Celsius233C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879381620026953885",
+    "in_reply_to_user_id": "1690721268373581824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879074350353227791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Celsius233C 嗨呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1879074350353227791",
+        "created_at": "2025-01-15T04:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T05:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879381620026953885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690721268373581824",
+              "start": 0,
+              "username": "Celsius233C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879381620026953885",
+        "in_reply_to_user_id": "1690721268373581824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879074350353227791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Celsius233C 嗨呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690721268373581824",
+        "conversation_id": "1879074350353227791",
+        "created_at": "2025-01-14T07:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T08:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879074350353227791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879074350353227791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 456,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有无uw/温哥华的推友🥺🥺好想认识新朋友面基"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 142,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 671
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T13:45:44.000Z",
+        "description": "BioNotFoundException｜zh-CN/en-US｜R-18G｜Film Photography📷｜Planes✈️｜Amateur Radio📻｜War Thunder",
+        "id": "1690721268373581824",
+        "location": "SeaTac, WA",
+        "name": "233°C",
+        "pinned_tweet_id": "1874165011498803342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709080494498054145/b4FIrcBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2941,
+          "following_count": 522,
+          "like_count": 7859,
+          "listed_count": 12,
+          "media_count": 159,
+          "tweet_count": 1847
+        },
+        "username": "Celsius233C",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1947301091114365406",
+    "created_at": "2025-07-21T14:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T15:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947301091114365406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VVV8964/status…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/VVV8964/status/1947173712014491938",
+          "start": 46,
+          "url": "https://t.co/E87rNWDAYW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947301091114365406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947173712014491938",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本来以为本小透明注销都没人发现，这么一看好像炒作还是颇有成效的\n谢谢推友们的关心，我爱你们 https://t.co/E87rNWDAYW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947301091114365406",
+        "created_at": "2025-07-21T14:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T15:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947301091114365406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VVV8964/status…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/VVV8964/status/1947173712014491938",
+              "start": 46,
+              "url": "https://t.co/E87rNWDAYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947301091114365406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947173712014491938",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来以为本小透明注销都没人发现，这么一看好像炒作还是颇有成效的\n谢谢推友们的关心，我爱你们 https://t.co/E87rNWDAYW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947173712014491938",
+        "created_at": "2025-07-21T05:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T06:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947173712014491938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947173712014491938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 522,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "复活！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 284,
+          "like_count": 1549,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2368
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

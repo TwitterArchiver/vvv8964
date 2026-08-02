@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1912030638351503400",
+    "created_at": "2025-04-15T06:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T07:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912031373785002012"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1912031373785002012",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912030638351503400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然我深受恶心困扰许久，但是我怀疑主要原因可能不是生理的而是心理上的，虽然这显得我像个逃避现实的懦夫，但是我确实在家不会恶心，一出门就犯恶心。不过也有可能是神经性的，这个我就不太懂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1912030638351503400",
+        "created_at": "2025-04-15T06:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T07:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912031373785002012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912031373785002012",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912030638351503400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然我深受恶心困扰许久，但是我怀疑主要原因可能不是生理的而是心理上的，虽然这显得我像个逃避现实的懦夫，但是我确实在家不会恶心，一出门就犯恶心。不过也有可能是神经性的，这个我就不太懂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1912030638351503400",
+        "created_at": "2025-04-15T06:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T07:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912030638351503400"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912030638351503400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我草，恶心呕吐在家休息了两天，正准备睡觉发现明天要考试，急死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 166,
+          "like_count": 381,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 1048
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

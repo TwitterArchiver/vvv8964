@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1944272232014131393",
+    "created_at": "2025-07-13T05:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T06:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944272232014131393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jakobsonradica…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/jakobsonradical/status/1944204233496310069",
+          "start": 78,
+          "url": "https://t.co/DAbjT47rsM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944272232014131393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944204233496310069",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好多b友抖友都很喜欢搞种族歧视或者纳粹的这些东西，幻想自己是潮酷鉴证哲人王，哈哈你也喜欢那个希特勒吗真是太有意思了\n实际上希特勒要是复活了第一个清洗拆腻子 https://t.co/DAbjT47rsM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1380,
+        "media_key": "3_1944204229834420224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvszcjoXsAApM9w.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944204085798088705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvszULDbsAE-cfl.jpg",
+        "width": 945
+      },
+      {
+        "height": 1123,
+        "media_key": "3_1944204086829592577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvszUO5XMAEO5Rj.jpg",
+        "width": 1289
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944204087072825344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvszUPzWoAAkWxr.jpg",
+        "width": 795
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1944272232014131393",
+        "created_at": "2025-07-13T05:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T06:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944272232014131393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jakobsonradica…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/jakobsonradical/status/1944204233496310069",
+              "start": 78,
+              "url": "https://t.co/DAbjT47rsM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944272232014131393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944204233496310069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好多b友抖友都很喜欢搞种族歧视或者纳粹的这些东西，幻想自己是潮酷鉴证哲人王，哈哈你也喜欢那个希特勒吗真是太有意思了\n实际上希特勒要是复活了第一个清洗拆腻子 https://t.co/DAbjT47rsM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944204229834420224",
+            "3_1944204085798088705",
+            "3_1944204086829592577",
+            "3_1944204087072825344"
+          ]
+        },
+        "author_id": "1249525383797456898",
+        "conversation_id": "1944204233496310069",
+        "created_at": "2025-07-13T01:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T02:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944204233496310069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxA46GX5rL",
+              "end": 134,
+              "expanded_url": "https://x.com/jakobsonradical/status/1944204233496310069/photo/1",
+              "media_key": "3_1944204229834420224",
+              "start": 111,
+              "url": "https://t.co/NxA46GX5rL"
+            },
+            {
+              "display_url": "pic.x.com/NxA46GX5rL",
+              "end": 134,
+              "expanded_url": "https://x.com/jakobsonradical/status/1944204233496310069/photo/1",
+              "media_key": "3_1944204085798088705",
+              "start": 111,
+              "url": "https://t.co/NxA46GX5rL"
+            },
+            {
+              "display_url": "pic.x.com/NxA46GX5rL",
+              "end": 134,
+              "expanded_url": "https://x.com/jakobsonradical/status/1944204233496310069/photo/1",
+              "media_key": "3_1944204086829592577",
+              "start": 111,
+              "url": "https://t.co/NxA46GX5rL"
+            },
+            {
+              "display_url": "pic.x.com/NxA46GX5rL",
+              "end": 134,
+              "expanded_url": "https://x.com/jakobsonradical/status/1944204233496310069/photo/1",
+              "media_key": "3_1944204087072825344",
+              "start": 111,
+              "url": "https://t.co/NxA46GX5rL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944204233496310069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 46883,
+          "like_count": 409,
+          "quote_count": 9,
+          "reply_count": 48,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "据了解，近日，美国男歌手Kanye的上海演唱会现场播放了“Heil Hitler”这首歌。现场有观众高举右手。讽刺的是，今年中国正准备纪念世界反法西斯战争胜利80周年。\n此前，Kanye因为赞美希特勒已经被澳洲拒绝入境。 https://t.co/NxA46GX5rL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 281,
+          "like_count": 1436,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2311
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242816,
+          "following_count": 1474,
+          "like_count": 41389,
+          "listed_count": 979,
+          "media_count": 18769,
+          "tweet_count": 25957
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

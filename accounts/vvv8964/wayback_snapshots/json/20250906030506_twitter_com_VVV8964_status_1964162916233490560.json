@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1964047254177644544"
+      ],
+      "media_source_tweet_id": [
+        "1964053420534616491"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1964162916233490560",
+    "created_at": "2025-09-06T03:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T04:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964162916233490560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1782546886760554496",
+          "start": 3,
+          "username": "brainrotpostig"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RLFWifpXTj",
+          "end": 43,
+          "expanded_url": "https://x.com/brainrotpostig/status/1964053420534616491/video/1",
+          "media_key": "13_1964047254177644544",
+          "start": 20,
+          "url": "https://t.co/RLFWifpXTj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964162916233490560",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964053420534616491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @brainrotpostig: https://t.co/RLFWifpXTj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30120,
+        "height": 276,
+        "media_key": "13_1964047254177644544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1964047254177644544/img/cr6agccC-lj8MjXU.jpg",
+        "public_metrics": {
+          "view_count": 10647
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964047254177644544/vid/avc1/478x276/d_fSCTOoq3HClLz-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1964047254177644544/pl/_bpHOcghSqWavsRH.m3u8?v=cfc"
+          }
+        ],
+        "width": 478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964047254177644544"
+          ],
+          "media_source_tweet_id": [
+            "1964053420534616491"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1964162916233490560",
+        "created_at": "2025-09-06T03:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T04:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964162916233490560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1782546886760554496",
+              "start": 3,
+              "username": "brainrotpostig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RLFWifpXTj",
+              "end": 43,
+              "expanded_url": "https://x.com/brainrotpostig/status/1964053420534616491/video/1",
+              "media_key": "13_1964047254177644544",
+              "start": 20,
+              "url": "https://t.co/RLFWifpXTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964162916233490560",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964053420534616491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @brainrotpostig: https://t.co/RLFWifpXTj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964047254177644544"
+          ]
+        },
+        "author_id": "1782546886760554496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1964053420534616491",
+        "created_at": "2025-09-05T19:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T20:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964053420534616491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RLFWifpXTj",
+              "end": 23,
+              "expanded_url": "https://x.com/brainrotpostig/status/1964053420534616491/video/1",
+              "media_key": "13_1964047254177644544",
+              "start": 0,
+              "url": "https://t.co/RLFWifpXTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964053420534616491",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 268,
+          "impression_count": 23402,
+          "like_count": 926,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RLFWifpXTj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 333,
+          "like_count": 2872,
+          "listed_count": 4,
+          "media_count": 218,
+          "tweet_count": 3845
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T23:07:56.000Z",
+        "description": "postig things that make me lol\nDM for removal\n\nsecondary: @rottedimension",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 58,
+                "username": "rottedimension"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@idkdude6665?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@idkdude6665?si=RZz0sxmTIrA5avNm",
+                "start": 0,
+                "url": "https://t.co/sHHjtQMumB"
+              }
+            ]
+          }
+        },
+        "id": "1782546886760554496",
+        "name": "brainrot dimension",
+        "pinned_tweet_id": "1952120474387001660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811114902213312512/MPJzaiHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109101,
+          "following_count": 6586,
+          "like_count": 2713,
+          "listed_count": 115,
+          "media_count": 2456,
+          "tweet_count": 3001
+        },
+        "url": "https://t.co/sHHjtQMumB",
+        "username": "brainrotpostig",
+        "verified": true
+      }
+    ]
+  }
+}

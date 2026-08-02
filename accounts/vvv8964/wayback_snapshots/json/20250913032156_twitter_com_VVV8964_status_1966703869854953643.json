@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1966703863240814593"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1966594279918412180",
+    "created_at": "2025-09-13T03:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T04:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966703869854953643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1176077981099446272",
+          "start": 0,
+          "username": "Yesmynamehaer1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WjNPHs0bjs",
+          "end": 43,
+          "expanded_url": "https://x.com/VVV8964/status/1966703869854953643/photo/1",
+          "media_key": "16_1966703863240814593",
+          "start": 20,
+          "url": "https://t.co/WjNPHs0bjs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966703869854953643",
+    "in_reply_to_user_id": "1176077981099446272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966700689469423844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yesmynamehaer1 流汗了 https://t.co/WjNPHs0bjs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 208,
+        "media_key": "16_1966703863240814593",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G0sivlrbcAEgNKr.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G0sivlrbcAEgNKr.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1966703863240814593"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1966594279918412180",
+        "created_at": "2025-09-13T03:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T04:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966703869854953643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1176077981099446272",
+              "start": 0,
+              "username": "Yesmynamehaer1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WjNPHs0bjs",
+              "end": 43,
+              "expanded_url": "https://x.com/VVV8964/status/1966703869854953643/photo/1",
+              "media_key": "16_1966703863240814593",
+              "start": 20,
+              "url": "https://t.co/WjNPHs0bjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966703869854953643",
+        "in_reply_to_user_id": "1176077981099446272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966700689469423844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yesmynamehaer1 流汗了 https://t.co/WjNPHs0bjs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176077981099446272",
+        "conversation_id": "1966594279918412180",
+        "created_at": "2025-09-13T03:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T04:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966700689469423844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966700689469423844",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966594279918412180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 你是典型的安卓逻辑，安卓人安卓学历，安卓素质，安卓语法，安卓态度，学校是安卓学校"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 331,
+          "like_count": 2978,
+          "listed_count": 4,
+          "media_count": 244,
+          "tweet_count": 4030
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "白鳥/白鳥形人。\n中立友善单位，幻想生物与死去的人。\n学习，药物，酒，音乐，文学，小政府，游牧与内在差异，自由主义——\n「Liberty/Freedom/Power」。\nFTX /Unitarian Universalists。\n@Coccus_Swamer /@Hawthor20853776 。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "Coccus_Swamer"
+              },
+              {
+                "end": 147,
+                "start": 131,
+                "username": "Hawthor20853776"
+              }
+            ]
+          }
+        },
+        "id": "1176077981099446272",
+        "location": "Seoul, Republic of Korea",
+        "name": "Hereditarystupidity",
+        "pinned_tweet_id": "1929155582314881086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966343942905147395/Jj-l4fUo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 665,
+          "like_count": 29013,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 3048
+        },
+        "username": "Yesmynamehaer1",
+        "verified": false
+      }
+    ]
+  }
+}

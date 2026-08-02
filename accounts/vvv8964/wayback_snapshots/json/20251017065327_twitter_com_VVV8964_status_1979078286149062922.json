@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1979053031120306446",
+    "created_at": "2025-10-17T06:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T07:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979078286149062922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1929427985205198848",
+          "start": 0,
+          "username": "p1nkpills_666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979078286149062922",
+    "in_reply_to_user_id": "1929427985205198848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979053031120306446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@p1nkpills_666 这不是我们女权男最喜欢的歌手吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1979053031120306446",
+        "created_at": "2025-10-17T06:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T07:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979078286149062922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1929427985205198848",
+              "start": 0,
+              "username": "p1nkpills_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979078286149062922",
+        "in_reply_to_user_id": "1929427985205198848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979053031120306446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1nkpills_666 这不是我们女权男最喜欢的歌手吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929427985205198848",
+        "conversation_id": "1979053031120306446",
+        "created_at": "2025-10-17T05:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T06:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979053031120306446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979053031120306446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太好了拉娜德芮终于变成小众逼歌手了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 340,
+          "like_count": 3578,
+          "listed_count": 7,
+          "media_count": 336,
+          "tweet_count": 4758
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T06:41:05.000Z",
+        "description": "=愤愤 pan🏳️‍🌈🏴‍☠️这里是🚮不约炮没逼没屌",
+        "id": "1929427985205198848",
+        "location": "给我钱",
+        "name": "p1nkp1ll$",
+        "pinned_tweet_id": "1951784333745803686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978512361423241216/hEAwFAZv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 402,
+          "like_count": 4944,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1242
+        },
+        "username": "p1nkpills_666",
+        "verified": false
+      }
+    ]
+  }
+}

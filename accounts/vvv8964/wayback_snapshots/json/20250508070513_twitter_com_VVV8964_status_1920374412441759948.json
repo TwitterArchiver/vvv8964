@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920374410432696320"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1920374412441759948",
+    "created_at": "2025-05-08T07:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T08:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920374412441759948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yl4EUEliFW",
+          "end": 127,
+          "expanded_url": "https://x.com/VVV8964/status/1920374412441759948/photo/1",
+          "media_key": "3_1920374410432696320",
+          "start": 104,
+          "url": "https://t.co/Yl4EUEliFW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920374412441759948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "k粉鼻喷的药检结果出来了，没有芬太尼，但是因为鼻喷大部分都是水，所以检测的人不能确认是不是氯胺酮，只能说比较相似，基本上可以确认是真货了。\n检测机构的人也很好，很耐心很友好，说话也很幽默，真的很喜欢这种氛围 https://t.co/Yl4EUEliFW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 389,
+        "media_key": "3_1920374410432696320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqaKWgmXUAAUL71.jpg",
+        "width": 389
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920374410432696320"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1920374412441759948",
+        "created_at": "2025-05-08T07:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T08:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920374412441759948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yl4EUEliFW",
+              "end": 127,
+              "expanded_url": "https://x.com/VVV8964/status/1920374412441759948/photo/1",
+              "media_key": "3_1920374410432696320",
+              "start": 104,
+              "url": "https://t.co/Yl4EUEliFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920374412441759948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "k粉鼻喷的药检结果出来了，没有芬太尼，但是因为鼻喷大部分都是水，所以检测的人不能确认是不是氯胺酮，只能说比较相似，基本上可以确认是真货了。\n检测机构的人也很好，很耐心很友好，说话也很幽默，真的很喜欢这种氛围 https://t.co/Yl4EUEliFW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 184,
+          "like_count": 420,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 1191
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

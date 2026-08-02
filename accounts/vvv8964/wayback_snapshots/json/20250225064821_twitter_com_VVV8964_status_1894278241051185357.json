@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1893967405128540268",
+    "created_at": "2025-02-25T06:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T07:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894278241051185357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "954724026806448128",
+          "start": 0,
+          "username": "libertyelysium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894278241051185357",
+    "in_reply_to_user_id": "954724026806448128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893967405128540268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libertyelysium 温哥华自助火锅感觉都没有很惊艳的口感，而且我也不是很会吃，到嘴里都是肉，吃不出什么大差别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1893967405128540268",
+        "created_at": "2025-02-25T06:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T07:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894278241051185357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "954724026806448128",
+              "start": 0,
+              "username": "libertyelysium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894278241051185357",
+        "in_reply_to_user_id": "954724026806448128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893967405128540268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libertyelysium 温哥华自助火锅感觉都没有很惊艳的口感，而且我也不是很会吃，到嘴里都是肉，吃不出什么大差别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "954724026806448128",
+        "conversation_id": "1893967405128540268",
+        "created_at": "2025-02-24T10:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T11:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893967405128540268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893967405128540268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 811,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想念之前在加拿大吃的自助火锅了，不过换算一下一个人三百块在中国不也是随便点吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 159,
+          "like_count": 256,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 845
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "@RGW90的忠实护卫犬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "location": "精神科",
+        "name": "这个不需要了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853809858203811840/NRmse9nN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7657,
+          "following_count": 590,
+          "like_count": 71724,
+          "listed_count": 26,
+          "media_count": 1655,
+          "tweet_count": 26398
+        },
+        "username": "libertyelysium",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1856215120940281941",
+    "created_at": "2024-11-12T07:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T08:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856232896962699562"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1856232896962699562",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856226671038476678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草我好像有点外幻，跟5mg 2cb类似 感觉直线微微弯曲但是看着又很正常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1856215120940281941",
+        "created_at": "2024-11-12T07:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T08:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856232896962699562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856232896962699562",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856226671038476678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草我好像有点外幻，跟5mg 2cb类似 感觉直线微微弯曲但是看着又很正常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1856215120940281941",
+        "created_at": "2024-11-12T06:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T07:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856226671038476678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856226671038476678",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856215120940281941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "焦虑抑制，可以感受到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 如果你给我点赞的话我会很开心\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 82,
+          "like_count": 94,
+          "listed_count": 0,
+          "tweet_count": 300
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

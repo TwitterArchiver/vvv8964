@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1286296657135468545",
+          "name": "TikTok"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286296657135468545",
+          "name": "TikTok"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1983025277572886683",
+    "created_at": "2025-10-28T04:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T05:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983025277572886683"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "Six-seven",
+          "probability": 0.6088,
+          "start": 39,
+          "type": "Other"
+        },
+        {
+          "end": 78,
+          "normalized_text": "TikTok",
+          "probability": 0.987,
+          "start": 73,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "8717312",
+          "start": 3,
+          "username": "Bitdefender"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983025277572886683",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977720980765118897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bitdefender: Heard your child say “Six-seven”?\nIt’s not code. It’s a TikTok trend, and the good news: it’s harmless.\nHere’s what it act…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1286296657135468545",
+              "name": "TikTok"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286296657135468545",
+              "name": "TikTok"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1983025277572886683",
+        "created_at": "2025-10-28T04:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T05:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983025277572886683"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "Six-seven",
+              "probability": 0.6088,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 78,
+              "normalized_text": "TikTok",
+              "probability": 0.987,
+              "start": 73,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "8717312",
+              "start": 3,
+              "username": "Bitdefender"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983025277572886683",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977720980765118897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bitdefender: Heard your child say “Six-seven”?\nIt’s not code. It’s a TikTok trend, and the good news: it’s harmless.\nHere’s what it act…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "8717312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1286296657135468545",
+              "name": "TikTok"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286296657135468545",
+              "name": "TikTok"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1977720980765118897",
+        "created_at": "2025-10-13T13:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T14:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977720980765118897"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Six-seven",
+              "probability": 0.6604,
+              "start": 22,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "TikTok",
+              "probability": 0.9865,
+              "start": 56,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977720980765118897",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1145,
+          "impression_count": 7968984,
+          "like_count": 1970,
+          "quote_count": 87,
+          "reply_count": 294,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "Heard your child say “Six-seven”?\nIt’s not code. It’s a TikTok trend, and the good news: it’s harmless.\nHere’s what it actually means:"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 349,
+          "like_count": 3711,
+          "listed_count": 9,
+          "media_count": 374,
+          "tweet_count": 4954
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2007-09-07T06:18:53.000Z",
+        "description": "Award-winning cybersecurity you can trust and rely on.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bitdefend.me/Trusted_Always",
+                "end": 23,
+                "expanded_url": "https://bitdefend.me/Trusted_Always",
+                "start": 0,
+                "url": "https://t.co/6UUedsloAE"
+              }
+            ]
+          }
+        },
+        "id": "8717312",
+        "location": "Bucharest, Romania",
+        "name": "Bitdefender",
+        "pinned_tweet_id": "1930582827663536316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714621815652278272/n-Kb7nKV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113903,
+          "following_count": 3105,
+          "like_count": 7868,
+          "listed_count": 1397,
+          "media_count": 3028,
+          "tweet_count": 33135
+        },
+        "url": "https://t.co/6UUedsloAE",
+        "username": "Bitdefender",
+        "verified": true
+      }
+    ]
+  }
+}

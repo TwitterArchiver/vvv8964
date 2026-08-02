@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1924692479393333576",
+    "created_at": "2025-05-21T01:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T02:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925001375932715319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1658222935717580800",
+          "start": 0,
+          "username": "xiaosong23_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925001375932715319",
+    "in_reply_to_user_id": "1658222935717580800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924998430302343536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaosong23_3 给我一个理由"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1924692479393333576",
+        "created_at": "2025-05-21T01:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T02:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925001375932715319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1658222935717580800",
+              "start": 0,
+              "username": "xiaosong23_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925001375932715319",
+        "in_reply_to_user_id": "1658222935717580800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924998430302343536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaosong23_3 给我一个理由"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658222935717580800",
+        "conversation_id": "1924692479393333576",
+        "created_at": "2025-05-21T01:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T02:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924998430302343536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924998430302343536",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924998269920485856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 和好了我可以接着骂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  |||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 225,
+          "like_count": 565,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 1429
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T21:29:02.000Z",
+        "description": "。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizuame.chat",
+                "end": 23,
+                "expanded_url": "https://mizuame.chat",
+                "start": 0,
+                "url": "https://t.co/nQbnc0JGzG"
+              }
+            ]
+          }
+        },
+        "id": "1658222935717580800",
+        "location": "度数45度の泥の中",
+        "name": "バタフライ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921549785045270528/B8l_3U0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 391,
+          "like_count": 23787,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 3395
+        },
+        "url": "https://t.co/nQbnc0JGzG",
+        "username": "xiaosong23_3",
+        "verified": false
+      }
+    ]
+  }
+}

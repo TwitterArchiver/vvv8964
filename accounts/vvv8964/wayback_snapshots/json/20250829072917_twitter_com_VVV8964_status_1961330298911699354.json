@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1961330298911699354",
+    "created_at": "2025-08-29T07:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T08:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961330298911699354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VVV8964/status…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/VVV8964/status/1947657179592593605",
+          "start": 23,
+          "url": "https://t.co/E0Xo29RPe9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961330298911699354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947657179592593605",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好 现在好奇我跟我小女友的事情的也可以来问了 https://t.co/E0Xo29RPe9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1961330298911699354",
+        "created_at": "2025-08-29T07:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T08:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961330298911699354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VVV8964/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/VVV8964/status/1947657179592593605",
+              "start": 23,
+              "url": "https://t.co/E0Xo29RPe9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961330298911699354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947657179592593605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好 现在好奇我跟我小女友的事情的也可以来问了 https://t.co/E0Xo29RPe9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947657179592593605",
+        "created_at": "2025-07-22T13:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T14:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947657179592593605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/vvv8964",
+              "end": 23,
+              "expanded_url": "https://ngl.link/vvv8964",
+              "start": 0,
+              "status": 200,
+              "title": "@vvv8964: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/vvv8964",
+              "url": "https://t.co/mNKBWJi2PC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947657179592593605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8473,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mNKBWJi2PC\n请来匿名骚扰我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 329,
+          "like_count": 2673,
+          "listed_count": 4,
+          "media_count": 191,
+          "tweet_count": 3578
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

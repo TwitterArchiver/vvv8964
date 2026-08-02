@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1969475419368776170",
+    "created_at": "2025-09-21T03:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T04:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969600198310838509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "408702956",
+          "start": 0,
+          "username": "niceball_wuwaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969600198310838509",
+    "in_reply_to_user_id": "408702956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969599089286529323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niceball_wuwaa 国内哪来的大麻饼干😱😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1969475419368776170",
+        "created_at": "2025-09-21T03:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T04:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969600198310838509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "408702956",
+              "start": 0,
+              "username": "niceball_wuwaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969600198310838509",
+        "in_reply_to_user_id": "408702956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969599089286529323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niceball_wuwaa 国内哪来的大麻饼干😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "408702956",
+        "conversation_id": "1969475419368776170",
+        "created_at": "2025-09-21T03:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T04:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969599089286529323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969599089286529323",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969512478251106662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 在国内"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 331,
+          "like_count": 3091,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 4199
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-09T19:40:59.000Z",
+        "description": "间歇存在 持续虚无 雄性萌豚 术力口厨 车万小鬼 舞萌废人 主动离职 收入为零 微博难民 点赞狂魔 菜逼码农 本科废物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vicooci.com",
+                "end": 23,
+                "expanded_url": "https://www.vicooci.com/",
+                "start": 0,
+                "url": "https://t.co/bgFcMSlPUn"
+              }
+            ]
+          }
+        },
+        "id": "408702956",
+        "location": "Toronto, Ontario",
+        "name": "王萌豚",
+        "pinned_tweet_id": "1969475419368776170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888338555484684288/8oc2KYdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7727,
+          "following_count": 1794,
+          "like_count": 381540,
+          "listed_count": 37,
+          "media_count": 5080,
+          "tweet_count": 64455
+        },
+        "url": "https://t.co/bgFcMSlPUn",
+        "username": "niceball_wuwaa",
+        "verified": true
+      }
+    ]
+  }
+}

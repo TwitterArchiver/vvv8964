@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Berlin",
+          "id": "855410510082080770",
+          "name": "Berlin"
+        }
+      }
+    ],
+    "conversation_id": "1941827197960077739",
+    "created_at": "2025-07-06T11:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T12:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941827197960077739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/echompls/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/echompls/status/1941603640386437452",
+          "start": 4,
+          "url": "https://t.co/nIvuCKumMV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941827197960077739",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941603640386437452",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "💀💀💀 https://t.co/nIvuCKumMV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 740,
+        "media_key": "3_1941603635160289280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvH2OBhWEAAdOFT.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          }
+        ],
+        "conversation_id": "1941827197960077739",
+        "created_at": "2025-07-06T11:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T12:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941827197960077739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/echompls/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/echompls/status/1941603640386437452",
+              "start": 4,
+              "url": "https://t.co/nIvuCKumMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941827197960077739",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941603640386437452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "💀💀💀 https://t.co/nIvuCKumMV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941603635160289280"
+          ]
+        },
+        "author_id": "1289945360845209601",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          }
+        ],
+        "conversation_id": "1941603640386437452",
+        "created_at": "2025-07-05T21:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T22:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941603640386437452"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "Berlin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/auNl90dJ2Z",
+              "end": 31,
+              "expanded_url": "https://x.com/echompls/status/1941603640386437452/photo/1",
+              "media_key": "3_1941603635160289280",
+              "start": 8,
+              "url": "https://t.co/auNl90dJ2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941603640386437452",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2160,
+          "impression_count": 373558,
+          "like_count": 14932,
+          "quote_count": 91,
+          "reply_count": 67,
+          "retweet_count": 802
+        },
+        "reply_settings": "everyone",
+        "text": "#Berlin https://t.co/auNl90dJ2Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 270,
+          "like_count": 1154,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 2117
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-02T15:25:23.000Z",
+        "description": "echo in Minneapolis",
+        "id": "1289945360845209601",
+        "location": "Vibeistan",
+        "name": "the vibe formerly known as julian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824483632896987142/9Oiy3hQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36282,
+          "following_count": 406,
+          "like_count": 25071,
+          "listed_count": 30,
+          "media_count": 3934,
+          "tweet_count": 24234
+        },
+        "username": "echompls",
+        "verified": false
+      }
+    ]
+  }
+}

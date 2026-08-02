@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979575893891694592"
+      ],
+      "media_source_tweet_id": [
+        "1979575900825174061"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1979632396766204019",
+    "created_at": "2025-10-18T19:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T20:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979632396766204019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1956920578558087168",
+          "start": 3,
+          "username": "Warriorovzog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R0yGt1Ny1X",
+          "end": 41,
+          "expanded_url": "https://x.com/Warriorovzog/status/1979575900825174061/photo/1",
+          "media_key": "3_1979575893891694592",
+          "start": 18,
+          "url": "https://t.co/R0yGt1Ny1X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979632396766204019",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979575900825174061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Warriorovzog: https://t.co/R0yGt1Ny1X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979575893891694592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jdyYlXQAAYGxr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979575893891694592"
+          ],
+          "media_source_tweet_id": [
+            "1979575900825174061"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1979632396766204019",
+        "created_at": "2025-10-18T19:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T20:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979632396766204019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1956920578558087168",
+              "start": 3,
+              "username": "Warriorovzog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R0yGt1Ny1X",
+              "end": 41,
+              "expanded_url": "https://x.com/Warriorovzog/status/1979575900825174061/photo/1",
+              "media_key": "3_1979575893891694592",
+              "start": 18,
+              "url": "https://t.co/R0yGt1Ny1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979632396766204019",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979575900825174061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Warriorovzog: https://t.co/R0yGt1Ny1X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979575893891694592"
+          ]
+        },
+        "author_id": "1956920578558087168",
+        "conversation_id": "1979575900825174061",
+        "created_at": "2025-10-18T15:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T16:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979575900825174061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R0yGt1Ny1X",
+              "end": 23,
+              "expanded_url": "https://x.com/Warriorovzog/status/1979575900825174061/photo/1",
+              "media_key": "3_1979575893891694592",
+              "start": 0,
+              "url": "https://t.co/R0yGt1Ny1X"
+            },
+            {
+              "display_url": "x.com/warriorovzog/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/warriorovzog/status/1979550224164032761",
+              "start": 24,
+              "url": "https://t.co/e4eGmoc2oa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979575900825174061",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 8963,
+          "like_count": 392,
+          "quote_count": 12,
+          "reply_count": 19,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979550224164032761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/R0yGt1Ny1X https://t.co/e4eGmoc2oa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 341,
+          "like_count": 3606,
+          "listed_count": 7,
+          "media_count": 340,
+          "tweet_count": 4804
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T03:26:42.000Z",
+        "description": "Gentilean Marxist | New Deal Democrat | NATO Supporter | Leader of the Orlando chapter of thugshaker nation | ❤️ @sixmlncookies",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 113,
+                "username": "sixmlncookies"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Orlandothugs",
+                "end": 23,
+                "expanded_url": "https://t.me/Orlandothugs",
+                "start": 0,
+                "url": "https://t.co/Y6utJfu25D"
+              }
+            ]
+          }
+        },
+        "id": "1956920578558087168",
+        "location": "Orlando, FL",
+        "name": "Woke Mussolini 🇺🇸",
+        "pinned_tweet_id": "1979575900825174061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968331381563674624/nRlQ-N0y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 2769,
+          "like_count": 14605,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 3663
+        },
+        "url": "https://t.co/Y6utJfu25D",
+        "username": "Warriorovzog",
+        "verified": true
+      }
+    ]
+  }
+}

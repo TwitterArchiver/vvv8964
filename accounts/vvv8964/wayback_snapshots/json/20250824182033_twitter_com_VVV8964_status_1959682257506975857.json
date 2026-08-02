@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1959640735604773220",
+    "created_at": "2025-08-24T18:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T19:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959682257506975857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1900779126245769216",
+          "start": 0,
+          "username": "fawpv25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959682257506975857",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959640735604773220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 真蘑菇可以，k也可以，其他的不一定，我觉得抗抑郁效果是和认知影响相关的，4homet这种认知影响不大可能不能抗抑郁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1959640735604773220",
+        "created_at": "2025-08-24T18:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T19:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959682257506975857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1900779126245769216",
+              "start": 0,
+              "username": "fawpv25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959682257506975857",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959640735604773220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 真蘑菇可以，k也可以，其他的不一定，我觉得抗抑郁效果是和认知影响相关的，4homet这种认知影响不大可能不能抗抑郁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900779126245769216",
+        "conversation_id": "1959640735604773220",
+        "created_at": "2025-08-24T15:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T16:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959640735604773220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959640735604773220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od以及用psychedelics真的能抗抑郁吗……我感觉我只有当时是好一点的（而且很多药给我的感觉是淡漠而不是快乐？不过总比悲伤好一点……我喜欢吃玉米是因为cevs，但是也很淡漠）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 329,
+          "like_count": 2604,
+          "listed_count": 4,
+          "media_count": 185,
+          "tweet_count": 3478
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我",
+        "id": "1900779126245769216",
+        "name": "少女人形手枪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957828191445479427/G6DedXhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 125,
+          "like_count": 1891,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 269
+        },
+        "username": "fawpv25",
+        "verified": false
+      }
+    ]
+  }
+}

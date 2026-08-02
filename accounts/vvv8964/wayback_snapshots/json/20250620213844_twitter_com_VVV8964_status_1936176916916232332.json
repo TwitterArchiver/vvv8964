@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936176913443131392"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1936176916916232332",
+    "created_at": "2025-06-20T21:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T22:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936176916916232332"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9gw63cTcRX",
+          "end": 41,
+          "expanded_url": "https://x.com/VVV8964/status/1936176916916232332/photo/1",
+          "media_key": "3_1936176913443131392",
+          "start": 18,
+          "url": "https://t.co/9gw63cTcRX"
+        },
+        {
+          "display_url": "x.com/ScumbagNayR/st…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/ScumbagNayR/status/1935844059953664193",
+          "start": 42,
+          "url": "https://t.co/yXeBD4CO8g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936176916916232332",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935844059953664193",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "mango mango mango https://t.co/9gw63cTcRX https://t.co/yXeBD4CO8g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1603,
+        "media_key": "3_1936176913443131392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt6upPwXEAAutBM.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1187,
+        "media_key": "3_1935844056250085376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt1_6aFWcAAvXhQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936176913443131392"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1936176916916232332",
+        "created_at": "2025-06-20T21:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T22:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936176916916232332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9gw63cTcRX",
+              "end": 41,
+              "expanded_url": "https://x.com/VVV8964/status/1936176916916232332/photo/1",
+              "media_key": "3_1936176913443131392",
+              "start": 18,
+              "url": "https://t.co/9gw63cTcRX"
+            },
+            {
+              "display_url": "x.com/ScumbagNayR/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/ScumbagNayR/status/1935844059953664193",
+              "start": 42,
+              "url": "https://t.co/yXeBD4CO8g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936176916916232332",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935844059953664193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "mango mango mango https://t.co/9gw63cTcRX https://t.co/yXeBD4CO8g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935844056250085376"
+          ]
+        },
+        "author_id": "1743428145938612224",
+        "conversation_id": "1935844059953664193",
+        "created_at": "2025-06-19T23:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T00:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935844059953664193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Mbwcn0n9S",
+              "end": 23,
+              "expanded_url": "https://x.com/ScumbagNayR/status/1935844059953664193/photo/1",
+              "media_key": "3_1935844056250085376",
+              "start": 0,
+              "url": "https://t.co/5Mbwcn0n9S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935844059953664193",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2196,
+          "impression_count": 1447397,
+          "like_count": 52679,
+          "quote_count": 208,
+          "reply_count": 432,
+          "retweet_count": 1571
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5Mbwcn0n9S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 245,
+          "like_count": 880,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 1828
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T00:24:04.000Z",
+        "description": "scumbag",
+        "id": "1743428145938612224",
+        "location": "Cleveland",
+        "name": "Ryan",
+        "pinned_tweet_id": "1824482606823428205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882745541815042048/9FYK_fRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 19,
+          "like_count": 22543,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 189
+        },
+        "username": "ScumbagNayR",
+        "verified": false
+      }
+    ]
+  }
+}

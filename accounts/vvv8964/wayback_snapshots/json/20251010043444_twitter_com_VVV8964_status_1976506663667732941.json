@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1976477774115455168",
+    "created_at": "2025-10-10T04:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T05:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976506663667732941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976506663667732941",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976477774115455168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 好有节目效果的对话"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1528,
+        "media_key": "3_1976477771061919750",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G23cD5qaAAYr62B.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1687,
+        "media_key": "3_1976477771057799168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G23cD5pbIAAP9tz.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1976477774115455168",
+        "created_at": "2025-10-10T04:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T05:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976506663667732941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976506663667732941",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976477774115455168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 好有节目效果的对话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976477771061919750",
+            "3_1976477771057799168"
+          ]
+        },
+        "author_id": "1657055349982244865",
+        "conversation_id": "1976477774115455168",
+        "created_at": "2025-10-10T02:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T03:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976477774115455168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wHSjXiH6me",
+              "end": 56,
+              "expanded_url": "https://x.com/Glagagapot/status/1976477774115455168/photo/1",
+              "media_key": "3_1976477771061919750",
+              "start": 33,
+              "url": "https://t.co/wHSjXiH6me"
+            },
+            {
+              "display_url": "pic.x.com/wHSjXiH6me",
+              "end": 56,
+              "expanded_url": "https://x.com/Glagagapot/status/1976477774115455168/photo/1",
+              "media_key": "3_1976477771057799168",
+              "start": 33,
+              "url": "https://t.co/wHSjXiH6me"
+            },
+            {
+              "display_url": "x.com/glagagapot/sta…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/glagagapot/status/1976446562743337151",
+              "start": 57,
+              "url": "https://t.co/aj2wqYJ6Gz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976477774115455168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976446562743337151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好伟大.....我就需要实际解决方法而不是没用的哄哄，非常安心😭 https://t.co/wHSjXiH6me https://t.co/aj2wqYJ6Gz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 334,
+          "like_count": 3445,
+          "listed_count": 6,
+          "media_count": 309,
+          "tweet_count": 4620
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "嘎生物｜郭楠｜讲话猎奇恶俗请谨慎关注",
+        "id": "1657055349982244865",
+        "location": "🇨🇦嘎国嘎窝",
+        "name": "ガガ鳥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974696682429497344/1ctxEGsf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 1086,
+          "like_count": 71382,
+          "listed_count": 6,
+          "media_count": 1955,
+          "tweet_count": 23688
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

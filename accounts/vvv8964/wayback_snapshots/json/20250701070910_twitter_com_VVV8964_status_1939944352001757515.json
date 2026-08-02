@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1939919580388106532",
+    "created_at": "2025-07-01T07:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T08:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939944352001757515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1366816026092994563",
+          "start": 0,
+          "username": "2ZXfUQjk1TcyuY6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939944352001757515",
+    "in_reply_to_user_id": "1366816026092994563",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939936728669663618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2ZXfUQjk1TcyuY6 我会都走一圈，包括台北"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1939919580388106532",
+        "created_at": "2025-07-01T07:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T08:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939944352001757515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1366816026092994563",
+              "start": 0,
+              "username": "2ZXfUQjk1TcyuY6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939944352001757515",
+        "in_reply_to_user_id": "1366816026092994563",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939936728669663618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2ZXfUQjk1TcyuY6 我会都走一圈，包括台北"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366816026092994563",
+        "conversation_id": "1939919580388106532",
+        "created_at": "2025-07-01T06:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T07:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939936728669663618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939936728669663618",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939919580388106532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 在北部嗎😭😭抱歉是小號"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 264,
+          "like_count": 1063,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 2027
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-02T18:22:32.000Z",
+        "description": "",
+        "id": "1366816026092994563",
+        "name": "あの子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933676112594489344/Urr7WbjE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 0,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "2ZXfUQjk1TcyuY6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1964013519482892607",
+    "created_at": "2025-09-05T17:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T18:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964013519482892607"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1964013519482892607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "瑞幸咖啡真的好香，我特别喜欢那个生椰拿铁，但是我到加拿大了喝不到了，街上买的咖啡好像也没那个味道，有没有人知道哪里能买到类似的咖啡，自己做也行，我家有咖啡机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1964013519482892607",
+        "created_at": "2025-09-05T17:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T18:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964013519482892607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964013519482892607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "瑞幸咖啡真的好香，我特别喜欢那个生椰拿铁，但是我到加拿大了喝不到了，街上买的咖啡好像也没那个味道，有没有人知道哪里能买到类似的咖啡，自己做也行，我家有咖啡机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 333,
+          "like_count": 2868,
+          "listed_count": 4,
+          "media_count": 214,
+          "tweet_count": 3825
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

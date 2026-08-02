@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1976774766188281861"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1976723301713203344",
+    "created_at": "2025-10-10T22:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T23:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976774773515628847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1407069627046416390",
+          "start": 0,
+          "username": "Areter19"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dK2cVC2tMm",
+          "end": 33,
+          "expanded_url": "https://x.com/VVV8964/status/1976774773515628847/photo/1",
+          "media_key": "16_1976774766188281861",
+          "start": 10,
+          "url": "https://t.co/dK2cVC2tMm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976774773515628847",
+    "in_reply_to_user_id": "1407069627046416390",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976767250519687366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Areter19 https://t.co/dK2cVC2tMm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 92,
+        "media_key": "16_1976774766188281861",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G27qLSubwAUqWtq.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G27qLSubwAUqWtq.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1976774766188281861"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1976723301713203344",
+        "created_at": "2025-10-10T22:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T23:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976774773515628847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1407069627046416390",
+              "start": 0,
+              "username": "Areter19"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dK2cVC2tMm",
+              "end": 33,
+              "expanded_url": "https://x.com/VVV8964/status/1976774773515628847/photo/1",
+              "media_key": "16_1976774766188281861",
+              "start": 10,
+              "url": "https://t.co/dK2cVC2tMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976774773515628847",
+        "in_reply_to_user_id": "1407069627046416390",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976767250519687366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Areter19 https://t.co/dK2cVC2tMm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407069627046416390",
+        "conversation_id": "1976723301713203344",
+        "created_at": "2025-10-10T21:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T22:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976767250519687366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976767250519687366",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976723301713203344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 *我们* 的黑鬼，同志。（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 335,
+          "like_count": 3459,
+          "listed_count": 6,
+          "media_count": 314,
+          "tweet_count": 4644
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T20:15:41.000Z",
+        "description": "普普通通一男(?)的｜in my late 20s | 试着包容看到的世界｜NO Politics | Bi | INFP-T 9w1（划掉）intp4w5 | 波士顿的小伙伴可以线下玩 | ymsf警察 | depression & anxiety｜“牵引我们黑暗的心” | 绝赞求不到职中｜是猫",
+        "id": "1407069627046416390",
+        "location": "某个小房间",
+        "name": "Areter（找不到工作版）",
+        "pinned_tweet_id": "1914395413697978840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880103349682352128/mYkK63j1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 765,
+          "like_count": 23802,
+          "listed_count": 2,
+          "media_count": 626,
+          "tweet_count": 6913
+        },
+        "username": "Areter19",
+        "verified": false
+      }
+    ]
+  }
+}

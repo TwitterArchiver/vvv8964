@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1964048161082921068",
+    "created_at": "2025-09-06T14:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T15:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964338494215782616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1886765037831991296",
+          "start": 0,
+          "username": "MMen_Too"
+        },
+        {
+          "end": 20,
+          "id": "1811690667720212480",
+          "start": 10,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964338494215782616",
+    "in_reply_to_user_id": "1886765037831991296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964337624770109689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MMen_Too @y0zarashi 他是炒作的，不要理他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1964048161082921068",
+        "created_at": "2025-09-06T14:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964338494215782616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886765037831991296",
+              "start": 0,
+              "username": "MMen_Too"
+            },
+            {
+              "end": 20,
+              "id": "1811690667720212480",
+              "start": 10,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964338494215782616",
+        "in_reply_to_user_id": "1886765037831991296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964337624770109689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MMen_Too @y0zarashi 他是炒作的，不要理他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886765037831991296",
+        "conversation_id": "1964048161082921068",
+        "created_at": "2025-09-06T14:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964337624770109689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811690667720212480",
+              "start": 0,
+              "username": "y0zarashi"
+            },
+            {
+              "end": 19,
+              "id": "1561334508212723713",
+              "start": 11,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964337624770109689",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964048161082921068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0zarashi @VVV8964 怎么说 从哪里搞到的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 333,
+          "like_count": 2851,
+          "listed_count": 4,
+          "media_count": 218,
+          "tweet_count": 3851
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T13:13:44.000Z",
+        "description": "07年准大一新生🎀京粤iiiis🖤暴力虐待狂。 擅长揍哭小男孩。肌肉男和白幼瘦的主人。喜欢我就来给我当狗，收🏧 没过门🚫叫妈🚫",
+        "id": "1886765037831991296",
+        "location": "🚪188/520/1314💗",
+        "name": "闷闷兔To",
+        "pinned_tweet_id": "1936957460352512209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936713298700840960/WD5gmWC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 206,
+          "like_count": 571,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 81
+        },
+        "username": "MMen_Too",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深",
+        "id": "1811690667720212480",
+        "location": "坐牢中",
+        "name": "yozarashi",
+        "pinned_tweet_id": "1963471902980157641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961346431312433153/CHH_VSAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 239,
+          "like_count": 14,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 1534
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

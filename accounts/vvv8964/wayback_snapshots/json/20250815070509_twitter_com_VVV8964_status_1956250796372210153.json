@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1956244308836933889",
+    "created_at": "2025-08-15T07:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T08:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956250796372210153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1226849579951243266",
+          "start": 0,
+          "username": "admi_n123456"
+        },
+        {
+          "end": 24,
+          "id": "1811690667720212480",
+          "start": 14,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956250796372210153",
+    "in_reply_to_user_id": "1226849579951243266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956244308836933889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@admi_n123456 @y0zarashi 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956244297436815360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyX50uqa4AAGF7U.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1956244297440993280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyX50uraoAAIsFM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1956244297415827456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyX50ulaoAAImsn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1956244297445220352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyX50usbIAAK6QY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1956244308836933889",
+        "created_at": "2025-08-15T07:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T08:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956250796372210153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1226849579951243266",
+              "start": 0,
+              "username": "admi_n123456"
+            },
+            {
+              "end": 24,
+              "id": "1811690667720212480",
+              "start": 14,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956250796372210153",
+        "in_reply_to_user_id": "1226849579951243266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956244308836933889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@admi_n123456 @y0zarashi 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956244297436815360",
+            "3_1956244297440993280",
+            "3_1956244297415827456",
+            "3_1956244297445220352"
+          ]
+        },
+        "author_id": "1226849579951243266",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956244308836933889",
+        "created_at": "2025-08-15T06:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T07:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956244308836933889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1811690667720212480",
+              "start": 7,
+              "username": "y0zarashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kqnX9zCayW",
+              "end": 41,
+              "expanded_url": "https://x.com/admi_n123456/status/1956244308836933889/photo/1",
+              "media_key": "3_1956244297436815360",
+              "start": 18,
+              "url": "https://t.co/kqnX9zCayW"
+            },
+            {
+              "display_url": "pic.x.com/kqnX9zCayW",
+              "end": 41,
+              "expanded_url": "https://x.com/admi_n123456/status/1956244308836933889/photo/1",
+              "media_key": "3_1956244297440993280",
+              "start": 18,
+              "url": "https://t.co/kqnX9zCayW"
+            },
+            {
+              "display_url": "pic.x.com/kqnX9zCayW",
+              "end": 41,
+              "expanded_url": "https://x.com/admi_n123456/status/1956244308836933889/photo/1",
+              "media_key": "3_1956244297415827456",
+              "start": 18,
+              "url": "https://t.co/kqnX9zCayW"
+            },
+            {
+              "display_url": "pic.x.com/kqnX9zCayW",
+              "end": 41,
+              "expanded_url": "https://x.com/admi_n123456/status/1956244308836933889/photo/1",
+              "media_key": "3_1956244297445220352",
+              "start": 18,
+              "url": "https://t.co/kqnX9zCayW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956244308836933889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 10,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和仇人见面了 @y0zarashi https://t.co/kqnX9zCayW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 319,
+          "like_count": 2305,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 3083
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:45:17.000Z",
+        "description": "150/45kg 🚪52 双相混合型 ADHD",
+        "id": "1226849579951243266",
+        "location": "距离你约 1km",
+        "name": "Yumemi",
+        "pinned_tweet_id": "1953361666546253991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940652356065976320/uTPzGYBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2048,
+          "following_count": 997,
+          "like_count": 14465,
+          "listed_count": 4,
+          "media_count": 1282,
+          "tweet_count": 8767
+        },
+        "username": "admi_n123456",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深",
+        "id": "1811690667720212480",
+        "location": "复活",
+        "name": "yozarashi",
+        "pinned_tweet_id": "1955915195437736203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952777774772506625/OES61DyF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 220,
+          "like_count": 14,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 1278
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

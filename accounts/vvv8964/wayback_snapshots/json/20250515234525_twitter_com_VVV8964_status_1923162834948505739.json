@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1922858761837789310",
+    "created_at": "2025-05-15T23:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T00:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923162834948505739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910196137015066624",
+          "start": 0,
+          "username": "gunkichi_tanaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923162834948505739",
+    "in_reply_to_user_id": "1910196137015066624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922858761837789310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gunkichi_tanaka 这是加了滤镜吗，还是他本来就这么老"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21438,
+        "height": 1280,
+        "media_key": "13_1922858683853156355",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1922858683853156355/img/pvBlZJwpymvnZff0.jpg",
+        "public_metrics": {
+          "view_count": 1918
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922858683853156355/vid/avc1/320x690/DZQjnAK9c7QTrsan.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922858683853156355/vid/avc1/480x1036/7S7E-RGyrce7K6BW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922858683853156355/vid/avc1/592x1280/qE-zzbpFqSf0fpmE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1922858683853156355/pl/7GeqWTIjIIXYxprZ.m3u8?v=8b9"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1922858761837789310",
+        "created_at": "2025-05-15T23:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T00:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923162834948505739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910196137015066624",
+              "start": 0,
+              "username": "gunkichi_tanaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923162834948505739",
+        "in_reply_to_user_id": "1910196137015066624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922858761837789310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gunkichi_tanaka 这是加了滤镜吗，还是他本来就这么老"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1922858683853156355"
+          ]
+        },
+        "author_id": "1910196137015066624",
+        "conversation_id": "1922858761837789310",
+        "created_at": "2025-05-15T03:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T04:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922858761837789310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FAlMUe2Anf",
+              "end": 32,
+              "expanded_url": "https://x.com/gunkichi_tanaka/status/1922858761837789310/video/1",
+              "media_key": "13_1922858683853156355",
+              "start": 9,
+              "url": "https://t.co/FAlMUe2Anf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922858761837789310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 6218,
+          "like_count": 87,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "打工我会崩溃的😓 https://t.co/FAlMUe2Anf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 204,
+          "like_count": 479,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 1339
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T05:00:37.000Z",
+        "description": "支那人研究中心的特聘研究员，一个专注于研究中国人的中国人｜接受$Li 基金会的资助，平均每条推文收益0.8964 $Li，由美国cia与日本外务省共同支付｜博士毕业论文：《如何使中国人看上去像人类》｜《中国人每日观察》主持人｜枫糖小猫学(唐学)学科奠基人",
+        "id": "1910196137015066624",
+        "location": "Canada",
+        "name": "枫糖Gunkichi Tanaka 2nd 👊🇯🇵🔥",
+        "pinned_tweet_id": "1922580562272772485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910197251210948608/z3EO_4VF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 356,
+          "like_count": 4665,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 1086
+        },
+        "username": "gunkichi_tanaka",
+        "verified": false
+      }
+    ]
+  }
+}

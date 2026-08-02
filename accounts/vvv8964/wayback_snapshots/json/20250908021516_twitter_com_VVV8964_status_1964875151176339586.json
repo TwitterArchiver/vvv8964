@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1964875151176339586",
+    "created_at": "2025-09-08T02:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T03:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964875151176339586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/weirddalle/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/weirddalle/status/1964524297617092996",
+          "start": 6,
+          "url": "https://t.co/8lPMaQL6CI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964875151176339586",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964524297617092996",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "海盗党崛起 https://t.co/8lPMaQL6CI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12809,
+        "height": 720,
+        "media_key": "7_1964524279204073472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1964524279204073472/pu/img/Gw_mFLefeNlnWFAz.jpg",
+        "public_metrics": {
+          "view_count": 974648
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964524279204073472/pu/vid/avc1/320x320/J0_R4aRUVSxzSYAv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964524279204073472/pu/vid/avc1/540x540/JgqktQ-5wTVM5u5R.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964524279204073472/pu/vid/avc1/720x720/5nk0hksARDFaDYle.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1964524279204073472/pu/pl/IxY9Vwynaal6zxKr.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1964875151176339586",
+        "created_at": "2025-09-08T02:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T03:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964875151176339586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weirddalle/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/weirddalle/status/1964524297617092996",
+              "start": 6,
+              "url": "https://t.co/8lPMaQL6CI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964875151176339586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964524297617092996",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "海盗党崛起 https://t.co/8lPMaQL6CI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1964524279204073472"
+          ]
+        },
+        "author_id": "1492677599390322689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1964524297617092996",
+        "created_at": "2025-09-07T03:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T04:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964524297617092996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VL1ACwRRL8",
+              "end": 23,
+              "expanded_url": "https://x.com/weirddalle/status/1964524297617092996/video/1",
+              "media_key": "7_1964524279204073472",
+              "start": 0,
+              "url": "https://t.co/VL1ACwRRL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964524297617092996",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8213,
+          "impression_count": 2174321,
+          "like_count": 38331,
+          "quote_count": 99,
+          "reply_count": 171,
+          "retweet_count": 2254
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VL1ACwRRL8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 334,
+          "like_count": 2894,
+          "listed_count": 4,
+          "media_count": 226,
+          "tweet_count": 3897
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T01:50:55.000Z",
+        "description": "making memes at @memelordtech | @weirddalleslop | create your own memes easily here 👇 try for free",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "memelordtech"
+              },
+              {
+                "end": 47,
+                "start": 32,
+                "username": "weirddalleslop"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "memelord.tech/?via=weirddalle",
+                "end": 23,
+                "expanded_url": "https://memelord.tech/?via=weirddalle",
+                "start": 0,
+                "url": "https://t.co/UtJH236g8c"
+              }
+            ]
+          }
+        },
+        "id": "1492677599390322689",
+        "name": "no context memes",
+        "pinned_tweet_id": "1961429599889273120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694331764091564032/My5iC3pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2130239,
+          "following_count": 583,
+          "like_count": 29900,
+          "listed_count": 3663,
+          "media_count": 25750,
+          "tweet_count": 27862
+        },
+        "url": "https://t.co/UtJH236g8c",
+        "username": "weirddalle",
+        "verified": true
+      }
+    ]
+  }
+}

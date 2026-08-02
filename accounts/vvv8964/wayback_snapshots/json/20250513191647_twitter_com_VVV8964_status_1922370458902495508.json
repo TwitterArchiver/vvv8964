@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922370455647776769",
+        "3_1922370455698120704"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1922370458902495508",
+    "created_at": "2025-05-13T19:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T20:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922370458902495508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UsUSAXQY3k",
+          "end": 90,
+          "expanded_url": "https://x.com/VVV8964/status/1922370458902495508/photo/1",
+          "media_key": "3_1922370455647776769",
+          "start": 67,
+          "url": "https://t.co/UsUSAXQY3k"
+        },
+        {
+          "display_url": "pic.x.com/UsUSAXQY3k",
+          "end": 90,
+          "expanded_url": "https://x.com/VVV8964/status/1922370458902495508/photo/1",
+          "media_key": "3_1922370455698120704",
+          "start": 67,
+          "url": "https://t.co/UsUSAXQY3k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922370458902495508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "加拿大鼠人早上六点起床发现还能睡会，结果一觉醒来十一点了，错过了上午所有的课，抑郁症都来不及发作，赶快收拾书包做饭，去学校上下午的课 https://t.co/UsUSAXQY3k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1922370455647776769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq2hvoeXcAEyzCn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1922370455698120704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq2hvoqXoAAUzuu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922370455647776769",
+            "3_1922370455698120704"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1922370458902495508",
+        "created_at": "2025-05-13T19:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T20:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922370458902495508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UsUSAXQY3k",
+              "end": 90,
+              "expanded_url": "https://x.com/VVV8964/status/1922370458902495508/photo/1",
+              "media_key": "3_1922370455647776769",
+              "start": 67,
+              "url": "https://t.co/UsUSAXQY3k"
+            },
+            {
+              "display_url": "pic.x.com/UsUSAXQY3k",
+              "end": 90,
+              "expanded_url": "https://x.com/VVV8964/status/1922370458902495508/photo/1",
+              "media_key": "3_1922370455698120704",
+              "start": 67,
+              "url": "https://t.co/UsUSAXQY3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922370458902495508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加拿大鼠人早上六点起床发现还能睡会，结果一觉醒来十一点了，错过了上午所有的课，抑郁症都来不及发作，赶快收拾书包做饭，去学校上下午的课 https://t.co/UsUSAXQY3k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 198,
+          "like_count": 464,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 1281
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

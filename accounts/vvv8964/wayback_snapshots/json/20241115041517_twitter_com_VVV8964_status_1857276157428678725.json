@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1857255215268876442",
+    "created_at": "2024-11-15T04:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T05:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857276157428678725"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1857276157428678725",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857255215268876442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "目前没有什么太大的反应，还是剂量太低了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1857255215268876442",
+        "created_at": "2024-11-15T04:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T05:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857276157428678725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857276157428678725",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857255215268876442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前没有什么太大的反应，还是剂量太低了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1857255215268876442",
+        "created_at": "2024-11-15T02:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T03:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857255215268876442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857255215268876442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "口服thc 2mg\n很低的阈值剂量，比我有些一次吃100mg的sb低多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 如果你给我点赞的话我会很开心\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 88,
+          "like_count": 101,
+          "listed_count": 0,
+          "tweet_count": 333
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

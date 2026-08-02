@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1940258692500430866",
+    "created_at": "2025-07-02T03:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T04:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940258692500430866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1940081851504484763",
+          "start": 7,
+          "url": "https://t.co/gwuiwwSfZ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940258692500430866",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940081851504484763",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人称AI革命 https://t.co/gwuiwwSfZ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1618,
+        "media_key": "3_1940081147817451525",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuyNhmMXYAU6bNO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1940258692500430866",
+        "created_at": "2025-07-02T03:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T04:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940258692500430866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1940081851504484763",
+              "start": 7,
+              "url": "https://t.co/gwuiwwSfZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940258692500430866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940081851504484763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人称AI革命 https://t.co/gwuiwwSfZ9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940081147817451525"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1940081851504484763",
+        "created_at": "2025-07-01T16:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T17:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940081851504484763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOAB5aCCtl",
+              "end": 41,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1940081851504484763/photo/1",
+              "media_key": "3_1940081147817451525",
+              "start": 18,
+              "url": "https://t.co/vOAB5aCCtl"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1939715552051699809",
+              "start": 42,
+              "url": "https://t.co/wtMhK0YYqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940081851504484763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 307771,
+          "like_count": 663,
+          "quote_count": 6,
+          "reply_count": 48,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939715552051699809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有网友制作烈性孩童禁养名单表达不满 https://t.co/vOAB5aCCtl https://t.co/wtMhK0YYqj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 266,
+          "like_count": 1085,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 2057
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1933896398610526577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025125,
+          "following_count": 974,
+          "like_count": 7268,
+          "listed_count": 8181,
+          "media_count": 30880,
+          "tweet_count": 37473
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

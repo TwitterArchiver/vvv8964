@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985790509223460865"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "1947657179592593605",
+    "created_at": "2025-11-04T19:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T20:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985790511106629803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MzXtOvcgZr",
+          "end": 178,
+          "expanded_url": "https://x.com/VVV8964/status/1985790511106629803/photo/1",
+          "media_key": "3_1985790509223460865",
+          "start": 155,
+          "url": "https://t.co/MzXtOvcgZr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985790511106629803",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947657179592593605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "去墙外音乐软件或者youtube搜索save Europe playlist，欧洲纳粹小白男最爱，基本上是舞曲，hardstyle，nightcore之类的，有些还挺好听的，我都想自己做一个playlist了，但是分享到网上会泄漏自己的用户名所以还是算了\n（免责声明：仅代表个人音乐喜好，不代表支持其政治立场 https://t.co/MzXtOvcgZr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985790509223460865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47x8mybQAEasKG.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985790509223460865"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1947657179592593605",
+        "created_at": "2025-11-04T19:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T20:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985790511106629803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MzXtOvcgZr",
+              "end": 178,
+              "expanded_url": "https://x.com/VVV8964/status/1985790511106629803/photo/1",
+              "media_key": "3_1985790509223460865",
+              "start": 155,
+              "url": "https://t.co/MzXtOvcgZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985790511106629803",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947657179592593605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去墙外音乐软件或者youtube搜索save Europe playlist，欧洲纳粹小白男最爱，基本上是舞曲，hardstyle，nightcore之类的，有些还挺好听的，我都想自己做一个playlist了，但是分享到网上会泄漏自己的用户名所以还是算了\n（免责声明：仅代表个人音乐喜好，不代表支持其政治立场 https://t.co/MzXtOvcgZr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947657179592593605",
+        "created_at": "2025-07-22T13:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T14:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947657179592593605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/vvv8964",
+              "end": 23,
+              "expanded_url": "https://ngl.link/vvv8964",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/1984469694049337344/glxOwQqE?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1984469694049337344/glxOwQqE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "@vvv8964: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/vvv8964",
+              "url": "https://t.co/mNKBWJi2PC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947657179592593605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 19717,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 71,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mNKBWJi2PC\n请来匿名骚扰我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品\n\n埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZ3Lh"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 357,
+          "like_count": 3807,
+          "listed_count": 9,
+          "media_count": 403,
+          "tweet_count": 5042
+        },
+        "url": "https://t.co/tuzURhZ3Lh",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

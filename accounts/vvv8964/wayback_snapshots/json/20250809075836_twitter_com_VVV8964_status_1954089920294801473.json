@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1954089920294801473",
+    "created_at": "2025-08-09T07:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T08:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954089920294801473"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1954089920294801473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恶心的我又在卫生间痛苦干呕，我真的不想往后余生都被这个药物都无法彻底解决的顽瘴痼疾痛苦折磨，我不想到处旅游了，我不想去加拿大了，我只想在家里蹲一辈子，这样至少我犯恶心的时候不会有路人侧目而视"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1954089920294801473",
+        "created_at": "2025-08-09T07:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T08:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954089920294801473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954089920294801473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恶心的我又在卫生间痛苦干呕，我真的不想往后余生都被这个药物都无法彻底解决的顽瘴痼疾痛苦折磨，我不想到处旅游了，我不想去加拿大了，我只想在家里蹲一辈子，这样至少我犯恶心的时候不会有路人侧目而视"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 309,
+          "like_count": 2075,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 2879
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930422850818846720"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1930422857592647994",
+    "created_at": "2025-06-05T00:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T01:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930422857592647994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DlA6AGjsuY",
+          "end": 88,
+          "expanded_url": "https://x.com/VVV8964/status/1930422857592647994/photo/1",
+          "media_key": "3_1930422850818846720",
+          "start": 65,
+          "url": "https://t.co/DlA6AGjsuY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930422857592647994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在在ubc六四的雕像下面，虽然网上经常开玩笑，但是现实里看到还是很沉重的。有一个ubc的学生跟我搭同一班车来，她给雕像献了花 https://t.co/DlA6AGjsuY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930422850818846720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gso9WuFasAAVdD_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930422850818846720"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1930422857592647994",
+        "created_at": "2025-06-05T00:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T01:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930422857592647994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DlA6AGjsuY",
+              "end": 88,
+              "expanded_url": "https://x.com/VVV8964/status/1930422857592647994/photo/1",
+              "media_key": "3_1930422850818846720",
+              "start": 65,
+              "url": "https://t.co/DlA6AGjsuY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930422857592647994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在在ubc六四的雕像下面，虽然网上经常开玩笑，但是现实里看到还是很沉重的。有一个ubc的学生跟我搭同一班车来，她给雕像献了花 https://t.co/DlA6AGjsuY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 243,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1707
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

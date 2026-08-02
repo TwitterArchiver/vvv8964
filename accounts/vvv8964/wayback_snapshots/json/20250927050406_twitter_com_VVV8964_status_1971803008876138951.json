@@ -1,0 +1,599 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1971259614554619904"
+      ],
+      "media_source_tweet_id": [
+        "1971259674994540840"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Candidate for Governor of California Gavin Newsom",
+          "id": "999344319885524992",
+          "name": "Gavin Newsom"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Candidate for Governor of California Gavin Newsom",
+          "id": "999344319885524992",
+          "name": "Gavin Newsom"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Candidate for Governor of California Gavin Newsom",
+          "id": "999344319885524992",
+          "name": "Gavin Newsom"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1971803008876138951",
+    "created_at": "2025-09-27T05:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T06:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971803008876138951"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Gavin",
+          "probability": 0.5155,
+          "start": 34,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1306767411660677122",
+          "start": 3,
+          "username": "MINFORMACI0N"
+        },
+        {
+          "end": 30,
+          "id": "11347122",
+          "start": 18,
+          "username": "GavinNewsom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/odRXfAvMoI",
+          "end": 84,
+          "expanded_url": "https://x.com/MINFORMACI0N/status/1971259674994540840/video/1",
+          "media_key": "13_1971259614554619904",
+          "start": 61,
+          "url": "https://t.co/odRXfAvMoI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971803008876138951",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 205
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971259674994540840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MINFORMACI0N: @GavinNewsom Oh Gavin. What have you done? https://t.co/odRXfAvMoI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7966,
+        "height": 1118,
+        "media_key": "13_1971259614554619904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1971259614554619904/img/FU5VvoNQ04OM2FWm.jpg",
+        "public_metrics": {
+          "view_count": 40060
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971259614554619904/vid/avc1/278x270/cwiA7wIzVUzJc1o2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1971259614554619904/pl/ethJGmI7Rxr7gM4B.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971259614554619904/vid/avc1/744x720/X7dN0HE221o0bteu.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971259614554619904/vid/avc1/1156x1118/S7d8c-2_U1bsiJJg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971259614554619904/vid/avc1/372x360/QM-qY8S7V3lzyUNG.mp4"
+          }
+        ],
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971259614554619904"
+          ],
+          "media_source_tweet_id": [
+            "1971259674994540840"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Candidate for Governor of California Gavin Newsom",
+              "id": "999344319885524992",
+              "name": "Gavin Newsom"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Candidate for Governor of California Gavin Newsom",
+              "id": "999344319885524992",
+              "name": "Gavin Newsom"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Candidate for Governor of California Gavin Newsom",
+              "id": "999344319885524992",
+              "name": "Gavin Newsom"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1971803008876138951",
+        "created_at": "2025-09-27T05:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T06:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971803008876138951"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Gavin",
+              "probability": 0.5155,
+              "start": 34,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1306767411660677122",
+              "start": 3,
+              "username": "MINFORMACI0N"
+            },
+            {
+              "end": 30,
+              "id": "11347122",
+              "start": 18,
+              "username": "GavinNewsom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/odRXfAvMoI",
+              "end": 84,
+              "expanded_url": "https://x.com/MINFORMACI0N/status/1971259674994540840/video/1",
+              "media_key": "13_1971259614554619904",
+              "start": 61,
+              "url": "https://t.co/odRXfAvMoI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971803008876138951",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 205
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971259674994540840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MINFORMACI0N: @GavinNewsom Oh Gavin. What have you done? https://t.co/odRXfAvMoI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971259614554619904"
+          ]
+        },
+        "author_id": "1306767411660677122",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Candidate for Governor of California Gavin Newsom",
+              "id": "999344319885524992",
+              "name": "Gavin Newsom"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Candidate for Governor of California Gavin Newsom",
+              "id": "999344319885524992",
+              "name": "Gavin Newsom"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Candidate for Governor of California Gavin Newsom",
+              "id": "999344319885524992",
+              "name": "Gavin Newsom"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1971245548712886303",
+        "created_at": "2025-09-25T17:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T18:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971259674994540840"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Gavin",
+              "probability": 0.5618,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "11347122",
+              "start": 0,
+              "username": "GavinNewsom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/odRXfAvMoI",
+              "end": 66,
+              "expanded_url": "https://x.com/MINFORMACI0N/status/1971259674994540840/video/1",
+              "media_key": "13_1971259614554619904",
+              "start": 43,
+              "url": "https://t.co/odRXfAvMoI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971259674994540840",
+        "in_reply_to_user_id": "11347122",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 75213,
+          "like_count": 3945,
+          "quote_count": 28,
+          "reply_count": 20,
+          "retweet_count": 205
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971245548712886303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GavinNewsom Oh Gavin. What have you done? https://t.co/odRXfAvMoI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 336,
+          "like_count": 3202,
+          "listed_count": 5,
+          "media_count": 274,
+          "tweet_count": 4349
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-18T01:30:26.000Z",
+        "description": "Hating the toxic corporate media is more art than science. There's no formula. Just taste, psychology, and chaos tolerance. | Verified meme dealer.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tpusa.com",
+                "end": 23,
+                "expanded_url": "https://tpusa.com",
+                "start": 0,
+                "url": "https://t.co/3xpPy1N5Q3"
+              }
+            ]
+          }
+        },
+        "id": "1306767411660677122",
+        "location": "America Only",
+        "name": "Jack’d 🇺🇸✊🏻",
+        "pinned_tweet_id": "1924527201719841254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966465112014983168/j4foILl5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 370,
+          "like_count": 42359,
+          "listed_count": 17,
+          "media_count": 14164,
+          "tweet_count": 37298
+        },
+        "url": "https://t.co/3xpPy1N5Q3",
+        "username": "MINFORMACI0N",
+        "verified": true
+      },
+      {
+        "created_at": "2007-12-19T19:53:42.000Z",
+        "description": "Husband to @JenSiebelNewsom and father. 40th Governor of California. Host of podcast This is Gavin Newsom.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "JenSiebelNewsom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/govgavinnewsom",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/govgavinnewsom",
+                "start": 0,
+                "url": "https://t.co/teG3D1RNPE"
+              }
+            ]
+          }
+        },
+        "id": "11347122",
+        "location": "California",
+        "name": "Gavin Newsom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1405191782984413184/AJ3ar-ad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2689911,
+          "following_count": 20646,
+          "like_count": 5134,
+          "listed_count": 11357,
+          "media_count": 2657,
+          "tweet_count": 17846
+        },
+        "url": "https://t.co/teG3D1RNPE",
+        "username": "GavinNewsom",
+        "verified": true
+      }
+    ]
+  }
+}

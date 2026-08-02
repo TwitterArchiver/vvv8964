@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1949442574210760771",
+    "created_at": "2025-07-28T06:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T07:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949713098342056021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1279176140138176512",
+          "start": 0,
+          "username": "2SnNY2QPLMkVqGm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949713098342056021",
+    "in_reply_to_user_id": "1279176140138176512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949692461011636498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2SnNY2QPLMkVqGm 什么黑人啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1949442574210760771",
+        "created_at": "2025-07-28T06:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T07:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949713098342056021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1279176140138176512",
+              "start": 0,
+              "username": "2SnNY2QPLMkVqGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949713098342056021",
+        "in_reply_to_user_id": "1279176140138176512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949692461011636498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2SnNY2QPLMkVqGm 什么黑人啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279176140138176512",
+        "conversation_id": "1949442574210760771",
+        "created_at": "2025-07-28T04:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T05:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949692461011636498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949692461011636498",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949442574210760771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 为了黑人 做这一切 值得嘛 先问问自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 297,
+          "like_count": 1772,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 2597
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-03T22:12:24.000Z",
+        "description": "恋母 恋别人妈 玩自己和别人妈妈",
+        "id": "1279176140138176512",
+        "name": "邪教 恶魔的艺术",
+        "pinned_tweet_id": "1844041884454531251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923306040269115392/ZnoP6Agv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 6,
+          "media_count": 2269,
+          "tweet_count": 57425
+        },
+        "username": "2SnNY2QPLMkVqGm",
+        "verified": false
+      }
+    ]
+  }
+}

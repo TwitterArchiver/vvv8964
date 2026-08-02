@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1965697994994672106",
+    "created_at": "2025-09-10T19:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T20:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965853698913087733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1872813296644206592",
+          "start": 0,
+          "username": "Syyf0127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965853698913087733",
+    "in_reply_to_user_id": "1872813296644206592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965697994994672106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Syyf0127 为什么你手机拍照光是这样子的 我手机也有一点但是没有你这么夸张"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965697991010123776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0eP6HnbgAA36MO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1965697994994672106",
+        "created_at": "2025-09-10T19:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T20:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965853698913087733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1872813296644206592",
+              "start": 0,
+              "username": "Syyf0127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965853698913087733",
+        "in_reply_to_user_id": "1872813296644206592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965697994994672106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Syyf0127 为什么你手机拍照光是这样子的 我手机也有一点但是没有你这么夸张"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965697991010123776"
+          ]
+        },
+        "author_id": "1872813296644206592",
+        "conversation_id": "1965697994994672106",
+        "created_at": "2025-09-10T08:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T09:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965697994994672106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eptebhMarx",
+              "end": 27,
+              "expanded_url": "https://x.com/Syyf0127/status/1965697994994672106/photo/1",
+              "media_key": "3_1965697991010123776",
+              "start": 4,
+              "url": "https://t.co/eptebhMarx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965697994994672106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑了😁 https://t.co/eptebhMarx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 332,
+          "like_count": 2935,
+          "listed_count": 4,
+          "media_count": 237,
+          "tweet_count": 3965
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T01:14:31.000Z",
+        "description": "",
+        "id": "1872813296644206592",
+        "name": "WyAn_L",
+        "pinned_tweet_id": "1916591075801829885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872813547115388928/8MJ5egbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 396,
+          "like_count": 4428,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 2481
+        },
+        "username": "Syyf0127",
+        "verified": false
+      }
+    ]
+  }
+}

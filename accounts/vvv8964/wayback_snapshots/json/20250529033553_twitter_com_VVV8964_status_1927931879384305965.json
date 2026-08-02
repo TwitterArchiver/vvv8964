@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1917852735053127804",
+    "created_at": "2025-05-29T03:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T04:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927931879384305965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        },
+        {
+          "end": 28,
+          "id": "1901299981518286848",
+          "start": 15,
+          "username": "kami18181818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927931879384305965",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927929220073705764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 @kami18181818 你这种good trip也挺好的，想法太多有时候反而不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1917852735053127804",
+        "created_at": "2025-05-29T03:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T04:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927931879384305965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 28,
+              "id": "1901299981518286848",
+              "start": 15,
+              "username": "kami18181818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927931879384305965",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927929220073705764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 @kami18181818 你这种good trip也挺好的，想法太多有时候反而不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1917852735053127804",
+        "created_at": "2025-05-29T03:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T04:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927929220073705764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901299981518286848",
+              "start": 0,
+              "username": "kami18181818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927929220073705764",
+        "in_reply_to_user_id": "1901299981518286848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917852735053127804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami18181818 看了好几个人的lsd报告了为什么你们吃完都有那么多自我内省什么的想法，我吃200u就哇这个视幻好牛逼，哇这个变得五彩斑斓了，哇手冲好爽，哇里世界也五彩斑斓了好漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 235,
+          "like_count": 654,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 1542
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️恋人 @Nekosora0228 ❤️ | 墙内好友位🚪68/128 | 匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "Nekosora0228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒od第4天）",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7873,
+          "following_count": 671,
+          "like_count": 18862,
+          "listed_count": 10,
+          "media_count": 2627,
+          "tweet_count": 18440
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-16T15:50:27.000Z",
+        "description": "",
+        "id": "1901299981518286848",
+        "name": "kami",
+        "pinned_tweet_id": "1917852735053127804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909312547976888320/uoGqMJXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 216,
+          "like_count": 1389,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 22
+        },
+        "username": "kami18181818",
+        "verified": false
+      }
+    ]
+  }
+}

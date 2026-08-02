@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1939567823208230959",
+    "created_at": "2025-06-30T06:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T07:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939571583351480538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933750139161882628",
+          "start": 0,
+          "username": "ultrafr34k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939571583351480538",
+    "in_reply_to_user_id": "1933750139161882628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939569041318060340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ultrafr34k 有点前卫了，还好我现在是清醒的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1939569041318060340].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1939569041318060340",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1939569041318060340"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1939567823208230959",
+        "created_at": "2025-06-30T06:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T07:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939571583351480538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933750139161882628",
+              "start": 0,
+              "username": "ultrafr34k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939571583351480538",
+        "in_reply_to_user_id": "1933750139161882628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939569041318060340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ultrafr34k 有点前卫了，还好我现在是清醒的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 262,
+          "like_count": 1030,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 2010
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T04:55:48.000Z",
+        "description": "yeah im back again | genderfluid they/them | no dni ifb | matching with @MORITehhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "MORITehhhh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shallowexists",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shallowexists",
+                "start": 0,
+                "url": "https://t.co/lCxMLDdaLm"
+              }
+            ]
+          }
+        },
+        "id": "1933750139161882628",
+        "location": "shtwt drugstwt",
+        "name": "Ria 13.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933752432431149057/nvdwjjiC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 137,
+          "like_count": 1187,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/lCxMLDdaLm",
+        "username": "ultrafr34k",
+        "verified": false
+      }
+    ]
+  }
+}

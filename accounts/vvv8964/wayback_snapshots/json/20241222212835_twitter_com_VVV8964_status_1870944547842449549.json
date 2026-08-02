@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1870843849008189785",
+    "created_at": "2024-12-22T21:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T22:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870944547842449549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815649539057201152",
+          "start": 0,
+          "username": "NankyuSeiichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870944547842449549",
+    "in_reply_to_user_id": "1815649539057201152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870843849008189785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NankyuSeiichi 是你用了什么prompt吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1870843849008189785",
+        "created_at": "2024-12-22T21:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T22:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870944547842449549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815649539057201152",
+              "start": 0,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870944547842449549",
+        "in_reply_to_user_id": "1815649539057201152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870843849008189785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NankyuSeiichi 是你用了什么prompt吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870843829047148545"
+          ]
+        },
+        "author_id": "1815649539057201152",
+        "conversation_id": "1870843849008189785",
+        "created_at": "2024-12-22T14:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T15:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870843849008189785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MQ3aHthCVq",
+              "end": 28,
+              "expanded_url": "https://x.com/NankyuSeiichi/status/1870843849008189785/photo/1",
+              "media_key": "3_1870843829047148545",
+              "start": 5,
+              "url": "https://t.co/MQ3aHthCVq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870843849008189785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 330,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "？这是在 https://t.co/MQ3aHthCVq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 135,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 492
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "加速南墙/历史进程/沼泽浮木/为时不晚/立场站稳/自然边界",
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1863574456205213709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815652365674160128/rokkTcsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 725,
+          "like_count": 7697,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 4167
+        },
+        "username": "NankyuSeiichi",
+        "verified": false
+      }
+    ]
+  }
+}

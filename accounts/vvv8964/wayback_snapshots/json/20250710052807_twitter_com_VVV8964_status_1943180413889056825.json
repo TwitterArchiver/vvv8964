@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1942971046950490182",
+    "created_at": "2025-07-10T05:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T06:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943180413889056825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1691334965458604032",
+          "start": 0,
+          "username": "Siyan_Xiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943180413889056825",
+    "in_reply_to_user_id": "1691334965458604032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942971046950490182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Siyan_Xiao 请指导我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1548,
+        "media_key": "3_1942970992160075776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvbR0rSW8AAZQ7A.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1514,
+        "media_key": "3_1942970992143257600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvbR0rOWUAA4A4G.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_1942970991992565760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvbR0qqa8AAVNpc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1548,
+        "media_key": "3_1942970992013520896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvbR0qvasAA6Sgq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1942971046950490182",
+        "created_at": "2025-07-10T05:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T06:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943180413889056825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1691334965458604032",
+              "start": 0,
+              "username": "Siyan_Xiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943180413889056825",
+        "in_reply_to_user_id": "1691334965458604032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942971046950490182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siyan_Xiao 请指导我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942970992160075776",
+            "3_1942970992143257600",
+            "3_1942970991992565760",
+            "3_1942970992013520896"
+          ]
+        },
+        "author_id": "1691334965458604032",
+        "conversation_id": "1942971046950490182",
+        "created_at": "2025-07-09T15:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T16:36:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942971007058546849",
+          "1942971046950490182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E88bjTTJVW",
+              "end": 43,
+              "expanded_url": "https://x.com/Siyan_Xiao/status/1942971046950490182/photo/1",
+              "media_key": "3_1942970992160075776",
+              "start": 20,
+              "url": "https://t.co/E88bjTTJVW"
+            },
+            {
+              "display_url": "pic.x.com/E88bjTTJVW",
+              "end": 43,
+              "expanded_url": "https://x.com/Siyan_Xiao/status/1942971046950490182/photo/1",
+              "media_key": "3_1942970992143257600",
+              "start": 20,
+              "url": "https://t.co/E88bjTTJVW"
+            },
+            {
+              "display_url": "pic.x.com/E88bjTTJVW",
+              "end": 43,
+              "expanded_url": "https://x.com/Siyan_Xiao/status/1942971046950490182/photo/1",
+              "media_key": "3_1942970991992565760",
+              "start": 20,
+              "url": "https://t.co/E88bjTTJVW"
+            },
+            {
+              "display_url": "pic.x.com/E88bjTTJVW",
+              "end": 43,
+              "expanded_url": "https://x.com/Siyan_Xiao/status/1942971046950490182/photo/1",
+              "media_key": "3_1942970992013520896",
+              "start": 20,
+              "url": "https://t.co/E88bjTTJVW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942971046950490182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1926,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽，两百多块竟然能在澳门住豪华套房😧 https://t.co/E88bjTTJVW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 275,
+          "like_count": 1290,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 2193
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T06:24:34.000Z",
+        "description": "#ts #三性 / 粉 / 历史爱好者 / 喜欢旅行 / 是只海豹宝宝，打一下不会哭，会咬你一口 / 鲨鱼妹妹：@Sharkie_4005 / 一般分享些日常",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "ts"
+              },
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "三性"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "Sharkie_4005"
+              }
+            ]
+          }
+        },
+        "id": "1691334965458604032",
+        "location": "London, England, UK 🇬🇧",
+        "name": "思言",
+        "pinned_tweet_id": "1931243416513400839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920615580484206592/JOXqPCSA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4553,
+          "following_count": 1256,
+          "like_count": 38676,
+          "listed_count": 21,
+          "media_count": 638,
+          "tweet_count": 14625
+        },
+        "username": "Siyan_Xiao",
+        "verified": true
+      }
+    ]
+  }
+}

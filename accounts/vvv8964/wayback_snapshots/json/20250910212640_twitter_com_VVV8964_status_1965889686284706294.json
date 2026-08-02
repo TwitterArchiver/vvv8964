@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1965858139992956928"
+      ],
+      "media_source_tweet_id": [
+        "1965858146662142053"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      }
+    ],
+    "conversation_id": "1965889686284706294",
+    "created_at": "2025-09-10T21:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T22:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965889686284706294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1385369083525410822",
+          "start": 3,
+          "username": "spectre0799"
+        },
+        {
+          "end": 31,
+          "id": "292929271",
+          "start": 17,
+          "username": "charliekirk11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9LoKQFqGkF",
+          "end": 55,
+          "expanded_url": "https://x.com/spectre0799/status/1965858146662142053/photo/1",
+          "media_key": "16_1965858139992956928",
+          "start": 32,
+          "url": "https://t.co/9LoKQFqGkF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965889686284706294",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 471
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965858146662142053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @spectre0799: @charliekirk11 https://t.co/9LoKQFqGkF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "16_1965858139992956928",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G0ghkBEXIAAtJko.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G0ghkBEXIAAtJko.mp4"
+          }
+        ],
+        "width": 334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1965858139992956928"
+          ],
+          "media_source_tweet_id": [
+            "1965858146662142053"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "1965889686284706294",
+        "created_at": "2025-09-10T21:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T22:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965889686284706294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1385369083525410822",
+              "start": 3,
+              "username": "spectre0799"
+            },
+            {
+              "end": 31,
+              "id": "292929271",
+              "start": 17,
+              "username": "charliekirk11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LoKQFqGkF",
+              "end": 55,
+              "expanded_url": "https://x.com/spectre0799/status/1965858146662142053/photo/1",
+              "media_key": "16_1965858139992956928",
+              "start": 32,
+              "url": "https://t.co/9LoKQFqGkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965889686284706294",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 471
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965858146662142053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @spectre0799: @charliekirk11 https://t.co/9LoKQFqGkF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1965858139992956928"
+          ]
+        },
+        "author_id": "1385369083525410822",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "480862236173692928",
+        "created_at": "2025-09-10T19:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T20:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965858146662142053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "292929271",
+              "start": 0,
+              "username": "charliekirk11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LoKQFqGkF",
+              "end": 38,
+              "expanded_url": "https://x.com/spectre0799/status/1965858146662142053/photo/1",
+              "media_key": "16_1965858139992956928",
+              "start": 15,
+              "url": "https://t.co/9LoKQFqGkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965858146662142053",
+        "in_reply_to_user_id": "292929271",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 507,
+          "impression_count": 628891,
+          "like_count": 19517,
+          "quote_count": 10,
+          "reply_count": 33,
+          "retweet_count": 471
+        },
+        "referenced_tweets": [
+          {
+            "id": "480862236173692928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@charliekirk11 https://t.co/9LoKQFqGkF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 331,
+          "like_count": 2941,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 3968
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T23:05:23.000Z",
+        "description": "hip-hop & r&b content - mashups, just my voice, and original music. 190k+ subs 🇨🇦 🇯🇲 \n\naccount ran by me & @qoqinox\n\ninquiries: spectre.youtub3@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 107,
+                "username": "qoqinox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/spectre0799",
+                "end": 23,
+                "expanded_url": "https://www.linktr.ee/spectre0799",
+                "start": 0,
+                "url": "https://t.co/S9k4TwekjU"
+              }
+            ]
+          }
+        },
+        "id": "1385369083525410822",
+        "location": "Toronto, Canada",
+        "name": "Spectre",
+        "pinned_tweet_id": "1942999697653891193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1385369807470616576/5wxkGhzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100425,
+          "following_count": 940,
+          "like_count": 11521,
+          "listed_count": 77,
+          "media_count": 1124,
+          "tweet_count": 6545
+        },
+        "url": "https://t.co/S9k4TwekjU",
+        "username": "spectre0799",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-04T13:37:25.000Z",
+        "description": "Founder & CEO: @TPUSA + @TPAction_ • Host: The Charlie Kirk Show • Click the link below to subscribe 🇺🇸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 15,
+                "username": "TPUSA"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "TPAction_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "podcasts.apple.com/us/podcast/the…",
+                "end": 23,
+                "expanded_url": "https://podcasts.apple.com/us/podcast/the-charlie-kirk-show/id1460600818",
+                "start": 0,
+                "url": "https://t.co/qiKLOzdk76"
+              }
+            ]
+          }
+        },
+        "id": "292929271",
+        "location": "Phoenix, AZ",
+        "name": "Charlie Kirk",
+        "pinned_tweet_id": "1965807372871532818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960021282202021888/uf_03Y-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5402223,
+          "following_count": 184955,
+          "like_count": 38305,
+          "listed_count": 12228,
+          "media_count": 12038,
+          "tweet_count": 71499
+        },
+        "url": "https://t.co/qiKLOzdk76",
+        "username": "charliekirk11",
+        "verified": true
+      }
+    ]
+  }
+}

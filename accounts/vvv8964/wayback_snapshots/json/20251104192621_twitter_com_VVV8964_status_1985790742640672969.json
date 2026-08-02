@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985790741076197379"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1947657179592593605",
+    "created_at": "2025-11-04T19:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T20:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985790742640672969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6IiOZD7vxd",
+          "end": 29,
+          "expanded_url": "https://x.com/VVV8964/status/1985790742640672969/photo/1",
+          "media_key": "3_1985790741076197379",
+          "start": 6,
+          "url": "https://t.co/6IiOZD7vxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985790742640672969",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947657179592593605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "nigga https://t.co/6IiOZD7vxd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985790741076197379",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47yKGgbQAMGLAp.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985790741076197379"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947657179592593605",
+        "created_at": "2025-11-04T19:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T20:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985790742640672969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6IiOZD7vxd",
+              "end": 29,
+              "expanded_url": "https://x.com/VVV8964/status/1985790742640672969/photo/1",
+              "media_key": "3_1985790741076197379",
+              "start": 6,
+              "url": "https://t.co/6IiOZD7vxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985790742640672969",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947657179592593605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "nigga https://t.co/6IiOZD7vxd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947657179592593605",
+        "created_at": "2025-07-22T13:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T14:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947657179592593605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/vvv8964",
+              "end": 23,
+              "expanded_url": "https://ngl.link/vvv8964",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/1984469694049337344/glxOwQqE?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1984469694049337344/glxOwQqE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "@vvv8964: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/vvv8964",
+              "url": "https://t.co/mNKBWJi2PC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947657179592593605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 19718,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 73,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mNKBWJi2PC\n请来匿名骚扰我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品\n\n埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZ3Lh"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 357,
+          "like_count": 3807,
+          "listed_count": 9,
+          "media_count": 405,
+          "tweet_count": 5044
+        },
+        "url": "https://t.co/tuzURhZ3Lh",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1929217013898944879",
+    "created_at": "2025-06-01T19:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T20:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929252265300197483"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1929252265300197483",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929242824609820938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我把堆在那里好久的衣服整理了一下，但我不知道是ADHD药物起效了，还是我在迎合“吃药后整理衣服”的刻板印象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1929217013898944879",
+        "created_at": "2025-06-01T19:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T20:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929252265300197483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929252265300197483",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929242824609820938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我把堆在那里好久的衣服整理了一下，但我不知道是ADHD药物起效了，还是我在迎合“吃药后整理衣服”的刻板印象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1929217013898944879",
+        "created_at": "2025-06-01T18:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T19:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929242824609820938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929242824609820938",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929235084088901971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "动力增强 想干东西，但我不期望效果很强 因为据说这相当于隔几个小时吃5mg利他林，但我感觉10mg利他林还差不多，5mg有点太少了，我不一定有感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 237,
+          "like_count": 705,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1625
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

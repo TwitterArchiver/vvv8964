@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1964105379500969985"
+      ],
+      "media_source_tweet_id": [
+        "1964105391391773104"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1964178550577127813",
+    "created_at": "2025-09-06T04:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T05:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964178550577127813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1865706572971667456",
+          "start": 3,
+          "username": "bestshortclip"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H1T3pDiR0w",
+          "end": 42,
+          "expanded_url": "https://x.com/bestshortclip/status/1964105391391773104/video/1",
+          "media_key": "13_1964105379500969985",
+          "start": 19,
+          "url": "https://t.co/H1T3pDiR0w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964178550577127813",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964105391391773104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bestshortclip: https://t.co/H1T3pDiR0w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5066,
+        "height": 1280,
+        "media_key": "13_1964105379500969985",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1964105379500969985/img/oIBXwL6OtSw7ERul.jpg",
+        "public_metrics": {
+          "view_count": 8350
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964105379500969985/vid/avc1/320x568/h-IqxAybRFXPr9id.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964105379500969985/vid/avc1/480x854/1HzFUiWXWD5wUt0M.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964105379500969985/vid/avc1/718x1278/ZOmn7P9o4KlfmPuT.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1964105379500969985/pl/BVRO5qdULkJN3l2B.m3u8?tag=14"
+          }
+        ],
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964105379500969985"
+          ],
+          "media_source_tweet_id": [
+            "1964105391391773104"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1964178550577127813",
+        "created_at": "2025-09-06T04:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T05:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964178550577127813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1865706572971667456",
+              "start": 3,
+              "username": "bestshortclip"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H1T3pDiR0w",
+              "end": 42,
+              "expanded_url": "https://x.com/bestshortclip/status/1964105391391773104/video/1",
+              "media_key": "13_1964105379500969985",
+              "start": 19,
+              "url": "https://t.co/H1T3pDiR0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964178550577127813",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964105391391773104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bestshortclip: https://t.co/H1T3pDiR0w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964105379500969985"
+          ]
+        },
+        "author_id": "1865706572971667456",
+        "conversation_id": "1964105391391773104",
+        "created_at": "2025-09-05T23:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T00:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964105391391773104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H1T3pDiR0w",
+              "end": 23,
+              "expanded_url": "https://x.com/bestshortclip/status/1964105391391773104/video/1",
+              "media_key": "13_1964105379500969985",
+              "start": 0,
+              "url": "https://t.co/H1T3pDiR0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964105391391773104",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 377,
+          "impression_count": 22258,
+          "like_count": 1433,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/H1T3pDiR0w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 333,
+          "like_count": 2872,
+          "listed_count": 4,
+          "media_count": 218,
+          "tweet_count": 3847
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T10:35:05.000Z",
+        "description": "send short clips",
+        "id": "1865706572971667456",
+        "name": "short clips",
+        "pinned_tweet_id": "1917520387962818981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865707336150519808/_lEwjC3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32272,
+          "following_count": 1,
+          "like_count": 396,
+          "listed_count": 8,
+          "media_count": 714,
+          "tweet_count": 1084
+        },
+        "username": "bestshortclip",
+        "verified": false
+      }
+    ]
+  }
+}

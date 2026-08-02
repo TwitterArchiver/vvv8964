@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1929182658208088336",
+    "created_at": "2025-06-01T20:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T21:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929269756130889796"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1929269756130889796",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929182658208088336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个梦把我的一天都毁了，感觉今天一整天我都活在惊恐和害怕中，我真的有点trust issue，虽然我不觉得这是任何物质的影响"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1929182658208088336",
+        "created_at": "2025-06-01T20:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T21:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929269756130889796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929269756130889796",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929182658208088336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个梦把我的一天都毁了，感觉今天一整天我都活在惊恐和害怕中，我真的有点trust issue，虽然我不觉得这是任何物质的影响"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1929182658208088336",
+        "created_at": "2025-06-01T14:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T15:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929182658208088336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929182658208088336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "梦到在公交车还是什么地方给朋友带毒品，结果一个老中教导主任还是女警察类似的人物过来抓我，已经对我做好背调了，我袋子里零零散散的数据线，薄荷糖，还有晶体和粉末，我就把袋子从桌板上拿在手里不让她看，她也不急着抓，一个个问题问得我汗都流下来了，最后还好我意识到这是一个梦，醒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 240,
+          "like_count": 708,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1629
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

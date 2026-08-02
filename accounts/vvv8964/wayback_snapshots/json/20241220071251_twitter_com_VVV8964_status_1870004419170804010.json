@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1870004419170804010",
+    "created_at": "2024-12-20T07:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T08:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1870004419170804010"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1870004419170804010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么我每次主动给陌生人发私信就会被限制,必须填好几个验证码才可以,有人知道解决方案吗,持续好久了好像一直都是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1870004419170804010",
+        "created_at": "2024-12-20T07:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T08:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870004419170804010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1870004419170804010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我每次主动给陌生人发私信就会被限制,必须填好几个验证码才可以,有人知道解决方案吗,持续好久了好像一直都是这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 135,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 487
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

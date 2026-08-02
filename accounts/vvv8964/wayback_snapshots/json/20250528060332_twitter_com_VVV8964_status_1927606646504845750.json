@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1927606646504845750",
+    "created_at": "2025-05-28T06:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T07:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927606646504845750"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/hsn8086/status/1927387045279756546",
+          "start": 13,
+          "url": "https://t.co/lOxcckhIYr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927606646504845750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 131,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927387045279756546",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉不如 anxiety https://t.co/lOxcckhIYr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1927387015894470656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr90R3sXEAAUdM3.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1927606646504845750",
+        "created_at": "2025-05-28T06:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T07:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927606646504845750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/hsn8086/status/1927387045279756546",
+              "start": 13,
+              "url": "https://t.co/lOxcckhIYr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927606646504845750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927387045279756546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉不如 anxiety https://t.co/lOxcckhIYr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927387015894470656"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1927387045279756546",
+        "created_at": "2025-05-27T15:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T16:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927387045279756546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1tAs3FYaW1",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1927387045279756546/photo/1",
+              "media_key": "3_1927387015894470656",
+              "start": 0,
+              "url": "https://t.co/1tAs3FYaW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927387045279756546",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 121436,
+          "like_count": 1876,
+          "quote_count": 13,
+          "reply_count": 17,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1tAs3FYaW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 235,
+          "like_count": 649,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 1534
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1909591657043144887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73223,
+          "following_count": 968,
+          "like_count": 40389,
+          "listed_count": 158,
+          "media_count": 11668,
+          "tweet_count": 18045
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

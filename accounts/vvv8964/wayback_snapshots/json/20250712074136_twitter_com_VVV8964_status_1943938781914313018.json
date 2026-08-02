@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943694671617917232",
+    "created_at": "2025-07-12T07:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T08:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943938781914313018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1636913725327446017",
+          "start": 0,
+          "username": "LingSing7263"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943938781914313018",
+    "in_reply_to_user_id": "1636913725327446017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943694671617917232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingSing7263 我在台湾旅游，看繁体字基本没有问题，但是需要耐心，看多了会很烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943694671617917232",
+        "created_at": "2025-07-12T07:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T08:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943938781914313018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1636913725327446017",
+              "start": 0,
+              "username": "LingSing7263"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943938781914313018",
+        "in_reply_to_user_id": "1636913725327446017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943694671617917232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingSing7263 我在台湾旅游，看繁体字基本没有问题，但是需要耐心，看多了会很烦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636913725327446017",
+        "conversation_id": "1943694671617917232",
+        "created_at": "2025-07-11T15:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T16:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943694671617917232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943694671617917232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5501,
+          "like_count": 80,
+          "quote_count": 3,
+          "reply_count": 54,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们在认写繁字有遇到过什么问题吗？\n\n限简化字为母语文字的推友回复"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 280,
+          "like_count": 1403,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 2287
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T02:13:49.000Z",
+        "description": "嶄新萬物正上升幻滅如明星",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aboutGalaxyYi",
+                "end": 23,
+                "expanded_url": "https://t.me/aboutGalaxyYi",
+                "start": 0,
+                "url": "https://t.co/Sdo5s2x8T2"
+              }
+            ]
+          }
+        },
+        "id": "1636913725327446017",
+        "location": "星乡",
+        "name": "伊 零星",
+        "pinned_tweet_id": "1841732422268072142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932970436855484416/OMDb7grU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 821,
+          "like_count": 17284,
+          "listed_count": 2,
+          "media_count": 347,
+          "tweet_count": 4921
+        },
+        "url": "https://t.co/Sdo5s2x8T2",
+        "username": "LingSing7263",
+        "verified": false
+      }
+    ]
+  }
+}

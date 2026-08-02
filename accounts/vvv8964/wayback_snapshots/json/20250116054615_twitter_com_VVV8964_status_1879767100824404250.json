@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1879187929458712577"
+      ],
+      "media_source_tweet_id": [
+        "1879187949981745342"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1879767100824404250",
+    "created_at": "2025-01-16T05:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T06:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879767100824404250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3333450773",
+          "start": 3,
+          "username": "Darkneon312"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dPW83y83bb",
+          "end": 40,
+          "expanded_url": "https://x.com/Darkneon312/status/1879187949981745342/video/1",
+          "media_key": "7_1879187929458712577",
+          "start": 17,
+          "url": "https://t.co/dPW83y83bb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879767100824404250",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1315
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879187949981745342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Darkneon312: https://t.co/dPW83y83bb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11030,
+        "height": 1024,
+        "media_key": "7_1879187929458712577",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1879187929458712577/pu/img/FKFuuzchdckQMnKx.jpg",
+        "public_metrics": {
+          "view_count": 152646
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1879187929458712577/pu/vid/avc1/320x568/PdcPsmCis62ZyIEX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1879187929458712577/pu/vid/avc1/480x852/MSx8N8Q2ywbdEIud.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1879187929458712577/pu/vid/avc1/576x1024/vRNxB0OsZJAgXa94.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1879187929458712577/pu/pl/FLuoVltBFeUquNwN.m3u8?tag=12&v=ff7"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1879187929458712577"
+          ],
+          "media_source_tweet_id": [
+            "1879187949981745342"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1879767100824404250",
+        "created_at": "2025-01-16T05:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T06:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879767100824404250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3333450773",
+              "start": 3,
+              "username": "Darkneon312"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dPW83y83bb",
+              "end": 40,
+              "expanded_url": "https://x.com/Darkneon312/status/1879187949981745342/video/1",
+              "media_key": "7_1879187929458712577",
+              "start": 17,
+              "url": "https://t.co/dPW83y83bb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879767100824404250",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1315
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879187949981745342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Darkneon312: https://t.co/dPW83y83bb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1879187929458712577"
+          ]
+        },
+        "author_id": "3333450773",
+        "conversation_id": "1879187949981745342",
+        "created_at": "2025-01-14T15:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T16:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879187949981745342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dPW83y83bb",
+              "end": 23,
+              "expanded_url": "https://x.com/Darkneon312/status/1879187949981745342/video/1",
+              "media_key": "7_1879187929458712577",
+              "start": 0,
+              "url": "https://t.co/dPW83y83bb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879187949981745342",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2600,
+          "impression_count": 333349,
+          "like_count": 12403,
+          "quote_count": 78,
+          "reply_count": 77,
+          "retweet_count": 1315
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dPW83y83bb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 143,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 678
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-18T21:21:42.000Z",
+        "description": "If I'm lyin', I'm cryin'",
+        "id": "3333450773",
+        "name": "Darkneon312",
+        "pinned_tweet_id": "1803207363463119109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1408558845727760385/xhXRYKj1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 1315,
+          "like_count": 23894,
+          "listed_count": 2,
+          "media_count": 432,
+          "tweet_count": 1140
+        },
+        "username": "Darkneon312",
+        "verified": false
+      }
+    ]
+  }
+}

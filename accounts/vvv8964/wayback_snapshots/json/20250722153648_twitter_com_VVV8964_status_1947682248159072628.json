@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947682244820406275"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1947682248159072628",
+    "created_at": "2025-07-22T15:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T16:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947682248159072628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/12ZOU8MDhH",
+          "end": 70,
+          "expanded_url": "https://x.com/VVV8964/status/1947682248159072628/photo/1",
+          "media_key": "3_1947682244820406275",
+          "start": 47,
+          "url": "https://t.co/12ZOU8MDhH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947682248159072628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个特别好的推友给的，今天试试\nWhere's my lorazepam?\n劳拉西泮 1mg https://t.co/12ZOU8MDhH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947682244820406275",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GweOrrHbEAM-h3Q.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947682244820406275"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947682248159072628",
+        "created_at": "2025-07-22T15:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T16:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947682248159072628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/12ZOU8MDhH",
+              "end": 70,
+              "expanded_url": "https://x.com/VVV8964/status/1947682248159072628/photo/1",
+              "media_key": "3_1947682244820406275",
+              "start": 47,
+              "url": "https://t.co/12ZOU8MDhH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947682248159072628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个特别好的推友给的，今天试试\nWhere's my lorazepam?\n劳拉西泮 1mg https://t.co/12ZOU8MDhH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 286,
+          "like_count": 1604,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2419
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

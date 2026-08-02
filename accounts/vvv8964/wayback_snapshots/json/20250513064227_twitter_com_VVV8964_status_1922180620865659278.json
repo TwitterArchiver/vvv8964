@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1921894727156142210",
+    "created_at": "2025-05-13T06:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T07:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922180620865659278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1131016972404051968",
+          "start": 0,
+          "username": "SydneyDaddy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922180620865659278",
+    "in_reply_to_user_id": "1131016972404051968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921894727156142210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SydneyDaddy1 后面那张图是假的，拼接的假新闻两年后还能再火一遍，我都想笑了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16600,
+        "height": 848,
+        "media_key": "13_1921363460983603201",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1921363460983603201/img/qLwpLKaQDDgLpqkl.jpg",
+        "public_metrics": {
+          "view_count": 374221
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921363460983603201/vid/avc1/320x484/SGnav-Wt3K8Xj8hm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921363460983603201/vid/avc1/480x726/9BvzZ1fiCxhfcFgf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921363460983603201/vid/avc1/560x848/No2_DyQ5-0wVVzmQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1921363460983603201/pl/_tpOJlQlTO9RP4y8.m3u8"
+          }
+        ],
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1921894727156142210",
+        "created_at": "2025-05-13T06:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T07:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922180620865659278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1131016972404051968",
+              "start": 0,
+              "username": "SydneyDaddy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922180620865659278",
+        "in_reply_to_user_id": "1131016972404051968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921894727156142210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SydneyDaddy1 后面那张图是假的，拼接的假新闻两年后还能再火一遍，我都想笑了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921363460983603201"
+          ],
+          "media_source_tweet_id": [
+            "1921363535478624337"
+          ]
+        },
+        "author_id": "1131016972404051968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1921894727156142210",
+        "created_at": "2025-05-12T11:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T12:45:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921894575049720027",
+          "1921894727156142210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8GBIsIBGd",
+              "end": 160,
+              "expanded_url": "https://x.com/i/status/1921363535478624337/video/1",
+              "media_key": "13_1921363460983603201",
+              "start": 137,
+              "url": "https://t.co/B8GBIsIBGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921894727156142210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 70476,
+          "like_count": 199,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "2023年河南驻马店一名小学生掌掴毛泽东塑像\n\n驻马店曾属于著名的信阳专区，根据1961年信阳地委呈报中央的《信阳事件报告》和杨继绳《墓碑》中的学者估算，信阳专区那三年非正常死亡至少100万\n\n但根据幸存者偏差，这个孩子能幸存要感谢毛主席只饿了他祖先三年，他不该恩将仇报\n\nhttps://t.co/B8GBIsIBGd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 198,
+          "like_count": 461,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 1278
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-22T02:00:34.000Z",
+        "description": "Youtuber: https://t.co/9HHxD7j6V3 堂堂正正做人，踏踏实实要饭 不差钱的打发点呗：https://t.co/6ldNis9QnU 或者比特币bitcoin:1CWDyMsKFJcwgAgmwadM9DkzxZJnyj4zBP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2tJ7Rui",
+                "end": 33,
+                "expanded_url": "http://bit.ly/2tJ7Rui",
+                "start": 10,
+                "url": "https://t.co/9HHxD7j6V3"
+              },
+              {
+                "display_url": "PayPal.Me/sydneydaddy",
+                "end": 80,
+                "expanded_url": "https://PayPal.Me/sydneydaddy",
+                "start": 57,
+                "url": "https://t.co/6ldNis9QnU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2tJ7Rui",
+                "end": 23,
+                "expanded_url": "https://bit.ly/2tJ7Rui",
+                "start": 0,
+                "url": "https://t.co/HOwitHqdwI"
+              }
+            ]
+          }
+        },
+        "id": "1131016972404051968",
+        "location": "2000",
+        "name": "悉尼奶爸 SydneyDaddy 雪梨奶爸 🇦🇺",
+        "pinned_tweet_id": "1921727570867007759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692765532704092161/zjKkeYE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98843,
+          "following_count": 1866,
+          "like_count": 2479,
+          "listed_count": 456,
+          "media_count": 8299,
+          "tweet_count": 19416
+        },
+        "url": "https://t.co/HOwitHqdwI",
+        "username": "SydneyDaddy1",
+        "verified": true
+      }
+    ]
+  }
+}

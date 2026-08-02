@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1948347840444707149",
+    "created_at": "2025-07-24T11:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T12:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948352457026973971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1735700650472955904",
+          "start": 0,
+          "username": "ErQiu8013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948352457026973971",
+    "in_reply_to_user_id": "1735700650472955904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948347840444707149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ErQiu8013 啥药啊笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1045,
+        "media_key": "3_1948347838150447105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwnsCTfbkAEIai6.jpg",
+        "width": 937
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1948347840444707149",
+        "created_at": "2025-07-24T11:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T12:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948352457026973971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1735700650472955904",
+              "start": 0,
+              "username": "ErQiu8013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948352457026973971",
+        "in_reply_to_user_id": "1735700650472955904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948347840444707149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ErQiu8013 啥药啊笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948347838150447105"
+          ]
+        },
+        "author_id": "1735700650472955904",
+        "conversation_id": "1948347840444707149",
+        "created_at": "2025-07-24T11:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T12:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948347840444707149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hqFcAylRNF",
+              "end": 32,
+              "expanded_url": "https://x.com/ErQiu8013/status/1948347840444707149/photo/1",
+              "media_key": "3_1948347838150447105",
+              "start": 9,
+              "url": "https://t.co/hqFcAylRNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948347840444707149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "左右脑互博这一块 https://t.co/hqFcAylRNF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 286,
+          "like_count": 1646,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 2469
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "初音ミク/後藤 ひとり/葬送のフリーレン/Cyberpunk: Edgerunners/よふかしのうた/進撃の巨人/86，eva，……/genshin，hsr\n   薬物⚠️，低能量⚠️，日常/欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/ErQiu8013/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/ErQiu8013/",
+                "start": 0,
+                "url": "https://t.co/6GvFB2usL1"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "location": "垃圾场",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）降临派",
+        "pinned_tweet_id": "1937769627360342135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866537587122515968/8WVcBKAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 1694,
+          "like_count": 20347,
+          "listed_count": 4,
+          "media_count": 472,
+          "tweet_count": 3655
+        },
+        "url": "https://t.co/6GvFB2usL1",
+        "username": "ErQiu8013",
+        "verified": false
+      }
+    ]
+  }
+}

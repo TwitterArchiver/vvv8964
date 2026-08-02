@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1980132774477730056",
+    "created_at": "2025-10-21T02:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T03:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980467019058466832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1917745219841449985",
+          "start": 0,
+          "username": "wd6xxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980467019058466832",
+    "in_reply_to_user_id": "1917745219841449985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980132774477730056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wd6xxj 这不是我们武晓宇的高雅创作吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 804,
+        "media_key": "3_1980132767955333120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3rYQuIWsAAi0UX.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1980132774477730056",
+        "created_at": "2025-10-21T02:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980467019058466832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1917745219841449985",
+              "start": 0,
+              "username": "wd6xxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980467019058466832",
+        "in_reply_to_user_id": "1917745219841449985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980132774477730056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wd6xxj 这不是我们武晓宇的高雅创作吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980132767955333120"
+          ]
+        },
+        "author_id": "1917745219841449985",
+        "conversation_id": "1980132774477730056",
+        "created_at": "2025-10-20T04:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T05:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980132774477730056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jj95s9op6f",
+              "end": 37,
+              "expanded_url": "https://x.com/wd6xxj/status/1980132774477730056/photo/1",
+              "media_key": "3_1980132767955333120",
+              "start": 14,
+              "url": "https://t.co/Jj95s9op6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980132774477730056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 88134,
+          "like_count": 375,
+          "quote_count": 9,
+          "reply_count": 52,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "蒋介石宋美龄算是被黑出翔了 https://t.co/Jj95s9op6f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 346,
+          "like_count": 3656,
+          "listed_count": 7,
+          "media_count": 350,
+          "tweet_count": 4858
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T00:57:56.000Z",
+        "description": "",
+        "id": "1917745219841449985",
+        "name": "非常快4号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917745534728806400/YLJiblBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3707,
+          "following_count": 320,
+          "like_count": 20482,
+          "listed_count": 25,
+          "media_count": 2200,
+          "tweet_count": 6969
+        },
+        "username": "wd6xxj",
+        "verified": false
+      }
+    ]
+  }
+}

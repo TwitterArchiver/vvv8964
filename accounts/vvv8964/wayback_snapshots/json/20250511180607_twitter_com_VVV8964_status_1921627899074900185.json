@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1921522008401039712",
+    "created_at": "2025-05-11T18:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T19:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921627899074900185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599125227786608655",
+          "start": 0,
+          "username": "realeco8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921627899074900185",
+    "in_reply_to_user_id": "1599125227786608655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921522008401039712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realeco8964 真有人买啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1921521994568544256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqqeEspbsAA66F_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1921522008401039712",
+        "created_at": "2025-05-11T18:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T19:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921627899074900185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599125227786608655",
+              "start": 0,
+              "username": "realeco8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921627899074900185",
+        "in_reply_to_user_id": "1599125227786608655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921522008401039712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realeco8964 真有人买啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921521994568544256"
+          ]
+        },
+        "author_id": "1599125227786608655",
+        "conversation_id": "1921522008401039712",
+        "created_at": "2025-05-11T11:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T12:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921522008401039712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UIjxe2HoMa",
+              "end": 31,
+              "expanded_url": "https://x.com/realeco8964/status/1921522008401039712/photo/1",
+              "media_key": "3_1921521994568544256",
+              "start": 8,
+              "url": "https://t.co/UIjxe2HoMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921522008401039712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2165,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "od一点也不酷 https://t.co/UIjxe2HoMa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 198,
+          "like_count": 453,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 1256
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去",
+        "id": "1599125227786608655",
+        "location": "🚪88/288 私信只回口令",
+        "name": "苦桃",
+        "pinned_tweet_id": "1918965335610270055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920852818862247937/uKluUFUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4908,
+          "following_count": 286,
+          "like_count": 18405,
+          "listed_count": 10,
+          "media_count": 999,
+          "tweet_count": 11873
+        },
+        "username": "realeco8964",
+        "verified": false
+      }
+    ]
+  }
+}

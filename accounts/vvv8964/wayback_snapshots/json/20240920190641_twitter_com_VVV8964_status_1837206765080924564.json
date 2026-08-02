@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1837160028991803692",
+    "created_at": "2024-09-20T19:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T20:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837206765080924564"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1837206765080924564",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837160028991803692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我其实不应该在推特上记载我的用药的，但是现在药效应该是在顶峰篇往下，神智还算清醒，刚刚做梦，有点像那种埃及宗教，起来，感觉很棒，吃了东西，嘴巴很苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1837160028991803692",
+        "created_at": "2024-09-20T19:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T20:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837206765080924564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837206765080924564",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837160028991803692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我其实不应该在推特上记载我的用药的，但是现在药效应该是在顶峰篇往下，神智还算清醒，刚刚做梦，有点像那种埃及宗教，起来，感觉很棒，吃了东西，嘴巴很苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1837160028991803692",
+        "created_at": "2024-09-20T16:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T17:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837160028991803692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837160028991803692",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1000mg迷幻蘑菇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 \n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁🏴‍☠️\nVVV",
+        "id": "1561334508212723713",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 53,
+          "like_count": 34,
+          "listed_count": 0,
+          "tweet_count": 46
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

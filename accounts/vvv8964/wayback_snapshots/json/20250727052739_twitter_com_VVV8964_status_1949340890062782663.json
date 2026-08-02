@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1949332775049494930",
+    "created_at": "2025-07-27T05:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T06:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949340890062782663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757320080604741633",
+          "start": 0,
+          "username": "Hiyallcestmoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949340890062782663",
+    "in_reply_to_user_id": "1757320080604741633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949332775049494930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiyallcestmoi 还可以降到3/2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 985,
+        "media_key": "3_1949332772134502400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw1r1AgawAAFR5Y.jpg",
+        "width": 1136
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1949332775049494930",
+        "created_at": "2025-07-27T05:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T06:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949340890062782663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757320080604741633",
+              "start": 0,
+              "username": "Hiyallcestmoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949340890062782663",
+        "in_reply_to_user_id": "1757320080604741633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949332775049494930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiyallcestmoi 还可以降到3/2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949332772134502400"
+          ]
+        },
+        "author_id": "1757320080604741633",
+        "conversation_id": "1949332775049494930",
+        "created_at": "2025-07-27T04:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T05:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949332775049494930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pV94wVjDdF",
+              "end": 30,
+              "expanded_url": "https://x.com/Hiyallcestmoi/status/1949332775049494930/photo/1",
+              "media_key": "3_1949332772134502400",
+              "start": 7,
+              "url": "https://t.co/pV94wVjDdF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949332775049494930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实用临床技巧 https://t.co/pV94wVjDdF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 293,
+          "like_count": 1725,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 2562
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T08:25:47.000Z",
+        "description": "🌈彩虹友好 |🍹生活艺术 | 🇫🇷唯爱法国 | 🤮赤石分享 | 🔄重开预备 |♀低脂蝈釹 | 💩纯种废物 | 🍼幼稚巨婴 |❔持续虚无 | 🥃准健全逼 | 👻随地抛尸 | 🪷人淡如莲 | 💕或许是enby | 🫠养胃正在",
+        "id": "1757320080604741633",
+        "location": "\nℕ𝕠𝕥𝕙𝕚𝕟𝕘𝕧𝕚𝕝𝕝𝕖",
+        "name": "阿溪Kay(重生之在BeverlyHill RodeoDrive飙Pink Convertible）",
+        "pinned_tweet_id": "1947522430857252903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872205161319518208/JcEHx1T2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 419,
+          "like_count": 2587,
+          "listed_count": 2,
+          "media_count": 416,
+          "tweet_count": 3050
+        },
+        "username": "Hiyallcestmoi",
+        "verified": false
+      }
+    ]
+  }
+}

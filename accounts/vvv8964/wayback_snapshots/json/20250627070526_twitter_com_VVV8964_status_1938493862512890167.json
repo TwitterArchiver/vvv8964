@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1938493862512890167",
+    "created_at": "2025-06-27T07:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T08:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938493862512890167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meme_crowd/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/meme_crowd/status/1938224035751727147",
+          "start": 11,
+          "url": "https://t.co/LWzGLfNKHB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938493862512890167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938224035751727147",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这傻逼sub笑死我了 https://t.co/LWzGLfNKHB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 338,
+        "media_key": "3_1938224031242817536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuX0fL1akAAVoJz.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1938493862512890167",
+        "created_at": "2025-06-27T07:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T08:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938493862512890167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meme_crowd/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/meme_crowd/status/1938224035751727147",
+              "start": 11,
+              "url": "https://t.co/LWzGLfNKHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938493862512890167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938224035751727147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这傻逼sub笑死我了 https://t.co/LWzGLfNKHB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938224031242817536"
+          ]
+        },
+        "author_id": "1845195621684191238",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1938206602923798942",
+        "created_at": "2025-06-26T13:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T14:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938224035751727147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1492677599390322689",
+              "start": 0,
+              "username": "weirddalle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6XrCIJamdj",
+              "end": 35,
+              "expanded_url": "https://x.com/meme_crowd/status/1938224035751727147/photo/1",
+              "media_key": "3_1938224031242817536",
+              "start": 12,
+              "url": "https://t.co/6XrCIJamdj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938224035751727147",
+        "in_reply_to_user_id": "1492677599390322689",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 9070,
+          "like_count": 771,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938206602923798942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weirddalle https://t.co/6XrCIJamdj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 256,
+          "like_count": 960,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1931
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T20:11:53.000Z",
+        "description": "Life is beautiful if you meme it✨",
+        "id": "1845195621684191238",
+        "location": "Giggleonia",
+        "name": "Meme_crowD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937927827032354816/E-62HKMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 30,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 26
+        },
+        "username": "meme_crowd",
+        "verified": false
+      }
+    ]
+  }
+}

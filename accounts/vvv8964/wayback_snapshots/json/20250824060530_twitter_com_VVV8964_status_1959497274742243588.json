@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1959497274742243588",
+    "created_at": "2025-08-24T06:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T07:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959497274742243588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FurinaDF/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/FurinaDF/status/1959148232547635556",
+          "start": 5,
+          "url": "https://t.co/S59F6WvjvR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959497274742243588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959148232547635556",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "暗黑先锋 https://t.co/S59F6WvjvR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_1959148217586601984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzBK7IOW0AAPnmM.jpg",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1959497274742243588",
+        "created_at": "2025-08-24T06:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T07:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959497274742243588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FurinaDF/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/FurinaDF/status/1959148232547635556",
+              "start": 5,
+              "url": "https://t.co/S59F6WvjvR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959497274742243588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959148232547635556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "暗黑先锋 https://t.co/S59F6WvjvR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959148217586601984"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1959148232547635556",
+        "created_at": "2025-08-23T06:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T07:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959148232547635556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V8kK0uASAx",
+              "end": 29,
+              "expanded_url": "https://x.com/FurinaDF/status/1959148232547635556/photo/1",
+              "media_key": "3_1959148217586601984",
+              "start": 6,
+              "url": "https://t.co/V8kK0uASAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959148232547635556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12099,
+          "like_count": 88,
+          "quote_count": 2,
+          "reply_count": 68,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "他是谁？🤔 https://t.co/V8kK0uASAx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 327,
+          "like_count": 2565,
+          "listed_count": 4,
+          "media_count": 181,
+          "tweet_count": 3439
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "我是河南人，不是中国人 | 备用账号@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1959323076489068803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42899,
+          "following_count": 2300,
+          "like_count": 28171,
+          "listed_count": 115,
+          "media_count": 6281,
+          "tweet_count": 10668
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

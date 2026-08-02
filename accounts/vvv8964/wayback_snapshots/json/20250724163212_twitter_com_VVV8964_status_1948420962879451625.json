@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1948420962879451625",
+    "created_at": "2025-07-24T16:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T17:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948420962879451625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1931623821095661570",
+          "start": 3,
+          "username": "PREDARAGI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948420962879451625",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948088319142699476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PREDARAGI: im a fat nіgger"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1948420962879451625",
+        "created_at": "2025-07-24T16:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T17:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948420962879451625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1931623821095661570",
+              "start": 3,
+              "username": "PREDARAGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948420962879451625",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948088319142699476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PREDARAGI: im a fat nіgger"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931623821095661570",
+        "conversation_id": "1948088319142699476",
+        "created_at": "2025-07-23T18:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T19:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948088319142699476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948088319142699476",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3498,
+          "like_count": 105,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "im a fat nіgger"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 288,
+          "like_count": 1648,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 2484
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T08:08:11.000Z",
+        "description": "処女厨・二次元オタク | 妹至上主義 | 3D拒否型DT | 無職童貞の最終形態 | lolisis-complex廃人 @hysterin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "hysterin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "web.archive.org/web/2005102302…",
+                "end": 23,
+                "expanded_url": "https://web.archive.org/web/20051023025033/http://www.keroq.co.jp:80/",
+                "start": 0,
+                "url": "https://t.co/KanNAPAT7x"
+              }
+            ]
+          }
+        },
+        "id": "1931623821095661570",
+        "location": "15",
+        "name": "koinu19",
+        "pinned_tweet_id": "1936444282203934895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945859510305796096/xA3VdlZ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 61,
+          "like_count": 1321,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1357
+        },
+        "url": "https://t.co/KanNAPAT7x",
+        "username": "PREDARAGI",
+        "verified": false
+      }
+    ]
+  }
+}

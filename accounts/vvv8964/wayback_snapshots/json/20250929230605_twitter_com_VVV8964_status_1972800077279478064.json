@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1972610011764584768",
+    "created_at": "2025-09-29T23:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T00:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972800077279478064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1905180625981890560",
+          "start": 0,
+          "username": "MikuMikuGOAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972800077279478064",
+    "in_reply_to_user_id": "1905180625981890560",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972610011764584768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuMikuGOAT nigga"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1972610011764584768].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1972610011764584768",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1972610011764584768"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1972610011764584768",
+        "created_at": "2025-09-29T23:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T00:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972800077279478064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905180625981890560",
+              "start": 0,
+              "username": "MikuMikuGOAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972800077279478064",
+        "in_reply_to_user_id": "1905180625981890560",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972610011764584768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuMikuGOAT nigga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 337,
+          "like_count": 3269,
+          "listed_count": 5,
+          "media_count": 281,
+          "tweet_count": 4427
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T08:51:21.000Z",
+        "description": "要……要坏掉的啦~♡",
+        "id": "1905180625981890560",
+        "location": "between your feet",
+        "name": "‏ً",
+        "pinned_tweet_id": "1964292339893227904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971354342268821504/l1fcyBtY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 1869,
+          "like_count": 56512,
+          "listed_count": 4,
+          "media_count": 1043,
+          "tweet_count": 10738
+        },
+        "username": "MikuMikuGOAT",
+        "verified": false
+      }
+    ]
+  }
+}

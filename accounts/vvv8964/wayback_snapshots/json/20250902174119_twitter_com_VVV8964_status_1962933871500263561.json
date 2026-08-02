@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1962933871500263561",
+    "created_at": "2025-09-02T17:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T18:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962933871500263561"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1962933871500263561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起之前在温哥华住在homestay家里趁他们人都走了抽大麻，一会担心打火机被发现一会担心大麻的灰掉地上被发现，虽然我只抽过一两次joint\n最惊险的一次是在自己房间里抽大麻电子烟结果味道太大，开门的时候散出去了，房东儿子就在隔壁，不知道他有没有发现，要么是发现了但没说，因为房东肯定不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1962933871500263561",
+        "created_at": "2025-09-02T17:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T18:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962933871500263561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962933871500263561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起之前在温哥华住在homestay家里趁他们人都走了抽大麻，一会担心打火机被发现一会担心大麻的灰掉地上被发现，虽然我只抽过一两次joint\n最惊险的一次是在自己房间里抽大麻电子烟结果味道太大，开门的时候散出去了，房东儿子就在隔壁，不知道他有没有发现，要么是发现了但没说，因为房东肯定不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 327,
+          "like_count": 2761,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 3687
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1950844157590970559",
+    "created_at": "2025-07-31T10:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T11:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950861202453938442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879395690230738944",
+          "start": 0,
+          "username": "6thCuteK1tten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950861202453938442",
+    "in_reply_to_user_id": "1879395690230738944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950856390928441413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6thCuteK1tten 好像说是体内都会代谢成psilocin，但是我没吃过我不知道，而且蘑菇里有其他精神活性物质，psilocybin只是主要的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1950856390928441413].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1950856390928441413",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1950856390928441413"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1950844157590970559",
+        "created_at": "2025-07-31T10:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T11:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950861202453938442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "6thCuteK1tten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950861202453938442",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950856390928441413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6thCuteK1tten 好像说是体内都会代谢成psilocin，但是我没吃过我不知道，而且蘑菇里有其他精神活性物质，psilocybin只是主要的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 301,
+          "like_count": 1876,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 2679
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "𝓗𝓔𝓡𝓸𝓲𝓷™｜🍧好闺蜜:@Chufeinya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "Chufeinya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/zAEKkueaV9"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "name": "小猫",
+        "pinned_tweet_id": "1945776404764696633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943325043074961408/QeU1S_yU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 428,
+          "like_count": 7262,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3051
+        },
+        "url": "https://t.co/zAEKkueaV9",
+        "username": "6thCuteK1tten",
+        "verified": false
+      }
+    ]
+  }
+}

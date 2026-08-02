@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926051098785136641"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1926051100760637478",
+    "created_at": "2025-05-23T23:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T00:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926051100760637478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/50iLp5qxA3",
+          "end": 54,
+          "expanded_url": "https://x.com/VVV8964/status/1926051100760637478/photo/1",
+          "media_key": "3_1926051098785136641",
+          "start": 31,
+          "url": "https://t.co/50iLp5qxA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926051100760637478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你们，你们的讨厌是我活下去的动力，我会继续生活如意下去的 https://t.co/50iLp5qxA3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926051098785136641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grq1RQpWwAE8bIP.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926051098785136641"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1926051100760637478",
+        "created_at": "2025-05-23T23:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T00:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926051100760637478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/50iLp5qxA3",
+              "end": 54,
+              "expanded_url": "https://x.com/VVV8964/status/1926051100760637478/photo/1",
+              "media_key": "3_1926051098785136641",
+              "start": 31,
+              "url": "https://t.co/50iLp5qxA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926051100760637478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你们，你们的讨厌是我活下去的动力，我会继续生活如意下去的 https://t.co/50iLp5qxA3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 226,
+          "like_count": 595,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 1486
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

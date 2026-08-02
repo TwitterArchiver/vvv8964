@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1866959459131723917",
+    "created_at": "2024-12-12T06:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T07:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867090939866701892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1687019762612924416",
+          "start": 0,
+          "username": "TungGwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867090939866701892",
+    "in_reply_to_user_id": "1687019762612924416",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867090484402983080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TungGwa ，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1866959459131723917",
+        "created_at": "2024-12-12T06:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T07:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867090939866701892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1687019762612924416",
+              "start": 0,
+              "username": "TungGwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867090939866701892",
+        "in_reply_to_user_id": "1687019762612924416",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867090484402983080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TungGwa ，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687019762612924416",
+        "conversation_id": "1866959459131723917",
+        "created_at": "2024-12-12T06:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T07:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867090484402983080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867090484402983080",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866975772373815631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 精神活性接近冰，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  推特有时候莫名其妙收不到消息我会尽量回复回关  ||  不OD 正常用药  ||  正在解锁致幻剂 定期产出报告 ||  大脑损伤逆转中",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 132,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 456
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T08:37:22.000Z",
+        "description": "看，君不見亞東四萬萬人的中華，中華！ 是同種同胞同志同心的中華，中華！ 來發奮盡力，中華，中華，中華！ 看，君不見亞東四萬萬人的中華，中華！ 都振起精神來振作振興中華，中華！@Mechanicus1010 的冬瓜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 87,
+                "username": "Mechanicus1010"
+              }
+            ]
+          }
+        },
+        "id": "1687019762612924416",
+        "location": "價錢很便宜 趕快買回家",
+        "name": "冬瓜🫒",
+        "pinned_tweet_id": "1745723716963864965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855307401660112897/_0fcM3uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 215,
+          "like_count": 5760,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 2879
+        },
+        "username": "TungGwa",
+        "verified": false
+      }
+    ]
+  }
+}

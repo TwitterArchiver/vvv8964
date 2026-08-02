@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1955561148784513233",
+    "created_at": "2025-08-13T13:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T14:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955629723998163376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1243370953024782336",
+          "start": 0,
+          "username": "Asuka_Suki__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955629723998163376",
+    "in_reply_to_user_id": "1243370953024782336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955628421973000322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asuka_Suki__ 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1955561148784513233",
+        "created_at": "2025-08-13T13:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T14:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955629723998163376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1243370953024782336",
+              "start": 0,
+              "username": "Asuka_Suki__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955629723998163376",
+        "in_reply_to_user_id": "1243370953024782336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955628421973000322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asuka_Suki__ 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243370953024782336",
+        "conversation_id": "1955561148784513233",
+        "created_at": "2025-08-13T13:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T14:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955628421973000322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955628421973000322",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955561148784513233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 😶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 314,
+          "like_count": 2249,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 3021
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T02:55:18.000Z",
+        "description": "💙💛",
+        "id": "1243370953024782336",
+        "location": "迦勒底",
+        "name": "绿染💦",
+        "pinned_tweet_id": "1818164900679807422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845199103279628289/rLefeuoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 358,
+          "like_count": 14852,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 2489
+        },
+        "username": "Asuka_Suki__",
+        "verified": false
+      }
+    ]
+  }
+}

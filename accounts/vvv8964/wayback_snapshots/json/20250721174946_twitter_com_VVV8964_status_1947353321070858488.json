@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1947352058711183800",
+    "created_at": "2025-07-21T17:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T18:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947353321070858488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1758280045355737088",
+          "start": 0,
+          "username": "itchyball8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947353321070858488",
+    "in_reply_to_user_id": "1758280045355737088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 147,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947352058711183800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itchyball8964 不纯是坏事，我搬家的时候电脑机箱和显示器箱子都还留着，很轻松地解决问题了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947352058711183800",
+        "created_at": "2025-07-21T17:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T18:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947353321070858488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1758280045355737088",
+              "start": 0,
+              "username": "itchyball8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947353321070858488",
+        "in_reply_to_user_id": "1758280045355737088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947352058711183800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itchyball8964 不纯是坏事，我搬家的时候电脑机箱和显示器箱子都还留着，很轻松地解决问题了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758280045355737088",
+        "conversation_id": "1947352058711183800",
+        "created_at": "2025-07-21T17:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T18:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947352058711183800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947352058711183800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 639,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完了，看自己以前留下来的东西，发现我以前居然会把买来电子产品的盒子留着…😪我终究是被ldx潜移默化了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 284,
+          "like_count": 1584,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2400
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T00:00:09.000Z",
+        "description": "",
+        "id": "1758280045355737088",
+        "name": "Ume侠（错过英伟达第一人💧👁️💧）",
+        "pinned_tweet_id": "1864133770921824503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758601064390266880/uWGrjhFP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 529,
+          "like_count": 3955,
+          "listed_count": 4,
+          "media_count": 114,
+          "tweet_count": 2577
+        },
+        "username": "itchyball8964",
+        "verified": false
+      }
+    ]
+  }
+}

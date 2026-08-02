@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1923710122020200731",
+    "created_at": "2025-05-19T03:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T04:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924301988017442875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 18,
+          "id": "1838981156101906435",
+          "start": 6,
+          "username": "onelargecat"
+        },
+        {
+          "end": 35,
+          "id": "1370394029310017537",
+          "start": 19,
+          "username": "hourly_shitpost"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924301988017442875",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924074203369869528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @onelargecat @hourly_shitpost wtf💀💀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1924074201167585280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrOvSrIWYAAuYcF.jpg",
+        "width": 909
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1923710122020200731",
+        "created_at": "2025-05-19T03:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T04:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924301988017442875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 18,
+              "id": "1838981156101906435",
+              "start": 6,
+              "username": "onelargecat"
+            },
+            {
+              "end": 35,
+              "id": "1370394029310017537",
+              "start": 19,
+              "username": "hourly_shitpost"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924301988017442875",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924074203369869528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @onelargecat @hourly_shitpost wtf💀💀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924074201167585280"
+          ]
+        },
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1923710122020200731",
+        "created_at": "2025-05-18T12:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T13:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924074203369869528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1838981156101906435",
+              "start": 0,
+              "username": "onelargecat"
+            },
+            {
+              "end": 29,
+              "id": "1370394029310017537",
+              "start": 13,
+              "username": "hourly_shitpost"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCp2Uun0pv",
+              "end": 53,
+              "expanded_url": "https://x.com/grok/status/1924074203369869528/photo/1",
+              "media_key": "3_1924074201167585280",
+              "start": 30,
+              "url": "https://t.co/fCp2Uun0pv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924074203369869528",
+        "in_reply_to_user_id": "1838981156101906435",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8043,
+          "like_count": 211,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924073913358635326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onelargecat @hourly_shitpost https://t.co/fCp2Uun0pv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  |||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 218,
+          "like_count": 527,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 1372
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3925787,
+          "following_count": 3,
+          "like_count": 72,
+          "listed_count": 3668,
+          "media_count": 1606178,
+          "tweet_count": 9078293
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-25T16:37:57.000Z",
+        "description": "23\n\n#THISGLOCK\n\nartist",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 4,
+                "tag": "THISGLOCK"
+              }
+            ]
+          }
+        },
+        "id": "1838981156101906435",
+        "location": "#RapeBigots",
+        "name": "myles",
+        "pinned_tweet_id": "1911603714541887607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872046642343362560/Azyl8td3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 2017,
+          "like_count": 39332,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 447
+        },
+        "username": "onelargecat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T15:20:00.000Z",
+        "description": "the best memes ever created… we wouldn’t be here without them (DM submissions)",
+        "id": "1370394029310017537",
+        "name": "🕐HOURLY🕑 shitpost",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1372928334653444103/hoyp5vRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488389,
+          "following_count": 137,
+          "like_count": 6845,
+          "listed_count": 2550,
+          "media_count": 32585,
+          "tweet_count": 32991
+        },
+        "username": "hourly_shitpost",
+        "verified": true
+      }
+    ]
+  }
+}

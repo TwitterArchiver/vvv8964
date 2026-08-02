@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1948326612665012732",
+    "created_at": "2025-07-24T10:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T11:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948326612665012732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ChiefofIsaac/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/ChiefofIsaac/status/1948206249906254250",
+          "start": 10,
+          "url": "https://t.co/fJpx4gLVvk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948326612665012732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948206249906254250",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "戒呼吸吧老哥往里进 https://t.co/fJpx4gLVvk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26074,
+        "height": 1280,
+        "media_key": "13_1948073580077449216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1948073580077449216/img/zBIqgnsyehk8p5sT.jpg",
+        "public_metrics": {
+          "view_count": 33284
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948073580077449216/vid/avc1/320x568/TON6rAQAi60sXwMv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948073580077449216/vid/avc1/480x852/3mYjM60PTt1BJ_4O.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948073580077449216/vid/avc1/720x1280/YiWaSdtC2TcAG90D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1948073580077449216/pl/-J7LBgNNEMxQDyVZ.m3u8?v=f45"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1948326612665012732",
+        "created_at": "2025-07-24T10:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T11:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948326612665012732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChiefofIsaac/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ChiefofIsaac/status/1948206249906254250",
+              "start": 10,
+              "url": "https://t.co/fJpx4gLVvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948326612665012732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948206249906254250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "戒呼吸吧老哥往里进 https://t.co/fJpx4gLVvk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1948073580077449216"
+          ]
+        },
+        "author_id": "1756512429377294336",
+        "conversation_id": "1948206249906254250",
+        "created_at": "2025-07-24T02:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T03:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948206249906254250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/axdLAgCeZo",
+              "end": 23,
+              "expanded_url": "https://x.com/ChiefofIsaac/status/1948206249906254250/video/1",
+              "media_key": "13_1948073580077449216",
+              "start": 0,
+              "url": "https://t.co/axdLAgCeZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948206249906254250",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 454,
+          "impression_count": 71884,
+          "like_count": 1360,
+          "quote_count": 6,
+          "reply_count": 12,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/axdLAgCeZo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 286,
+          "like_count": 1645,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 2464
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T02:56:19.000Z",
+        "description": "Chief of the funnies on twt 👉BACKUPS: @CeoAvenged @ 👈 (if yall ever made anything for me, dm me it I’ll 100% see it and rt it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "CeoAvenged"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/JetwQECqSA",
+                "end": 23,
+                "expanded_url": "https://discord.gg/JetwQECqSA",
+                "start": 0,
+                "url": "https://t.co/atm8e35kis"
+              }
+            ]
+          }
+        },
+        "id": "1756512429377294336",
+        "location": "PFP by @Real_Animal",
+        "name": "Chief ⚔️ ‼️ (Dinosaurs Are Real)",
+        "pinned_tweet_id": "1937850415028027765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927170265005301760/sJPx2l3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100378,
+          "following_count": 1720,
+          "like_count": 27602,
+          "listed_count": 144,
+          "media_count": 9365,
+          "tweet_count": 17430
+        },
+        "url": "https://t.co/atm8e35kis",
+        "username": "ChiefofIsaac",
+        "verified": true
+      }
+    ]
+  }
+}

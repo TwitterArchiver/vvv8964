@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1837386972785975590",
+    "created_at": "2024-09-21T17:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T18:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837542267558695120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1609844142313553921",
+          "start": 0,
+          "username": "Nijika_overdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837542267558695120",
+    "in_reply_to_user_id": "1609844142313553921",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837386972785975590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nijika_overdose 永远怀念"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1837386972785975590",
+        "created_at": "2024-09-21T17:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T18:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837542267558695120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609844142313553921",
+              "start": 0,
+              "username": "Nijika_overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837542267558695120",
+        "in_reply_to_user_id": "1609844142313553921",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837386972785975590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_overdose 永远怀念"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609844142313553921",
+        "conversation_id": "1837386972785975590",
+        "created_at": "2024-09-21T07:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T08:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837386972785975590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837386972785975590",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2099,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "隐退了\nNo More Drugs\n原有内容保留，我写的内容也好条目也好可随意改动\n为了未来，戒药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 \n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁🏴‍☠️\nVVV",
+        "id": "1561334508212723713",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 53,
+          "like_count": 34,
+          "listed_count": 0,
+          "tweet_count": 49
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T09:28:57.000Z",
+        "description": "一个路过的小镇做题家（亦是小镇错题家），双相，战地一睾手，时不时会女装，友跨，不定时上推回消息。另外药物相关会转到@Nijika_Dark\n请不要将内容搬至墙内，谢谢\nhttps://t.co/Dl8Wczp9cz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Nijika_Dark"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 107,
+                "expanded_url": "http://overspeed.wiki",
+                "start": 84,
+                "url": "https://t.co/Dl8Wczp9cz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/srfvKhKOZh"
+              }
+            ]
+          }
+        },
+        "id": "1609844142313553921",
+        "location": "参宿四",
+        "name": "Ijichi Nijika overdose",
+        "pinned_tweet_id": "1837386972785975590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717189338696761344/IAcPRhA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 131,
+          "like_count": 1691,
+          "listed_count": 2,
+          "tweet_count": 997
+        },
+        "url": "https://t.co/srfvKhKOZh",
+        "username": "Nijika_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

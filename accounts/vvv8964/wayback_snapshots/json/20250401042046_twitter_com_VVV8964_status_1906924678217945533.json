@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906924676271738880"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1906924678217945533",
+    "created_at": "2025-04-01T04:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T05:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906924678217945533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h1xsOzIcBK",
+          "end": 114,
+          "expanded_url": "https://x.com/VVV8964/status/1906924678217945533/photo/1",
+          "media_key": "3_1906924676271738880",
+          "start": 91,
+          "url": "https://t.co/h1xsOzIcBK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906924678217945533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "沃尔玛15刀买到的西冷牛排，肉质很嫩，意外的好吃，感觉根本不是这个价格的东西，可能在老中就要卖150刀了\n也有可能是我做菜手法太精湛细腻了，感觉外面餐馆卖的牛排也没比我做的好吃多少 https://t.co/h1xsOzIcBK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1757,
+        "media_key": "3_1906924676271738880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnbB48aakAAOjhU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906924676271738880"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1906924678217945533",
+        "created_at": "2025-04-01T04:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906924678217945533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1xsOzIcBK",
+              "end": 114,
+              "expanded_url": "https://x.com/VVV8964/status/1906924678217945533/photo/1",
+              "media_key": "3_1906924676271738880",
+              "start": 91,
+              "url": "https://t.co/h1xsOzIcBK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906924678217945533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沃尔玛15刀买到的西冷牛排，肉质很嫩，意外的好吃，感觉根本不是这个价格的东西，可能在老中就要卖150刀了\n也有可能是我做菜手法太精湛细腻了，感觉外面餐馆卖的牛排也没比我做的好吃多少 https://t.co/h1xsOzIcBK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  什么都发 不止药物 || 正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 163,
+          "like_count": 351,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 1010
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977652091779956736",
+        "3_1977652092375646208",
+        "3_1977652092711141376"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1977652095353561461",
+    "created_at": "2025-10-13T08:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T09:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977652095353561461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aeEYclI2mi",
+          "end": 68,
+          "expanded_url": "https://x.com/VVV8964/status/1977652095353561461/photo/1",
+          "media_key": "3_1977652091779956736",
+          "start": 45,
+          "url": "https://t.co/aeEYclI2mi"
+        },
+        {
+          "display_url": "pic.x.com/aeEYclI2mi",
+          "end": 68,
+          "expanded_url": "https://x.com/VVV8964/status/1977652095353561461/photo/1",
+          "media_key": "3_1977652092375646208",
+          "start": 45,
+          "url": "https://t.co/aeEYclI2mi"
+        },
+        {
+          "display_url": "pic.x.com/aeEYclI2mi",
+          "end": 68,
+          "expanded_url": "https://x.com/VVV8964/status/1977652095353561461/photo/1",
+          "media_key": "3_1977652092711141376",
+          "start": 45,
+          "url": "https://t.co/aeEYclI2mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977652095353561461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雨中漫步\n每周市中心都有摆摊集市，挺好玩的，我路过商家不仅让我试吃，还主动送我面包和果酱 https://t.co/aeEYclI2mi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977652091779956736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IIGXPaQAAb-gT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1977652092375646208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IIGZdbwAAumkf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1977652092711141376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IIGatbAAAnZLG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977652091779956736",
+            "3_1977652092375646208",
+            "3_1977652092711141376"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1977652095353561461",
+        "created_at": "2025-10-13T08:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T09:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977652095353561461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aeEYclI2mi",
+              "end": 68,
+              "expanded_url": "https://x.com/VVV8964/status/1977652095353561461/photo/1",
+              "media_key": "3_1977652091779956736",
+              "start": 45,
+              "url": "https://t.co/aeEYclI2mi"
+            },
+            {
+              "display_url": "pic.x.com/aeEYclI2mi",
+              "end": 68,
+              "expanded_url": "https://x.com/VVV8964/status/1977652095353561461/photo/1",
+              "media_key": "3_1977652092375646208",
+              "start": 45,
+              "url": "https://t.co/aeEYclI2mi"
+            },
+            {
+              "display_url": "pic.x.com/aeEYclI2mi",
+              "end": 68,
+              "expanded_url": "https://x.com/VVV8964/status/1977652095353561461/photo/1",
+              "media_key": "3_1977652092711141376",
+              "start": 45,
+              "url": "https://t.co/aeEYclI2mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977652095353561461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雨中漫步\n每周市中心都有摆摊集市，挺好玩的，我路过商家不仅让我试吃，还主动送我面包和果酱 https://t.co/aeEYclI2mi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 335,
+          "like_count": 3498,
+          "listed_count": 6,
+          "media_count": 323,
+          "tweet_count": 4681
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

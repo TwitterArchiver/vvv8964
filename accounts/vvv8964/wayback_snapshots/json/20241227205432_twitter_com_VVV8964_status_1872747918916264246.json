@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1872743094195765349",
+    "created_at": "2024-12-27T20:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T21:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872747918916264246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1456231777224347651",
+          "start": 0,
+          "username": "dDguwkiRkZcCSrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872747918916264246",
+    "in_reply_to_user_id": "1456231777224347651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872743094195765349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dDguwkiRkZcCSrt 芬尼布特，大概是普瑞一样的，能当下机药吃，但是有已被证实的成瘾性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1872743094195765349",
+        "created_at": "2024-12-27T20:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T21:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872747918916264246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1456231777224347651",
+              "start": 0,
+              "username": "dDguwkiRkZcCSrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872747918916264246",
+        "in_reply_to_user_id": "1456231777224347651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872743094195765349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dDguwkiRkZcCSrt 芬尼布特，大概是普瑞一样的，能当下机药吃，但是有已被证实的成瘾性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456231777224347651",
+        "conversation_id": "1872743094195765349",
+        "created_at": "2024-12-27T20:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T21:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872743094195765349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872743094195765349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帖子观赏之，提问。你觉得最有效的nootropics是什么？\n回答比较多的包括：\n1.咖啡因茶氨酸\n2.莫达菲尼\n3.alcar\n4.agpc、石衫碱甲a\n5.nac\n6.西坦类尤其是苯基吡拉西坦\n7.费洛西宾\n8.phenibut（谁告诉我这是什么）\n9.adderall\n10.ritalin\n11.semax\n12.酪氨酸\n13.助眠的\n14.肌酸\n15.镁\n16.维生素d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 138,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 549
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "intp",
+        "id": "1456231777224347651",
+        "name": "徐翔",
+        "pinned_tweet_id": "1864929593679057128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456231862645428232/EwsAhO0p_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 38,
+          "like_count": 916,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1975
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      }
+    ]
+  }
+}

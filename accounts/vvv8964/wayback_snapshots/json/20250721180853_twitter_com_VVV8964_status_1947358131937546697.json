@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924277239509655552"
+      ],
+      "media_source_tweet_id": [
+        "1924277243431305285"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1947358131937546697",
+    "created_at": "2025-07-21T18:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T19:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947358131937546697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1081473710551388160",
+          "start": 3,
+          "username": "strike_dr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1o2b50yXpF",
+          "end": 38,
+          "expanded_url": "https://x.com/strike_dr/status/1924277243431305285/photo/1",
+          "media_key": "3_1924277239509655552",
+          "start": 15,
+          "url": "https://t.co/1o2b50yXpF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947358131937546697",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2929
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924277243431305285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @strike_dr: https://t.co/1o2b50yXpF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1861,
+        "media_key": "3_1924277239509655552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrRn9D5XoAAUyHl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924277239509655552"
+          ],
+          "media_source_tweet_id": [
+            "1924277243431305285"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947358131937546697",
+        "created_at": "2025-07-21T18:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T19:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947358131937546697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1081473710551388160",
+              "start": 3,
+              "username": "strike_dr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1o2b50yXpF",
+              "end": 38,
+              "expanded_url": "https://x.com/strike_dr/status/1924277243431305285/photo/1",
+              "media_key": "3_1924277239509655552",
+              "start": 15,
+              "url": "https://t.co/1o2b50yXpF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947358131937546697",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2929
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924277243431305285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @strike_dr: https://t.co/1o2b50yXpF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924277239509655552"
+          ]
+        },
+        "author_id": "1081473710551388160",
+        "conversation_id": "1924277243431305285",
+        "created_at": "2025-05-19T01:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T02:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924277243431305285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1o2b50yXpF",
+              "end": 23,
+              "expanded_url": "https://x.com/strike_dr/status/1924277243431305285/photo/1",
+              "media_key": "3_1924277239509655552",
+              "start": 0,
+              "url": "https://t.co/1o2b50yXpF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924277243431305285",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1698,
+          "impression_count": 1033357,
+          "like_count": 33758,
+          "quote_count": 145,
+          "reply_count": 51,
+          "retweet_count": 2929
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1o2b50yXpF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 284,
+          "like_count": 1570,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2396
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-05T08:53:20.000Z",
+        "description": "☭ Card-Carrying Communist🎴☭ Meme Agitator 🤯 ☭ Pictured: Zofia Yamaika 🔥The ILN we put out publications every month https://t.co/QNr1eSF6gf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "luxemburgism.org",
+                "end": 138,
+                "expanded_url": "http://luxemburgism.org/",
+                "start": 115,
+                "url": "https://t.co/QNr1eSF6gf"
+              }
+            ]
+          }
+        },
+        "id": "1081473710551388160",
+        "location": "I am:💃👰🧑‍🍼(she/her/mama)",
+        "name": "★☭MassStrikeNow☭★",
+        "pinned_tweet_id": "1534967085666820096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1082529383611596800/kKPJF6eR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62362,
+          "following_count": 22183,
+          "like_count": 134927,
+          "listed_count": 384,
+          "media_count": 34200,
+          "tweet_count": 51301
+        },
+        "username": "strike_dr",
+        "verified": false
+      }
+    ]
+  }
+}

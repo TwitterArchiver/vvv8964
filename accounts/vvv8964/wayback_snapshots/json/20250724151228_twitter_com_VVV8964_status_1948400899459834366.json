@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1947988067790258177"
+      ],
+      "media_source_tweet_id": [
+        "1947988129366917576"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1948400899459834366",
+    "created_at": "2025-07-24T15:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T16:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948400899459834366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1565823393076846596",
+          "start": 3,
+          "username": "GoonExile"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/THYK2R4A1W",
+          "end": 87,
+          "expanded_url": "https://x.com/GoonExile/status/1947988129366917576/video/1",
+          "media_key": "13_1947988067790258177",
+          "start": 64,
+          "url": "https://t.co/THYK2R4A1W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948400899459834366",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 345
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947988129366917576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GoonExile: Perfect way to hide the penjamin smoke in public https://t.co/THYK2R4A1W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10116,
+        "height": 1280,
+        "media_key": "13_1947988067790258177",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1947988067790258177/img/L8bLpC36Rk7hYvqL.jpg",
+        "public_metrics": {
+          "view_count": 4924595
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947988067790258177/vid/avc1/320x568/TmE-OTUN61blMnqy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947988067790258177/vid/avc1/480x852/8pWpS99ep3ycqnI3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947988067790258177/vid/avc1/720x1280/pIUKRYJVtGNIiR3h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1947988067790258177/pl/R81kj02TZrb0Gcyp.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1947988067790258177"
+          ],
+          "media_source_tweet_id": [
+            "1947988129366917576"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1948400899459834366",
+        "created_at": "2025-07-24T15:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T16:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948400899459834366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1565823393076846596",
+              "start": 3,
+              "username": "GoonExile"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/THYK2R4A1W",
+              "end": 87,
+              "expanded_url": "https://x.com/GoonExile/status/1947988129366917576/video/1",
+              "media_key": "13_1947988067790258177",
+              "start": 64,
+              "url": "https://t.co/THYK2R4A1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948400899459834366",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 345
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947988129366917576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GoonExile: Perfect way to hide the penjamin smoke in public https://t.co/THYK2R4A1W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1947988067790258177"
+          ]
+        },
+        "author_id": "1565823393076846596",
+        "conversation_id": "1947988129366917576",
+        "created_at": "2025-07-23T11:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T12:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947988129366917576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/THYK2R4A1W",
+              "end": 72,
+              "expanded_url": "https://x.com/GoonExile/status/1947988129366917576/video/1",
+              "media_key": "13_1947988067790258177",
+              "start": 49,
+              "url": "https://t.co/THYK2R4A1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947988129366917576",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1528,
+          "impression_count": 14436253,
+          "like_count": 7111,
+          "quote_count": 964,
+          "reply_count": 600,
+          "retweet_count": 345
+        },
+        "reply_settings": "everyone",
+        "text": "Perfect way to hide the penjamin smoke in public https://t.co/THYK2R4A1W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 288,
+          "like_count": 1648,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 2480
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T22:06:18.000Z",
+        "description": "Hell",
+        "id": "1565823393076846596",
+        "location": "Home",
+        "name": "☥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902322864658997248/sFUbgcim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 1946,
+          "like_count": 778560,
+          "listed_count": 8,
+          "media_count": 147,
+          "tweet_count": 8434
+        },
+        "username": "GoonExile",
+        "verified": true
+      }
+    ]
+  }
+}

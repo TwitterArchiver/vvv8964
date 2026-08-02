@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1961672695323791378",
+    "created_at": "2025-08-30T06:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T07:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961681131029577952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1882203079220887552",
+          "start": 0,
+          "username": "yan081219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961681131029577952",
+    "in_reply_to_user_id": "1882203079220887552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961672695323791378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan081219 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1961672695323791378",
+        "created_at": "2025-08-30T06:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T07:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961681131029577952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1882203079220887552",
+              "start": 0,
+              "username": "yan081219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961681131029577952",
+        "in_reply_to_user_id": "1882203079220887552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961672695323791378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan081219 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882203079220887552",
+        "conversation_id": "1961672695323791378",
+        "created_at": "2025-08-30T06:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T07:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961672695323791378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961672695323791378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要开学了好绝望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 328,
+          "like_count": 2689,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 3595
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T23:06:18.000Z",
+        "description": "🚪52 仅好友位 问坐标10/次\n私信只回口令 不是口令直接拉黑 会回关喜欢的",
+        "id": "1882203079220887552",
+        "name": "日日日日日安安",
+        "pinned_tweet_id": "1953902451196932286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957850944579989507/87dfeIhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 123,
+          "like_count": 2008,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 371
+        },
+        "username": "yan081219",
+        "verified": false
+      }
+    ]
+  }
+}

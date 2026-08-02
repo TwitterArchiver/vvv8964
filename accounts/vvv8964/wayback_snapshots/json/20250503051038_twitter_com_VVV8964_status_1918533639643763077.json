@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1918457703330127981",
+    "created_at": "2025-05-03T05:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T06:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918533639643763077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1249525383797456898",
+          "start": 0,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918533639643763077",
+    "in_reply_to_user_id": "1249525383797456898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918457703330127981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jakobsonradical 看得我头晕眼花"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1918457625232199680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp-7C7Sa0AACRtz.jpg",
+        "width": 591
+      },
+      {
+        "duration_ms": 61533,
+        "height": 1280,
+        "media_key": "7_1918457646505705475",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1918457646505705475/pu/img/6LtgiyiM9NOHM1d6.jpg",
+        "public_metrics": {
+          "view_count": 12783
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918457646505705475/pu/vid/avc1/320x568/PXZcJyU5sLDrrImU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918457646505705475/pu/vid/avc1/480x852/TfhwFgSkK3FpsfdU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918457646505705475/pu/vid/avc1/720x1280/hnyN1VdYCY0SvVsP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1918457646505705475/pu/pl/GAEoNoKG8whthS8U.m3u8?tag=12&v=1fa"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1918457703330127981",
+        "created_at": "2025-05-03T05:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T06:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918533639643763077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249525383797456898",
+              "start": 0,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918533639643763077",
+        "in_reply_to_user_id": "1249525383797456898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918457703330127981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakobsonradical 看得我头晕眼花"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918457625232199680",
+            "7_1918457646505705475"
+          ]
+        },
+        "author_id": "1249525383797456898",
+        "conversation_id": "1918457703330127981",
+        "created_at": "2025-05-03T00:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T01:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918457703330127981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVNKPnvoES",
+              "end": 86,
+              "expanded_url": "https://x.com/jakobsonradical/status/1918457703330127981/video/1",
+              "media_key": "3_1918457625232199680",
+              "start": 63,
+              "url": "https://t.co/UVNKPnvoES"
+            },
+            {
+              "display_url": "pic.x.com/UVNKPnvoES",
+              "end": 86,
+              "expanded_url": "https://x.com/jakobsonradical/status/1918457703330127981/video/1",
+              "media_key": "7_1918457646505705475",
+              "start": 63,
+              "url": "https://t.co/UVNKPnvoES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918457703330127981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 37942,
+          "like_count": 286,
+          "quote_count": 4,
+          "reply_count": 35,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "中国官媒又在整什么烂活？令人眼前一黑。话说这台词，“比起民生，我更喜欢搞独裁”，确定不是在指桑骂槐、讽刺其他的某些领导人么。 https://t.co/UVNKPnvoES"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 181,
+          "like_count": 394,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 1145
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237903,
+          "following_count": 1475,
+          "like_count": 41492,
+          "listed_count": 967,
+          "media_count": 18125,
+          "tweet_count": 25319
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

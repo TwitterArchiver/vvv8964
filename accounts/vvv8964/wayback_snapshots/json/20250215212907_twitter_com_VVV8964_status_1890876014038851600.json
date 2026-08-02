@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1890683067699781811",
+    "created_at": "2025-02-15T21:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T22:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890876014038851600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890876014038851600",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890683067699781811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial 找个好点的美术打广告吧，这红框一圈跟椰树广告一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1890683067699781811",
+        "created_at": "2025-02-15T21:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T22:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890876014038851600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890876014038851600",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890683067699781811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial 找个好点的美术打广告吧，这红框一圈跟椰树广告一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890683050352087040",
+            "3_1890683050343669760",
+            "3_1890683050343661568",
+            "3_1890683050683445248"
+          ]
+        },
+        "author_id": "1272405078683430913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1890683067699781811",
+        "created_at": "2025-02-15T08:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T09:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890683067699781811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vNbnzfJQvX",
+              "end": 44,
+              "expanded_url": "https://x.com/PaitangOfficial/status/1890683067699781811/photo/1",
+              "media_key": "3_1890683050352087040",
+              "start": 21,
+              "url": "https://t.co/vNbnzfJQvX"
+            },
+            {
+              "display_url": "pic.x.com/vNbnzfJQvX",
+              "end": 44,
+              "expanded_url": "https://x.com/PaitangOfficial/status/1890683067699781811/photo/1",
+              "media_key": "3_1890683050343669760",
+              "start": 21,
+              "url": "https://t.co/vNbnzfJQvX"
+            },
+            {
+              "display_url": "pic.x.com/vNbnzfJQvX",
+              "end": 44,
+              "expanded_url": "https://x.com/PaitangOfficial/status/1890683067699781811/photo/1",
+              "media_key": "3_1890683050343661568",
+              "start": 21,
+              "url": "https://t.co/vNbnzfJQvX"
+            },
+            {
+              "display_url": "pic.x.com/vNbnzfJQvX",
+              "end": 44,
+              "expanded_url": "https://x.com/PaitangOfficial/status/1890683067699781811/photo/1",
+              "media_key": "3_1890683050683445248",
+              "start": 21,
+              "url": "https://t.co/vNbnzfJQvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890683067699781811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1268,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "莱博雷生 达利雷生现货\n\n9.9一粒 😼 https://t.co/vNbnzfJQvX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 157,
+          "like_count": 236,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 805
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "合法过检利他林｜您的抑郁症痊愈｜杀死失眠｜無限進步 Don’t Die｜互助论支持‼️欢迎互惠互利、资源交换｜X第二大💊商｜ADHD/ASD贴贴大欢迎～ ｜TG✈️ ：@paitangcuzhi3加速回復｜ENG OK👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "paitangcuzhi3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqN78M"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "Nootropic/向知性藥",
+        "name": "☯️🧬無極生物科技公司",
+        "pinned_tweet_id": "1890683067699781811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887520471966416896/FSrG7jf7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8724,
+          "following_count": 369,
+          "like_count": 6633,
+          "listed_count": 26,
+          "media_count": 1389,
+          "tweet_count": 11399
+        },
+        "url": "https://t.co/r6ojtqN78M",
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

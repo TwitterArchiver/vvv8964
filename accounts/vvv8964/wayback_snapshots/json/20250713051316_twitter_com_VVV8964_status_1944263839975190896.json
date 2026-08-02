@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1944263838389658065",
+    "created_at": "2025-07-13T05:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T06:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944263839975190896"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1944263839975190896",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944263838389658065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然而我却不能保证我之后不会为了钱干坏事，我要是混不下去了说不定也在网上和烙印一起搞诈骗或者其他歪门邪道，do not redeem it"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1944263838389658065",
+        "created_at": "2025-07-13T05:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T06:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944263839975190896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944263839975190896",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944263838389658065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然而我却不能保证我之后不会为了钱干坏事，我要是混不下去了说不定也在网上和烙印一起搞诈骗或者其他歪门邪道，do not redeem it"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1944263838389658065",
+        "created_at": "2025-07-13T05:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T06:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944263838389658065"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944263838389658065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要钱，但是我讨厌钱。\n我的家庭足够富裕让我高中就出来上学，但是即使我平时比较节俭，也是一笔不小的开支，钱也是有烧完的一天的\n我害怕没钱，以至于我开始讨厌钱的概念本身，尤其是当我看到很多命苦的人为了一点钱卖命的时候，我不是共产主义者，但是我一点都不想看到别人为了钱出卖尊严甚至良心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 281,
+          "like_count": 1428,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2307
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

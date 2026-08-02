@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939879942591746049"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1939879945461014957",
+    "created_at": "2025-07-01T02:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T03:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939879945461014957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hIBFR7nvIq",
+          "end": 72,
+          "expanded_url": "https://x.com/VVV8964/status/1939879945461014957/photo/1",
+          "media_key": "3_1939879942591746049",
+          "start": 49,
+          "url": "https://t.co/hIBFR7nvIq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939879945461014957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "热死我了，我30度就受不了了，但是好日子还在后头呢，我能不能受得了体感45度的某地，我们拭目以待 https://t.co/hIBFR7nvIq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1939879942591746049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuvWh6UWEAExPXd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939879942591746049"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1939879945461014957",
+        "created_at": "2025-07-01T02:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T03:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939879945461014957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hIBFR7nvIq",
+              "end": 72,
+              "expanded_url": "https://x.com/VVV8964/status/1939879945461014957/photo/1",
+              "media_key": "3_1939879942591746049",
+              "start": 49,
+              "url": "https://t.co/hIBFR7nvIq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939879945461014957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "热死我了，我30度就受不了了，但是好日子还在后头呢，我能不能受得了体感45度的某地，我们拭目以待 https://t.co/hIBFR7nvIq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 265,
+          "like_count": 1057,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 2024
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

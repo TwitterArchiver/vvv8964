@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1929217013898944879",
+    "created_at": "2025-06-02T04:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T05:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929388411284050141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4185709317",
+          "start": 0,
+          "username": "bee9ty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929388411284050141",
+    "in_reply_to_user_id": "4185709317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929383893855347039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bee9ty 我177 70kg 怎么吃半颗 掰开来吃药丸吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1929217013898944879",
+        "created_at": "2025-06-02T04:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T05:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929388411284050141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4185709317",
+              "start": 0,
+              "username": "bee9ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929388411284050141",
+        "in_reply_to_user_id": "4185709317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929383893855347039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bee9ty 我177 70kg 怎么吃半颗 掰开来吃药丸吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4185709317",
+        "conversation_id": "1929217013898944879",
+        "created_at": "2025-06-02T03:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T04:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929383893855347039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929383893855347039",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929382850056343555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 你多高多重 20只是 starting does 你吃一周跟他们follow up 让他们给你加量 或者你自己 吃一颗半 20mg 试试看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 242,
+          "like_count": 724,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1643
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-14T10:48:40.000Z",
+        "description": "",
+        "id": "4185709317",
+        "name": "gg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/839476427426693122/mD_vf-hW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 138,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "username": "bee9ty",
+        "verified": false
+      }
+    ]
+  }
+}

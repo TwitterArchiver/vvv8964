@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1972719001697685802",
+    "created_at": "2025-09-29T18:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T19:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972725960962425157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690721268373581824",
+          "start": 0,
+          "username": "Celsius233C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972725960962425157",
+    "in_reply_to_user_id": "1690721268373581824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972719001697685802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Celsius233C 一两年没玩了 凯尔希怎么死了？？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_1972718999306952704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2CBelta4AAYD6E.jpg",
+        "width": 2132
+      },
+      {
+        "height": 1206,
+        "media_key": "3_1972718999311097856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2CBeluaIAA25Gt.jpg",
+        "width": 2121
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1972719001697685802",
+        "created_at": "2025-09-29T18:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T19:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972725960962425157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690721268373581824",
+              "start": 0,
+              "username": "Celsius233C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972725960962425157",
+        "in_reply_to_user_id": "1690721268373581824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972719001697685802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Celsius233C 一两年没玩了 凯尔希怎么死了？？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972718999306952704",
+            "3_1972718999311097856"
+          ]
+        },
+        "author_id": "1690721268373581824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1972719001697685802",
+        "created_at": "2025-09-29T17:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T18:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972719001697685802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYlZx32N4q",
+              "end": 29,
+              "expanded_url": "https://x.com/Celsius233C/status/1972719001697685802/photo/1",
+              "media_key": "3_1972718999306952704",
+              "start": 6,
+              "url": "https://t.co/nYlZx32N4q"
+            },
+            {
+              "display_url": "pic.x.com/nYlZx32N4q",
+              "end": 29,
+              "expanded_url": "https://x.com/Celsius233C/status/1972719001697685802/photo/1",
+              "media_key": "3_1972718999311097856",
+              "start": 6,
+              "url": "https://t.co/nYlZx32N4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972719001697685802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牢猫😭😭😭 https://t.co/nYlZx32N4q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 337,
+          "like_count": 3266,
+          "listed_count": 5,
+          "media_count": 279,
+          "tweet_count": 4414
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T13:45:44.000Z",
+        "description": "Gender undefined💛💜｜zh-CN/en-US｜R-18G｜Film Photography📷｜Planes✈️｜Amateur Radio📻｜War Thunder",
+        "id": "1690721268373581824",
+        "location": "Washington, USA",
+        "name": "233°C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709080494498054145/b4FIrcBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5595,
+          "following_count": 848,
+          "like_count": 19002,
+          "listed_count": 23,
+          "media_count": 99,
+          "tweet_count": 1818
+        },
+        "username": "Celsius233C",
+        "verified": false
+      }
+    ]
+  }
+}

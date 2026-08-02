@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1888770897382904008",
+    "created_at": "2025-02-10T04:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T05:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888802487911813291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717434951497629696",
+          "start": 0,
+          "username": "GongShi22101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888802487911813291",
+    "in_reply_to_user_id": "1717434951497629696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888770897382904008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GongShi22101 你活啦，太好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1888770897382904008",
+        "created_at": "2025-02-10T04:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T05:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888802487911813291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717434951497629696",
+              "start": 0,
+              "username": "GongShi22101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888802487911813291",
+        "in_reply_to_user_id": "1717434951497629696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888770897382904008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GongShi22101 你活啦，太好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717434951497629696",
+        "conversation_id": "1888770897382904008",
+        "created_at": "2025-02-10T02:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T03:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888770897382904008"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888770897382904008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我回来了\n十月一号我服用一百片金刚烷胺紫砂\n服药后两小时断片，服药后六小时被警察找到\n在icu呆了五天血液透析两天\n其中做了三天的幻觉 全是人生中最恐惧的内容，之后在精神病院呆了一个月强制隔离以此提示 金刚烷胺紫砂在短时间内被找到有活着风险，长时间还是可以的\n顺便一提我被找到的时候吐了一地"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 156,
+          "like_count": 227,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 776
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T06:56:23.000Z",
+        "description": "愛 しているのに 😿",
+        "id": "1717434951497629696",
+        "name": "叶藏Escitalopram",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801042697609994240/R1nuWnSd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 176,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 496
+        },
+        "username": "GongShi22101",
+        "verified": false
+      }
+    ]
+  }
+}

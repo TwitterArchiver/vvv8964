@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1944050101976186960",
+    "created_at": "2025-07-12T15:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T16:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944050101976186960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WhiteHouse/sta…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1943816803513512149",
+          "start": 26,
+          "url": "https://t.co/4k76o3k2Hc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944050101976186960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943816803513512149",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是老美我就紫砂了，这傻逼政府比共青团官号都能折腾 https://t.co/4k76o3k2Hc"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "“oMg, diD tHe wHiTE hOuSE reALLy PosT tHiS?”",
+        "height": 1600,
+        "media_key": "3_1943816797167210497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvnTFAeW0AE7m-m.jpg",
+        "width": 1065
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1944050101976186960",
+        "created_at": "2025-07-12T15:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T16:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944050101976186960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WhiteHouse/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/WhiteHouse/status/1943816803513512149",
+              "start": 26,
+              "url": "https://t.co/4k76o3k2Hc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944050101976186960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943816803513512149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是老美我就紫砂了，这傻逼政府比共青团官号都能折腾 https://t.co/4k76o3k2Hc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943816797167210497"
+          ]
+        },
+        "author_id": "1879644163769335808",
+        "conversation_id": "1943816803513512149",
+        "created_at": "2025-07-11T23:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T00:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943816803513512149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nwH7NziRBD",
+              "end": 92,
+              "expanded_url": "https://x.com/WhiteHouse/status/1943816803513512149/photo/1",
+              "media_key": "3_1943816797167210497",
+              "start": 69,
+              "url": "https://t.co/nwH7NziRBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943816803513512149",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1370,
+          "impression_count": 2873115,
+          "like_count": 32897,
+          "quote_count": 1279,
+          "reply_count": 4923,
+          "retweet_count": 3317
+        },
+        "reply_settings": "everyone",
+        "text": "Nowhere in the Constitution does it say we can’t post banger memes 💥 https://t.co/nwH7NziRBD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 281,
+          "like_count": 1408,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2297
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T21:37:54.000Z",
+        "description": "The Golden Age of America Begins Right Now.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "http://wh.gov",
+                "start": 0,
+                "url": "https://t.co/0BqS4u1FRp"
+              }
+            ]
+          }
+        },
+        "id": "1879644163769335808",
+        "location": "Washington, DC",
+        "name": "The White House",
+        "pinned_tweet_id": "1941269132135305237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916971216620982274/1DsLEcqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281564,
+          "following_count": 6,
+          "like_count": 234,
+          "listed_count": 4854,
+          "media_count": 1729,
+          "tweet_count": 5804
+        },
+        "url": "https://t.co/0BqS4u1FRp",
+        "username": "WhiteHouse",
+        "verified": true
+      }
+    ]
+  }
+}

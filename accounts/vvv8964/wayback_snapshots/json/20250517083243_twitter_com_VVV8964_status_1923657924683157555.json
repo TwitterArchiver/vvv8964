@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1923649499978924535",
+    "created_at": "2025-05-17T08:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T09:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923657924683157555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1758280045355737088",
+          "start": 0,
+          "username": "itchybalpolitks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923657924683157555",
+    "in_reply_to_user_id": "1758280045355737088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923657070731198859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itchybalpolitks 我成年了，我在中国休学了两年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1923649499978924535",
+        "created_at": "2025-05-17T08:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T09:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923657924683157555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1758280045355737088",
+              "start": 0,
+              "username": "itchybalpolitks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923657924683157555",
+        "in_reply_to_user_id": "1758280045355737088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923657070731198859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itchybalpolitks 我成年了，我在中国休学了两年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758280045355737088",
+        "conversation_id": "1923649499978924535",
+        "created_at": "2025-05-17T08:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T09:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923657070731198859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923657070731198859",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923656799921766910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 😡那你不也是未成年？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  |||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 208,
+          "like_count": 501,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 1360
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T00:00:09.000Z",
+        "description": "",
+        "id": "1758280045355737088",
+        "name": "Ume侠（唱多英伟达第一人👊👁️🔥）",
+        "pinned_tweet_id": "1864133770921824503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758601064390266880/uWGrjhFP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 499,
+          "like_count": 3190,
+          "listed_count": 5,
+          "media_count": 72,
+          "tweet_count": 1614
+        },
+        "username": "itchybalpolitks",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1938476249158193496",
+    "created_at": "2025-06-27T07:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T08:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938499932618690624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620367275273633792",
+          "start": 0,
+          "username": "Alina_Medverova"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938499932618690624",
+    "in_reply_to_user_id": "1620367275273633792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938476249158193496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alina_Medverova 感觉像反串的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1938476240081752064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubZ3q-bkAAl0LN.jpg",
+        "width": 720
+      },
+      {
+        "height": 960,
+        "media_key": "3_1938476242803822593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubZ31HbEAE1nT-.jpg",
+        "width": 720
+      },
+      {
+        "height": 960,
+        "media_key": "3_1938476245794361344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubZ4AQbEAAsqQM.jpg",
+        "width": 720
+      },
+      {
+        "height": 960,
+        "media_key": "3_1938476246335426561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubZ4CRbEAE4oI4.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1938476249158193496",
+        "created_at": "2025-06-27T07:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T08:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938499932618690624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620367275273633792",
+              "start": 0,
+              "username": "Alina_Medverova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938499932618690624",
+        "in_reply_to_user_id": "1620367275273633792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938476249158193496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alina_Medverova 感觉像反串的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938476240081752064",
+            "3_1938476242803822593",
+            "3_1938476245794361344",
+            "3_1938476246335426561"
+          ]
+        },
+        "author_id": "1620367275273633792",
+        "conversation_id": "1938476249158193496",
+        "created_at": "2025-06-27T05:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T06:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938476249158193496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bCBCSJOcXP",
+              "end": 66,
+              "expanded_url": "https://x.com/Alina_Medverova/status/1938476249158193496/photo/1",
+              "media_key": "3_1938476240081752064",
+              "start": 43,
+              "url": "https://t.co/bCBCSJOcXP"
+            },
+            {
+              "display_url": "pic.x.com/bCBCSJOcXP",
+              "end": 66,
+              "expanded_url": "https://x.com/Alina_Medverova/status/1938476249158193496/photo/1",
+              "media_key": "3_1938476242803822593",
+              "start": 43,
+              "url": "https://t.co/bCBCSJOcXP"
+            },
+            {
+              "display_url": "pic.x.com/bCBCSJOcXP",
+              "end": 66,
+              "expanded_url": "https://x.com/Alina_Medverova/status/1938476249158193496/photo/1",
+              "media_key": "3_1938476245794361344",
+              "start": 43,
+              "url": "https://t.co/bCBCSJOcXP"
+            },
+            {
+              "display_url": "pic.x.com/bCBCSJOcXP",
+              "end": 66,
+              "expanded_url": "https://x.com/Alina_Medverova/status/1938476249158193496/photo/1",
+              "media_key": "3_1938476246335426561",
+              "start": 43,
+              "url": "https://t.co/bCBCSJOcXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938476249158193496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 937,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "接下来我要发送几张QQ聊天记录，各位当乐子看就可以了，不存在可信度也没有代表性\n1/ https://t.co/bCBCSJOcXP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 256,
+          "like_count": 963,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1932
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T10:24:13.000Z",
+        "description": "Приятно познакомиться...или,  наверное？",
+        "id": "1620367275273633792",
+        "location": "21世纪",
+        "name": "Алина-Медвежова🇫🇮",
+        "pinned_tweet_id": "1938255961363517892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937045943628496896/Zpe_tGkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 1028,
+          "like_count": 36957,
+          "listed_count": 2,
+          "media_count": 516,
+          "tweet_count": 9405
+        },
+        "username": "Alina_Medverova",
+        "verified": false
+      }
+    ]
+  }
+}

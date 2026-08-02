@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1959600671390601672",
+    "created_at": "2025-08-24T13:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T14:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959613101374161326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1419692188166811648",
+          "start": 0,
+          "username": "hdzoiyznlg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959613101374161326",
+    "in_reply_to_user_id": "1419692188166811648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959611480409792989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hdzoiyznlg 我也想当融友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1959600671390601672",
+        "created_at": "2025-08-24T13:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T14:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959613101374161326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1419692188166811648",
+              "start": 0,
+              "username": "hdzoiyznlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959613101374161326",
+        "in_reply_to_user_id": "1419692188166811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959611480409792989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hdzoiyznlg 我也想当融友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419692188166811648",
+        "conversation_id": "1959600671390601672",
+        "created_at": "2025-08-24T13:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T14:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959611480409792989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959611480409792989",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959600671390601672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 有那种很融入的见面五分钟就把人夹在中间chittalk了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 329,
+          "like_count": 2582,
+          "listed_count": 4,
+          "media_count": 182,
+          "tweet_count": 3465
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-26T16:13:19.000Z",
+        "description": "",
+        "id": "1419692188166811648",
+        "name": "Papxbwhakxnw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903418323628687360/U7gryIKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 436,
+          "like_count": 13644,
+          "listed_count": 0,
+          "media_count": 3036,
+          "tweet_count": 27432
+        },
+        "username": "hdzoiyznlg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1972228538381275136"
+      ],
+      "media_source_tweet_id": [
+        "1972228573533815170"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1972397141302944247",
+    "created_at": "2025-09-28T20:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T21:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972397141302944247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1861630140800999427",
+          "start": 3,
+          "username": "scenezyn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pIaIA12Bk3",
+          "end": 69,
+          "expanded_url": "https://x.com/scenezyn/status/1972228573533815170/video/1",
+          "media_key": "13_1972228538381275136",
+          "start": 46,
+          "url": "https://t.co/pIaIA12Bk3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972397141302944247",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5972
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972228573533815170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @scenezyn: age verification aint shit bruh https://t.co/pIaIA12Bk3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20970,
+        "height": 500,
+        "media_key": "13_1972228538381275136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1972228538381275136/img/N9YN9miuFz7hGZ3q.jpg",
+        "public_metrics": {
+          "view_count": 1065767
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972228538381275136/vid/avc1/388x270/AAkhuxX105ZgCAFv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972228538381275136/vid/avc1/518x360/s7rUK8a-6zKNp7Ah.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972228538381275136/vid/avc1/720x500/DT5eT4tzogJQhRfJ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1972228538381275136/pl/yo2DC3rIcvgghPp9.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972228538381275136"
+          ],
+          "media_source_tweet_id": [
+            "1972228573533815170"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1972397141302944247",
+        "created_at": "2025-09-28T20:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T21:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972397141302944247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1861630140800999427",
+              "start": 3,
+              "username": "scenezyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pIaIA12Bk3",
+              "end": 69,
+              "expanded_url": "https://x.com/scenezyn/status/1972228573533815170/video/1",
+              "media_key": "13_1972228538381275136",
+              "start": 46,
+              "url": "https://t.co/pIaIA12Bk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972397141302944247",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5972
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972228573533815170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @scenezyn: age verification aint shit bruh https://t.co/pIaIA12Bk3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972228538381275136"
+          ]
+        },
+        "author_id": "1861630140800999427",
+        "conversation_id": "1972228573533815170",
+        "created_at": "2025-09-28T09:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T10:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972228573533815170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pIaIA12Bk3",
+              "end": 55,
+              "expanded_url": "https://x.com/scenezyn/status/1972228573533815170/video/1",
+              "media_key": "13_1972228538381275136",
+              "start": 32,
+              "url": "https://t.co/pIaIA12Bk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972228573533815170",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9729,
+          "impression_count": 2172384,
+          "like_count": 99847,
+          "quote_count": 100,
+          "reply_count": 161,
+          "retweet_count": 5972
+        },
+        "reply_settings": "everyone",
+        "text": "age verification aint shit bruh https://t.co/pIaIA12Bk3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 336,
+          "like_count": 3251,
+          "listed_count": 5,
+          "media_count": 278,
+          "tweet_count": 4389
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-27T04:36:35.000Z",
+        "description": "⋆ artist ⋆\n⋆ y2k 4eva ⋆\n⋆ 23 ⋆",
+        "id": "1861630140800999427",
+        "name": "Tamzyn",
+        "pinned_tweet_id": "1959061943161168047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955438360803282945/2OIVnT8L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 126,
+          "like_count": 8658,
+          "listed_count": 1,
+          "media_count": 288,
+          "tweet_count": 1543
+        },
+        "username": "scenezyn",
+        "verified": false
+      }
+    ]
+  }
+}

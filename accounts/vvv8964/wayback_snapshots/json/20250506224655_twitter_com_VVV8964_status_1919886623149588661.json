@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1919866369140518965",
+    "created_at": "2025-05-06T22:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T23:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919886623149588661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901299981518286848",
+          "start": 0,
+          "username": "kami18181818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919886623149588661",
+    "in_reply_to_user_id": "1901299981518286848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919866369140518965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kami18181818 怎么会呕吐后不吸收的，不应该啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 952,
+        "media_key": "3_1919866359913336832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqS8SE7bUAAKar2.jpg",
+        "width": 1194
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1919866369140518965",
+        "created_at": "2025-05-06T22:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T23:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919886623149588661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901299981518286848",
+              "start": 0,
+              "username": "kami18181818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919886623149588661",
+        "in_reply_to_user_id": "1901299981518286848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919866369140518965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami18181818 怎么会呕吐后不吸收的，不应该啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919866359913336832"
+          ]
+        },
+        "author_id": "1901299981518286848",
+        "conversation_id": "1919866369140518965",
+        "created_at": "2025-05-06T21:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T22:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919866369140518965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iB7SU0fj3a",
+              "end": 56,
+              "expanded_url": "https://x.com/kami18181818/status/1919866369140518965/photo/1",
+              "media_key": "3_1919866359913336832",
+              "start": 33,
+              "url": "https://t.co/iB7SU0fj3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919866369140518965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "交作业来了月度总结\n没有任何教唆的意思让我自己再选一次我也不要了 https://t.co/iB7SU0fj3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 184,
+          "like_count": 416,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 1176
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T15:50:27.000Z",
+        "description": "You wasn't alone in space. https://t.co/0OTkgW5lG2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/npc93484",
+                "end": 50,
+                "expanded_url": "https://ngl.link/npc93484",
+                "start": 27,
+                "url": "https://t.co/0OTkgW5lG2"
+              }
+            ]
+          }
+        },
+        "id": "1901299981518286848",
+        "location": "平壤",
+        "name": "kami",
+        "pinned_tweet_id": "1917852735053127804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909312547976888320/uoGqMJXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 329,
+          "like_count": 1105,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 554
+        },
+        "username": "kami18181818",
+        "verified": false
+      }
+    ]
+  }
+}

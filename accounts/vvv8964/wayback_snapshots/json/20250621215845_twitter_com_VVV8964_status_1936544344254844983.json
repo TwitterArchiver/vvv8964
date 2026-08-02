@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1936542351557632173",
+    "created_at": "2025-06-21T21:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T22:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936544344254844983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902129412503695361",
+          "start": 0,
+          "username": "whydoilovedoris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936544344254844983",
+    "in_reply_to_user_id": "1902129412503695361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936542351557632173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whydoilovedoris 这也是中介吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1684,
+        "media_key": "3_1936542346260127744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt_7APFWIAAEPCp.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1936542345870065664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt_7ANoWQAACsWz.jpg",
+        "width": 1249
+      },
+      {
+        "height": 1602,
+        "media_key": "3_1936542345937203200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt_7AN4WsAARFdr.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1936542351557632173",
+        "created_at": "2025-06-21T21:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T22:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936544344254844983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902129412503695361",
+              "start": 0,
+              "username": "whydoilovedoris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936544344254844983",
+        "in_reply_to_user_id": "1902129412503695361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936542351557632173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whydoilovedoris 这也是中介吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936542346260127744",
+            "3_1936542345870065664",
+            "3_1936542345937203200"
+          ]
+        },
+        "author_id": "1902129412503695361",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1919913637579309058",
+              "name": "Curacao vs Canada"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226237394243584",
+              "name": "International - Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756524527411201",
+              "name": "CONCACAF Gold Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1919913637579309058",
+              "name": "Curacao vs Canada"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1919913637579309058",
+              "name": "Curacao vs Canada"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1936542351557632173",
+        "created_at": "2025-06-21T21:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T22:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936542351557632173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XWMGMOoJrx",
+              "end": 53,
+              "expanded_url": "https://x.com/whydoilovedoris/status/1936542351557632173/photo/1",
+              "media_key": "3_1936542346260127744",
+              "start": 30,
+              "url": "https://t.co/XWMGMOoJrx"
+            },
+            {
+              "display_url": "pic.x.com/XWMGMOoJrx",
+              "end": 53,
+              "expanded_url": "https://x.com/whydoilovedoris/status/1936542351557632173/photo/1",
+              "media_key": "3_1936542345870065664",
+              "start": 30,
+              "url": "https://t.co/XWMGMOoJrx"
+            },
+            {
+              "display_url": "pic.x.com/XWMGMOoJrx",
+              "end": 53,
+              "expanded_url": "https://x.com/whydoilovedoris/status/1936542351557632173/photo/1",
+              "media_key": "3_1936542345937203200",
+              "start": 30,
+              "url": "https://t.co/XWMGMOoJrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936542351557632173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "润加🇨🇦原来没有想象中的那么难吗\n可能签证就是最难的步骤了 https://t.co/XWMGMOoJrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 243,
+          "like_count": 882,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 1839
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T22:46:56.000Z",
+        "description": "",
+        "id": "1902129412503695361",
+        "location": "non binary any pronouns",
+        "name": "srikanth",
+        "pinned_tweet_id": "1934114245152514102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932488998632513536/eJQhFs5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 110,
+          "like_count": 6171,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1312
+        },
+        "username": "whydoilovedoris",
+        "verified": false
+      }
+    ]
+  }
+}

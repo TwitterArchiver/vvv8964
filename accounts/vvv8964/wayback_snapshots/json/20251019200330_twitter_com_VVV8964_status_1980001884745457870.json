@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980001761122234368"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1980001884745457870",
+    "created_at": "2025-10-19T20:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T21:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980001884745457870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4yBlzw0PlF",
+          "end": 59,
+          "expanded_url": "https://x.com/VVV8964/status/1980001884745457870/photo/1",
+          "media_key": "3_1980001761122234368",
+          "start": 36,
+          "url": "https://t.co/4yBlzw0PlF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980001884745457870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已严肃购买MDMA 真的很便宜\nplug你怎么不上线 快发货啊急死我了 https://t.co/4yBlzw0PlF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1980001761122234368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3phHHpWsAAUJXn.jpg",
+        "width": 914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980001761122234368"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1980001884745457870",
+        "created_at": "2025-10-19T20:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T21:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980001884745457870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4yBlzw0PlF",
+              "end": 59,
+              "expanded_url": "https://x.com/VVV8964/status/1980001884745457870/photo/1",
+              "media_key": "3_1980001761122234368",
+              "start": 36,
+              "url": "https://t.co/4yBlzw0PlF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980001884745457870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃购买MDMA 真的很便宜\nplug你怎么不上线 快发货啊急死我了 https://t.co/4yBlzw0PlF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 341,
+          "like_count": 3620,
+          "listed_count": 7,
+          "media_count": 344,
+          "tweet_count": 4823
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

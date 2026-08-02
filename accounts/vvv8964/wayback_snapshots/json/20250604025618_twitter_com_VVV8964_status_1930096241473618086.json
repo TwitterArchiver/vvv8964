@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1930093066360369385",
+    "created_at": "2025-06-04T02:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T03:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930096241473618086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1335220888917053440",
+          "start": 0,
+          "username": "S4U7A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930096241473618086",
+    "in_reply_to_user_id": "1335220888917053440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930093066360369385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S4U7A 啊？？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1930093066360369385",
+        "created_at": "2025-06-04T02:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T03:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930096241473618086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1335220888917053440",
+              "start": 0,
+              "username": "S4U7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930096241473618086",
+        "in_reply_to_user_id": "1335220888917053440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930093066360369385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S4U7A 啊？？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1335220888917053440",
+        "conversation_id": "1930093066360369385",
+        "created_at": "2025-06-04T02:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T03:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930093066360369385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930093066360369385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我他妈在山头上找到一撮裸盖菇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 243,
+          "like_count": 751,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 1681
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-05T13:54:10.000Z",
+        "description": "Mắt tôi nhìn thấy mọi thứ, nhưng chúng không phải của tôi. English/Tiếng Việt/中文/日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sauta.carrd.co",
+                "end": 23,
+                "expanded_url": "http://sauta.carrd.co",
+                "start": 0,
+                "url": "https://t.co/Ae1BXuU6pB"
+              }
+            ]
+          }
+        },
+        "id": "1335220888917053440",
+        "location": "電子の海",
+        "name": "𝙎𝙖𝙪𝙩𝙖 // NOT A PRODUCER (literally)",
+        "pinned_tweet_id": "1920752216698487254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914252873367691264/HSZR0QUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 440,
+          "like_count": 7385,
+          "listed_count": 1,
+          "media_count": 378,
+          "tweet_count": 1066
+        },
+        "url": "https://t.co/Ae1BXuU6pB",
+        "username": "S4U7A",
+        "verified": false
+      }
+    ]
+  }
+}

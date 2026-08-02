@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1929411445403373995",
+    "created_at": "2025-06-02T05:57:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T06:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929417176861008141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1843988379614244864",
+          "start": 0,
+          "username": "taipheon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929417176861008141",
+    "in_reply_to_user_id": "1843988379614244864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929414522587988280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taipheon 今天是我第一天用药，用的时候药效体验发在主页了，你翻翻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1929411445403373995",
+        "created_at": "2025-06-02T05:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T06:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929417176861008141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1843988379614244864",
+              "start": 0,
+              "username": "taipheon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929417176861008141",
+        "in_reply_to_user_id": "1843988379614244864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929414522587988280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taipheon 今天是我第一天用药，用的时候药效体验发在主页了，你翻翻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843988379614244864",
+        "conversation_id": "1929411445403373995",
+        "created_at": "2025-06-02T05:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T06:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929414522587988280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929414522587988280",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929411445403373995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 adhd用药后感觉怎么样？我不太想确诊，但国内不确诊又不能开药，只能用bupropion（而且买不到原版"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 242,
+          "like_count": 725,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1648
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T12:16:02.000Z",
+        "description": "如果你抑郁，我愿意陪你聊天，我也是。\n既然看了我主页，就留言吧，不然成单机软件了。\n留言会回",
+        "id": "1843988379614244864",
+        "location": "北京",
+        "name": "恶魔今天不开心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843988793730506752/sY9w6c0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 5,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 150
+        },
+        "username": "taipheon",
+        "verified": false
+      }
+    ]
+  }
+}

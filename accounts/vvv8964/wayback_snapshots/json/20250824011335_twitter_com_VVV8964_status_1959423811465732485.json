@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1959423811465732485",
+    "created_at": "2025-08-24T01:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T02:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959423811465732485"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959423811465732485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "梦到在温哥华被东北人出租车司机绑架了，我打车发现打到同学家不是自己家，app上找不到更换终点的选项，司机也一直坏笑说要把我带到一个医院去还对我动手动脚的，最后我趁司机把车停在路边打开两侧的门挥手求救，引来很多人但是没人敢帮我，司机还挥刀把我刺伤了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1959423811465732485",
+        "created_at": "2025-08-24T01:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T02:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959423811465732485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959423811465732485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梦到在温哥华被东北人出租车司机绑架了，我打车发现打到同学家不是自己家，app上找不到更换终点的选项，司机也一直坏笑说要把我带到一个医院去还对我动手动脚的，最后我趁司机把车停在路边打开两侧的门挥手求救，引来很多人但是没人敢帮我，司机还挥刀把我刺伤了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 327,
+          "like_count": 2553,
+          "listed_count": 4,
+          "media_count": 181,
+          "tweet_count": 3416
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

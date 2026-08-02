@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1927717215760966011",
+    "created_at": "2025-05-28T22:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T23:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927856883211141255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1511185667274907652",
+          "start": 0,
+          "username": "RevolutionTide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927856883211141255",
+    "in_reply_to_user_id": "1511185667274907652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927717215760966011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RevolutionTide 这傻逼炒作狗黑鬼 气死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1927717118809686016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsCggY4XQAA04EV.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1927717118784438272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsCggYyWAAAtmAd.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1927717215760966011",
+        "created_at": "2025-05-28T22:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T23:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927856883211141255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1511185667274907652",
+              "start": 0,
+              "username": "RevolutionTide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927856883211141255",
+        "in_reply_to_user_id": "1511185667274907652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927717215760966011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RevolutionTide 这傻逼炒作狗黑鬼 气死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927717118809686016",
+            "3_1927717118784438272"
+          ]
+        },
+        "author_id": "1511185667274907652",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          }
+        ],
+        "conversation_id": "1927717215760966011",
+        "created_at": "2025-05-28T13:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T14:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927717215760966011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5YU2f0ZKl",
+              "end": 47,
+              "expanded_url": "https://x.com/RevolutionTide/status/1927717215760966011/photo/1",
+              "media_key": "3_1927717118809686016",
+              "start": 24,
+              "url": "https://t.co/E5YU2f0ZKl"
+            },
+            {
+              "display_url": "pic.x.com/E5YU2f0ZKl",
+              "end": 47,
+              "expanded_url": "https://x.com/RevolutionTide/status/1927717215760966011/photo/1",
+              "media_key": "3_1927717118784438272",
+              "start": 24,
+              "url": "https://t.co/E5YU2f0ZKl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927717215760966011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 14206,
+          "like_count": 124,
+          "quote_count": 11,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难绷，写个英语题都能看到ishowspeed💧 https://t.co/E5YU2f0ZKl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 235,
+          "like_count": 650,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 1537
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T03:35:22.000Z",
+        "description": "平等消灭等级或表象下的一切，也建立一个不存在正当性的社会，形成这个社会的只是字句的随机传播。一切都发生在书写的页面上。—雅克·朗西埃/自治主义马克思主义者/小号：@xngchn355733",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "xngchn355733"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/index.…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/index.html",
+                "start": 0,
+                "url": "https://t.co/rdnePFl1uP"
+              }
+            ]
+          }
+        },
+        "id": "1511185667274907652",
+        "location": "爱丽丝电台",
+        "name": "La Vague Révolutionnaire",
+        "pinned_tweet_id": "1847619356575817866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917864443561869312/07cRkWO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5433,
+          "following_count": 3255,
+          "like_count": 100771,
+          "listed_count": 32,
+          "media_count": 426,
+          "tweet_count": 5394
+        },
+        "url": "https://t.co/rdnePFl1uP",
+        "username": "RevolutionTide",
+        "verified": false
+      }
+    ]
+  }
+}

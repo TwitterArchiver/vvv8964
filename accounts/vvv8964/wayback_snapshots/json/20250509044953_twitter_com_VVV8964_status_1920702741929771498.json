@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1920374412441759948",
+    "created_at": "2025-05-09T04:49:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T05:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920702741929771498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1224507668204789761",
+          "start": 0,
+          "username": "WinslowHee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920702741929771498",
+    "in_reply_to_user_id": "1224507668204789761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920700482231681145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WinslowHee 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1920374412441759948",
+        "created_at": "2025-05-09T04:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T05:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920702741929771498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1224507668204789761",
+              "start": 0,
+              "username": "WinslowHee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920702741929771498",
+        "in_reply_to_user_id": "1224507668204789761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920700482231681145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WinslowHee 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224507668204789761",
+        "conversation_id": "1920374412441759948",
+        "created_at": "2025-05-09T04:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T05:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920700482231681145"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "GetYourDrugsTested",
+              "probability": 0.6405,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920700482231681145",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920374412441759948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 BC GetYourDrugsTested是吧）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 190,
+          "like_count": 432,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 1205
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-04T01:39:22.000Z",
+        "description": "EO/EN/CN/LA. Cypherpunk. Efilist. I can melt Zopiclone in my mouth, it does not hurt me. 我可以含服佐匹克隆且不伤身体。\nOpenAlias: https://t.co/AxpHQwG9Km\n❤️ @NeoTrumeet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 143,
+                "username": "NeoTrumeet"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xmr.winslow.cloud",
+                "end": 139,
+                "expanded_url": "http://xmr.winslow.cloud",
+                "start": 116,
+                "url": "https://t.co/AxpHQwG9Km"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "winsloweric.com",
+                "end": 23,
+                "expanded_url": "https://winsloweric.com",
+                "start": 0,
+                "url": "https://t.co/fF43EcwDPj"
+              }
+            ]
+          }
+        },
+        "id": "1224507668204789761",
+        "location": "Raincouver, British Columbia ",
+        "name": "\"Tengu Youkai\" Winslow🏳️‍⚧️",
+        "pinned_tweet_id": "1794299548279693781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611618772758192128/Ln31SnEu_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1192,
+          "like_count": 47105,
+          "listed_count": 28,
+          "media_count": 350,
+          "tweet_count": 5812
+        },
+        "url": "https://t.co/fF43EcwDPj",
+        "username": "WinslowHee",
+        "verified": false
+      }
+    ]
+  }
+}

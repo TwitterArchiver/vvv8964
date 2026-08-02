@@ -1,0 +1,595 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Kanye West",
+          "id": "806561823407239169",
+          "name": "Kanye West"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Kanye West",
+          "id": "806561823407239169",
+          "name": "Kanye West"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Kanye West",
+          "id": "806561823407239169",
+          "name": "Kanye West"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "1944193374678135161",
+    "created_at": "2025-07-13T00:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T01:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944193374678135161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/runews/status/…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/runews/status/1944072589174767925",
+          "start": 44,
+          "url": "https://t.co/xd57SLAYly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944193374678135161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944072589174767925",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可能中国是唯一允许侃爷放这种歌的国家了虽然我觉得他有点傻逼，但是这首歌真的很有节目效果 https://t.co/xd57SLAYly"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19926,
+        "height": 854,
+        "media_key": "13_1944072436636344320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1944072436636344320/img/_GO6KZEUAQQ7k68W.jpg",
+        "public_metrics": {
+          "view_count": 2025
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944072436636344320/vid/avc1/320x568/-saorqvU4gSDsRrh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944072436636344320/vid/avc1/480x854/L1h8PqyoJRpOUTiE.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1944072436636344320/pl/9VBG78_6vlXgg6PQ.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "duration_ms": 22564,
+        "height": 522,
+        "media_key": "13_1944072436636438528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1944072436636438528/img/n8eBuRQXe5BOPLdT.jpg",
+        "public_metrics": {
+          "view_count": 581
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944072436636438528/vid/avc1/440x270/dUgQFJfOb8PupK7s.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944072436636438528/vid/avc1/588x360/IIbPruadKtFOJl8R.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944072436636438528/vid/avc1/854x522/8sXqk2YnGyW8wNLg.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1944072436636438528/pl/poGFxKobictd3erF.m3u8?tag=14&v=b77"
+          }
+        ],
+        "width": 854
+      },
+      {
+        "height": 995,
+        "media_key": "3_1944072436619624448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvq7lLpXQAAm18X.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1944072436602802176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvq7lLlWkAAGE5E.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kanye West",
+              "id": "806561823407239169",
+              "name": "Kanye West"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Kanye West",
+              "id": "806561823407239169",
+              "name": "Kanye West"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kanye West",
+              "id": "806561823407239169",
+              "name": "Kanye West"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "1944193374678135161",
+        "created_at": "2025-07-13T00:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T01:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944193374678135161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/runews/status/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/runews/status/1944072589174767925",
+              "start": 44,
+              "url": "https://t.co/xd57SLAYly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944193374678135161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944072589174767925",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可能中国是唯一允许侃爷放这种歌的国家了虽然我觉得他有点傻逼，但是这首歌真的很有节目效果 https://t.co/xd57SLAYly"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1944072436636344320",
+            "13_1944072436636438528",
+            "3_1944072436619624448",
+            "3_1944072436602802176"
+          ]
+        },
+        "author_id": "243318995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kanye West",
+              "id": "806561823407239169",
+              "name": "Kanye West"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Kanye West",
+              "id": "806561823407239169",
+              "name": "Kanye West"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kanye West",
+              "id": "806561823407239169",
+              "name": "Kanye West"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "1944072589174767925",
+        "created_at": "2025-07-12T16:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T17:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944072589174767925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "169686021",
+              "start": 2,
+              "username": "kanyewest"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uOGaWdaC4K",
+              "end": 247,
+              "expanded_url": "https://x.com/runews/status/1944072589174767925/video/1",
+              "media_key": "13_1944072436636344320",
+              "start": 224,
+              "url": "https://t.co/uOGaWdaC4K"
+            },
+            {
+              "display_url": "pic.x.com/uOGaWdaC4K",
+              "end": 247,
+              "expanded_url": "https://x.com/runews/status/1944072589174767925/video/1",
+              "media_key": "13_1944072436636438528",
+              "start": 224,
+              "url": "https://t.co/uOGaWdaC4K"
+            },
+            {
+              "display_url": "pic.x.com/uOGaWdaC4K",
+              "end": 247,
+              "expanded_url": "https://x.com/runews/status/1944072589174767925/video/1",
+              "media_key": "3_1944072436619624448",
+              "start": 224,
+              "url": "https://t.co/uOGaWdaC4K"
+            },
+            {
+              "display_url": "pic.x.com/uOGaWdaC4K",
+              "end": 247,
+              "expanded_url": "https://x.com/runews/status/1944072589174767925/video/1",
+              "media_key": "3_1944072436602802176",
+              "start": 224,
+              "url": "https://t.co/uOGaWdaC4K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944072589174767925",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5155,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "* @kanyewest performed at a concert in China and sang his hit \"N**ga He*l H*tler.\"\n\nHe did tweak it slightly — it now goes \"N**ga Hallelujah.\" \n\nBut if you're not paying close attention, the difference is barely noticeable. https://t.co/uOGaWdaC4K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 281,
+          "like_count": 1422,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 2302
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-26T19:56:43.000Z",
+        "description": "Not affiliated with America Party\nNews and opinions only",
+        "id": "243318995",
+        "name": "America Party News",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944084865579687936/8WcBqczR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371809,
+          "following_count": 423,
+          "like_count": 2037,
+          "listed_count": 4335,
+          "media_count": 55779,
+          "tweet_count": 168330
+        },
+        "username": "runews",
+        "verified": false
+      }
+    ]
+  }
+}

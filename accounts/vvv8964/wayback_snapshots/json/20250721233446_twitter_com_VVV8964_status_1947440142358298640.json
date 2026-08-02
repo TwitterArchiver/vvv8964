@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1947257122489569775",
+    "created_at": "2025-07-21T23:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T00:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947440142358298640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1505851491734720515",
+          "start": 0,
+          "username": "momo_yu_333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947440142358298640",
+    "in_reply_to_user_id": "1505851491734720515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947257122489569775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momo_yu_333 我觉得烟很坏，大麻都比烟好（没有说推荐抽大麻的意思）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947257122489569775",
+        "created_at": "2025-07-21T23:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T00:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947440142358298640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1505851491734720515",
+              "start": 0,
+              "username": "momo_yu_333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947440142358298640",
+        "in_reply_to_user_id": "1505851491734720515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947257122489569775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momo_yu_333 我觉得烟很坏，大麻都比烟好（没有说推荐抽大麻的意思）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505851491734720515",
+        "conversation_id": "1947257122489569775",
+        "created_at": "2025-07-21T11:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T12:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947257122489569775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947257122489569775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5926,
+          "like_count": 65,
+          "quote_count": 7,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有个疑问，好奇一些未成年mtf是怎么得上吸烟这个习惯的？我印象中只有成年人才能购买，而且一包烟的价格通常在20元左右\n个人觉得吸烟在ftm群体中或许更受欢迎？因为符合社会对男性吸烟的刻板印象。\n在这，你希望你的笔电和海景房都陪你一起吸烟嘛！\n机魂不悦，遂amd显卡掉驱动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 284,
+          "like_count": 1568,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2394
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T10:19:23.000Z",
+        "description": "04年大龄｜生活无助天残党｜是家里全职女儿（逃｜ 门槛80接线下｜寻找人生重开的方式｜想要做文媛！会出原味！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yumm86474",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yumm86474",
+                "start": 0,
+                "url": "https://t.co/V2G2a8h0oH"
+              }
+            ]
+          }
+        },
+        "id": "1505851491734720515",
+        "location": "ApplePark",
+        "name": "雨茉茉 🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593281701626748929/bju9heh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 224,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 755
+        },
+        "url": "https://t.co/V2G2a8h0oH",
+        "username": "momo_yu_333",
+        "verified": false
+      }
+    ]
+  }
+}

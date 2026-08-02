@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1959451408291479598",
+    "created_at": "2025-08-24T03:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T04:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959451410480988430"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959451410480988430",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959451408291479598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "突然我发现家里有一个后门，打开了是楼里的健身房，那这样就安全很多，可以让小女友偷偷溜走。\n发现后门后回来，发现所有碟子都被服务员收走了，我据理力争才把盘子夺回。期间还把上菜的服务员吓到了，一个不稳盘子里的粉撒了一地"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1959451408291479598",
+        "created_at": "2025-08-24T03:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T04:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959451410480988430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959451410480988430",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959451408291479598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然我发现家里有一个后门，打开了是楼里的健身房，那这样就安全很多，可以让小女友偷偷溜走。\n发现后门后回来，发现所有碟子都被服务员收走了，我据理力争才把盘子夺回。期间还把上菜的服务员吓到了，一个不稳盘子里的粉撒了一地"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1959451408291479598",
+        "created_at": "2025-08-24T03:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T04:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959451408291479598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959451408291479598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还做了一个梦 梦见去大学的食物专业问老师怎么做饭 老师直接端来几叠盘子给我让我回家学，我家不知道怎么回事是一个餐厅。我到家里打开发现都是菜，还是热腾腾的，记得一个盘子里有虾饺还有透明的椰子糕，我发现刷食物的bug了很开心。小女友也在 我跟她一起亲亲抱抱，但是怕我妈回来了发现。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 327,
+          "like_count": 2559,
+          "listed_count": 4,
+          "media_count": 181,
+          "tweet_count": 3422
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

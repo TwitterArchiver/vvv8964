@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1938698950812520646",
+    "created_at": "2025-06-28T05:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T06:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938830685542002733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1582680134167171072",
+          "start": 0,
+          "username": "Hon_Qing022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938830685542002733",
+    "in_reply_to_user_id": "1582680134167171072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938820009964232755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hon_Qing022 可能可以 但是医生不给我开 说是有副作用 只给我开了抗胃酸的 吃了没啥用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1938698950812520646",
+        "created_at": "2025-06-28T05:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T06:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938830685542002733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1582680134167171072",
+              "start": 0,
+              "username": "Hon_Qing022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938830685542002733",
+        "in_reply_to_user_id": "1582680134167171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938820009964232755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hon_Qing022 可能可以 但是医生不给我开 说是有副作用 只给我开了抗胃酸的 吃了没啥用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582680134167171072",
+        "conversation_id": "1938698950812520646",
+        "created_at": "2025-06-28T04:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T05:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938820009964232755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938820009964232755",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938698950812520646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 这样可不可以吃止吐药呀 多潘立酮这种？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 258,
+          "like_count": 986,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1971
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-19T10:28:52.000Z",
+        "description": "暖暖的秒針掛著糖漿(๑˃̵ᴗ˂̵)",
+        "id": "1582680134167171072",
+        "location": "紅太狼平底鍋技術學校",
+        "name": "多希望你不是我終將醒來的馥郁之夢",
+        "pinned_tweet_id": "1629561939360894977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892529870455947264/AeLmdlN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 216,
+          "like_count": 12643,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 529
+        },
+        "username": "Hon_Qing022",
+        "verified": false
+      }
+    ]
+  }
+}

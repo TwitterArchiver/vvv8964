@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956025405426819077"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1956025408643850394",
+    "created_at": "2025-08-14T16:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T17:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956025408643850394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XGvBbT9jwV",
+          "end": 32,
+          "expanded_url": "https://x.com/VVV8964/status/1956025408643850394/photo/1",
+          "media_key": "3_1956025405426819077",
+          "start": 9,
+          "url": "https://t.co/XGvBbT9jwV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956025408643850394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人可以夸夸我吗 https://t.co/XGvBbT9jwV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1956025405426819077",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyUyviYa4AUmrQ2.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956025405426819077"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1956025408643850394",
+        "created_at": "2025-08-14T16:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T17:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956025408643850394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XGvBbT9jwV",
+              "end": 32,
+              "expanded_url": "https://x.com/VVV8964/status/1956025408643850394/photo/1",
+              "media_key": "3_1956025405426819077",
+              "start": 9,
+              "url": "https://t.co/XGvBbT9jwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956025408643850394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人可以夸夸我吗 https://t.co/XGvBbT9jwV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 319,
+          "like_count": 2292,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 3063
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

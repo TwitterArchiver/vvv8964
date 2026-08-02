@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1955517998414053535",
+    "created_at": "2025-08-14T06:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T07:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955879626250838532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908668668919398400",
+          "start": 0,
+          "username": "Kazumasski"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955879626250838532",
+    "in_reply_to_user_id": "1908668668919398400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955517998414053535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kazumasski 流汗了 看得我头晕眼花"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_1955517986644840448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyNlP4HaUAAN5EW.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1955517998414053535",
+        "created_at": "2025-08-14T06:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T07:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955879626250838532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908668668919398400",
+              "start": 0,
+              "username": "Kazumasski"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955879626250838532",
+        "in_reply_to_user_id": "1908668668919398400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955517998414053535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazumasski 流汗了 看得我头晕眼花"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955517986644840448"
+          ]
+        },
+        "author_id": "1908668668919398400",
+        "conversation_id": "1955517998414053535",
+        "created_at": "2025-08-13T06:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T07:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955517998414053535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iXFO3dodbO",
+              "end": 46,
+              "expanded_url": "https://x.com/Kazumasski/status/1955517998414053535/photo/1",
+              "media_key": "3_1955517986644840448",
+              "start": 23,
+              "url": "https://t.co/iXFO3dodbO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955517998414053535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 40240,
+          "like_count": 417,
+          "quote_count": 6,
+          "reply_count": 40,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我一直很疑惑为什么中国人认为X是资源型网站。 https://t.co/iXFO3dodbO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 319,
+          "like_count": 2267,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 3040
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "みんなが悪魔で異常です｜佐々木 和真と申します｜インターネットの天使｜音ゲーマー｜13歳中2生｜あの人@chaox1220_2nd｜金金金金｜陰キャ｜サブ垢@hhaaiibot 音ゲー垢@bblloocckk_｜Xの住人｜メール✉️:sashisusesoowo@hotmail.com ｜よろしく申し上げます。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "chaox1220_2nd"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "hhaaiibot"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "bblloocckk_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "irasutoya.com",
+                "end": 23,
+                "expanded_url": "http://irasutoya.com",
+                "start": 0,
+                "url": "https://t.co/vxqq8xI5xm"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "location": "金金金金",
+        "name": "朽木牌手机9块9包邮 🏳️‍🌈 @赖床单推入",
+        "pinned_tweet_id": "1955495984949277070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953261706488233984/QwOOzoh-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 3396,
+          "like_count": 3367,
+          "listed_count": 2,
+          "media_count": 777,
+          "tweet_count": 4195
+        },
+        "url": "https://t.co/vxqq8xI5xm",
+        "username": "Kazumasski",
+        "verified": true
+      }
+    ]
+  }
+}

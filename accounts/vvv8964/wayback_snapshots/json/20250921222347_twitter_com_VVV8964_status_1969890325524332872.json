@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1969890325524332872",
+    "created_at": "2025-09-21T22:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T23:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969890325524332872"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1969890325524332872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我思考了一会 没那么后悔出国留学了 至少在经济方面上不那么后悔了 虽然我怀疑我爹说自己能赚大钱只是在给我画饼 但是我要是不出国留学我的学费就要被我妈投入房地产贷款买个烂尾楼了 所以与其送给共产党还不如花在我身上 至少我能呼吸自由的空气享受一会，这样的日子还有好几年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1969890325524332872",
+        "created_at": "2025-09-21T22:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T23:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969890325524332872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969890325524332872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我思考了一会 没那么后悔出国留学了 至少在经济方面上不那么后悔了 虽然我怀疑我爹说自己能赚大钱只是在给我画饼 但是我要是不出国留学我的学费就要被我妈投入房地产贷款买个烂尾楼了 所以与其送给共产党还不如花在我身上 至少我能呼吸自由的空气享受一会，这样的日子还有好几年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 331,
+          "like_count": 3099,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 4206
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

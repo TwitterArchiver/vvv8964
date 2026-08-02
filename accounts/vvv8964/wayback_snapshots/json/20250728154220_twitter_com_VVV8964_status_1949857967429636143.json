@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1949853501728707062",
+    "created_at": "2025-07-28T15:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T16:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949857967429636143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1732759010355339264",
+          "start": 0,
+          "username": "oOxaliSs"
+        },
+        {
+          "end": 26,
+          "id": "1503516796493590530",
+          "start": 10,
+          "username": "orangefish_stew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949857967429636143",
+    "in_reply_to_user_id": "1732759010355339264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949855175310561538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oOxaliSs @orangefish_stew 没关系，我就喜欢炒作"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1949855175310561538].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1949855175310561538",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1949855175310561538"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1949853501728707062",
+        "created_at": "2025-07-28T15:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T16:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949857967429636143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732759010355339264",
+              "start": 0,
+              "username": "oOxaliSs"
+            },
+            {
+              "end": 26,
+              "id": "1503516796493590530",
+              "start": 10,
+              "username": "orangefish_stew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949857967429636143",
+        "in_reply_to_user_id": "1732759010355339264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949855175310561538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oOxaliSs @orangefish_stew 没关系，我就喜欢炒作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 301,
+          "like_count": 1793,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 2614
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T13:49:09.000Z",
+        "description": "enby｜蘑菇恐龙猫头鹰🍄🦖🦉｜省流：嗑药的AS变态birder｜现充version（限定）｜不是很明白社交平台守则请多包含🙂‍↕️ ｜米线非常玄学｜unfo请双😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2ZsWq7zlUwBjY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2ZsWq7zlUwBjYWE1",
+                "start": 0,
+                "url": "https://t.co/7mtuwehe1Y"
+              }
+            ]
+          }
+        },
+        "id": "1732759010355339264",
+        "location": "they/them/ta/他",
+        "name": "oOxaliSs",
+        "pinned_tweet_id": "1940783826273509492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732781379421921280/v1gUWytM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 601,
+          "like_count": 23551,
+          "listed_count": 1,
+          "media_count": 284,
+          "tweet_count": 3360
+        },
+        "url": "https://t.co/7mtuwehe1Y",
+        "username": "oOxaliSs",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-14T23:42:07.000Z",
+        "description": "16在校高中牲｜INFP｜代词随意｜🏳️‍🌈🏳️‍⚧️喜欢男的｜成分复杂｜其实是个khn🤓👆",
+        "id": "1503516796493590530",
+        "location": "青岛",
+        "name": "橙汁烩鱼",
+        "pinned_tweet_id": "1900189739627798575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867818610703339520/TcGpAQTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 1448,
+          "like_count": 14477,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 3759
+        },
+        "username": "orangefish_stew",
+        "verified": false
+      }
+    ]
+  }
+}

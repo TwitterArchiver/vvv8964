@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1947576055650513179",
+    "created_at": "2025-07-22T08:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T09:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947579197104525757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1772241946050015232",
+          "start": 0,
+          "username": "Re1_y0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947579197104525757",
+    "in_reply_to_user_id": "1772241946050015232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947576055650513179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Re1_y0 我吃普瑞虽然话可能会更多 但是语言流畅度会受影响"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947576055650513179",
+        "created_at": "2025-07-22T08:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T09:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947579197104525757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1772241946050015232",
+              "start": 0,
+              "username": "Re1_y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947579197104525757",
+        "in_reply_to_user_id": "1772241946050015232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947576055650513179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re1_y0 我吃普瑞虽然话可能会更多 但是语言流畅度会受影响"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772241946050015232",
+        "conversation_id": "1947576055650513179",
+        "created_at": "2025-07-22T08:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T09:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947576055650513179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/re1_y0/status/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/re1_y0/status/1947324166266638484",
+              "start": 17,
+              "url": "https://t.co/fH6CIoOyw1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947576055650513179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947324166266638484",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们真的可以试一下 我觉得好舒服 https://t.co/fH6CIoOyw1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 287,
+          "like_count": 1592,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 2410
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T12:39:51.000Z",
+        "description": "=蕾（Rei）♀︎｜中国語&ENG ｜日本語勉强中｜OD&自傷｜直fo选回｜非互fo私信不回｜清水推 ｜⚠️DO NOT re-upload or use my photos｜GF @Asszeqr｜https://t.co/bDeHLHWgRo📪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 91,
+                "username": "Asszeqr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rei51208",
+                "end": 123,
+                "expanded_url": "https://ngl.link/rei51208",
+                "start": 100,
+                "url": "https://t.co/bDeHLHWgRo"
+              }
+            ]
+          }
+        },
+        "id": "1772241946050015232",
+        "location": "有女朋友",
+        "name": "レイ",
+        "pinned_tweet_id": "1937038817640480853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941105999663742976/hbTbUloE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 203,
+          "like_count": 1661,
+          "listed_count": 1,
+          "media_count": 384,
+          "tweet_count": 3447
+        },
+        "username": "Re1_y0",
+        "verified": false
+      }
+    ]
+  }
+}

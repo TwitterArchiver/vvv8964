@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1961760628416360643",
+    "created_at": "2025-08-30T11:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T12:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961760628416360643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VVV8964/status…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/VVV8964/status/1961760426586505624",
+          "start": 21,
+          "url": "https://t.co/1EbXP6lnK4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961760628416360643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961760426586505624",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是我跟小女友的完整故事，推友们羡慕吗 https://t.co/1EbXP6lnK4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961760422698295296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzmStelaIAAOV-0.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1961760423587479553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzmSth5aAAEkIXK.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1961760423746912256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzmStifawAAItPP.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1961760628416360643",
+        "created_at": "2025-08-30T11:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T12:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961760628416360643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VVV8964/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/VVV8964/status/1961760426586505624",
+              "start": 21,
+              "url": "https://t.co/1EbXP6lnK4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961760628416360643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961760426586505624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是我跟小女友的完整故事，推友们羡慕吗 https://t.co/1EbXP6lnK4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961760422698295296",
+            "3_1961760423587479553",
+            "3_1961760423746912256"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947657179592593605",
+        "created_at": "2025-08-30T11:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T12:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961760426586505624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JlESxyZXA0",
+              "end": 123,
+              "expanded_url": "https://x.com/VVV8964/status/1961760426586505624/photo/1",
+              "media_key": "3_1961760422698295296",
+              "start": 100,
+              "url": "https://t.co/JlESxyZXA0"
+            },
+            {
+              "display_url": "pic.x.com/JlESxyZXA0",
+              "end": 123,
+              "expanded_url": "https://x.com/VVV8964/status/1961760426586505624/photo/1",
+              "media_key": "3_1961760423587479553",
+              "start": 100,
+              "url": "https://t.co/JlESxyZXA0"
+            },
+            {
+              "display_url": "pic.x.com/JlESxyZXA0",
+              "end": 123,
+              "expanded_url": "https://x.com/VVV8964/status/1961760426586505624/photo/1",
+              "media_key": "3_1961760423746912256",
+              "start": 100,
+              "url": "https://t.co/JlESxyZXA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961760426586505624",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947657179592593605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大概就是她看我推觉得我很有意思，然后主动找机会搭话，从推特聊到Tg聊到Instagram，最后每天连麦看动画睡觉，我们共同点很多，她也很懂我，双方互相有一点感情了但是都没说，有点双向暗恋一样\n1/n https://t.co/JlESxyZXA0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 328,
+          "like_count": 2695,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 3603
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

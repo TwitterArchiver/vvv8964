@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1932968216831070395",
+    "created_at": "2025-06-12T18:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T19:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933235251608002735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "57618417",
+          "start": 0,
+          "username": "90kPa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933235251608002735",
+    "in_reply_to_user_id": "57618417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932968216831070395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@90kPa 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1932968216831070395",
+        "created_at": "2025-06-12T18:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T19:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933235251608002735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "57618417",
+              "start": 0,
+              "username": "90kPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933235251608002735",
+        "in_reply_to_user_id": "57618417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932968216831070395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@90kPa 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "57618417",
+        "conversation_id": "1932968216831070395",
+        "created_at": "2025-06-12T01:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T02:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932968216831070395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932968216831070395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 442,
+          "impression_count": 248211,
+          "like_count": 1228,
+          "quote_count": 20,
+          "reply_count": 166,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "普通家庭孩子改命10条铁律\n1.尽量上985/211\n2.从小保持强烈危机感\n3.大学应规划职业\n4.尽早读商业书，建立商业思维\n5.一般不听父母的话，越听话下场越惨\n6.有主见，尤其重大人生选择如选专业、工作、结婚、创业\n7.存款没200万前取消一切娱乐\n8.减少无效社交\n9.第一份工作尽量进大公司\n10.保持绝对自信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 244,
+          "like_count": 830,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 1786
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-17T11:25:42.000Z",
+        "description": "Non omnis moriar. \n\n#Philharmonic #camping #bikepacking #prepper",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 20,
+                "tag": "Philharmonic"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "camping"
+              },
+              {
+                "end": 55,
+                "start": 43,
+                "tag": "bikepacking"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "prepper"
+              }
+            ]
+          }
+        },
+        "id": "57618417",
+        "location": "Changsha",
+        "name": "90千帕",
+        "pinned_tweet_id": "1863398031950778766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1234865639845552134/KNL5SRqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39376,
+          "following_count": 167,
+          "like_count": 6742,
+          "listed_count": 304,
+          "media_count": 1509,
+          "tweet_count": 39160
+        },
+        "username": "90kPa",
+        "verified": false
+      }
+    ]
+  }
+}

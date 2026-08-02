@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1967099360145178860",
+    "created_at": "2025-09-14T22:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T23:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967354299736113540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1949031083829346305",
+          "start": 0,
+          "username": "s0manull"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967354299736113540",
+    "in_reply_to_user_id": "1949031083829346305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967099360145178860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s0manull 安卓的优势这就来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 909,
+        "media_key": "3_1967099349873332224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yKb8MaEAAqQCc.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1967099349915365381",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yKb8WbcAUtx26.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1967099360145178860",
+        "created_at": "2025-09-14T22:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T23:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967354299736113540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1949031083829346305",
+              "start": 0,
+              "username": "s0manull"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967354299736113540",
+        "in_reply_to_user_id": "1949031083829346305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967099360145178860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s0manull 安卓的优势这就来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967099349873332224",
+            "3_1967099349915365381"
+          ]
+        },
+        "author_id": "1949031083829346305",
+        "conversation_id": "1967099360145178860",
+        "created_at": "2025-09-14T05:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967099360145178860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8BZl6vAQZG",
+              "end": 62,
+              "expanded_url": "https://x.com/s0manull/status/1967099360145178860/photo/1",
+              "media_key": "3_1967099349873332224",
+              "start": 39,
+              "url": "https://t.co/8BZl6vAQZG"
+            },
+            {
+              "display_url": "pic.x.com/8BZl6vAQZG",
+              "end": 62,
+              "expanded_url": "https://x.com/s0manull/status/1967099360145178860/photo/1",
+              "media_key": "3_1967099349915365381",
+              "start": 39,
+              "url": "https://t.co/8BZl6vAQZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967099360145178860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的psywiki journal啥时候自动更新了卧靠😹你们真是想圈钱想疯了 https://t.co/8BZl6vAQZG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 333,
+          "like_count": 3000,
+          "listed_count": 4,
+          "media_count": 247,
+          "tweet_count": 4086
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T08:56:43.000Z",
+        "description": "我重生了👁 | genderfluid they/them/any | shedtwt drugtwt | mw @moritehhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "moritehhhh"
+              }
+            ]
+          }
+        },
+        "id": "1949031083829346305",
+        "name": "William Afton",
+        "pinned_tweet_id": "1954087428895170706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953424683032080384/uMQIfxzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 109,
+          "like_count": 746,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 105
+        },
+        "username": "s0manull",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970254548674715653"
+      ],
+      "media_source_tweet_id": [
+        "1970254550868300282"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1970254581490995486",
+    "created_at": "2025-09-22T22:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T23:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970254581490995486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1561334508212723713",
+          "start": 3,
+          "username": "VVV8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DSJmYSSld5",
+          "end": 74,
+          "expanded_url": "https://x.com/VVV8964/status/1970254550868300282/photo/1",
+          "media_key": "3_1970254548674715653",
+          "start": 51,
+          "url": "https://t.co/DSJmYSSld5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970254581490995486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970254550868300282",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VVV8964: 我草了这是谁发的 怎么知道我选的课的 出来认领一下好吗 我被害妄想症要犯了 https://t.co/DSJmYSSld5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970254548674715653",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1fAErraoAUMIZU.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970254548674715653"
+          ],
+          "media_source_tweet_id": [
+            "1970254550868300282"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1970254581490995486",
+        "created_at": "2025-09-22T22:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T23:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970254581490995486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1561334508212723713",
+              "start": 3,
+              "username": "VVV8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DSJmYSSld5",
+              "end": 74,
+              "expanded_url": "https://x.com/VVV8964/status/1970254550868300282/photo/1",
+              "media_key": "3_1970254548674715653",
+              "start": 51,
+              "url": "https://t.co/DSJmYSSld5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970254581490995486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970254550868300282",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VVV8964: 我草了这是谁发的 怎么知道我选的课的 出来认领一下好吗 我被害妄想症要犯了 https://t.co/DSJmYSSld5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970254548674715653"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947657179592593605",
+        "created_at": "2025-09-22T22:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T23:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970254550868300282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DSJmYSSld5",
+              "end": 61,
+              "expanded_url": "https://x.com/VVV8964/status/1970254550868300282/photo/1",
+              "media_key": "3_1970254548674715653",
+              "start": 38,
+              "url": "https://t.co/DSJmYSSld5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970254550868300282",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947657179592593605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草了这是谁发的 怎么知道我选的课的 出来认领一下好吗 我被害妄想症要犯了 https://t.co/DSJmYSSld5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 329,
+          "like_count": 3117,
+          "listed_count": 5,
+          "media_count": 268,
+          "tweet_count": 4249
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

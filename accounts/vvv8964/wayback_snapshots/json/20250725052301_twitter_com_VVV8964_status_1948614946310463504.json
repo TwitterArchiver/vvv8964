@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1948611999820120473",
+    "created_at": "2025-07-25T05:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T06:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948614946310463504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843510989964369920",
+          "start": 0,
+          "username": "mylzhichuanggao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948614946310463504",
+    "in_reply_to_user_id": "1843510989964369920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948611999820120473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylzhichuanggao 吃点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1948611993889636356",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrcSMTbgAQC3Fw.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1948611999820120473",
+        "created_at": "2025-07-25T05:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T06:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948614946310463504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843510989964369920",
+              "start": 0,
+              "username": "mylzhichuanggao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948614946310463504",
+        "in_reply_to_user_id": "1843510989964369920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948611999820120473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylzhichuanggao 吃点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948611993889636356"
+          ]
+        },
+        "author_id": "1843510989964369920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1948611999820120473",
+        "created_at": "2025-07-25T05:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T06:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948611999820120473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bpHIgbqcPm",
+              "end": 32,
+              "expanded_url": "https://x.com/mylzhichuanggao/status/1948611999820120473/photo/1",
+              "media_key": "3_1948611993889636356",
+              "start": 9,
+              "url": "https://t.co/bpHIgbqcPm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948611999820120473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "意大利黑醋小牛肉 https://t.co/bpHIgbqcPm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 288,
+          "like_count": 1656,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 2494
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T04:37:47.000Z",
+        "description": "无证含糖mtx，hrt2025.1.11/08捏/新东方小厨娘已休学(゜∇   °)/什么都发一点/酒鬼（已被od代替）/中强度赛博碎碎念/事一个一个一个绝望的文盲啊啊啊/喝醉了会乱发推耍酒疯🙏🙏/超大号互联网垃圾桶/偶尔会哈气🥲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaajiancaipifa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaajiancaipifa1",
+                "start": 0,
+                "url": "https://t.co/356g9XFjWy"
+              }
+            ]
+          }
+        },
+        "id": "1843510989964369920",
+        "location": "距离你1.14514km",
+        "name": "byd劳朢天天做菜翻大车♿♿🍥",
+        "pinned_tweet_id": "1930253996456824903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854830853115068416/dQAVE-1F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 184,
+          "like_count": 12514,
+          "listed_count": 2,
+          "media_count": 668,
+          "tweet_count": 5235
+        },
+        "url": "https://t.co/356g9XFjWy",
+        "username": "mylzhichuanggao",
+        "verified": false
+      }
+    ]
+  }
+}

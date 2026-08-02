@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1900796364331905398",
+    "created_at": "2025-03-15T19:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T20:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900988496162288014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1779154402588172288",
+          "start": 0,
+          "username": "_Nikisade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900988496162288014",
+    "in_reply_to_user_id": "1779154402588172288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900899635054395822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Nikisade 我是chq。我还是不明白，2刀打四首，如果刷歌重启是不会消耗次数吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1900796364331905398",
+        "created_at": "2025-03-15T19:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T20:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900988496162288014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779154402588172288",
+              "start": 0,
+              "username": "_Nikisade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900988496162288014",
+        "in_reply_to_user_id": "1779154402588172288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900899635054395822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Nikisade 我是chq。我还是不明白，2刀打四首，如果刷歌重启是不会消耗次数吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779154402588172288",
+        "conversation_id": "1900796364331905398",
+        "created_at": "2025-03-15T13:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T14:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900899635054395822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900899635054395822",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900796364331905398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 一般来说重启是刷歌的不达标就重启了，不一定是你毁的，不过确实两边是同一个机器，哪怕一个人打另一边也不可以玩的，要等结束，蓝色红色三角按钮是歌曲选择用的，按了本身不会影响别人游戏。\n\n不知道哪个机厅你去的，eSpot要排名板写名字，CHQ要排卡，Zenith我没去过不知道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  什么都发 不止药物 || 正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 161,
+          "like_count": 310,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 929
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:35:04.000Z",
+        "description": "等我死掉，你就会拥有独一无二的阴雨天娃娃。｜我的善良友好贴心温暖等等只留给我喜欢的人，我没有能力和义务去普渡众生，但我会尽力让所有我喜欢的人都觉得我很好很好。",
+        "id": "1779154402588172288",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1867680915759280197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843029545542119424/vphwWoiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2620,
+          "following_count": 438,
+          "like_count": 121982,
+          "listed_count": 10,
+          "media_count": 957,
+          "tweet_count": 20294
+        },
+        "username": "_Nikisade",
+        "verified": false
+      }
+    ]
+  }
+}

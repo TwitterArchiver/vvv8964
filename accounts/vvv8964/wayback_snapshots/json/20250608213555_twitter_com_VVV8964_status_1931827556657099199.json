@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1931827556657099199",
+    "created_at": "2025-06-08T21:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T22:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931827556657099199"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/spero1ucem/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/spero1ucem/status/1931415911539294334",
+          "start": 4,
+          "url": "https://t.co/xFQdQxNOUP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931827556657099199",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931415911539294334",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "流汗了 https://t.co/xFQdQxNOUP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1931415907441459200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs3EiOSWQAAs7fp.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1931827556657099199",
+        "created_at": "2025-06-08T21:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T22:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931827556657099199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/spero1ucem/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/spero1ucem/status/1931415911539294334",
+              "start": 4,
+              "url": "https://t.co/xFQdQxNOUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931827556657099199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931415911539294334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "流汗了 https://t.co/xFQdQxNOUP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931415907441459200"
+          ]
+        },
+        "author_id": "1597134661918113792",
+        "conversation_id": "1931415911539294334",
+        "created_at": "2025-06-07T18:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T19:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931415911539294334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/InkF6sxc08",
+              "end": 23,
+              "expanded_url": "https://x.com/spero1ucem/status/1931415911539294334/photo/1",
+              "media_key": "3_1931415907441459200",
+              "start": 0,
+              "url": "https://t.co/InkF6sxc08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931415911539294334",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16075,
+          "impression_count": 5190162,
+          "like_count": 107672,
+          "quote_count": 4526,
+          "reply_count": 1432,
+          "retweet_count": 4825
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/InkF6sxc08"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 244,
+          "like_count": 802,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 1750
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T07:46:04.000Z",
+        "description": "skyscraper i love you",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sperolucem_",
+                "end": 23,
+                "expanded_url": "http://instagram.com/sperolucem_",
+                "start": 0,
+                "url": "https://t.co/XSwTix3H7g"
+              }
+            ]
+          }
+        },
+        "id": "1597134661918113792",
+        "location": "nyc",
+        "name": "and",
+        "pinned_tweet_id": "1642287950657466368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914094790360154112/CdQlrRhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1720,
+          "following_count": 806,
+          "like_count": 20927,
+          "listed_count": 1,
+          "media_count": 348,
+          "tweet_count": 1996
+        },
+        "url": "https://t.co/XSwTix3H7g",
+        "username": "spero1ucem",
+        "verified": false
+      }
+    ]
+  }
+}

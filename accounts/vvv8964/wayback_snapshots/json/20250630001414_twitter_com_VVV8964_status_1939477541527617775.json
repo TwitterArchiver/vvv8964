@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1939455712989704468",
+    "created_at": "2025-06-30T00:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T01:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939477541527617775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939477541527617775",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939455712989704468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 蛤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939455700578545664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GupUrxqXMAA0GxF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1902,
+        "media_key": "3_1939455700591063040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GupUrxtWMAAQzhR.jpg",
+        "width": 1427
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1939455712989704468",
+        "created_at": "2025-06-30T00:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T01:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939477541527617775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939477541527617775",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939455712989704468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 蛤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939455700578545664",
+            "3_1939455700591063040"
+          ]
+        },
+        "author_id": "1657055349982244865",
+        "conversation_id": "1939455712989704468",
+        "created_at": "2025-06-29T22:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T23:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939455712989704468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Ov40ZfPyL",
+              "end": 32,
+              "expanded_url": "https://x.com/Glagagapot/status/1939455712989704468/photo/1",
+              "media_key": "3_1939455700578545664",
+              "start": 9,
+              "url": "https://t.co/8Ov40ZfPyL"
+            },
+            {
+              "display_url": "pic.x.com/8Ov40ZfPyL",
+              "end": 32,
+              "expanded_url": "https://x.com/Glagagapot/status/1939455712989704468/photo/1",
+              "media_key": "3_1939455700591063040",
+              "start": 9,
+              "url": "https://t.co/8Ov40ZfPyL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939455712989704468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘎嘎还有咕咕呱呱 https://t.co/8Ov40ZfPyL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 261,
+          "like_count": 1020,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 2000
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "嘎国公民🇨🇦｜猎奇｜逆弯嘎",
+        "id": "1657055349982244865",
+        "location": "嘎堡",
+        "name": "ガガ鳥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936371039803752450/lRRmVBIC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 1100,
+          "like_count": 64953,
+          "listed_count": 4,
+          "media_count": 1777,
+          "tweet_count": 21906
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

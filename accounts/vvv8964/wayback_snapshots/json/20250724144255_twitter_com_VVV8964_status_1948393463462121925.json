@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1948383953427312829",
+    "created_at": "2025-07-24T14:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T15:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948393463462121925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1760630314186231808",
+          "start": 0,
+          "username": "Cruc1fy_MyS0ul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948393463462121925",
+    "in_reply_to_user_id": "1760630314186231808",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948383953427312829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cruc1fy_MyS0ul nooooo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948383942689837056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwoM33YaUAAghh5.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1948383953427312829",
+        "created_at": "2025-07-24T14:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T15:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948393463462121925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1760630314186231808",
+              "start": 0,
+              "username": "Cruc1fy_MyS0ul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948393463462121925",
+        "in_reply_to_user_id": "1760630314186231808",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948383953427312829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cruc1fy_MyS0ul nooooo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948383942689837056"
+          ]
+        },
+        "author_id": "1760630314186231808",
+        "conversation_id": "1948383953427312829",
+        "created_at": "2025-07-24T14:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T15:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948383953427312829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GQOLN4Kxxr",
+              "end": 45,
+              "expanded_url": "https://x.com/Cruc1fy_MyS0ul/status/1948383953427312829/photo/1",
+              "media_key": "3_1948383942689837056",
+              "start": 22,
+              "url": "https://t.co/GQOLN4Kxxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948383953427312829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Cindy的精神又崩溃了 Cindy买了刀 https://t.co/GQOLN4Kxxr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 287,
+          "like_count": 1645,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 2473
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T11:39:22.000Z",
+        "description": "泛 meg性别 朱小迪与辛大迪共同去世了‼️ 礼貌沟通🚫讨论我的隐私除非我主动提了 无🚪🈲黄色已阳痿👈‼️ im傻逼精神病可以开三级残疾证不对任何我说的话负责一切激进行为均为躁狂发癫 @zhuxiaodi06 baby let’s meet at hell 第五疾病启动！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "zhuxiaodi06"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccccindy11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ccccindy11",
+                "start": 0,
+                "url": "https://t.co/MU8r27GsWc"
+              }
+            ]
+          }
+        },
+        "id": "1760630314186231808",
+        "location": "粪坑沼泽",
+        "name": "痛苦在割腕时",
+        "pinned_tweet_id": "1945158741323866403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906728436745572352/0rFRS1sR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 112,
+          "like_count": 1487,
+          "listed_count": 5,
+          "media_count": 689,
+          "tweet_count": 2416
+        },
+        "url": "https://t.co/MU8r27GsWc",
+        "username": "Cruc1fy_MyS0ul",
+        "verified": false
+      }
+    ]
+  }
+}

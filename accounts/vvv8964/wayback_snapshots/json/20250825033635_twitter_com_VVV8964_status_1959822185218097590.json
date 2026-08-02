@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959822182718275584"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1947657179592593605",
+    "created_at": "2025-08-25T03:36:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T04:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959822185218097590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rBsBa78dWH",
+          "end": 32,
+          "expanded_url": "https://x.com/VVV8964/status/1959822185218097590/photo/1",
+          "media_key": "3_1959822182718275584",
+          "start": 9,
+          "url": "https://t.co/rBsBa78dWH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959822185218097590",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947657179592593605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在中央党校上学 https://t.co/rBsBa78dWH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959822182718275584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzKv5D_agAA6qX8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959822182718275584"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947657179592593605",
+        "created_at": "2025-08-25T03:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T04:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959822185218097590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBsBa78dWH",
+              "end": 32,
+              "expanded_url": "https://x.com/VVV8964/status/1959822185218097590/photo/1",
+              "media_key": "3_1959822182718275584",
+              "start": 9,
+              "url": "https://t.co/rBsBa78dWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959822185218097590",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947657179592593605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在中央党校上学 https://t.co/rBsBa78dWH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947657179592593605",
+        "created_at": "2025-07-22T13:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T14:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947657179592593605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/vvv8964",
+              "end": 23,
+              "expanded_url": "https://ngl.link/vvv8964",
+              "start": 0,
+              "status": 200,
+              "title": "@vvv8964: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/vvv8964",
+              "url": "https://t.co/mNKBWJi2PC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947657179592593605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8072,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mNKBWJi2PC\n请来匿名骚扰我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 329,
+          "like_count": 2608,
+          "listed_count": 4,
+          "media_count": 186,
+          "tweet_count": 3481
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1857045479269294336",
+    "created_at": "2024-11-15T03:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T04:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857263481558610211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733183818960633856",
+          "start": 0,
+          "username": "whitething04"
+        },
+        {
+          "end": 30,
+          "id": "1531971331902050304",
+          "start": 14,
+          "username": "Liangbuxiangchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857263481558610211",
+    "in_reply_to_user_id": "1733183818960633856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857054942151713278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitething04 @Liangbuxiangchi 本来就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1857045479269294336",
+        "created_at": "2024-11-15T03:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T04:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857263481558610211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733183818960633856",
+              "start": 0,
+              "username": "whitething04"
+            },
+            {
+              "end": 30,
+              "id": "1531971331902050304",
+              "start": 14,
+              "username": "Liangbuxiangchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857263481558610211",
+        "in_reply_to_user_id": "1733183818960633856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857054942151713278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitething04 @Liangbuxiangchi 本来就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733183818960633856",
+        "conversation_id": "1857045479269294336",
+        "created_at": "2024-11-14T13:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T14:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857054942151713278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531971331902050304",
+              "start": 0,
+              "username": "Liangbuxiangchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857054942151713278",
+        "in_reply_to_user_id": "1531971331902050304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857045479269294336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liangbuxiangchi 音乐欣赏能力增强用致幻剂的效果比解离剂还要好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 如果你给我点赞的话我会很开心\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 88,
+          "like_count": 99,
+          "listed_count": 0,
+          "tweet_count": 332
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T17:56:55.000Z",
+        "description": "照顾好自己",
+        "id": "1733183818960633856",
+        "name": "有机化学",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849878891495817216/rEiS5smj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 66,
+          "like_count": 1246,
+          "listed_count": 0,
+          "tweet_count": 63
+        },
+        "username": "whitething04",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T12:10:13.000Z",
+        "description": "od妹   取关请双取 会回关主页有内容的人",
+        "id": "1531971331902050304",
+        "location": "🚪100",
+        "name": "这是我的义肢",
+        "pinned_tweet_id": "1856621271758561353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856607186224590849/b1VZP-gQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 527,
+          "like_count": 17196,
+          "listed_count": 3,
+          "tweet_count": 4756
+        },
+        "username": "Liangbuxiangchi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Drink Novelty",
+          "id": "867371273248047104",
+          "name": "Drink Novelty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Happy Hour",
+          "id": "867372014146797571",
+          "name": "Happy Hour"
+        }
+      }
+    ],
+    "conversation_id": "1874636181385925006",
+    "created_at": "2025-01-02T04:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T05:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874671600198636014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1453105534555418626",
+          "start": 0,
+          "username": "Heisenberg_Wei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874671600198636014",
+    "in_reply_to_user_id": "1453105534555418626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874636181385925006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Heisenberg_Wei 怎么比温哥华的要便宜，是happy hour吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Drink Novelty",
+              "id": "867371273248047104",
+              "name": "Drink Novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Happy Hour",
+              "id": "867372014146797571",
+              "name": "Happy Hour"
+            }
+          }
+        ],
+        "conversation_id": "1874636181385925006",
+        "created_at": "2025-01-02T04:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T05:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874671600198636014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1453105534555418626",
+              "start": 0,
+              "username": "Heisenberg_Wei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874671600198636014",
+        "in_reply_to_user_id": "1453105534555418626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874636181385925006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Heisenberg_Wei 怎么比温哥华的要便宜，是happy hour吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874636175597596672"
+          ]
+        },
+        "author_id": "1453105534555418626",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1874636181385925006",
+        "created_at": "2025-01-02T01:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T02:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874636181385925006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSm0Yw9CTU",
+              "end": 55,
+              "expanded_url": "https://x.com/Heisenberg_Wei/status/1874636181385925006/photo/1",
+              "media_key": "3_1874636175597596672",
+              "start": 32,
+              "url": "https://t.co/nSm0Yw9CTU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874636181385925006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 536,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "继续来吃火锅，刘一手，35刀随便点兄弟们，感觉比在海底捞吃的好 https://t.co/nSm0Yw9CTU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 140,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 611
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-26T21:05:40.000Z",
+        "description": "纪录片导演，幽默小子，不中肯锐评家 Youtube: https://t.co/tlbEIE0d28",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Chengge2952",
+                "end": 50,
+                "expanded_url": "https://www.youtube.com/@Chengge2952",
+                "start": 27,
+                "url": "https://t.co/tlbEIE0d28"
+              }
+            ]
+          }
+        },
+        "id": "1453105534555418626",
+        "location": "Edmonton, Alberta",
+        "name": "程哥style",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815476313395982338/GUrwpI7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4141,
+          "following_count": 178,
+          "like_count": 187,
+          "listed_count": 11,
+          "media_count": 290,
+          "tweet_count": 1032
+        },
+        "username": "Heisenberg_Wei",
+        "verified": false
+      }
+    ]
+  }
+}

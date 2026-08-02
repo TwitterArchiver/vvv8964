@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1925073043736690788",
+    "created_at": "2025-05-21T06:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T07:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925076671658656181"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1925076671658656181",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925073043736690788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然我这一番话像得道高僧一样颐指气使，其实我现在是相当难受而无力的，而且是精神上的没有动力。不过至少我已经成功洗衣服铺床，已经没有遗憾了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1925073043736690788",
+        "created_at": "2025-05-21T06:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T07:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925076671658656181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925076671658656181",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925073043736690788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然我这一番话像得道高僧一样颐指气使，其实我现在是相当难受而无力的，而且是精神上的没有动力。不过至少我已经成功洗衣服铺床，已经没有遗憾了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1925073043736690788",
+        "created_at": "2025-05-21T06:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T07:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925073043736690788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925073043736690788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不管是兴奋剂药效后的崩溃还是ADHD的症状，我肯定人生难免不如意，感到疲惫是非常正常的现象，不如像我在迷幻体验中一样投降，放下掌控，感受当下，然后开启新的一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 225,
+          "like_count": 569,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 1437
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

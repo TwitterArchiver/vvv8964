@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969995136882155520",
+        "3_1969995137561624576"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1969995139914592494",
+    "created_at": "2025-09-22T05:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T06:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969995139914592494"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kH6mJzVHcD",
+          "end": 78,
+          "expanded_url": "https://x.com/VVV8964/status/1969995139914592494/photo/1",
+          "media_key": "3_1969995136882155520",
+          "start": 55,
+          "url": "https://t.co/kH6mJzVHcD"
+        },
+        {
+          "display_url": "pic.x.com/kH6mJzVHcD",
+          "end": 78,
+          "expanded_url": "https://x.com/VVV8964/status/1969995139914592494/photo/1",
+          "media_key": "3_1969995137561624576",
+          "start": 55,
+          "url": "https://t.co/kH6mJzVHcD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969995139914592494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天抽的大麻是pink kush，只抽了0.15g左右的样子，这是og kush杂交来的，也是很经典的品种了 https://t.co/kH6mJzVHcD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1969995136882155520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1bUI7cboAAKDkE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969995137561624576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1bUI9-bgAAVYw8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969995136882155520",
+            "3_1969995137561624576"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1969995139914592494",
+        "created_at": "2025-09-22T05:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T06:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969995139914592494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kH6mJzVHcD",
+              "end": 78,
+              "expanded_url": "https://x.com/VVV8964/status/1969995139914592494/photo/1",
+              "media_key": "3_1969995136882155520",
+              "start": 55,
+              "url": "https://t.co/kH6mJzVHcD"
+            },
+            {
+              "display_url": "pic.x.com/kH6mJzVHcD",
+              "end": 78,
+              "expanded_url": "https://x.com/VVV8964/status/1969995139914592494/photo/1",
+              "media_key": "3_1969995137561624576",
+              "start": 55,
+              "url": "https://t.co/kH6mJzVHcD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969995139914592494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天抽的大麻是pink kush，只抽了0.15g左右的样子，这是og kush杂交来的，也是很经典的品种了 https://t.co/kH6mJzVHcD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 330,
+          "like_count": 3112,
+          "listed_count": 5,
+          "media_count": 266,
+          "tweet_count": 4218
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

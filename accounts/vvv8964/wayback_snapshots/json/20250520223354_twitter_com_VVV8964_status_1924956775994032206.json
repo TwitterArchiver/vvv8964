@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1924682857500561908",
+    "created_at": "2025-05-20T22:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T23:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924956775994032206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4185709317",
+          "start": 0,
+          "username": "bee9ty"
+        },
+        {
+          "end": 20,
+          "id": "823739846229303296",
+          "start": 8,
+          "username": "wholock1011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924956775994032206",
+    "in_reply_to_user_id": "4185709317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924773100417384852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bee9ty @wholock1011 699吧，他每次followup的会议也要99刀的好像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1924682857500561908",
+        "created_at": "2025-05-20T22:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T23:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924956775994032206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4185709317",
+              "start": 0,
+              "username": "bee9ty"
+            },
+            {
+              "end": 20,
+              "id": "823739846229303296",
+              "start": 8,
+              "username": "wholock1011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924956775994032206",
+        "in_reply_to_user_id": "4185709317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924773100417384852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bee9ty @wholock1011 699吧，他每次followup的会议也要99刀的好像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4185709317",
+        "conversation_id": "1924682857500561908",
+        "created_at": "2025-05-20T10:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T11:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924773100417384852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            },
+            {
+              "end": 21,
+              "id": "823739846229303296",
+              "start": 9,
+              "username": "wholock1011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924773100417384852",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924726076020031834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 @wholock1011 frida不是就600刀吗 之后开药你有保险几乎免费 但是他没利他林就是了 只有 extend release的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  |||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 223,
+          "like_count": 562,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 1421
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-14T10:48:40.000Z",
+        "description": "",
+        "id": "4185709317",
+        "name": "gg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/839476427426693122/mD_vf-hW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 132,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "bee9ty",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-24T03:50:58.000Z",
+        "description": "Hi, I'm Rusty.🇨🇦 INTJ/Capricorn摩羯座/Pansexual泛性恋FTX/BPD/FemDom/ Switch可s可m/点赞转推狂魔 可以去media媒体看我/ ntr重度爱好者/找绿奴对象中/RPN student/185cm 120kg/🚪30加币 可约可聊天~",
+        "id": "823739846229303296",
+        "location": "CAMH",
+        "name": "Rusty. V 🇨🇦🏳️‍⚧️",
+        "pinned_tweet_id": "1880114715311092040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344676520447496194/CA9B_Q7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2869,
+          "following_count": 2058,
+          "like_count": 42898,
+          "listed_count": 10,
+          "media_count": 862,
+          "tweet_count": 22730
+        },
+        "username": "wholock1011",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1960598293345657186",
+    "created_at": "2025-08-27T07:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T08:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960603292008112398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1503516796493590530",
+          "start": 0,
+          "username": "orangefish_stew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960603292008112398",
+    "in_reply_to_user_id": "1503516796493590530",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960598293345657186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orangefish_stew Say nigga"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960598258868477956",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzVxuo8a4AQS5sV.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1960598293345657186",
+        "created_at": "2025-08-27T07:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T08:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960603292008112398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1503516796493590530",
+              "start": 0,
+              "username": "orangefish_stew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960603292008112398",
+        "in_reply_to_user_id": "1503516796493590530",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960598293345657186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orangefish_stew Say nigga"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960598258868477956"
+          ]
+        },
+        "author_id": "1503516796493590530",
+        "conversation_id": "1960598293345657186",
+        "created_at": "2025-08-27T07:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T08:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960598293345657186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBxCToYewk",
+              "end": 36,
+              "expanded_url": "https://x.com/orangefish_stew/status/1960598293345657186/photo/1",
+              "media_key": "3_1960598258868477956",
+              "start": 13,
+              "url": "https://t.co/XBxCToYewk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960598293345657186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经吸引到外国友人了✌🏻 https://t.co/XBxCToYewk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 331,
+          "like_count": 2652,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 3540
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-14T23:42:07.000Z",
+        "description": "17在校高中牲｜INFP｜代词随意｜🏳️‍🌈🏳️‍⚧️喜欢男的｜成分复杂｜其实是个khn🤓👆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangefish_ste…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/orangefish_stew2",
+                "start": 0,
+                "url": "https://t.co/CnV3d7HHBn"
+              }
+            ]
+          }
+        },
+        "id": "1503516796493590530",
+        "location": "青岛",
+        "name": "橙汁烩鱼",
+        "pinned_tweet_id": "1951227998113579191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867818610703339520/TcGpAQTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6370,
+          "following_count": 1424,
+          "like_count": 25722,
+          "listed_count": 3,
+          "media_count": 229,
+          "tweet_count": 5238
+        },
+        "url": "https://t.co/CnV3d7HHBn",
+        "username": "orangefish_stew",
+        "verified": false
+      }
+    ]
+  }
+}

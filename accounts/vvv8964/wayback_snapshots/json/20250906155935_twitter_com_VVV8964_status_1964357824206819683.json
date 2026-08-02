@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1964237154265018368"
+      ],
+      "media_source_tweet_id": [
+        "1964237171449053214"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1964357824206819683",
+    "created_at": "2025-09-06T15:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T16:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964357824206819683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1408480800438374406",
+          "start": 3,
+          "username": "contextdogs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AXv4TmTHBs",
+          "end": 40,
+          "expanded_url": "https://x.com/contextdogs/status/1964237171449053214/video/1",
+          "media_key": "7_1964237154265018368",
+          "start": 17,
+          "url": "https://t.co/AXv4TmTHBs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964357824206819683",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2511
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964237171449053214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @contextdogs: https://t.co/AXv4TmTHBs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10548,
+        "height": 812,
+        "media_key": "7_1964237154265018368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1964237154265018368/pu/img/fWsj3VLEQb19FlqR.jpg",
+        "public_metrics": {
+          "view_count": 101901
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964237154265018368/pu/vid/avc1/320x360/UhhFUCaSxYC0Ptdv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964237154265018368/pu/vid/avc1/480x540/GosmHc_2x2JNLx1D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964237154265018368/pu/vid/avc1/720x812/vvnXDQsxC-oNhhgz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1964237154265018368/pu/pl/jcbzjHXptFZs5FVn.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 10548,
+        "height": 812,
+        "media_key": "7_1964237154265018368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1964237154265018368/pu/img/fWsj3VLEQb19FlqR.jpg",
+        "public_metrics": {
+          "view_count": 102886
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964237154265018368/pu/vid/avc1/320x360/UhhFUCaSxYC0Ptdv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964237154265018368/pu/vid/avc1/480x540/GosmHc_2x2JNLx1D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964237154265018368/pu/vid/avc1/720x812/vvnXDQsxC-oNhhgz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1964237154265018368/pu/pl/jcbzjHXptFZs5FVn.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1964237154265018368"
+          ],
+          "media_source_tweet_id": [
+            "1964237171449053214"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1964357824206819683",
+        "created_at": "2025-09-06T15:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T16:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964357824206819683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1408480800438374406",
+              "start": 3,
+              "username": "contextdogs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AXv4TmTHBs",
+              "end": 40,
+              "expanded_url": "https://x.com/contextdogs/status/1964237171449053214/video/1",
+              "media_key": "7_1964237154265018368",
+              "start": 17,
+              "url": "https://t.co/AXv4TmTHBs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964357824206819683",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2511
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964237171449053214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @contextdogs: https://t.co/AXv4TmTHBs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1964237154265018368"
+          ]
+        },
+        "author_id": "1408480800438374406",
+        "conversation_id": "1964237171449053214",
+        "created_at": "2025-09-06T08:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T09:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964237171449053214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AXv4TmTHBs",
+              "end": 23,
+              "expanded_url": "https://x.com/contextdogs/status/1964237171449053214/video/1",
+              "media_key": "7_1964237154265018368",
+              "start": 0,
+              "url": "https://t.co/AXv4TmTHBs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964237171449053214",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1178,
+          "impression_count": 270417,
+          "like_count": 17040,
+          "quote_count": 150,
+          "reply_count": 51,
+          "retweet_count": 2511
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AXv4TmTHBs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 333,
+          "like_count": 2850,
+          "listed_count": 4,
+          "media_count": 218,
+          "tweet_count": 3852
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-25T17:42:52.000Z",
+        "description": "follow us for daily dog Content 🐶| Dm for credit and removals | @gifpuppies",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "gifpuppies"
+              }
+            ]
+          }
+        },
+        "id": "1408480800438374406",
+        "location": "Turn on notifs 🔔",
+        "name": "out of context dogs",
+        "pinned_tweet_id": "1962085497074761921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866066885680214016/4a-c7mJy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974377,
+          "following_count": 915,
+          "like_count": 12020,
+          "listed_count": 3450,
+          "media_count": 18243,
+          "tweet_count": 18694
+        },
+        "username": "contextdogs",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1921950749405118714",
+    "created_at": "2025-05-12T23:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T00:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922067380546547927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901299981518286848",
+          "start": 0,
+          "username": "kami18181818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922067380546547927",
+    "in_reply_to_user_id": "1901299981518286848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921950749405118714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kami18181818 你好 我是王"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1921950749405118714",
+        "created_at": "2025-05-12T23:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T00:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922067380546547927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901299981518286848",
+              "start": 0,
+              "username": "kami18181818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922067380546547927",
+        "in_reply_to_user_id": "1901299981518286848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921950749405118714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami18181818 你好 我是王"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901299981518286848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1921950749405118714",
+        "created_at": "2025-05-12T15:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T16:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921950749405118714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kai_jun15346/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/kai_jun15346/status/1921359926904991867",
+              "start": 15,
+              "url": "https://t.co/UT9roGYt4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921950749405118714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921359926904991867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "popo又缺业绩了大家当心点 https://t.co/UT9roGYt4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 198,
+          "like_count": 458,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 1264
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T15:50:27.000Z",
+        "description": "You wasn't alone in space. https://t.co/0OTkgW5lG2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/npc93484",
+                "end": 50,
+                "expanded_url": "https://ngl.link/npc93484",
+                "start": 27,
+                "url": "https://t.co/0OTkgW5lG2"
+              }
+            ]
+          }
+        },
+        "id": "1901299981518286848",
+        "location": "平壤",
+        "name": "kami",
+        "pinned_tweet_id": "1917852735053127804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909312547976888320/uoGqMJXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 347,
+          "like_count": 1284,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 651
+        },
+        "username": "kami18181818",
+        "verified": false
+      }
+    ]
+  }
+}

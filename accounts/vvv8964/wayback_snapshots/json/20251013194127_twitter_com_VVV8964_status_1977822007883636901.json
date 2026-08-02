@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1977689807527743839",
+    "created_at": "2025-10-13T19:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T20:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977822007883636901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1503516796493590530",
+          "start": 0,
+          "username": "orangefish_stew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977822007883636901",
+    "in_reply_to_user_id": "1503516796493590530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977689807527743839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orangefish_stew 你是男的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1977689793065832448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IqY3ea0AA909T.jpg",
+        "width": 981
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1977689807527743839",
+        "created_at": "2025-10-13T19:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T20:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977822007883636901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1503516796493590530",
+              "start": 0,
+              "username": "orangefish_stew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977822007883636901",
+        "in_reply_to_user_id": "1503516796493590530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977689807527743839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orangefish_stew 你是男的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977689793065832448"
+          ]
+        },
+        "author_id": "1503516796493590530",
+        "conversation_id": "1977689807527743839",
+        "created_at": "2025-10-13T10:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T11:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977689807527743839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mISvrhs5jw",
+              "end": 29,
+              "expanded_url": "https://x.com/orangefish_stew/status/1977689807527743839/photo/1",
+              "media_key": "3_1977689793065832448",
+              "start": 6,
+              "url": "https://t.co/mISvrhs5jw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977689807527743839",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27350,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是男的？ https://t.co/mISvrhs5jw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 335,
+          "like_count": 3501,
+          "listed_count": 6,
+          "media_count": 323,
+          "tweet_count": 4685
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-14T23:42:07.000Z",
+        "description": "何处有香丘｜17在校高中牲｜INFP｜代词随意｜🏳️‍🌈🏳️‍⚧️喜欢男的｜r18&负能@Orangefishbones",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "Orangefishbones"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangefish_ste…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/orangefish_stew2",
+                "start": 0,
+                "url": "https://t.co/CnV3d7HHBn"
+              }
+            ]
+          }
+        },
+        "id": "1503516796493590530",
+        "location": "青岛",
+        "name": "橙汁烩鱼",
+        "pinned_tweet_id": "1951227998113579191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867818610703339520/TcGpAQTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7428,
+          "following_count": 1977,
+          "like_count": 41251,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 6862
+        },
+        "url": "https://t.co/CnV3d7HHBn",
+        "username": "orangefish_stew",
+        "verified": false
+      }
+    ]
+  }
+}

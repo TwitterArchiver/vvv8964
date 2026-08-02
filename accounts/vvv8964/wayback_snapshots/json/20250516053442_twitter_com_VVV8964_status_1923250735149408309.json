@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1922682022356525112",
+    "created_at": "2025-05-16T05:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T06:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923250735149408309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "931807368349810688",
+          "start": 0,
+          "username": "jike112_jike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923250735149408309",
+    "in_reply_to_user_id": "931807368349810688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922682022356525112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jike112_jike 老干部贪污的时候国男大气都不敢喘一下，集美拿片卫生巾国男马上进化出纳税人意识了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1922682022356525112",
+        "created_at": "2025-05-16T05:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T06:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923250735149408309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "931807368349810688",
+              "start": 0,
+              "username": "jike112_jike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923250735149408309",
+        "in_reply_to_user_id": "931807368349810688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922682022356525112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jike112_jike 老干部贪污的时候国男大气都不敢喘一下，集美拿片卫生巾国男马上进化出纳税人意识了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "931807368349810688",
+        "conversation_id": "1922682022356525112",
+        "created_at": "2025-05-14T15:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T16:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922682022356525112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922682022356525112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 78157,
+          "like_count": 705,
+          "quote_count": 10,
+          "reply_count": 80,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "高铁卫生巾免费了，真牛逼，她们的需求就是要全社会给她们兜底，男性的需求就是不合理的，被人为限制、绞杀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 205,
+          "like_count": 480,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 1343
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T08:52:43.000Z",
+        "description": "男性要学会保护自己",
+        "id": "931807368349810688",
+        "name": "jike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770473487389294594/AqsssmrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3453,
+          "following_count": 214,
+          "like_count": 5817,
+          "listed_count": 10,
+          "media_count": 499,
+          "tweet_count": 1912
+        },
+        "username": "jike112_jike",
+        "verified": false
+      }
+    ]
+  }
+}

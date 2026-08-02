@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1945337255725555737",
+    "created_at": "2025-07-16T04:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T05:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945347379647144141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1905180625981890560",
+          "start": 0,
+          "username": "RAISEY0URWEAP0N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945347379647144141",
+    "in_reply_to_user_id": "1905180625981890560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945337255725555737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RAISEY0URWEAP0N 这些傻逼民运ai都看不出来"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1945337255725555737].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1945337255725555737",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1945337255725555737"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1945337255725555737",
+        "created_at": "2025-07-16T04:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T05:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945347379647144141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1905180625981890560",
+              "start": 0,
+              "username": "RAISEY0URWEAP0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945347379647144141",
+        "in_reply_to_user_id": "1905180625981890560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945337255725555737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RAISEY0URWEAP0N 这些傻逼民运ai都看不出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 283,
+          "like_count": 1533,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2360
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T08:51:21.000Z",
+        "description": "When did I become so cold?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "973-eht-namuh-973.com",
+                "end": 23,
+                "expanded_url": "https://973-eht-namuh-973.com/",
+                "start": 0,
+                "url": "https://t.co/OQUkpqto2C"
+              }
+            ]
+          }
+        },
+        "id": "1905180625981890560",
+        "location": "维多利亚，基尤",
+        "name": "໊",
+        "pinned_tweet_id": "1944955417836310808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944374485836075008/OWV0sAu7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 1086,
+          "like_count": 24642,
+          "listed_count": 3,
+          "media_count": 504,
+          "tweet_count": 4556
+        },
+        "url": "https://t.co/OQUkpqto2C",
+        "username": "RAISEY0URWEAP0N",
+        "verified": false
+      }
+    ]
+  }
+}

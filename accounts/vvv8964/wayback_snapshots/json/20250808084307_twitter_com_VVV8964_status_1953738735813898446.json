@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1951657651353665696",
+    "created_at": "2025-08-08T08:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T09:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953738735813898446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1585149194372644864",
+          "start": 0,
+          "username": "suelureoc_sucol"
+        },
+        {
+          "end": 32,
+          "id": "1903099585129816064",
+          "start": 17,
+          "username": "tokerumaisurii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953738735813898446",
+    "in_reply_to_user_id": "1585149194372644864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953719538916458940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suelureoc_sucol @tokerumaisurii 这是什么机器人吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1951657651353665696",
+        "created_at": "2025-08-08T08:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T09:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953738735813898446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1585149194372644864",
+              "start": 0,
+              "username": "suelureoc_sucol"
+            },
+            {
+              "end": 32,
+              "id": "1903099585129816064",
+              "start": 17,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953738735813898446",
+        "in_reply_to_user_id": "1585149194372644864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953719538916458940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suelureoc_sucol @tokerumaisurii 这是什么机器人吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585149194372644864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1273739577568550912",
+              "name": "CD Projekt Red"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005928152298737664",
+              "name": "Cyberpunk 2077"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273739577568550912",
+              "name": "CD Projekt Red"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898787358408746",
+              "name": "Sci-fi games"
+            }
+          }
+        ],
+        "conversation_id": "1951657651353665696",
+        "created_at": "2025-08-08T07:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T08:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953719538916458940"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "ANCAP",
+              "probability": 0.9036,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "Boot L. Red\n\nANCAP",
+              "probability": 0.7476,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 121,
+              "normalized_text": "Cyberpunk 2077",
+              "probability": 0.8921,
+              "start": 108,
+              "type": "Other"
+            },
+            {
+              "end": 164,
+              "normalized_text": "ANCAP",
+              "probability": 0.8719,
+              "start": 160,
+              "type": "Other"
+            },
+            {
+              "end": 223,
+              "normalized_text": "CD Projekt Red",
+              "probability": 0.6334,
+              "start": 210,
+              "type": "Other"
+            },
+            {
+              "end": 239,
+              "normalized_text": "Cyberpunk 2077",
+              "probability": 0.8717,
+              "start": 226,
+              "type": "Other"
+            },
+            {
+              "end": 247,
+              "normalized_text": "Warsaw",
+              "probability": 0.7377,
+              "start": 242,
+              "type": "Other"
+            },
+            {
+              "end": 259,
+              "normalized_text": "Projekt",
+              "probability": 0.7076,
+              "start": 253,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953719538916458940",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953709283553816674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii ANCAP IS BAD\n\nPresented by: Boot L. Red\n\nANCAP is bad.\nYou dog should play this sci-fi game Cyberpunk 2077 to see how bad it is.\nIn conclusion, ANCAP is bad, and you are a dog. \n\n[Reference]\n1. CD Projekt Red, Cyberpunk 2077 (Warsaw: CD Projekt, 2020), video game."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 308,
+          "like_count": 2022,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 2840
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T06:00:35.000Z",
+        "description": "做梦的人⬆︎ 少些红色，多些虹色",
+        "id": "1585149194372644864",
+        "location": "dream inside a dream",
+        "name": "亥木斑青",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585588941586980864/Lp4kdGCX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 144,
+          "like_count": 70062,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 510
+        },
+        "username": "suelureoc_sucol",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 虚空甜品店菜单：柚梅纱纷，梨柚刨冰碗。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947694110057631744/qnyslMLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 189,
+          "like_count": 36766,
+          "listed_count": 5,
+          "media_count": 521,
+          "tweet_count": 6677
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

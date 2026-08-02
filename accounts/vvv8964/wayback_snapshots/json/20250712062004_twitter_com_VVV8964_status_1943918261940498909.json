@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943886087526797425",
+    "created_at": "2025-07-12T06:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T07:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943918261940498909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1592189823892295680",
+          "start": 0,
+          "username": "MaplesyrupMagic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943918261940498909",
+    "in_reply_to_user_id": "1592189823892295680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943886087526797425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaplesyrupMagic 潮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943886075694383104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvoSFjGXgAA1EMZ.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943886087526797425",
+        "created_at": "2025-07-12T06:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T07:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943918261940498909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1592189823892295680",
+              "start": 0,
+              "username": "MaplesyrupMagic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943918261940498909",
+        "in_reply_to_user_id": "1592189823892295680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943886087526797425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaplesyrupMagic 潮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943886075694383104"
+          ]
+        },
+        "author_id": "1592189823892295680",
+        "conversation_id": "1943886087526797425",
+        "created_at": "2025-07-12T04:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T05:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943886087526797425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tgX1j11Qqr",
+              "end": 27,
+              "expanded_url": "https://x.com/MaplesyrupMagic/status/1943886087526797425/photo/1",
+              "media_key": "3_1943886075694383104",
+              "start": 4,
+              "url": "https://t.co/tgX1j11Qqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943886087526797425",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😅😅😅 https://t.co/tgX1j11Qqr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 280,
+          "like_count": 1401,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 2283
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T16:16:58.000Z",
+        "description": "抽烟 喝酒 overdose\n完全中立",
+        "id": "1592189823892295680",
+        "location": "上海 浦东新区",
+        "name": "Magic枫糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937444677961285634/oZLqCZ7O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 562,
+          "like_count": 4136,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 849
+        },
+        "username": "MaplesyrupMagic",
+        "verified": false
+      }
+    ]
+  }
+}

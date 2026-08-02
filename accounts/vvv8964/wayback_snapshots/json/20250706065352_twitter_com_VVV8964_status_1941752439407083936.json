@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1941698591082324215",
+    "created_at": "2025-07-06T06:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T07:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941752439407083936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1180145574030532608",
+          "start": 0,
+          "username": "y1kaah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941752439407083936",
+    "in_reply_to_user_id": "1180145574030532608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941698591082324215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y1kaah 急死我了 不准你们加拿大人享受福利"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 77,
+        "media_key": "3_1941698511671529472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvJMgkEWEAA_zie.png",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1941698591082324215",
+        "created_at": "2025-07-06T06:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T07:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941752439407083936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1180145574030532608",
+              "start": 0,
+              "username": "y1kaah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941752439407083936",
+        "in_reply_to_user_id": "1180145574030532608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941698591082324215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y1kaah 急死我了 不准你们加拿大人享受福利"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941698511671529472"
+          ]
+        },
+        "author_id": "1180145574030532608",
+        "conversation_id": "1941698591082324215",
+        "created_at": "2025-07-06T03:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T04:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941698591082324215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qennz9DHlY",
+              "end": 31,
+              "expanded_url": "https://x.com/y1kaah/status/1941698591082324215/photo/1",
+              "media_key": "3_1941698511671529472",
+              "start": 8,
+              "url": "https://t.co/Qennz9DHlY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941698591082324215",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢加拿大政府 https://t.co/Qennz9DHlY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 270,
+          "like_count": 1145,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 2107
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-04T15:40:15.000Z",
+        "description": "加拿大难民｜Class of 2029 @McMasterU ｜小号@cshak1y 不随便通过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "McMasterU"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "cshak1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "y1kahsc.cv",
+                "end": 23,
+                "expanded_url": "http://y1kahsc.cv",
+                "start": 0,
+                "url": "https://t.co/hu6NzTFtxy"
+              }
+            ]
+          }
+        },
+        "id": "1180145574030532608",
+        "location": "距离你560m",
+        "name": "怡卡啦",
+        "pinned_tweet_id": "1911363317219684643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864931538237890560/hvijzZWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 700,
+          "like_count": 121220,
+          "listed_count": 1,
+          "media_count": 1087,
+          "tweet_count": 7992
+        },
+        "url": "https://t.co/hu6NzTFtxy",
+        "username": "y1kaah",
+        "verified": true
+      }
+    ]
+  }
+}

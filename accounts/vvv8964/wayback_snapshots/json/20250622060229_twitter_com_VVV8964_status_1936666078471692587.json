@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1936666078471692587",
+    "created_at": "2025-06-22T06:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T07:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936666078471692587"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ShuwenD2009/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/ShuwenD2009/status/1936522487661216151",
+          "start": 17,
+          "url": "https://t.co/wstYNj6RzS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936666078471692587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936522487661216151",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈，你也喜欢那个电棍吗，太潮啦 https://t.co/wstYNj6RzS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1936666078471692587",
+        "created_at": "2025-06-22T06:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T07:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936666078471692587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShuwenD2009/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/ShuwenD2009/status/1936522487661216151",
+              "start": 17,
+              "url": "https://t.co/wstYNj6RzS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936666078471692587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936522487661216151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈，你也喜欢那个电棍吗，太潮啦 https://t.co/wstYNj6RzS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624269394762428417",
+        "conversation_id": "1936310286094565437",
+        "created_at": "2025-06-21T20:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T21:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936522487661216151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1908550388061790211",
+              "start": 0,
+              "username": "pdhoffnungslos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936522487661216151",
+        "in_reply_to_user_id": "1908550388061790211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1527,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936310286094565437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pdhoffnungslos 禁你妈逼毒呢死人共产党……不对，他们真禁毒的话，怎么会让我们随便溜电棍音mad？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 242,
+          "like_count": 882,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 1842
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T04:49:54.000Z",
+        "description": "重返未来：1999/少女前线系列/战争雷霆\n“斩下恶魔头颅者，亦将落入深渊。”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://www.114514.com",
+                "start": 0,
+                "url": "https://t.co/K6S95FYKn7"
+              }
+            ]
+          }
+        },
+        "id": "1624269394762428417",
+        "location": "Tallinn,Eesti",
+        "name": "Shuwen D",
+        "pinned_tweet_id": "1935081321778614356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935079837187850241/m50G6Pmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 434,
+          "like_count": 5023,
+          "listed_count": 1,
+          "media_count": 354,
+          "tweet_count": 3892
+        },
+        "url": "https://t.co/K6S95FYKn7",
+        "username": "ShuwenD2009",
+        "verified": false
+      }
+    ]
+  }
+}

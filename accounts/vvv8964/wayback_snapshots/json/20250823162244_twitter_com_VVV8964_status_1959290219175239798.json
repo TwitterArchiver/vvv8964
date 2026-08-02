@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959290213681057792"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1959290219175239798",
+    "created_at": "2025-08-23T16:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T17:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959290219175239798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0a4UXZLe0c",
+          "end": 107,
+          "expanded_url": "https://x.com/VVV8964/status/1959290219175239798/photo/1",
+          "media_key": "3_1959290213681057792",
+          "start": 84,
+          "url": "https://t.co/0a4UXZLe0c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959290219175239798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人懂andrew huberman的吗，虽然我是直男，但是我心理课老师第一次在课上展示他的视频的时候我就感觉他好有魅力，肌肉很大，学识也很渊博，总之就是我是直男，嗯 https://t.co/0a4UXZLe0c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_1959290213681057792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzDMEY5b0AA-VCz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959290213681057792"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1959290219175239798",
+        "created_at": "2025-08-23T16:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T17:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959290219175239798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0a4UXZLe0c",
+              "end": 107,
+              "expanded_url": "https://x.com/VVV8964/status/1959290219175239798/photo/1",
+              "media_key": "3_1959290213681057792",
+              "start": 84,
+              "url": "https://t.co/0a4UXZLe0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959290219175239798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人懂andrew huberman的吗，虽然我是直男，但是我心理课老师第一次在课上展示他的视频的时候我就感觉他好有魅力，肌肉很大，学识也很渊博，总之就是我是直男，嗯 https://t.co/0a4UXZLe0c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 327,
+          "like_count": 2546,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 3413
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

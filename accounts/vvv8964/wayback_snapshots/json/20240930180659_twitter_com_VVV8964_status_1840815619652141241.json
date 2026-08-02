@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1820435982677835841",
+    "created_at": "2024-09-30T18:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T19:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840815619652141241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1464586716010921985",
+          "start": 0,
+          "username": "RDrugLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840815619652141241",
+    "in_reply_to_user_id": "1464586716010921985",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820435982677835841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RDrugLab 快速发检一般检什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1820435982677835841",
+        "created_at": "2024-09-30T18:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T19:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840815619652141241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464586716010921985",
+              "start": 0,
+              "username": "RDrugLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840815619652141241",
+        "in_reply_to_user_id": "1464586716010921985",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820435982677835841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RDrugLab 快速发检一般检什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464586716010921985",
+        "conversation_id": "1820435982677835841",
+        "created_at": "2024-08-05T12:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T13:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820435982677835841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1820435982677835841",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7641,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "公安机关的尿检，主要查冰毒（类），K粉，吗啡（类），大麻，多一些的可能会查摇头丸，可卡因。快速发检，理论上可以再加苯二氮卓、咖啡因、甲卡西酮，苯环己哌啶（天使尘，较罕见）。实验室发检理论上可查一切，但是受对比资料，最低检测浓度，以及检测人员专业能力和见识影响，也不是都检测得出来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 如果你给我点赞的话我会很开心\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 58,
+          "like_count": 49,
+          "listed_count": 0,
+          "tweet_count": 126
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T13:27:47.000Z",
+        "description": "以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "id": "1464586716010921985",
+        "location": "距您7945km 𝕏",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1836751590738591887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820173045639651328/jasu6zB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5610,
+          "following_count": 23,
+          "like_count": 8,
+          "listed_count": 11,
+          "tweet_count": 663
+        },
+        "username": "RDrugLab",
+        "verified": true
+      }
+    ]
+  }
+}

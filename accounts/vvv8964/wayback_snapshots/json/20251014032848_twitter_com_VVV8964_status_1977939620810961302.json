@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1977928613484691673",
+    "created_at": "2025-10-14T03:28:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T04:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977939620810961302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1246096500",
+          "start": 0,
+          "username": "AmorinArt"
+        },
+        {
+          "end": 21,
+          "id": "1868121512710201344",
+          "start": 11,
+          "username": "Isacc0219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977939620810961302",
+    "in_reply_to_user_id": "1246096500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977929546927309079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmorinArt @Isacc0219 伯乐来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1977928613484691673",
+        "created_at": "2025-10-14T03:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T04:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977939620810961302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1246096500",
+              "start": 0,
+              "username": "AmorinArt"
+            },
+            {
+              "end": 21,
+              "id": "1868121512710201344",
+              "start": 11,
+              "username": "Isacc0219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977939620810961302",
+        "in_reply_to_user_id": "1246096500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977929546927309079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmorinArt @Isacc0219 伯乐来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1246096500",
+        "conversation_id": "1977928613484691673",
+        "created_at": "2025-10-14T02:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T03:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977929546927309079"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "X",
+              "probability": 0.6257,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1868121512710201344",
+              "start": 0,
+              "username": "Isacc0219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977929546927309079",
+        "in_reply_to_user_id": "1868121512710201344",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977928613484691673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isacc0219 Hi \"while I was scrolling through X ,I stumbled upon your incredible artworks. They truly grabbed my attention!\"I'll like to purchase them 🙏 message me directly 🎨 🖼 ❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 335,
+          "like_count": 3511,
+          "listed_count": 6,
+          "media_count": 324,
+          "tweet_count": 4691
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-06T13:31:19.000Z",
+        "description": "CRYPTO ARTIST || INVESTOR\nNFT ART COLLECTOR \nPHILANTHROPIST\n#AI || #BOTS || #ROBOTICGUIDE\n#NFT #CRYPTO #METAMASK",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 60,
+                "tag": "AI"
+              },
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "BOTS"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "tag": "ROBOTICGUIDE"
+              },
+              {
+                "end": 94,
+                "start": 90,
+                "tag": "NFT"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "tag": "CRYPTO"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "tag": "METAMASK"
+              }
+            ]
+          }
+        },
+        "id": "1246096500",
+        "location": "Florida, USA",
+        "name": "Jaun Amorin",
+        "pinned_tweet_id": "1652725017308721153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975822424571564032/FJyWW0tb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 79,
+          "like_count": 136,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 745
+        },
+        "username": "AmorinArt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T02:31:02.000Z",
+        "description": "戒毒中，，，少话。专心和米老鼠和男女人互爱中，所有照片经过米老鼠神奇妙妙和男女人社评，可以在波士顿的和我一起魔怔但是我是ylg吧，给老资历磕头了！查成分互关，我一直在说话（背景图摄自那个谁）",
+        "id": "1868121512710201344",
+        "location": "United States",
+        "name": "isac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973021841665986560/63J0tKrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 68,
+          "like_count": 2216,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 1321
+        },
+        "username": "Isacc0219",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1944484480636604512",
+    "created_at": "2025-07-14T00:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T01:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944552189172892129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1758280045355737088",
+          "start": 0,
+          "username": "itchybalpolitks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944552189172892129",
+    "in_reply_to_user_id": "1758280045355737088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944484480636604512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itchybalpolitks 流汗了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944484469156790273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvwyUodawAE05ao.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944484469160968192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvwyUoeagAA7oyh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1944484480636604512",
+        "created_at": "2025-07-14T00:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T01:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944552189172892129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1758280045355737088",
+              "start": 0,
+              "username": "itchybalpolitks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944552189172892129",
+        "in_reply_to_user_id": "1758280045355737088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944484480636604512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itchybalpolitks 流汗了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944484469156790273",
+            "3_1944484469160968192"
+          ]
+        },
+        "author_id": "1758280045355737088",
+        "conversation_id": "1944484480636604512",
+        "created_at": "2025-07-13T19:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T20:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944484480636604512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JbyOLYG0w8",
+              "end": 121,
+              "expanded_url": "https://x.com/itchybalpolitks/status/1944484480636604512/photo/1",
+              "media_key": "3_1944484469156790273",
+              "start": 98,
+              "url": "https://t.co/JbyOLYG0w8"
+            },
+            {
+              "display_url": "pic.x.com/JbyOLYG0w8",
+              "end": 121,
+              "expanded_url": "https://x.com/itchybalpolitks/status/1944484480636604512/photo/1",
+              "media_key": "3_1944484469160968192",
+              "start": 98,
+              "url": "https://t.co/JbyOLYG0w8"
+            },
+            {
+              "display_url": "x.com/itchybalpolitk…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/itchybalpolitks/status/1944483942398349470",
+              "start": 122,
+              "url": "https://t.co/9rTlMxgsTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944484480636604512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5354,
+          "like_count": 41,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944483942398349470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3年没回来，ldx受诈骗体质加深又加重了。到处摆满了各种佛像，开光证书，纪念币。保健品偏方药我都已经不算在纯粹被骗的范围内了，毕竟至少吃了是个安慰。我在桌上看到的这个玩意击溃了我最后一道心理防线 https://t.co/JbyOLYG0w8 https://t.co/9rTlMxgsTT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 282,
+          "like_count": 1463,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2325
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T00:00:09.000Z",
+        "description": "",
+        "id": "1758280045355737088",
+        "name": "Ume侠（唱多英伟达第一人👊👁️🔥）",
+        "pinned_tweet_id": "1864133770921824503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758601064390266880/uWGrjhFP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 526,
+          "like_count": 3890,
+          "listed_count": 4,
+          "media_count": 113,
+          "tweet_count": 2461
+        },
+        "username": "itchybalpolitks",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984736915635974145"
+      ],
+      "media_source_tweet_id": [
+        "1984736946522820837"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1985387168534319251",
+    "created_at": "2025-11-03T16:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T17:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985387168534319251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1634310114185281536",
+          "start": 3,
+          "username": "duckycals_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VWTw80NWGy",
+          "end": 52,
+          "expanded_url": "https://x.com/duckycals_/status/1984736946522820837/photo/1",
+          "media_key": "3_1984736915635974145",
+          "start": 29,
+          "url": "https://t.co/VWTw80NWGy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985387168534319251",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19905
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984736946522820837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duckycals_: excuse me??? https://t.co/VWTw80NWGy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_1984736915635974145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4sztY0WMAEMCIh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984736915635974145"
+          ],
+          "media_source_tweet_id": [
+            "1984736946522820837"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1985387168534319251",
+        "created_at": "2025-11-03T16:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985387168534319251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634310114185281536",
+              "start": 3,
+              "username": "duckycals_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWTw80NWGy",
+              "end": 52,
+              "expanded_url": "https://x.com/duckycals_/status/1984736946522820837/photo/1",
+              "media_key": "3_1984736915635974145",
+              "start": 29,
+              "url": "https://t.co/VWTw80NWGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985387168534319251",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19905
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984736946522820837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duckycals_: excuse me??? https://t.co/VWTw80NWGy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984736915635974145"
+          ]
+        },
+        "author_id": "1634310114185281536",
+        "conversation_id": "1984736946522820837",
+        "created_at": "2025-11-01T21:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T22:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984736946522820837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWTw80NWGy",
+              "end": 36,
+              "expanded_url": "https://x.com/duckycals_/status/1984736946522820837/photo/1",
+              "media_key": "3_1984736915635974145",
+              "start": 13,
+              "url": "https://t.co/VWTw80NWGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984736946522820837",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9345,
+          "impression_count": 2892796,
+          "like_count": 190591,
+          "quote_count": 1193,
+          "reply_count": 549,
+          "retweet_count": 19905
+        },
+        "reply_settings": "everyone",
+        "text": "excuse me??? https://t.co/VWTw80NWGy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品\n\n埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZ3Lh"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 357,
+          "like_count": 3793,
+          "listed_count": 9,
+          "media_count": 401,
+          "tweet_count": 5026
+        },
+        "url": "https://t.co/tuzURhZ3Lh",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T21:47:59.000Z",
+        "description": "18 // she/her // edtwt // duck lover // LC!4LYF\nsw: 81kg lw: 52kg cw: 65kg ugw: 40kg (height: 157cm)\nbmi 35.1 → bmi 21.1 → bmi 26.4\n@duckycalspriv\n🇵🇸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 132,
+                "username": "duckycalspriv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "duckycals.straw.page",
+                "end": 23,
+                "expanded_url": "http://duckycals.straw.page",
+                "start": 0,
+                "url": "https://t.co/hatbPDLpta"
+              }
+            ]
+          }
+        },
+        "id": "1634310114185281536",
+        "location": "#1 TOO MANY FLESH SUPPERS FAN",
+        "name": "ducky !! 🪿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705305673704038400/084GObGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 603,
+          "like_count": 11992,
+          "listed_count": 1,
+          "media_count": 340,
+          "tweet_count": 2081
+        },
+        "url": "https://t.co/hatbPDLpta",
+        "username": "duckycals_",
+        "verified": false
+      }
+    ]
+  }
+}

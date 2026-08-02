@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981258345383096320"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1981258347585425743",
+    "created_at": "2025-10-23T07:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T08:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981258347585425743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r9SyKWXDeH",
+          "end": 31,
+          "expanded_url": "https://x.com/VVV8964/status/1981258347585425743/photo/1",
+          "media_key": "3_1981258345383096320",
+          "start": 8,
+          "url": "https://t.co/r9SyKWXDeH"
+        },
+        {
+          "display_url": "x.com/VVV8964/status…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/VVV8964/status/1976417396157186187",
+          "start": 32,
+          "url": "https://t.co/lUKzLWyPpW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981258347585425743",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976417396157186187",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也吃上白兔了 https://t.co/r9SyKWXDeH https://t.co/lUKzLWyPpW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981258345383096320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37X98zWcAApWjF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981258345383096320"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1981258347585425743",
+        "created_at": "2025-10-23T07:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T08:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981258347585425743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9SyKWXDeH",
+              "end": 31,
+              "expanded_url": "https://x.com/VVV8964/status/1981258347585425743/photo/1",
+              "media_key": "3_1981258345383096320",
+              "start": 8,
+              "url": "https://t.co/r9SyKWXDeH"
+            },
+            {
+              "display_url": "x.com/VVV8964/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/VVV8964/status/1976417396157186187",
+              "start": 32,
+              "url": "https://t.co/lUKzLWyPpW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981258347585425743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976417396157186187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也吃上白兔了 https://t.co/r9SyKWXDeH https://t.co/lUKzLWyPpW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1976417396157186187",
+        "created_at": "2025-10-09T22:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T23:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976417396157186187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ku_yuoo/status…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/ku_yuoo/status/1975937398417846372",
+              "start": 48,
+              "url": "https://t.co/j9ybApvPSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976417396157186187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3877,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975937398417846372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "樱花妹不想吃白兔了梦想去阿美丽卡狠狠吸毒，与此同时坐标北美的小留在从国内空运白兔来吃，令人感叹 https://t.co/j9ybApvPSd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 346,
+          "like_count": 3670,
+          "listed_count": 7,
+          "media_count": 355,
+          "tweet_count": 4883
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

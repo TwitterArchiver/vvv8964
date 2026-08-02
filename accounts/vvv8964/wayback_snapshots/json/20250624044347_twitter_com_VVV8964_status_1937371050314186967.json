@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1937369588376990135",
+    "created_at": "2025-06-24T04:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T05:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937371050314186967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "16216973",
+          "start": 0,
+          "username": "DanaLarsen"
+        },
+        {
+          "end": 23,
+          "id": "1106363525365026816",
+          "start": 12,
+          "username": "GYDTcanada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937371050314186967",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937369588376990135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanaLarsen @GYDTcanada 免责声明：本人已成年，未成年不要来这家店里消费，他们也会查id的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937369586128814081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuLrX7vagAEMpWU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1937369588376990135",
+        "created_at": "2025-06-24T04:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T05:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937371050314186967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "16216973",
+              "start": 0,
+              "username": "DanaLarsen"
+            },
+            {
+              "end": 23,
+              "id": "1106363525365026816",
+              "start": 12,
+              "username": "GYDTcanada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937371050314186967",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937369588376990135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanaLarsen @GYDTcanada 免责声明：本人已成年，未成年不要来这家店里消费，他们也会查id的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937369586128814081"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1937369588376990135",
+        "created_at": "2025-06-24T04:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T05:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937369588376990135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "16216973",
+              "start": 19,
+              "username": "DanaLarsen"
+            },
+            {
+              "end": 52,
+              "id": "1106363525365026816",
+              "start": 41,
+              "username": "GYDTcanada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bn5u3EGTB4",
+              "end": 113,
+              "expanded_url": "https://x.com/VVV8964/status/1937369588376990135/photo/1",
+              "media_key": "3_1937369586128814081",
+              "start": 90,
+              "url": "https://t.co/bn5u3EGTB4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937369588376990135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的运气很好，昨天在迷幻药店遇到了店主@DanaLarsen, 他还是药物检测服务@GYDTcanada 的发起人，预防了很多人芬太尼药物过量，很好的一个人，很荣幸能在现实里见到 https://t.co/bn5u3EGTB4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 245,
+          "like_count": 915,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 1877
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2008-09-10T04:55:05.000Z",
+        "description": "Founder of: https://t.co/bsS3rDxjd0 • https://t.co/03jsNBOlES • https://t.co/qoIAYBa5w3 • https://t.co/EoBz2EDgUm • https://t.co/wiptNs60cO • https://t.co/XFEe8bgNsL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "GetYourDrugsTested.com",
+                "end": 35,
+                "expanded_url": "http://GetYourDrugsTested.com",
+                "start": 12,
+                "url": "https://t.co/bsS3rDxjd0"
+              },
+              {
+                "display_url": "MushroomDispensary.com",
+                "end": 61,
+                "expanded_url": "http://MushroomDispensary.com",
+                "start": 38,
+                "url": "https://t.co/03jsNBOlES"
+              },
+              {
+                "display_url": "MicrodoseDispensary.com",
+                "end": 87,
+                "expanded_url": "http://MicrodoseDispensary.com",
+                "start": 64,
+                "url": "https://t.co/qoIAYBa5w3"
+              },
+              {
+                "display_url": "CannabisDispensary.ca",
+                "end": 113,
+                "expanded_url": "http://CannabisDispensary.ca",
+                "start": 90,
+                "url": "https://t.co/EoBz2EDgUm"
+              },
+              {
+                "display_url": "CocaLeafCafe.com",
+                "end": 139,
+                "expanded_url": "http://CocaLeafCafe.com",
+                "start": 116,
+                "url": "https://t.co/wiptNs60cO"
+              },
+              {
+                "display_url": "PotheadBooks.com",
+                "end": 165,
+                "expanded_url": "http://PotheadBooks.com",
+                "start": 142,
+                "url": "https://t.co/XFEe8bgNsL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "DanaLarsen.com",
+                "end": 23,
+                "expanded_url": "http://DanaLarsen.com",
+                "start": 0,
+                "url": "https://t.co/JZpkURo1Tq"
+              }
+            ]
+          }
+        },
+        "id": "16216973",
+        "location": "Vancouver, British Columbia",
+        "name": "Dana Larsen",
+        "pinned_tweet_id": "1762458663577649546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629704874509352962/nrIoGSey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19691,
+          "following_count": 5839,
+          "like_count": 5812,
+          "listed_count": 221,
+          "media_count": 3557,
+          "tweet_count": 30399
+        },
+        "url": "https://t.co/JZpkURo1Tq",
+        "username": "DanaLarsen",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-15T01:16:34.000Z",
+        "description": "Community service offering free street drug analysis in Vancouver and by mail. Over 65,000 results posted online. Founded by @DanaLarsen. Funded by @TMCDCanada",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "DanaLarsen"
+              },
+              {
+                "end": 159,
+                "start": 148,
+                "username": "TMCDCanada"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/GetYourDrugsTe…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/GetYourDrugsTested",
+                "start": 0,
+                "url": "https://t.co/hXuNdnq60P"
+              }
+            ]
+          }
+        },
+        "id": "1106363525365026816",
+        "location": "880 E Hastings, Vancouver, BC",
+        "name": "Get Your Drugs Tested",
+        "pinned_tweet_id": "1924555933830582386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830342464789528576/qLax8w5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2049,
+          "following_count": 16,
+          "like_count": 133,
+          "listed_count": 13,
+          "media_count": 1551,
+          "tweet_count": 1919
+        },
+        "url": "https://t.co/hXuNdnq60P",
+        "username": "GYDTcanada",
+        "verified": false
+      }
+    ]
+  }
+}

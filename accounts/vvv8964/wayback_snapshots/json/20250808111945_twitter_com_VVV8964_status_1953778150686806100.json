@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1953778150686806100",
+    "created_at": "2025-08-08T11:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T12:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953778150686806100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/guhh65534615/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/guhh65534615/status/1953731228961509427",
+          "start": 11,
+          "url": "https://t.co/iin69LFtGe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953778150686806100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 33,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953731228961509427",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉习近平好可爱谁懂 https://t.co/iin69LFtGe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1953731140772065280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0MHwhWcAAVqSD.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1953778150686806100",
+        "created_at": "2025-08-08T11:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T12:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953778150686806100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guhh65534615/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/guhh65534615/status/1953731228961509427",
+              "start": 11,
+              "url": "https://t.co/iin69LFtGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953778150686806100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953731228961509427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉习近平好可爱谁懂 https://t.co/iin69LFtGe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953731140772065280"
+          ]
+        },
+        "author_id": "1619947482343157760",
+        "conversation_id": "1953731228961509427",
+        "created_at": "2025-08-08T08:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T09:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953731228961509427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OnCmeInvDH",
+              "end": 30,
+              "expanded_url": "https://x.com/guhh65534615/status/1953731228961509427/photo/1",
+              "media_key": "3_1953731140772065280",
+              "start": 7,
+              "url": "https://t.co/OnCmeInvDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953731228961509427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2827,
+          "like_count": 100,
+          "quote_count": 13,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "中华可爱主义 https://t.co/OnCmeInvDH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 308,
+          "like_count": 2030,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 2848
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T06:36:16.000Z",
+        "description": "Max Stirner-Letov-Mao‖Quis Contra Nos？‖互联网精神美洲原住民‖No Anarchist，But the Anarch‖我们是毛主席脚下的坚冰‖悖论不应仅提供统治的基础，它还应行使统治‖哥林多前书4:4‖Kali/Acc‖只想在网络玩的开心\n可爱男娘同志：@quancm172081",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 146,
+                "username": "quancm172081"
+              }
+            ]
+          }
+        },
+        "id": "1619947482343157760",
+        "name": "狗蛤蛤",
+        "pinned_tweet_id": "1834562142345031938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881544477279408128/MK4Ct9Cg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 782,
+          "like_count": 14151,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 2485
+        },
+        "username": "guhh65534615",
+        "verified": false
+      }
+    ]
+  }
+}

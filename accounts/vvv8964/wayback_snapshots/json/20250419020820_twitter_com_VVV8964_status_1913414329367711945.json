@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1913414329367711945",
+    "created_at": "2025-04-19T02:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T03:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913414329367711945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WhiteHouse/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1913365071331213429",
+          "start": 6,
+          "url": "https://t.co/qvWoNiFZBE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913414329367711945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913365071331213429",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁家实习生 https://t.co/qvWoNiFZBE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1913414329367711945",
+        "created_at": "2025-04-19T02:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T03:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913414329367711945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WhiteHouse/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/WhiteHouse/status/1913365071331213429",
+              "start": 6,
+              "url": "https://t.co/qvWoNiFZBE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913414329367711945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913365071331213429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁家实习生 https://t.co/qvWoNiFZBE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879644163769335808",
+        "conversation_id": "1913365071331213429",
+        "created_at": "2025-04-18T22:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T23:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913365071331213429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Official websites use .gov A.gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock () or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. Every U.S. household is eligible to order 4 free at-home tests. Testing can give you the information you need to protect yourself and the ones you love from COVID-19. After you’ve tested, report your result – whether it’s positive",
+              "display_url": "COVID.GOV",
+              "end": 46,
+              "expanded_url": "http://COVID.GOV",
+              "start": 23,
+              "status": 200,
+              "title": "Find COVID-19 guidance for your community",
+              "unwound_url": "https://www.covid.gov/",
+              "url": "https://t.co/nWMBrHOpHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913365071331213429",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4171,
+          "impression_count": 3124060,
+          "like_count": 57983,
+          "quote_count": 2033,
+          "reply_count": 3252,
+          "retweet_count": 10768
+        },
+        "reply_settings": "everyone",
+        "text": "DEFINITELY DON’T VISIT https://t.co/nWMBrHOpHH 🤭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 165,
+          "like_count": 381,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 1054
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T21:37:54.000Z",
+        "description": "The Golden Age of America Begins Right Now.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "http://wh.gov",
+                "start": 0,
+                "url": "https://t.co/0BqS4u1FRp"
+              }
+            ]
+          }
+        },
+        "id": "1879644163769335808",
+        "location": "Washington, DC",
+        "name": "The White House",
+        "pinned_tweet_id": "1913080244216459490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891992683398180864/0uPZc-5F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655939,
+          "following_count": 5,
+          "like_count": 206,
+          "listed_count": 3737,
+          "media_count": 753,
+          "tweet_count": 2742
+        },
+        "url": "https://t.co/0BqS4u1FRp",
+        "username": "WhiteHouse",
+        "verified": true
+      }
+    ]
+  }
+}

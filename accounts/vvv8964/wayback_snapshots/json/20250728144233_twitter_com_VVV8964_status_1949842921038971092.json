@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1949659700674585020",
+    "created_at": "2025-07-28T14:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T15:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949842921038971092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1931114312296538112",
+          "start": 0,
+          "username": "Ayumi_0222_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949842921038971092",
+    "in_reply_to_user_id": "1931114312296538112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949827388344336853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayumi_0222_ 我真的好在乎 我想所有人都来看我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1949659700674585020",
+        "created_at": "2025-07-28T14:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T15:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949842921038971092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1931114312296538112",
+              "start": 0,
+              "username": "Ayumi_0222_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949842921038971092",
+        "in_reply_to_user_id": "1931114312296538112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949827388344336853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayumi_0222_ 我真的好在乎 我想所有人都来看我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931114312296538112",
+        "conversation_id": "1949659700674585020",
+        "created_at": "2025-07-28T13:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T14:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949827388344336853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949827388344336853",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949659700674585020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 只有在乎流量的人才会被自己逼成炒作狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 300,
+          "like_count": 1790,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 2608
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T22:22:42.000Z",
+        "description": "我爹@Ayumi_IOwOI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "Ayumi_IOwOI"
+              }
+            ]
+          }
+        },
+        "id": "1931114312296538112",
+        "location": "参宿四",
+        "name": "众神的阿优米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933088477681496064/Z0lVQx35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 44,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 82
+        },
+        "username": "Ayumi_0222_",
+        "verified": false
+      }
+    ]
+  }
+}

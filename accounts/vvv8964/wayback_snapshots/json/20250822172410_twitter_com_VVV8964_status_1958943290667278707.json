@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1958943288972779525"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1958943290667278707",
+    "created_at": "2025-08-22T17:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T18:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958943290667278707"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1958943290667278707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 60,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新头像还是老头像好看"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 2880,
+        "end_datetime": "2025-08-24T17:24:10.000Z",
+        "id": "1958943288972779525",
+        "options": [
+          {
+            "label": "新的",
+            "position": 1,
+            "votes": 4
+          },
+          {
+            "label": "老的",
+            "position": 2,
+            "votes": 5
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1958943288972779525"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1958943290667278707",
+        "created_at": "2025-08-22T17:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T18:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958943290667278707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958943290667278707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新头像还是老头像好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 327,
+          "like_count": 2498,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 3368
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

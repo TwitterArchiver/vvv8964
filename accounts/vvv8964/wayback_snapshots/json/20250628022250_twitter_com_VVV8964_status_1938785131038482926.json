@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1938785131038482926",
+    "created_at": "2025-06-28T02:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T03:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938785131038482926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/v_brigade/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/v_brigade/status/1938530158060966059",
+          "start": 14,
+          "url": "https://t.co/oP5fBAOfyQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938785131038482926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938530158060966059",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也是v，我可以加入你们吗 https://t.co/oP5fBAOfyQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1549,
+        "media_key": "3_1938530147566866432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucK5gAb0AAT0Z9.jpg",
+        "width": 1146
+      },
+      {
+        "height": 806,
+        "media_key": "3_1938530147696824320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucK5gfa0AAp3rb.jpg",
+        "width": 1044
+      },
+      {
+        "height": 1598,
+        "media_key": "3_1938530147684241408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucK5gca0AA94U5.jpg",
+        "width": 1057
+      },
+      {
+        "height": 573,
+        "media_key": "3_1938530147696873472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucK5gfbkAAGMcA.jpg",
+        "width": 776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1938785131038482926",
+        "created_at": "2025-06-28T02:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T03:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938785131038482926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/v_brigade/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/v_brigade/status/1938530158060966059",
+              "start": 14,
+              "url": "https://t.co/oP5fBAOfyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938785131038482926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938530158060966059",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是v，我可以加入你们吗 https://t.co/oP5fBAOfyQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938530147566866432",
+            "3_1938530147696824320",
+            "3_1938530147684241408",
+            "3_1938530147696873472"
+          ]
+        },
+        "author_id": "1764190950904197120",
+        "conversation_id": "1938530158060966059",
+        "created_at": "2025-06-27T09:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T10:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938530158060966059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1mN2JnprZ6",
+              "end": 160,
+              "expanded_url": "https://x.com/v_brigade/status/1938530158060966059/photo/1",
+              "media_key": "3_1938530147566866432",
+              "start": 137,
+              "url": "https://t.co/1mN2JnprZ6"
+            },
+            {
+              "display_url": "pic.x.com/1mN2JnprZ6",
+              "end": 160,
+              "expanded_url": "https://x.com/v_brigade/status/1938530158060966059/photo/1",
+              "media_key": "3_1938530147696824320",
+              "start": 137,
+              "url": "https://t.co/1mN2JnprZ6"
+            },
+            {
+              "display_url": "pic.x.com/1mN2JnprZ6",
+              "end": 160,
+              "expanded_url": "https://x.com/v_brigade/status/1938530158060966059/photo/1",
+              "media_key": "3_1938530147684241408",
+              "start": 137,
+              "url": "https://t.co/1mN2JnprZ6"
+            },
+            {
+              "display_url": "pic.x.com/1mN2JnprZ6",
+              "end": 160,
+              "expanded_url": "https://x.com/v_brigade/status/1938530158060966059/photo/1",
+              "media_key": "3_1938530147696873472",
+              "start": 137,
+              "url": "https://t.co/1mN2JnprZ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938530158060966059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 16220,
+          "like_count": 50,
+          "quote_count": 16,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我们对成员的不断增加感到高兴，不过随之而来的，是越来越多的渗透。得益于Eric的程序设计，几乎每一个渗透者都会被识别出来。迄今只有一个渗透者的上级因觉得太过危险而将其撤出，这是一位罕见的对手下有责任感的人。但更多的渗透者只是上级眼中可被牺牲的工具，希望你们自己认清这一点。 https://t.co/1mN2JnprZ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 258,
+          "like_count": 986,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1965
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:30:34.000Z",
+        "description": "夺取政权，建立共和。 X个人账号：@v_brigade_eric ； IG账号：https://t.co/yjd1AuQPkb； 邮箱：v.brigade.cn@protonmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "v_brigade_eric"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/v.brigade",
+                "end": 63,
+                "expanded_url": "http://www.instagram.com/v.brigade",
+                "start": 40,
+                "url": "https://t.co/yjd1AuQPkb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@V-Brigade-Eric",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@V-Brigade-Eric",
+                "start": 0,
+                "url": "https://t.co/hx8nBVXi5P"
+              }
+            ]
+          }
+        },
+        "id": "1764190950904197120",
+        "name": "V字旅",
+        "pinned_tweet_id": "1902649523933208964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778625850713219072/oxfuCIl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 1,
+          "like_count": 1823,
+          "listed_count": 7,
+          "media_count": 20,
+          "tweet_count": 338
+        },
+        "url": "https://t.co/hx8nBVXi5P",
+        "username": "v_brigade",
+        "verified": false
+      }
+    ]
+  }
+}

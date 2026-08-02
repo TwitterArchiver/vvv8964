@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1940129038984753477",
+    "created_at": "2025-07-01T19:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T20:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940129038984753477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KennyWa3381311…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/KennyWa33813110/status/1939972376503959806",
+          "start": 17,
+          "url": "https://t.co/qTolLFb8Sk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940129038984753477",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939972376503959806",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "So sigma so tuff https://t.co/qTolLFb8Sk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1940129038984753477",
+        "created_at": "2025-07-01T19:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T20:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940129038984753477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KennyWa3381311…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/KennyWa33813110/status/1939972376503959806",
+              "start": 17,
+              "url": "https://t.co/qTolLFb8Sk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940129038984753477",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939972376503959806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "So sigma so tuff https://t.co/qTolLFb8Sk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1061154200128675842",
+        "conversation_id": "1939896745372393873",
+        "created_at": "2025-07-01T09:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T10:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939972376503959806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1474091860025122817",
+              "start": 0,
+              "username": "ShitpostGate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939972376503959806",
+        "in_reply_to_user_id": "1474091860025122817",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 45858,
+          "like_count": 164,
+          "quote_count": 6,
+          "reply_count": 48,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939896745372393873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShitpostGate I stopped playing a game for a month just because the game had a pride month related loading screen on it"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 265,
+          "like_count": 1077,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 2041
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-10T07:10:51.000Z",
+        "description": "",
+        "id": "1061154200128675842",
+        "name": "nonta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846710788222038016/p669-KBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 89,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 55
+        },
+        "username": "KennyWa33813110",
+        "verified": false
+      }
+    ]
+  }
+}

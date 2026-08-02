@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1961188208643133630",
+    "created_at": "2025-08-28T23:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T00:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961212472414908574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1058172250761785345",
+          "start": 0,
+          "username": "Ety2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961212472414908574",
+    "in_reply_to_user_id": "1058172250761785345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961203296359911770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ety2025 谢谢你 真的很感谢😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1961188208643133630",
+        "created_at": "2025-08-28T23:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T00:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961212472414908574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1058172250761785345",
+              "start": 0,
+              "username": "Ety2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961212472414908574",
+        "in_reply_to_user_id": "1058172250761785345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961203296359911770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ety2025 谢谢你 真的很感谢😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058172250761785345",
+        "conversation_id": "1961188208643133630",
+        "created_at": "2025-08-28T23:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T00:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961203296359911770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961203296359911770",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961192373452718343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 工作了会发现少几千块不会天塌下来的，人生很长很长，机遇一定会比你想象中多。这只是暂时的一个小坎，每次都告诉自己不必担责，时间长了你真的会相信并坚信不疑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 329,
+          "like_count": 2665,
+          "listed_count": 4,
+          "media_count": 190,
+          "tweet_count": 3559
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-02T01:41:39.000Z",
+        "description": "blessings for your every day",
+        "id": "1058172250761785345",
+        "name": "添加你的姓名",
+        "pinned_tweet_id": "1876836444913766539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872846813381967878/CBzwGqfc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 77,
+          "like_count": 816,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 852
+        },
+        "username": "Ety2025",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1952363999611191690",
+    "created_at": "2025-08-04T14:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T15:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952378602412220707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901299981518286848",
+          "start": 0,
+          "username": "kami18181818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952378602412220707",
+    "in_reply_to_user_id": "1901299981518286848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952363999611191690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kami18181818 我不认可这个排名"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 539,
+        "media_key": "3_1952363937023819776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgwqBqWgAA2tBP.jpg",
+        "width": 1206
+      },
+      {
+        "height": 310,
+        "media_key": "3_1952363937002921984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgwqBlXoAAZMNo.jpg",
+        "width": 1206
+      },
+      {
+        "height": 482,
+        "media_key": "3_1952363936981946368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgwqBgXkAAyuKt.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1952363936994541568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgwqBjXwAAjvP4.jpg",
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1952363999611191690",
+        "created_at": "2025-08-04T14:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952378602412220707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901299981518286848",
+              "start": 0,
+              "username": "kami18181818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952378602412220707",
+        "in_reply_to_user_id": "1901299981518286848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952363999611191690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami18181818 我不认可这个排名"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952363937023819776",
+            "3_1952363937002921984",
+            "3_1952363936981946368",
+            "3_1952363936994541568"
+          ]
+        },
+        "author_id": "1901299981518286848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1952363999611191690",
+        "created_at": "2025-08-04T13:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T14:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952363999611191690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qKxqjg2lad",
+              "end": 51,
+              "expanded_url": "https://x.com/kami18181818/status/1952363999611191690/photo/1",
+              "media_key": "3_1952363937023819776",
+              "start": 28,
+              "url": "https://t.co/qKxqjg2lad"
+            },
+            {
+              "display_url": "pic.x.com/qKxqjg2lad",
+              "end": 51,
+              "expanded_url": "https://x.com/kami18181818/status/1952363999611191690/photo/1",
+              "media_key": "3_1952363937002921984",
+              "start": 28,
+              "url": "https://t.co/qKxqjg2lad"
+            },
+            {
+              "display_url": "pic.x.com/qKxqjg2lad",
+              "end": 51,
+              "expanded_url": "https://x.com/kami18181818/status/1952363999611191690/photo/1",
+              "media_key": "3_1952363936981946368",
+              "start": 28,
+              "url": "https://t.co/qKxqjg2lad"
+            },
+            {
+              "display_url": "pic.x.com/qKxqjg2lad",
+              "end": 51,
+              "expanded_url": "https://x.com/kami18181818/status/1952363999611191690/photo/1",
+              "media_key": "3_1952363936994541568",
+              "start": 28,
+              "url": "https://t.co/qKxqjg2lad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952363999611191690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ai比我用的好的人有很多\n但我就问问谁能把他调教成这样 https://t.co/qKxqjg2lad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 304,
+          "like_count": 1973,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 2768
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T15:50:27.000Z",
+        "description": "",
+        "id": "1901299981518286848",
+        "name": "kami",
+        "pinned_tweet_id": "1941599108835512740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952371308471140352/2ss2nfA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 146,
+          "like_count": 1715,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 135
+        },
+        "username": "kami18181818",
+        "verified": false
+      }
+    ]
+  }
+}

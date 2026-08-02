@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962190928808116224"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157181954",
+          "name": "Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783337372406517762",
+          "name": "Online Services - Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10032901311",
+          "name": "Airbnb"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10032901311",
+          "name": "Airbnb"
+        }
+      },
+      {
+        "domain": {
+          "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+          "id": "163",
+          "name": "Travel"
+        },
+        "entity": {
+          "id": "1395109724786290690",
+          "name": "Travel accommodations "
+        }
+      }
+    ],
+    "conversation_id": "1962190931370947059",
+    "created_at": "2025-08-31T16:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T17:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962190931370947059"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NIOkYqYoTI",
+          "end": 75,
+          "expanded_url": "https://x.com/VVV8964/status/1962190931370947059/photo/1",
+          "media_key": "3_1962190928808116224",
+          "start": 52,
+          "url": "https://t.co/NIOkYqYoTI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962190931370947059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "秘鲁人送了点鸡肉牛肉给我 还给我泡了柠檬水 虽然airbnb似乎没有油导致味道很难吃 但是我还是很感动 https://t.co/NIOkYqYoTI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962190928808116224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzsaQO0aAAA2--s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962190928808116224"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157181954",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337372406517762",
+              "name": "Online Services - Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10032901311",
+              "name": "Airbnb"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10032901311",
+              "name": "Airbnb"
+            }
+          },
+          {
+            "domain": {
+              "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+              "id": "163",
+              "name": "Travel"
+            },
+            "entity": {
+              "id": "1395109724786290690",
+              "name": "Travel accommodations "
+            }
+          }
+        ],
+        "conversation_id": "1962190931370947059",
+        "created_at": "2025-08-31T16:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962190931370947059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NIOkYqYoTI",
+              "end": 75,
+              "expanded_url": "https://x.com/VVV8964/status/1962190931370947059/photo/1",
+              "media_key": "3_1962190928808116224",
+              "start": 52,
+              "url": "https://t.co/NIOkYqYoTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962190931370947059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "秘鲁人送了点鸡肉牛肉给我 还给我泡了柠檬水 虽然airbnb似乎没有油导致味道很难吃 但是我还是很感动 https://t.co/NIOkYqYoTI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 327,
+          "like_count": 2714,
+          "listed_count": 4,
+          "media_count": 196,
+          "tweet_count": 3635
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1979265749773611228",
+    "created_at": "2025-10-17T19:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T20:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979265749773611228"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1979265749773611228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天早上起床带了一个小时的光疗眼镜，跟小女友打了很久电话，起床做早餐的时候把苹果汁倒进玻璃杯里，那一刻我似乎达到了一种短暂的心流一样的状态，看着果汁从瓶子里流出来，看着杯子水位慢慢上升，虽然在赶着吃饭上课，但是那一刻我感觉很平静，很放松，虽然就几秒钟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1979265749773611228",
+        "created_at": "2025-10-17T19:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T20:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979265749773611228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979265749773611228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天早上起床带了一个小时的光疗眼镜，跟小女友打了很久电话，起床做早餐的时候把苹果汁倒进玻璃杯里，那一刻我似乎达到了一种短暂的心流一样的状态，看着果汁从瓶子里流出来，看着杯子水位慢慢上升，虽然在赶着吃饭上课，但是那一刻我感觉很平静，很放松，虽然就几秒钟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 340,
+          "like_count": 3594,
+          "listed_count": 7,
+          "media_count": 337,
+          "tweet_count": 4779
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

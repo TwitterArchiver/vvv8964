@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1959618143246221531",
+    "created_at": "2025-08-24T14:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T15:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959618143246221531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1490976522362302465",
+          "start": 3,
+          "username": "whyuounot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959618143246221531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959356633655750930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyuounot: 何意味，谁来了，懂你意思，什么派对，耍疯了，神u的梗够简中互联网再偷十年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1959618143246221531",
+        "created_at": "2025-08-24T14:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T15:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959618143246221531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1490976522362302465",
+              "start": 3,
+              "username": "whyuounot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959618143246221531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959356633655750930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyuounot: 何意味，谁来了，懂你意思，什么派对，耍疯了，神u的梗够简中互联网再偷十年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490976522362302465",
+        "conversation_id": "1959356633655750930",
+        "created_at": "2025-08-23T20:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T21:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959356633655750930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959356633655750930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2995,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "何意味，谁来了，懂你意思，什么派对，耍疯了，神u的梗够简中互联网再偷十年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 329,
+          "like_count": 2583,
+          "listed_count": 4,
+          "media_count": 182,
+          "tweet_count": 3467
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "临场发挥第一名",
+        "id": "1490976522362302465",
+        "name": "蛋炒饭",
+        "pinned_tweet_id": "1939668050128908726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958920538589732865/ya4nJUF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7498,
+          "following_count": 1159,
+          "like_count": 8007,
+          "listed_count": 15,
+          "media_count": 2030,
+          "tweet_count": 14012
+        },
+        "username": "whyuounot",
+        "verified": false
+      }
+    ]
+  }
+}

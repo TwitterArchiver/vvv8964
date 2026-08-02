@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1962789128606781933",
+    "created_at": "2025-09-02T08:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T09:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962789128606781933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds0/status/1…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/hgds0/status/1962031965768691978",
+          "start": 10,
+          "url": "https://t.co/erZt8ZxjE1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962789128606781933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962031965768691978",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我出国了，我恋爱了 https://t.co/erZt8ZxjE1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_1962031951294140416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzqJqhbakAAGJD8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1962789128606781933",
+        "created_at": "2025-09-02T08:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T09:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962789128606781933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds0/status/1…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/hgds0/status/1962031965768691978",
+              "start": 10,
+              "url": "https://t.co/erZt8ZxjE1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962789128606781933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962031965768691978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我出国了，我恋爱了 https://t.co/erZt8ZxjE1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962031951294140416"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1962031965768691978",
+        "created_at": "2025-08-31T05:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T06:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962031965768691978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/76tKKkxnq2",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/1962031965768691978/photo/1",
+              "media_key": "3_1962031951294140416",
+              "start": 0,
+              "url": "https://t.co/76tKKkxnq2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962031965768691978",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 451648,
+          "like_count": 8639,
+          "quote_count": 71,
+          "reply_count": 57,
+          "retweet_count": 832
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/76tKKkxnq2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 328,
+          "like_count": 2748,
+          "listed_count": 4,
+          "media_count": 201,
+          "tweet_count": 3669
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "推广自辩 /感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1954814858396119441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88508,
+          "following_count": 2836,
+          "like_count": 43297,
+          "listed_count": 112,
+          "media_count": 2715,
+          "tweet_count": 7019
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1956233794761187588",
+    "created_at": "2025-08-15T07:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T08:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956263215777898769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "823739846229303296",
+          "start": 0,
+          "username": "wholock1011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956263215777898769",
+    "in_reply_to_user_id": "823739846229303296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956259528733057398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wholock1011 是他们给的😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1956233794761187588",
+        "created_at": "2025-08-15T07:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T08:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956263215777898769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "823739846229303296",
+              "start": 0,
+              "username": "wholock1011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956263215777898769",
+        "in_reply_to_user_id": "823739846229303296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956259528733057398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wholock1011 是他们给的😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "823739846229303296",
+        "conversation_id": "1956233794761187588",
+        "created_at": "2025-08-15T07:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T08:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956259528733057398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956259528733057398",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956233794761187588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 出去旅游的钱是你赚的还是他们给的\n我没有来钱的方式在国内 我妈就说你出去呗 随便出去 可是不到300r 车票都不够"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 319,
+          "like_count": 2306,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 3086
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-24T03:50:58.000Z",
+        "description": "Hi, I'm Rusty.🇨🇦 INTJ/Capricorn摩羯座/Pansexual泛性恋FTX/BPD/FemDom/ Switch可s可m/点赞转推狂魔 可以去highlights媒体看我/ ntr重度爱好者/找绿奴对象中/RPN student/185cm 120kg/🚪30加币 可约可聊天~",
+        "id": "823739846229303296",
+        "location": "CAMH",
+        "name": "Rusty. V 🇨🇦🏳️‍⚧️",
+        "pinned_tweet_id": "1952638818198397149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344676520447496194/CA9B_Q7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2954,
+          "following_count": 2144,
+          "like_count": 48345,
+          "listed_count": 11,
+          "media_count": 977,
+          "tweet_count": 25310
+        },
+        "username": "wholock1011",
+        "verified": true
+      }
+    ]
+  }
+}

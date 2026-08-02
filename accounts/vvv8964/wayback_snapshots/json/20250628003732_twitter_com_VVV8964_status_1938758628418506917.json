@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1938693816934129969",
+    "created_at": "2025-06-28T00:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T01:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938758628418506917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3772102818",
+          "start": 0,
+          "username": "AlexYang965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938758628418506917",
+    "in_reply_to_user_id": "3772102818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938757709102493970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlexYang965 一个月前是，现在毕业了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1938693816934129969",
+        "created_at": "2025-06-28T00:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T01:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938758628418506917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3772102818",
+              "start": 0,
+              "username": "AlexYang965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938758628418506917",
+        "in_reply_to_user_id": "3772102818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938757709102493970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlexYang965 一个月前是，现在毕业了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3772102818",
+        "conversation_id": "1938693816934129969",
+        "created_at": "2025-06-28T00:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T01:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938757709102493970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938757709102493970",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938693816934129969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 你真的是高中生吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 258,
+          "like_count": 977,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1958
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-03T17:18:45.000Z",
+        "description": "ENTJ 8w7 278 (sp/sx)/cs bachelor/psychoanalysis/shadow @AlexYang645 /lover @Lys_Mediterrane /buy me coffee tenshi9096@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "AlexYang645"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "Lys_Mediterrane"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/alexGamingChair",
+                "end": 23,
+                "expanded_url": "https://t.me/alexGamingChair",
+                "start": 0,
+                "url": "https://t.co/A6KzNwsYk4"
+              }
+            ]
+          }
+        },
+        "id": "3772102818",
+        "location": "British Columbia, Canada",
+        "name": "Alex杨",
+        "pinned_tweet_id": "1717626493931856295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1368602571720466439/HV9iruUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 4821,
+          "like_count": 92966,
+          "listed_count": 11,
+          "media_count": 4610,
+          "tweet_count": 23235
+        },
+        "url": "https://t.co/A6KzNwsYk4",
+        "username": "AlexYang965",
+        "verified": false
+      }
+    ]
+  }
+}

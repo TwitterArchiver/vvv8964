@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1837456835240251424",
+    "created_at": "2024-09-22T05:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T06:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837729643245588850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1439904333361913856",
+          "start": 0,
+          "username": "shennaichuan22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837729643245588850",
+    "in_reply_to_user_id": "1439904333361913856",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837456835240251424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennaichuan22 富蛆家里人死绝了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1837456835240251424",
+        "created_at": "2024-09-22T05:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T06:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837729643245588850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1439904333361913856",
+              "start": 0,
+              "username": "shennaichuan22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837729643245588850",
+        "in_reply_to_user_id": "1439904333361913856",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837456835240251424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan22 富蛆家里人死绝了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439904333361913856",
+        "conversation_id": "1837456835240251424",
+        "created_at": "2024-09-21T11:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T12:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837456835240251424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/changwei1006/s…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/changwei1006/status/1837369502897504442",
+              "start": 99,
+              "url": "https://t.co/MOWAwZNVHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837456835240251424",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6151,
+          "like_count": 154,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837369502897504442",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么选不选的，人家只是炫一下而已😁。富蛆便宜占尽了，然后说自己不想选这条路，说自己什么鸡巴童年。\n从来没看过哪个农村出生的成功做题家说如果再来一次自己不会选择做题这条路，底层倒是想选，能选得了吗？ https://t.co/MOWAwZNVHL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 \n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁🏴‍☠️\nVVV",
+        "id": "1561334508212723713",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 54,
+          "like_count": 36,
+          "listed_count": 0,
+          "tweet_count": 63
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T10:49:17.000Z",
+        "description": "目前是一个死大学生",
+        "id": "1439904333361913856",
+        "name": "鼠乃木余弦",
+        "pinned_tweet_id": "1819713506901721166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713552955838754816/XW6s5BLq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 889,
+          "like_count": 111907,
+          "listed_count": 1,
+          "tweet_count": 2012
+        },
+        "username": "shennaichuan22",
+        "verified": false
+      }
+    ]
+  }
+}

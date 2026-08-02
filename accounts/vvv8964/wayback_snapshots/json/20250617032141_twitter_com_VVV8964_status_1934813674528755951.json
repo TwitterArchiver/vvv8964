@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1934813447784640862",
+    "created_at": "2025-06-17T03:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T04:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934813674528755951"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1934813674528755951",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934813447784640862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "电子烟的牌子应该是endgame，加拿大的正规牌子，我还以为学校里会有很多抽非法大麻的人呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934813445054189568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtnWk8Ma0AAqzbE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1934813445117157376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtnWk8bboAAJsCh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1934813447784640862",
+        "created_at": "2025-06-17T03:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T04:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934813674528755951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934813674528755951",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934813447784640862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "电子烟的牌子应该是endgame，加拿大的正规牌子，我还以为学校里会有很多抽非法大麻的人呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934813445054189568",
+            "3_1934813445117157376"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1934813447784640862",
+        "created_at": "2025-06-17T03:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T04:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934813447784640862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFBN7jEZmi",
+              "end": 48,
+              "expanded_url": "https://x.com/VVV8964/status/1934813447784640862/photo/1",
+              "media_key": "3_1934813445054189568",
+              "start": 25,
+              "url": "https://t.co/rFBN7jEZmi"
+            },
+            {
+              "display_url": "pic.x.com/rFBN7jEZmi",
+              "end": 48,
+              "expanded_url": "https://x.com/VVV8964/status/1934813447784640862/photo/1",
+              "media_key": "3_1934813445117157376",
+              "start": 25,
+              "url": "https://t.co/rFBN7jEZmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934813447784640862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草，有人扔大麻电子烟到小便池里，好恶心，要吐了 https://t.co/rFBN7jEZmi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 248,
+          "like_count": 873,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 1814
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

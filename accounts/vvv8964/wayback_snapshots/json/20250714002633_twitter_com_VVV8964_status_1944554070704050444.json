@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1944525507674226967",
+    "created_at": "2025-07-14T00:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T01:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944554070704050444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608413813648527360",
+          "start": 0,
+          "username": "Cano_3118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944554070704050444",
+    "in_reply_to_user_id": "1608413813648527360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944525507674226967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cano_3118 第一句话就看笑了，太有节目效果了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1944525507674226967",
+        "created_at": "2025-07-14T00:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T01:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944554070704050444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608413813648527360",
+              "start": 0,
+              "username": "Cano_3118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944554070704050444",
+        "in_reply_to_user_id": "1608413813648527360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944525507674226967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cano_3118 第一句话就看笑了，太有节目效果了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608413813648527360",
+        "conversation_id": "1944525507674226967",
+        "created_at": "2025-07-13T22:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T23:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944525507674226967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944525507674226967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梦到晶哥听说班里有人药物滥用，问同学是谁，同学纷纷指我。我就被拉到走廊上，尿在尿壶里做尿检。之后晶哥拿来一铁盘子的检测板，里面阳了吗啡、右美沙芬、苯二氮卓。我说我可能吃了某种中成药止咳让吗啡假阳了，右美沙芬阳了是因为用来止咳，苯二氮卓是因为期末周失眠，有处方且偶尔吃一颗。（1/2）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 282,
+          "like_count": 1466,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2326
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T10:45:23.000Z",
+        "description": "谁用乌云换日星 谁用匕首换光明/enby,pan/爱欲对象@misako_25ji /潮酷骚孩/什么都不耐受/搬我推到墙内的祝你永远是中国人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "almswt.top",
+                "end": 23,
+                "expanded_url": "http://almswt.top",
+                "start": 0,
+                "url": "https://t.co/tHoF3q7r6k"
+              }
+            ]
+          }
+        },
+        "id": "1608413813648527360",
+        "location": "你的后面",
+        "name": "卡诺酱",
+        "pinned_tweet_id": "1901160571510419748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896178424710139904/As9mJeZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 844,
+          "like_count": 25144,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 5062
+        },
+        "url": "https://t.co/tHoF3q7r6k",
+        "username": "Cano_3118",
+        "verified": false
+      }
+    ]
+  }
+}

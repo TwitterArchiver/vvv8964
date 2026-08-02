@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1868985291996106781",
+    "created_at": "2024-12-18T05:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T06:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869259464815354103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1779154402588172288",
+          "start": 0,
+          "username": "_Nikisade"
+        },
+        {
+          "end": 21,
+          "id": "1506637610352984065",
+          "start": 11,
+          "username": "JarrettYe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869259464815354103",
+    "in_reply_to_user_id": "1779154402588172288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869219985899528289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Nikisade @JarrettYe 你也是CS专业吗，我也想去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1868985291996106781",
+        "created_at": "2024-12-18T05:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T06:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869259464815354103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779154402588172288",
+              "start": 0,
+              "username": "_Nikisade"
+            },
+            {
+              "end": 21,
+              "id": "1506637610352984065",
+              "start": 11,
+              "username": "JarrettYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869259464815354103",
+        "in_reply_to_user_id": "1779154402588172288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869219985899528289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Nikisade @JarrettYe 你也是CS专业吗，我也想去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779154402588172288",
+        "conversation_id": "1868985291996106781",
+        "created_at": "2024-12-18T03:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T04:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869219985899528289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1506637610352984065",
+              "start": 0,
+              "username": "JarrettYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869219985899528289",
+        "in_reply_to_user_id": "1506637610352984065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868985291996106781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JarrettYe 原来可以毕业后才开始多做吗，第一次看到毕业后才开始狂做的人感觉好舒缓，我太焦虑感觉没有一片绿都不配毕业找工作了，难受，怕没公司要我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 136,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 471
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:35:04.000Z",
+        "description": "等我死掉，你就会拥有独一无二的阴雨天娃娃。",
+        "id": "1779154402588172288",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1867680915759280197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843029545542119424/vphwWoiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2257,
+          "following_count": 455,
+          "like_count": 101149,
+          "listed_count": 9,
+          "media_count": 760,
+          "tweet_count": 17501
+        },
+        "username": "_Nikisade",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T14:23:05.000Z",
+        "description": "Die-hard fan of spaced repetition. Creator of FSRS.\nFounder of Thoughts Memo translation group.\nInfluencer at ZhiHu with 100k+ followers.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "l-m-sherlock.github.io",
+                "end": 23,
+                "expanded_url": "https://l-m-sherlock.github.io",
+                "start": 0,
+                "url": "https://t.co/VQgi3Ir9oX"
+              }
+            ]
+          }
+        },
+        "id": "1506637610352984065",
+        "location": "China",
+        "name": "Jarrett Ye",
+        "pinned_tweet_id": "1867061141589147973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1569996533449523200/kDUdelDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3651,
+          "following_count": 193,
+          "like_count": 6144,
+          "listed_count": 23,
+          "media_count": 189,
+          "tweet_count": 1101
+        },
+        "url": "https://t.co/VQgi3Ir9oX",
+        "username": "JarrettYe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1887228399506038869",
+    "created_at": "2025-02-06T04:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T05:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887360611027460197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1407069627046416390",
+          "start": 0,
+          "username": "Areter19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887360611027460197",
+    "in_reply_to_user_id": "1407069627046416390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887242928323772784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Areter19 你认真的吗，我吃1g就天翻地覆了，你吃5g没感觉，就算体质不同也没有那么夸张的，是不是蘑菇失活了或者你在吃ssri之类的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1887228399506038869",
+        "created_at": "2025-02-06T04:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T05:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887360611027460197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1407069627046416390",
+              "start": 0,
+              "username": "Areter19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887360611027460197",
+        "in_reply_to_user_id": "1407069627046416390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887242928323772784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Areter19 你认真的吗，我吃1g就天翻地覆了，你吃5g没感觉，就算体质不同也没有那么夸张的，是不是蘑菇失活了或者你在吃ssri之类的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407069627046416390",
+        "conversation_id": "1887228399506038869",
+        "created_at": "2025-02-05T20:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T21:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887242928323772784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887242928323772784",
+        "in_reply_to_user_id": "1407069627046416390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887228399506038869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没啥感觉 失望\n去买冰激凌了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 155,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 763
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T20:15:41.000Z",
+        "description": "普普通通一男(?)的｜in my late 20s | 试着包容看到的世界｜NO Politics | MS BINF, BS Bio, BA Math | INFP-T 9w1 | 波士顿的小伙伴可以线下玩 | ymsf警察 | depression & anxiety｜“牵引我们黑暗的心” | 绝赞求职中｜是猫",
+        "id": "1407069627046416390",
+        "location": "某个小房间",
+        "name": "Areter（找工作版）",
+        "pinned_tweet_id": "1882171821883314187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880103349682352128/mYkK63j1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 628,
+          "like_count": 14170,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 4912
+        },
+        "username": "Areter19",
+        "verified": false
+      }
+    ]
+  }
+}

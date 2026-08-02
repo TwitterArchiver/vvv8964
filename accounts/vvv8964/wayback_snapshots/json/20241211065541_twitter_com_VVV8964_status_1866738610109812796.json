@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1866698106978328592",
+    "created_at": "2024-12-11T06:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T07:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866738610109812796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1779154402588172288",
+          "start": 0,
+          "username": "_Nikisade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866738610109812796",
+    "in_reply_to_user_id": "1779154402588172288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866698106978328592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Nikisade 创，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1866698106978328592",
+        "created_at": "2024-12-11T06:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T07:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866738610109812796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779154402588172288",
+              "start": 0,
+              "username": "_Nikisade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866738610109812796",
+        "in_reply_to_user_id": "1779154402588172288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866698106978328592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Nikisade 创，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866698102838571008"
+          ]
+        },
+        "author_id": "1779154402588172288",
+        "conversation_id": "1866698106978328592",
+        "created_at": "2024-12-11T04:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T05:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866698106978328592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OWNx3vnVpx",
+              "end": 30,
+              "expanded_url": "https://x.com/_Nikisade/status/1866698106978328592/photo/1",
+              "media_key": "3_1866698102838571008",
+              "start": 7,
+              "url": "https://t.co/OWNx3vnVpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866698106978328592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1922,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我谔谔，，， https://t.co/OWNx3vnVpx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  推特有时候莫名其妙收不到消息我会尽量回复回关  ||  不OD 正常用药  ||  正在解锁致幻剂  ||  大脑损伤逆转中",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 130,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 442
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:35:04.000Z",
+        "description": "等我死掉，你就会拥有独一无二的阴雨天娃娃。",
+        "id": "1779154402588172288",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1866510379611828313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843029545542119424/vphwWoiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1956,
+          "following_count": 444,
+          "like_count": 97703,
+          "listed_count": 9,
+          "media_count": 733,
+          "tweet_count": 16955
+        },
+        "username": "_Nikisade",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1964328516293710151",
+    "created_at": "2025-09-06T14:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T15:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964328516293710151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ceobrus/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ceobrus/status/1964229082473955413",
+          "start": 6,
+          "url": "https://t.co/g02Lf44Jeb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964328516293710151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964229082473955413",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗨呀是我吗 https://t.co/g02Lf44Jeb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1964328516293710151",
+        "created_at": "2025-09-06T14:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964328516293710151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ceobrus/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ceobrus/status/1964229082473955413",
+              "start": 6,
+              "url": "https://t.co/g02Lf44Jeb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964328516293710151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964229082473955413",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗨呀是我吗 https://t.co/g02Lf44Jeb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903701047589343232",
+        "conversation_id": "1964229082473955413",
+        "created_at": "2025-09-06T07:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T08:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964229082473955413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964229082473955413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 5541,
+          "like_count": 176,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "孩子是怎么成m的\n\n家长：不许上桌、手不许放在桌子上\n\n孩子：哦...（抱着碗低头看向食物）\n\n家长：不许关门、不许藏秘密\n\n孩子：..我谈恋爱了...喜欢第一排那个女生...我今天被厕所小团体欺负了\n\n家长：这么小谈什么不许谈！\n被欺负打回去，我怎么有这么没用的种（边打边骂）\n10年后\n孩子：金主爸爸❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 333,
+          "like_count": 2851,
+          "listed_count": 4,
+          "media_count": 218,
+          "tweet_count": 3849
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "武汉丨Femboy丨可接线下丨m丨180cm/56kg丨ISFP-T丨🚪15/50/用于交友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ceobrus",
+                "end": 23,
+                "expanded_url": "https://t.me/ceobrus",
+                "start": 0,
+                "url": "https://t.co/jjy2nziSM9"
+              }
+            ]
+          }
+        },
+        "id": "1903701047589343232",
+        "location": "武汉",
+        "name": "小方拌饭",
+        "pinned_tweet_id": "1964229082473955413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939212280874299392/CfqB9_ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2922,
+          "following_count": 1660,
+          "like_count": 7304,
+          "listed_count": 5,
+          "media_count": 120,
+          "tweet_count": 1716
+        },
+        "url": "https://t.co/jjy2nziSM9",
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

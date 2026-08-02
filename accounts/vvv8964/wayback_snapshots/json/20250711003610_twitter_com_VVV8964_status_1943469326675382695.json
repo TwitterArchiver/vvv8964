@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943023181041704961"
+      ],
+      "media_source_tweet_id": [
+        "1943023187207557620"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      }
+    ],
+    "conversation_id": "1943469326675382695",
+    "created_at": "2025-07-11T00:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T01:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943469326675382695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1501219835438460929",
+          "start": 3,
+          "username": "witte_sergei"
+        },
+        {
+          "end": 32,
+          "id": "1720665183188922368",
+          "start": 27,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FY1eUGwE8B",
+          "end": 75,
+          "expanded_url": "https://x.com/witte_sergei/status/1943023187207557620/photo/1",
+          "media_key": "3_1943023181041704961",
+          "start": 52,
+          "url": "https://t.co/FY1eUGwE8B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943469326675382695",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3994
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943023187207557620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @witte_sergei: Just saw @grok at the coffee shop https://t.co/FY1eUGwE8B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_1943023181041704961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvcBSeBXIAEyKB6.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943023181041704961"
+          ],
+          "media_source_tweet_id": [
+            "1943023187207557620"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "1943469326675382695",
+        "created_at": "2025-07-11T00:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T01:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943469326675382695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1501219835438460929",
+              "start": 3,
+              "username": "witte_sergei"
+            },
+            {
+              "end": 32,
+              "id": "1720665183188922368",
+              "start": 27,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FY1eUGwE8B",
+              "end": 75,
+              "expanded_url": "https://x.com/witte_sergei/status/1943023187207557620/photo/1",
+              "media_key": "3_1943023181041704961",
+              "start": 52,
+              "url": "https://t.co/FY1eUGwE8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943469326675382695",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3994
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943023187207557620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @witte_sergei: Just saw @grok at the coffee shop https://t.co/FY1eUGwE8B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943023181041704961"
+          ]
+        },
+        "author_id": "1501219835438460929",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "1943023187207557620",
+        "created_at": "2025-07-09T19:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T20:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943023187207557620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1720665183188922368",
+              "start": 9,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FY1eUGwE8B",
+              "end": 57,
+              "expanded_url": "https://x.com/witte_sergei/status/1943023187207557620/photo/1",
+              "media_key": "3_1943023181041704961",
+              "start": 34,
+              "url": "https://t.co/FY1eUGwE8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943023187207557620",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3696,
+          "impression_count": 3968048,
+          "like_count": 129633,
+          "quote_count": 162,
+          "reply_count": 624,
+          "retweet_count": 3994
+        },
+        "reply_settings": "everyone",
+        "text": "Just saw @grok at the coffee shop https://t.co/FY1eUGwE8B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 274,
+          "like_count": 1318,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 2214
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T15:34:48.000Z",
+        "description": "Orthodox Christian. Posting about military history. \"War Nemets.\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bigserge.substack.com",
+                "end": 23,
+                "expanded_url": "https://bigserge.substack.com",
+                "start": 0,
+                "url": "https://t.co/UlFLJDHtMH"
+              }
+            ]
+          }
+        },
+        "id": "1501219835438460929",
+        "name": "Big Serge ☦️🇺🇸🇷🇺",
+        "pinned_tweet_id": "1523843854780182528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870534101348065280/2mAs7Eqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174126,
+          "following_count": 580,
+          "like_count": 25265,
+          "listed_count": 1260,
+          "media_count": 2570,
+          "tweet_count": 15128
+        },
+        "url": "https://t.co/UlFLJDHtMH",
+        "username": "witte_sergei",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4926616,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4136,
+          "media_count": 2359748,
+          "tweet_count": 16677362
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1947459562258501991",
+    "created_at": "2025-07-22T03:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T04:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947501033498021938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1474577561477054464",
+          "start": 0,
+          "username": "Noooshiroooshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947501033498021938",
+    "in_reply_to_user_id": "1474577561477054464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 195,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947459562258501991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noooshiroooshi 我什么时候看到这种话能不笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 603,
+        "media_key": "3_1947459556860403712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwbEJh0aoAAnYmF.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947459562258501991",
+        "created_at": "2025-07-22T03:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947501033498021938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1474577561477054464",
+              "start": 0,
+              "username": "Noooshiroooshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947501033498021938",
+        "in_reply_to_user_id": "1474577561477054464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947459562258501991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noooshiroooshi 我什么时候看到这种话能不笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947459556860403712"
+          ]
+        },
+        "author_id": "1474577561477054464",
+        "conversation_id": "1947459562258501991",
+        "created_at": "2025-07-22T00:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T01:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947459562258501991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IK3zGr8pab",
+              "end": 84,
+              "expanded_url": "https://x.com/Noooshiroooshi/status/1947459562258501991/photo/1",
+              "media_key": "3_1947459556860403712",
+              "start": 61,
+              "url": "https://t.co/IK3zGr8pab"
+            },
+            {
+              "display_url": "x.com/yahoonewstopic…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/yahoonewstopics/status/1947071521765380215",
+              "start": 85,
+              "url": "https://t.co/ojWf9Sbp8m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947459562258501991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6786,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947071521765380215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "*原田將大曾經對中國人談過。他們說很對不起、中國人去奈良踢了鹿。原田將大說：不！沒有你們老中踢鹿、我就當選不了奈良市議員 https://t.co/IK3zGr8pab https://t.co/ojWf9Sbp8m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 286,
+          "like_count": 1594,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 2412
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-25T03:08:01.000Z",
+        "description": "命捧げて出て来た身故、死ぬる覚悟で吶喊すれど//ἄνθροωποςἀμαθὴςὁυτοσὶκαὶβάρβαρος//un poco español //Ars longa vita brevis//ヒトリエ",
+        "id": "1474577561477054464",
+        "location": "聯合艦隊  リンガ泊地",
+        "name": "令和「焼け跡」提督",
+        "pinned_tweet_id": "1941442889764176136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933228519292821504/56sE5Qax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 671,
+          "like_count": 244129,
+          "listed_count": 3,
+          "media_count": 3219,
+          "tweet_count": 30483
+        },
+        "username": "Noooshiroooshi",
+        "verified": false
+      }
+    ]
+  }
+}

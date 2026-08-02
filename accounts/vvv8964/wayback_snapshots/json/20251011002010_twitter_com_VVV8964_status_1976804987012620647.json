@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Atlanta",
+          "id": "908360693363105792",
+          "name": "Atlanta"
+        }
+      }
+    ],
+    "conversation_id": "1976804987012620647",
+    "created_at": "2025-10-11T00:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T01:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976804987012620647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1469052215058997252",
+          "start": 3,
+          "username": "PookiesParadise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976804987012620647",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7082
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976428775828226261",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PookiesParadise: he just out there to let people know"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Atlanta",
+              "id": "908360693363105792",
+              "name": "Atlanta"
+            }
+          }
+        ],
+        "conversation_id": "1976804987012620647",
+        "created_at": "2025-10-11T00:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T01:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976804987012620647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1469052215058997252",
+              "start": 3,
+              "username": "PookiesParadise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976804987012620647",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7082
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976428775828226261",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PookiesParadise: he just out there to let people know"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469052215058997252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Atlanta",
+              "id": "908360693363105792",
+              "name": "Atlanta"
+            }
+          }
+        ],
+        "conversation_id": "1976428775828226261",
+        "created_at": "2025-10-09T23:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T00:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976428775828226261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reddcinema/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/reddcinema/status/1976421996268540192",
+              "start": 37,
+              "url": "https://t.co/gLDdFpJMIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976428775828226261",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2487,
+          "impression_count": 2616686,
+          "like_count": 79001,
+          "quote_count": 60,
+          "reply_count": 136,
+          "retweet_count": 7082
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976421996268540192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "he just out there to let people know https://t.co/gLDdFpJMIE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 335,
+          "like_count": 3460,
+          "listed_count": 6,
+          "media_count": 314,
+          "tweet_count": 4647
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-09T21:12:04.000Z",
+        "description": "just a mf tweetin/replying ✯ dm notis for follow back ✯ @flvckojamie ✯ @rainbetcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "flvckojamie"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "rainbetcom"
+              }
+            ]
+          }
+        },
+        "id": "1469052215058997252",
+        "location": "🏷️",
+        "name": "Pookie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956409234574151680/6aztPS5F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197565,
+          "following_count": 2160,
+          "like_count": 52649,
+          "listed_count": 465,
+          "media_count": 4249,
+          "tweet_count": 23550
+        },
+        "username": "PookiesParadise",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1979692434918609332",
+    "created_at": "2025-10-20T04:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T05:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980128753553719699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1980074692074409984",
+          "start": 0,
+          "username": "Jello_Shroom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980128753553719699",
+    "in_reply_to_user_id": "1980074692074409984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980101741581341045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jello_Shroom 利他林是速释的派甲酯，concerta是缓释的派甲酯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1979692434918609332",
+        "created_at": "2025-10-20T04:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T05:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980128753553719699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1980074692074409984",
+              "start": 0,
+              "username": "Jello_Shroom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980128753553719699",
+        "in_reply_to_user_id": "1980074692074409984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980101741581341045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jello_Shroom 利他林是速释的派甲酯，concerta是缓释的派甲酯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980074692074409984",
+        "conversation_id": "1979692434918609332",
+        "created_at": "2025-10-20T02:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T03:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980101741581341045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980101741581341045",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980098378307699028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 利他林是concerta吗？我只用过concerta和Vyvanse，concerta让原本不咋严重的我开始多动了。。。相比起来我吃vyvanse会觉得好平静（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 342,
+          "like_count": 3622,
+          "listed_count": 7,
+          "media_count": 345,
+          "tweet_count": 4835
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T00:53:00.000Z",
+        "description": "菇。本职工作是做精神病相关的科研，日常生活里是精神病患者。",
+        "id": "1980074692074409984",
+        "location": "Canada",
+        "name": "水母菇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980075062683131905/GLTGpmBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "Jello_Shroom",
+        "verified": false
+      }
+    ]
+  }
+}

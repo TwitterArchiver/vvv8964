@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1953450063239225442",
+    "created_at": "2025-08-07T13:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T14:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953451025056362983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4258489634",
+          "start": 0,
+          "username": "Nico1_Fn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953451025056362983",
+    "in_reply_to_user_id": "4258489634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953450063239225442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nico1_Fn 大麻算是很省钱的了，在合法国家没见过抽大麻把家抽垮的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1953450063239225442",
+        "created_at": "2025-08-07T13:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T14:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953451025056362983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4258489634",
+              "start": 0,
+              "username": "Nico1_Fn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953451025056362983",
+        "in_reply_to_user_id": "4258489634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953450063239225442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nico1_Fn 大麻算是很省钱的了，在合法国家没见过抽大麻把家抽垮的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4258489634",
+        "conversation_id": "1953450063239225442",
+        "created_at": "2025-08-07T13:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T14:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953450063239225442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953450063239225442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内槟榔成瘾者这么夸张吗，看了户晨风的连麦，一个吃槟榔能花两千多块钱，我这天天抽大麻一个月都花不了两千"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 308,
+          "like_count": 2015,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 2820
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-16T16:38:11.000Z",
+        "description": "温和安那其主义者\n食髓知味*（判定成功）",
+        "id": "4258489634",
+        "location": "Chuo-ku, Tokyo",
+        "name": "FN 酚鍩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517345190217805824/M1XW1zYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 377,
+          "like_count": 4878,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 2189
+        },
+        "username": "Nico1_Fn",
+        "verified": false
+      }
+    ]
+  }
+}

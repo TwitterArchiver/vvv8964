@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1974386348183466352",
+    "created_at": "2025-10-04T08:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T09:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974386348183466352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "921054834199064576",
+          "start": 3,
+          "username": "laintastic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974386348183466352",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 665
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974204821218402696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @laintastic: Ruining your face card for a meme with less than a year of uptime left is actually bonkers"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1974386348183466352",
+        "created_at": "2025-10-04T08:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T09:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974386348183466352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "921054834199064576",
+              "start": 3,
+              "username": "laintastic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974386348183466352",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 665
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974204821218402696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @laintastic: Ruining your face card for a meme with less than a year of uptime left is actually bonkers"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "921054834199064576",
+        "conversation_id": "1974204821218402696",
+        "created_at": "2025-10-03T20:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T21:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974204821218402696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/entplus_/statu…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/entplus_/status/1973855089384439852",
+              "start": 91,
+              "url": "https://t.co/hknilSFLhM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974204821218402696",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 899,
+          "impression_count": 1016518,
+          "like_count": 26492,
+          "quote_count": 89,
+          "reply_count": 132,
+          "retweet_count": 665
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973855089384439852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ruining your face card for a meme with less than a year of uptime left is actually bonkers https://t.co/hknilSFLhM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357,
+          "following_count": 336,
+          "like_count": 3327,
+          "listed_count": 6,
+          "media_count": 298,
+          "tweet_count": 4530
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-19T16:45:59.000Z",
+        "description": "🎃 thing that likes Risk of Rain 2, Pokemon, comics, horror, Power Rangers, fgs, cats, and alcohol too much 🎃 wife: @WhisperofAlice 🎃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 115,
+                "username": "WhisperofAlice"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/its_blakke/sta…",
+                "end": 23,
+                "expanded_url": "https://x.com/its_blakke/status/1960711751613206674?t=TX3zNJq2ZfcdAJUNAl_owg&s=19",
+                "start": 0,
+                "url": "https://t.co/fLIERuQvoo"
+              }
+            ]
+          }
+        },
+        "id": "921054834199064576",
+        "location": "twin: KratosClaire",
+        "name": "lainey takes manhattan🐈‍⬛🎃",
+        "pinned_tweet_id": "1791871955815051537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974151587930017792/p4aJkuvA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 3139,
+          "like_count": 694471,
+          "listed_count": 52,
+          "media_count": 39271,
+          "tweet_count": 353227
+        },
+        "url": "https://t.co/fLIERuQvoo",
+        "username": "laintastic",
+        "verified": false
+      }
+    ]
+  }
+}

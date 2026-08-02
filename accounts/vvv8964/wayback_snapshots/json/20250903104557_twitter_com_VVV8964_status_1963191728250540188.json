@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1963190889138061583",
+    "created_at": "2025-09-03T10:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T11:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963191728250540188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1279702935102865409",
+          "start": 0,
+          "username": "Yoselindead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963191728250540188",
+    "in_reply_to_user_id": "1279702935102865409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963190889138061583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoselindead 我在学校就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1963190889138061583",
+        "created_at": "2025-09-03T10:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T11:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963191728250540188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1279702935102865409",
+              "start": 0,
+              "username": "Yoselindead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963191728250540188",
+        "in_reply_to_user_id": "1279702935102865409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963190889138061583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoselindead 我在学校就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279702935102865409",
+        "conversation_id": "1963190889138061583",
+        "created_at": "2025-09-03T10:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T11:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963190889138061583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963190889138061583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没吃普瑞为啥会突然有一种普瑞药效上来了的感觉😨😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 328,
+          "like_count": 2790,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 3736
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T09:05:40.000Z",
+        "description": "ISFP, 168/50kg, 07, LGBTQ+友好but sorry I’m一爱顺直女, 重抑重焦, 双向存疑, Brat(BDSM), 中文/ENG OK, 买美瞳外烟电子烟请找我,不贩卖任何药物, ｜👩🏻‍❤️‍👩🏻@coiloffaraday",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 113,
+                "username": "coiloffaraday"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mylifeallfucke…",
+                "end": 23,
+                "expanded_url": "https://t.me/mylifeallfuckedup",
+                "start": 0,
+                "url": "https://t.co/PAY0hcecwZ"
+              }
+            ]
+          }
+        },
+        "id": "1279702935102865409",
+        "location": "🚪288/588，线下过门后详问",
+        "name": "Yoselin🪬💊🩸",
+        "pinned_tweet_id": "1946090177505689972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947177584891936768/JyIXTLSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 347,
+          "like_count": 12444,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 2703
+        },
+        "url": "https://t.co/PAY0hcecwZ",
+        "username": "Yoselindead",
+        "verified": false
+      }
+    ]
+  }
+}

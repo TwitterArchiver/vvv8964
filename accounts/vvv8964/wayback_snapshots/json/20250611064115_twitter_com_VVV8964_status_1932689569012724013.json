@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1932016068656082965",
+    "created_at": "2025-06-11T06:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T07:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932689569012724013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1685784710285266944",
+          "start": 0,
+          "username": "mhtqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932689569012724013",
+    "in_reply_to_user_id": "1685784710285266944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932016068656082965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mhtqwq 我老师也给我看过这张图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 873,
+        "media_key": "3_1930436724678868992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GspJ-SPaQAAtINF.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1932016068656082965",
+        "created_at": "2025-06-11T06:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T07:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932689569012724013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1685784710285266944",
+              "start": 0,
+              "username": "mhtqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932689569012724013",
+        "in_reply_to_user_id": "1685784710285266944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932016068656082965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhtqwq 我老师也给我看过这张图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930436724678868992"
+          ]
+        },
+        "author_id": "1685784710285266944",
+        "conversation_id": "1932016068656082965",
+        "created_at": "2025-06-09T10:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T11:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932016068656082965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OESUJJHJ45",
+              "end": 64,
+              "expanded_url": "https://x.com/mhtqwq/status/1932016068656082965/photo/1",
+              "media_key": "3_1930436724678868992",
+              "start": 41,
+              "url": "https://t.co/OESUJJHJ45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932016068656082965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 191493,
+          "like_count": 1470,
+          "quote_count": 10,
+          "reply_count": 87,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "历史试卷太阴了\n我的视网膜不是避孕套，不能在我看图的时候强奸我，哪怕是试卷也不能 https://t.co/OESUJJHJ45"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 245,
+          "like_count": 820,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 1777
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "mtf，infp｜友善对待所有人｜什么都会点什么都做不好的咸鱼｜处理破事｜不建政｜Minecraft｜玩格雷的m｜p社战犯｜杂鱼😈@Alxiaz_ @Black_Millet @Andy1782010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 65,
+                "username": "Alxiaz_"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "Black_Millet"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "Andy1782010"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp4dkM"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合",
+        "name": "🍓草莓棉花糖🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 368,
+          "like_count": 6377,
+          "listed_count": 4,
+          "media_count": 614,
+          "tweet_count": 4663
+        },
+        "url": "https://t.co/cLjIhp4dkM",
+        "username": "mhtqwq",
+        "verified": true
+      }
+    ]
+  }
+}

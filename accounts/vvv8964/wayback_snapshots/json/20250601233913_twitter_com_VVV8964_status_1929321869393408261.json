@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1929321869393408261",
+    "created_at": "2025-06-01T23:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T00:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929321869393408261"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/epichippy/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/epichippy/status/1929074574961877165",
+          "start": 9,
+          "url": "https://t.co/fDK8leBYSP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929321869393408261",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929074574961877165",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "so sigma https://t.co/fDK8leBYSP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12353,
+        "height": 1036,
+        "media_key": "13_1929074519446085632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1929074519446085632/img/vqUXYtVCD5xFvLWj.jpg",
+        "public_metrics": {
+          "view_count": 47886
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929074519446085632/vid/avc1/320x690/BbtDXqIxVJOU5Wdm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929074519446085632/vid/avc1/480x1036/yWusx91HGNSY54nh.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1929074519446085632/pl/qtzBO86WuIaVVMUP.m3u8?tag=14&v=42b"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1929321869393408261",
+        "created_at": "2025-06-01T23:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T00:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929321869393408261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/epichippy/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/epichippy/status/1929074574961877165",
+              "start": 9,
+              "url": "https://t.co/fDK8leBYSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929321869393408261",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929074574961877165",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "so sigma https://t.co/fDK8leBYSP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1929074519446085632"
+          ]
+        },
+        "author_id": "1664897292455890950",
+        "conversation_id": "1929074574961877165",
+        "created_at": "2025-06-01T07:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T08:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929074574961877165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P20f8y7Cid",
+              "end": 23,
+              "expanded_url": "https://x.com/epichippy/status/1929074574961877165/video/1",
+              "media_key": "13_1929074519446085632",
+              "start": 0,
+              "url": "https://t.co/P20f8y7Cid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929074574961877165",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1060,
+          "impression_count": 98926,
+          "like_count": 6401,
+          "quote_count": 25,
+          "reply_count": 84,
+          "retweet_count": 934
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/P20f8y7Cid"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 240,
+          "like_count": 712,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1635
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T07:30:35.000Z",
+        "description": "",
+        "id": "1664897292455890950",
+        "name": "chippy",
+        "pinned_tweet_id": "1928888165613400221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786483507750916096/PtKrFW8P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7350,
+          "following_count": 99,
+          "like_count": 3913,
+          "listed_count": 8,
+          "media_count": 252,
+          "tweet_count": 754
+        },
+        "username": "epichippy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903248435081515008"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1903248438772552016",
+    "created_at": "2025-03-22T00:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T01:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903248438772552016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CEAphsnzMu",
+          "end": 57,
+          "expanded_url": "https://x.com/VVV8964/status/1903248438772552016/photo/1",
+          "media_key": "3_1903248435081515008",
+          "start": 34,
+          "url": "https://t.co/CEAphsnzMu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903248438772552016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买的牛排没货了，沃尔玛给我换成价值三十刀的，只收了我八刀。\n爽吃了 https://t.co/CEAphsnzMu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1903248435081515008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmmyXixaEAAEBlY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903248435081515008"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1903248438772552016",
+        "created_at": "2025-03-22T00:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T01:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903248438772552016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CEAphsnzMu",
+              "end": 57,
+              "expanded_url": "https://x.com/VVV8964/status/1903248438772552016/photo/1",
+              "media_key": "3_1903248435081515008",
+              "start": 34,
+              "url": "https://t.co/CEAphsnzMu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903248438772552016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买的牛排没货了，沃尔玛给我换成价值三十刀的，只收了我八刀。\n爽吃了 https://t.co/CEAphsnzMu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  什么都发 不止药物 || 正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 161,
+          "like_count": 323,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 969
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

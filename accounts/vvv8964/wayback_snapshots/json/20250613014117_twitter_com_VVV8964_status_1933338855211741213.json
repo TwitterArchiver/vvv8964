@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1933338855211741213",
+    "created_at": "2025-06-13T01:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T02:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933338855211741213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "VVV’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1eaJb…",
+          "end": 28,
+          "expanded_url": "https://x.com/i/spaces/1eaJbWOgnQVxX",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1933338857048850432/tz5WnoQV?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1933338857048850432/tz5WnoQV?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 5,
+          "status": 200,
+          "title": "Happening now: test",
+          "unwound_url": "https://twitter.com/i/spaces/1eaJbWOgnQVxX/peek",
+          "url": "https://t.co/omzx0wfKH0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933338855211741213",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "test https://t.co/omzx0wfKH0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1933338855211741213",
+        "created_at": "2025-06-13T01:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T02:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933338855211741213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "VVV’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1eaJb…",
+              "end": 28,
+              "expanded_url": "https://x.com/i/spaces/1eaJbWOgnQVxX",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1933338857048850432/tz5WnoQV?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1933338857048850432/tz5WnoQV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 5,
+              "status": 200,
+              "title": "Happening now: test",
+              "unwound_url": "https://twitter.com/i/spaces/1eaJbWOgnQVxX/peek",
+              "url": "https://t.co/omzx0wfKH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933338855211741213",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "test https://t.co/omzx0wfKH0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 243,
+          "like_count": 831,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 1788
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

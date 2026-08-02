@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1959638767108808983",
+    "created_at": "2025-08-26T09:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T10:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960266346911936580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1058172250761785345",
+          "start": 0,
+          "username": "Ety2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960266346911936580",
+    "in_reply_to_user_id": "1058172250761785345",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960257916386123913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ety2025 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1959638767108808983",
+        "created_at": "2025-08-26T09:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T10:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960266346911936580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1058172250761785345",
+              "start": 0,
+              "username": "Ety2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960266346911936580",
+        "in_reply_to_user_id": "1058172250761785345",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960257916386123913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ety2025 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058172250761785345",
+        "conversation_id": "1959638767108808983",
+        "created_at": "2025-08-26T08:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960257916386123913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960257916386123913",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959638767108808983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 是不是很多本该父母承担的责任和情绪总是扔包袱一般推到了你的头上，而潜意识反应及时，让你在还没搞清楚时就躯体不适了。很多事情你本来就不必担责，也本应有后盾让你放心地踏出下一步，而不是飘在空中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 331,
+          "like_count": 2639,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 3510
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-02T01:41:39.000Z",
+        "description": "香喷喷的初夏空气时间开始了！",
+        "id": "1058172250761785345",
+        "name": "添加你的姓名",
+        "pinned_tweet_id": "1876836444913766539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872846813381967878/CBzwGqfc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 77,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 837
+        },
+        "username": "Ety2025",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929066234462547968"
+      ],
+      "media_source_tweet_id": [
+        "1929066237851537880"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1929318822311305405",
+    "created_at": "2025-06-01T23:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T00:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929318822311305405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1704213650964201472",
+          "start": 3,
+          "username": "NiggaDuhPharaoh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pszwaGQXM4",
+          "end": 44,
+          "expanded_url": "https://x.com/NiggaDuhPharaoh/status/1929066237851537880/photo/1",
+          "media_key": "3_1929066234462547968",
+          "start": 21,
+          "url": "https://t.co/pszwaGQXM4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929318822311305405",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3804
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929066237851537880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NiggaDuhPharaoh: https://t.co/pszwaGQXM4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1929066234462547968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsVrhQVXMAAJ1a1.jpg",
+        "width": 414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929066234462547968"
+          ],
+          "media_source_tweet_id": [
+            "1929066237851537880"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1929318822311305405",
+        "created_at": "2025-06-01T23:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T00:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929318822311305405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1704213650964201472",
+              "start": 3,
+              "username": "NiggaDuhPharaoh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pszwaGQXM4",
+              "end": 44,
+              "expanded_url": "https://x.com/NiggaDuhPharaoh/status/1929066237851537880/photo/1",
+              "media_key": "3_1929066234462547968",
+              "start": 21,
+              "url": "https://t.co/pszwaGQXM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929318822311305405",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3804
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929066237851537880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NiggaDuhPharaoh: https://t.co/pszwaGQXM4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929066234462547968"
+          ]
+        },
+        "author_id": "1704213650964201472",
+        "conversation_id": "1929066237851537880",
+        "created_at": "2025-06-01T06:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T07:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929066237851537880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pszwaGQXM4",
+              "end": 23,
+              "expanded_url": "https://x.com/NiggaDuhPharaoh/status/1929066237851537880/photo/1",
+              "media_key": "3_1929066234462547968",
+              "start": 0,
+              "url": "https://t.co/pszwaGQXM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929066237851537880",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 909,
+          "impression_count": 182510,
+          "like_count": 25750,
+          "quote_count": 19,
+          "reply_count": 23,
+          "retweet_count": 3804
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pszwaGQXM4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 240,
+          "like_count": 712,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1634
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T19:19:44.000Z",
+        "description": "Fuck on a blue haired bitch Hatsune Miku!!!!! Forknife code: *snowbunny* - @VmpNiggaPharaoh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "VmpNiggaPharaoh"
+              }
+            ]
+          }
+        },
+        "id": "1704213650964201472",
+        "location": "Snowbunny Palice",
+        "name": "Yung Nigga Usopp",
+        "pinned_tweet_id": "1753841676290871616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871310024049328128/M1e4sGho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11079,
+          "following_count": 493,
+          "like_count": 21352,
+          "listed_count": 5,
+          "media_count": 2121,
+          "tweet_count": 4401
+        },
+        "username": "NiggaDuhPharaoh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1916059237522002370",
+    "created_at": "2025-04-26T09:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T10:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916059237522002370"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AnkoPilled/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/AnkoPilled/status/1915519809321681008",
+          "start": 3,
+          "url": "https://t.co/hZAKGgrhfi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916059237522002370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915519809321681008",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这我 https://t.co/hZAKGgrhfi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1916059237522002370",
+        "created_at": "2025-04-26T09:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T10:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916059237522002370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AnkoPilled/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/AnkoPilled/status/1915519809321681008",
+              "start": 3,
+              "url": "https://t.co/hZAKGgrhfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916059237522002370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915519809321681008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这我 https://t.co/hZAKGgrhfi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1220713399493021696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "1915519809321681008",
+        "created_at": "2025-04-24T21:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T22:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915519809321681008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inuivhs/status…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/inuivhs/status/1914461113057788045",
+              "start": 34,
+              "url": "https://t.co/OMAGgvYldg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915519809321681008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3074,
+          "impression_count": 1365018,
+          "like_count": 57676,
+          "quote_count": 292,
+          "reply_count": 498,
+          "retweet_count": 5725
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914461113057788045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I want an older woman to abuse me https://t.co/OMAGgvYldg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 179,
+          "like_count": 387,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 1107
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-24T14:22:14.000Z",
+        "description": "I like things and i hate things.\nAnko’s loving wife",
+        "id": "1220713399493021696",
+        "location": "She/Her",
+        "name": "˖ ֹ੭୧ Kyouko ⊹ ࣪ ⑅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914737683059949568/Dswrk9-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 226,
+          "like_count": 2669,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 669
+        },
+        "username": "AnkoPilled",
+        "verified": false
+      }
+    ]
+  }
+}

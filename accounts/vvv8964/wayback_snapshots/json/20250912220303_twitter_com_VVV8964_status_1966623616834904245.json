@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966623614272499712"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1966623616834904245",
+    "created_at": "2025-09-12T22:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T23:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966623616834904245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gH4Qwa3UxQ",
+          "end": 40,
+          "expanded_url": "https://x.com/VVV8964/status/1966623616834904245/photo/1",
+          "media_key": "3_1966623614272499712",
+          "start": 17,
+          "url": "https://t.co/gH4Qwa3UxQ"
+        },
+        {
+          "display_url": "x.com/VVV8964/status…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/VVV8964/status/1966621699262103642",
+          "start": 41,
+          "url": "https://t.co/2ayCqzsRww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966623616834904245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966621699262103642",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没关系 至少我买到吸毒用的吸管了 https://t.co/gH4Qwa3UxQ https://t.co/2ayCqzsRww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966623614272499712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0rZwe-bcAASCpv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966623614272499712"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1966623616834904245",
+        "created_at": "2025-09-12T22:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T23:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966623616834904245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gH4Qwa3UxQ",
+              "end": 40,
+              "expanded_url": "https://x.com/VVV8964/status/1966623616834904245/photo/1",
+              "media_key": "3_1966623614272499712",
+              "start": 17,
+              "url": "https://t.co/gH4Qwa3UxQ"
+            },
+            {
+              "display_url": "x.com/VVV8964/status…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/VVV8964/status/1966621699262103642",
+              "start": 41,
+              "url": "https://t.co/2ayCqzsRww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966623616834904245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966621699262103642",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没关系 至少我买到吸毒用的吸管了 https://t.co/gH4Qwa3UxQ https://t.co/2ayCqzsRww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1966621699262103642",
+        "created_at": "2025-09-12T21:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T22:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966621699262103642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966621699262103642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼沃尔玛，送到我公寓楼下也不送进大堂，直接放在人来人往的门外，按下门禁让我开门有这么难吗，一秒猜出司机种族"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 331,
+          "like_count": 2977,
+          "listed_count": 4,
+          "media_count": 242,
+          "tweet_count": 4026
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

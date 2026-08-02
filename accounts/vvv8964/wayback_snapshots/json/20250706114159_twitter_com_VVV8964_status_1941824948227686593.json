@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1941277644961743057",
+    "created_at": "2025-07-06T11:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T12:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941824948227686593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1432351612182229001",
+          "start": 0,
+          "username": "Merlyn_Huang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941824948227686593",
+    "in_reply_to_user_id": "1432351612182229001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941277644961743057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Merlyn_Huang 已加入必吃榜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1941277644961743057",
+        "created_at": "2025-07-06T11:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T12:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941824948227686593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1432351612182229001",
+              "start": 0,
+              "username": "Merlyn_Huang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941824948227686593",
+        "in_reply_to_user_id": "1432351612182229001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941277644961743057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Merlyn_Huang 已加入必吃榜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1432351612182229001",
+        "conversation_id": "1941277644961743057",
+        "created_at": "2025-07-04T23:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T00:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941277644961743057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941277644961743057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1464,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "别骂我了，我只是一只粤猴。我一直在吃早茶，我一直在喝凉茶，我一直在吃炒牛河，我一直在吃白斩鸡，我一直在吃烧鹅，我一直在吃叉烧，我一直在喝艇仔粥，我一直在吃煲仔饭，我一直在吃手打牛肉丸，我一直在吃濑粉，我一直在吃粿条，我一直在吃双皮奶，我一直在吃萝卜牛杂，我一直在吃鱼皮饺。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 270,
+          "like_count": 1152,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 2116
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-30T14:37:00.000Z",
+        "description": "Queer/抽象与具体的辩证统一 /我的心和所有在痛苦中挣扎的生命同在^_^",
+        "id": "1432351612182229001",
+        "location": "世界人民共和联邦",
+        "name": "关于黄徵灏使用黑暗启蒙法典逆炼马主义圣经这档子事",
+        "pinned_tweet_id": "1914605125307654386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916802773263523840/Ybmdh4K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22959,
+          "following_count": 228,
+          "like_count": 8586,
+          "listed_count": 56,
+          "media_count": 96,
+          "tweet_count": 2911
+        },
+        "username": "Merlyn_Huang",
+        "verified": false
+      }
+    ]
+  }
+}

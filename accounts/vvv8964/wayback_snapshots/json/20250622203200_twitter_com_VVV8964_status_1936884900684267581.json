@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1936884900684267581",
+    "created_at": "2025-06-22T20:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T21:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936884900684267581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1936438972575608900",
+          "start": 37,
+          "url": "https://t.co/0rwxE3glE6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936884900684267581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936438972575608900",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "李颖越来越弱智了，连ai配音一半内容是集美跳舞的营销号都来了，有点好笑了 https://t.co/0rwxE3glE6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 117260,
+        "height": 1280,
+        "media_key": "13_1936437225266307073",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936437225266307073/img/KKrXmIi1R1BEyhvm.jpg",
+        "public_metrics": {
+          "view_count": 71683
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936437225266307073/vid/avc1/320x568/0F6rjFTTkKk0x_HG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936437225266307073/vid/avc1/480x852/Z-eAMXEKMRR-e7kl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936437225266307073/vid/avc1/720x1280/lJhJj9Wn_5UpTyip.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936437225266307073/pl/pGlRd_1qcZOQWXgX.m3u8?v=fd5"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1936884900684267581",
+        "created_at": "2025-06-22T20:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T21:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936884900684267581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1936438972575608900",
+              "start": 37,
+              "url": "https://t.co/0rwxE3glE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936884900684267581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936438972575608900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "李颖越来越弱智了，连ai配音一半内容是集美跳舞的营销号都来了，有点好笑了 https://t.co/0rwxE3glE6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936437225266307073"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1936237886409449744",
+        "created_at": "2025-06-21T15:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936438972575608900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s4GVSVeyRZ",
+              "end": 67,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1936438972575608900/video/1",
+              "media_key": "13_1936437225266307073",
+              "start": 44,
+              "url": "https://t.co/s4GVSVeyRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936438972575608900",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 476739,
+          "like_count": 555,
+          "quote_count": 4,
+          "reply_count": 34,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936237886409449744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有博主评论到，“忘了以前是干嘛”的流行说明了经济越萧条，娱乐业越发达的经济规律和现实。 https://t.co/s4GVSVeyRZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 243,
+          "like_count": 894,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 1852
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1933896398610526577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2019435,
+          "following_count": 972,
+          "like_count": 7093,
+          "listed_count": 8173,
+          "media_count": 30368,
+          "tweet_count": 36948
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

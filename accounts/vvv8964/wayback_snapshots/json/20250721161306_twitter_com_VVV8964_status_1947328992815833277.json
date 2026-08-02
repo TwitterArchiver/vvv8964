@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1947328992815833277",
+    "created_at": "2025-07-21T16:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T17:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947328992815833277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VVV8964/status…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/VVV8964/status/1947327383230677269",
+          "start": 34,
+          "url": "https://t.co/W1ZdeIuUg3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947328992815833277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 230,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947327383230677269",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "阅读理解：请问这段描述的是作者的什么经历？请私信作答，答对没有奖励 https://t.co/W1ZdeIuUg3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947328992815833277",
+        "created_at": "2025-07-21T16:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T17:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947328992815833277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VVV8964/status…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/VVV8964/status/1947327383230677269",
+              "start": 34,
+              "url": "https://t.co/W1ZdeIuUg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947328992815833277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947327383230677269",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阅读理解：请问这段描述的是作者的什么经历？请私信作答，答对没有奖励 https://t.co/W1ZdeIuUg3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947327383230677269",
+        "created_at": "2025-07-21T16:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T17:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947327383230677269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947327383230677269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 409,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在无数双眼睛的注视下，我跨过了一条无形的边界，完成了从1到0的退化，所有逻辑和思考都被压制废除。在战胜加速的心跳和涌上的恶心后，我安全抵达了高墙的另一端。我不想显得太令人尴尬，但是我当时确实有一种阴谋得逞和劫后余生的喜悦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 284,
+          "like_count": 1561,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2393
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

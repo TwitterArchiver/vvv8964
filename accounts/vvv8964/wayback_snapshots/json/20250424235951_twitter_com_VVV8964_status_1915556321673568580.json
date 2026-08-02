@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1914247730421223676",
+    "created_at": "2025-04-24T23:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T00:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915556321673568580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1555088104431620102",
+          "start": 0,
+          "username": "chenjiao882001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915556321673568580",
+    "in_reply_to_user_id": "1555088104431620102",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914956564232032513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenjiao882001 你是？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1914247730421223676",
+        "created_at": "2025-04-24T23:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T00:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915556321673568580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1555088104431620102",
+              "start": 0,
+              "username": "chenjiao882001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915556321673568580",
+        "in_reply_to_user_id": "1555088104431620102",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914956564232032513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenjiao882001 你是？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555088104431620102",
+        "conversation_id": "1914247730421223676",
+        "created_at": "2025-04-23T08:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T09:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914956564232032513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914956564232032513",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914247730421223676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 英语嘛没学几句，学嘛不好好上，天天搞这种东西就学会了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 178,
+          "like_count": 384,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 1096
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T07:08:12.000Z",
+        "description": "",
+        "id": "1555088104431620102",
+        "name": "陈姣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555088195112411143/eezez1UI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 19,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "chenjiao882001",
+        "verified": false
+      }
+    ]
+  }
+}

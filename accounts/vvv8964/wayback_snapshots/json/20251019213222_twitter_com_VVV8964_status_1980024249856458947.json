@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980022757376040960",
+        "3_1980022815219695616"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1980024249856458947",
+    "created_at": "2025-10-19T21:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T22:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980024249856458947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jo5FwVuHXA",
+          "end": 79,
+          "expanded_url": "https://x.com/VVV8964/status/1980024249856458947/photo/1",
+          "media_key": "3_1980022757376040960",
+          "start": 56,
+          "url": "https://t.co/Jo5FwVuHXA"
+        },
+        {
+          "display_url": "pic.x.com/Jo5FwVuHXA",
+          "end": 79,
+          "expanded_url": "https://x.com/VVV8964/status/1980024249856458947/photo/1",
+          "media_key": "3_1980022815219695616",
+          "start": 56,
+          "url": "https://t.co/Jo5FwVuHXA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980024249856458947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么美国沃尔玛可以随便买左旋甲基苯丙胺，这玩意不是冰毒的消旋体吗，这玩意还是OTC，真不怕多吸或者拿去制毒吗 https://t.co/Jo5FwVuHXA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1980022757376040960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3p0NQyWoAAB6DZ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1980022815219695616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3p0QoRWwAAqlha.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980022757376040960",
+            "3_1980022815219695616"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1980024249856458947",
+        "created_at": "2025-10-19T21:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T22:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980024249856458947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jo5FwVuHXA",
+              "end": 79,
+              "expanded_url": "https://x.com/VVV8964/status/1980024249856458947/photo/1",
+              "media_key": "3_1980022757376040960",
+              "start": 56,
+              "url": "https://t.co/Jo5FwVuHXA"
+            },
+            {
+              "display_url": "pic.x.com/Jo5FwVuHXA",
+              "end": 79,
+              "expanded_url": "https://x.com/VVV8964/status/1980024249856458947/photo/1",
+              "media_key": "3_1980022815219695616",
+              "start": 56,
+              "url": "https://t.co/Jo5FwVuHXA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980024249856458947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么美国沃尔玛可以随便买左旋甲基苯丙胺，这玩意不是冰毒的消旋体吗，这玩意还是OTC，真不怕多吸或者拿去制毒吗 https://t.co/Jo5FwVuHXA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 341,
+          "like_count": 3621,
+          "listed_count": 7,
+          "media_count": 345,
+          "tweet_count": 4827
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

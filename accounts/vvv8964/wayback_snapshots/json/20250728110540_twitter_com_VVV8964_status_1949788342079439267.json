@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1949748911352270948",
+    "created_at": "2025-07-28T11:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T12:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949788342079439267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1622592119700623361",
+          "start": 0,
+          "username": "Kusutobi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949788342079439267",
+    "in_reply_to_user_id": "1622592119700623361",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949748911352270948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kusutobi 👁️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949748904456818688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw7mTGNbEAAq1sv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1949748911352270948",
+        "created_at": "2025-07-28T11:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T12:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949788342079439267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1622592119700623361",
+              "start": 0,
+              "username": "Kusutobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949788342079439267",
+        "in_reply_to_user_id": "1622592119700623361",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949748911352270948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kusutobi 👁️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949748904456818688"
+          ]
+        },
+        "author_id": "1622592119700623361",
+        "conversation_id": "1949748911352270948",
+        "created_at": "2025-07-28T08:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T09:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949748911352270948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yRVgd2pmMR",
+              "end": 23,
+              "expanded_url": "https://x.com/Kusutobi/status/1949748911352270948/photo/1",
+              "media_key": "3_1949748904456818688",
+              "start": 0,
+              "url": "https://t.co/yRVgd2pmMR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949748911352270948",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yRVgd2pmMR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 298,
+          "like_count": 1787,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 2605
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T13:44:50.000Z",
+        "description": "楠鸢Kusutobi个人账号/只发发日常或者有关NY化学的内容/可咨询药物或者产品问题/NY化学@NY_Kusutobi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "NY_Kusutobi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusutobi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kusutobi",
+                "start": 0,
+                "url": "https://t.co/cZPJ1V5hvH"
+              }
+            ]
+          }
+        },
+        "id": "1622592119700623361",
+        "name": "楠鸢Kusutobi",
+        "pinned_tweet_id": "1941765111099818438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836678158843592704/68oNNMoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 104,
+          "like_count": 558,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 588
+        },
+        "url": "https://t.co/cZPJ1V5hvH",
+        "username": "Kusutobi",
+        "verified": false
+      }
+    ]
+  }
+}

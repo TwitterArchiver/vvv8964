@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939602785483300864"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1939602786980917310",
+    "created_at": "2025-06-30T08:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T09:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939602786980917310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/obBOnxSrhm",
+          "end": 32,
+          "expanded_url": "https://x.com/VVV8964/status/1939602786980917310/photo/1",
+          "media_key": "3_1939602785483300864",
+          "start": 9,
+          "url": "https://t.co/obBOnxSrhm"
+        },
+        {
+          "display_url": "x.com/love_generalu/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/love_generalu/status/1939238773155602887",
+          "start": 33,
+          "url": "https://t.co/nVMGnnx5QU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939602786980917310",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939238773155602887",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "I need u https://t.co/obBOnxSrhm https://t.co/nVMGnnx5QU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939602785483300864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuradPoXIAAZ_ng.jpg",
+        "width": 978
+      },
+      {
+        "height": 1091,
+        "media_key": "3_1939238770097676288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GumPYwpWYAAeaBb.jpg",
+        "width": 1142
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939602785483300864"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1939602786980917310",
+        "created_at": "2025-06-30T08:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T09:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939602786980917310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/obBOnxSrhm",
+              "end": 32,
+              "expanded_url": "https://x.com/VVV8964/status/1939602786980917310/photo/1",
+              "media_key": "3_1939602785483300864",
+              "start": 9,
+              "url": "https://t.co/obBOnxSrhm"
+            },
+            {
+              "display_url": "x.com/love_generalu/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/love_generalu/status/1939238773155602887",
+              "start": 33,
+              "url": "https://t.co/nVMGnnx5QU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939602786980917310",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939238773155602887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I need u https://t.co/obBOnxSrhm https://t.co/nVMGnnx5QU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939238770097676288"
+          ]
+        },
+        "author_id": "1588882513111396353",
+        "conversation_id": "1939238773155602887",
+        "created_at": "2025-06-29T08:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T09:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939238773155602887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/czfMXvOufs",
+              "end": 23,
+              "expanded_url": "https://x.com/love_generalu/status/1939238773155602887/photo/1",
+              "media_key": "3_1939238770097676288",
+              "start": 0,
+              "url": "https://t.co/czfMXvOufs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939238773155602887",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 14718,
+          "like_count": 263,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/czfMXvOufs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 263,
+          "like_count": 1037,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 2014
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T13:14:54.000Z",
+        "description": "社会牛马｜摸鱼达人｜喜欢Furry｜粥｜自由意志｜中文🆗English🆗｜🈚️雷｜转发会有🚫NSFK内容请注意⚠️｜吾爱之人   @Amyer29887768   🥰｜谢谢关注喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Amyer29887768"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/general65838",
+                "end": 23,
+                "expanded_url": "https://ngl.link/general65838",
+                "start": 0,
+                "url": "https://t.co/FoUKtMa6Iy"
+              }
+            ]
+          }
+        },
+        "id": "1588882513111396353",
+        "location": "苏州不知名县城",
+        "name": "将军还在摆烂",
+        "pinned_tweet_id": "1804730543881547927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922293908849020928/CwAp2JP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 1141,
+          "like_count": 9443,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 4749
+        },
+        "url": "https://t.co/FoUKtMa6Iy",
+        "username": "love_generalu",
+        "verified": false
+      }
+    ]
+  }
+}

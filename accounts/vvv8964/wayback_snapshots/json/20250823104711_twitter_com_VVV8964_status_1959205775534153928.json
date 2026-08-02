@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1959205775534153928",
+    "created_at": "2025-08-23T10:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T11:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959205775534153928"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959205775534153928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又是抑郁症犯了的一天，早上十点起床躺尸到下午五点，起床去四五年前常去的餐厅吃饭，那时候我每天中午起床爹妈都出门了我就自己去那里吃饭。给自己戴项链的时候把手割伤了，流了一点血还有点痛。路上极小概率偶遇了我妈的朋友，很尴尬的嘘寒问暖了一下我就匆忙逃窜了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1959205775534153928",
+        "created_at": "2025-08-23T10:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T11:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959205775534153928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959205775534153928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又是抑郁症犯了的一天，早上十点起床躺尸到下午五点，起床去四五年前常去的餐厅吃饭，那时候我每天中午起床爹妈都出门了我就自己去那里吃饭。给自己戴项链的时候把手割伤了，流了一点血还有点痛。路上极小概率偶遇了我妈的朋友，很尴尬的嘘寒问暖了一下我就匆忙逃窜了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 327,
+          "like_count": 2527,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 3398
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

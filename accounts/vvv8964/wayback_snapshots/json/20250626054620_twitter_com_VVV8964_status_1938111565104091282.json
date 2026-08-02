@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1937751670815089052",
+    "created_at": "2025-06-26T05:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T06:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938111565104091282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1722647062875910144",
+          "start": 0,
+          "username": "ABurrell24870"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938111565104091282",
+    "in_reply_to_user_id": "1722647062875910144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938083636353634360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABurrell24870 你好 我是王"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1937751670815089052",
+        "created_at": "2025-06-26T05:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T06:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938111565104091282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1722647062875910144",
+              "start": 0,
+              "username": "ABurrell24870"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938111565104091282",
+        "in_reply_to_user_id": "1722647062875910144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938083636353634360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABurrell24870 你好 我是王"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722647062875910144",
+        "conversation_id": "1937751670815089052",
+        "created_at": "2025-06-26T03:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T04:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938083636353634360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938083636353634360",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937751670815089052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 晶哥上大号说话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 253,
+          "like_count": 940,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1918
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-09T16:07:29.000Z",
+        "description": "被上班耽误的小男娘/小号 @a3193155173 两个号同步发以防其中一个被爆/有门槛推门就进，求求你给我两毛钱吧/孩子穷尿血了（搞法律的谁不穷啊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "a3193155173"
+              }
+            ]
+          }
+        },
+        "id": "1722647062875910144",
+        "name": "为什么没人看我的普法专栏",
+        "pinned_tweet_id": "1927756070669238505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746160927190450176/TCIg49qm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 127,
+          "like_count": 680,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 591
+        },
+        "username": "ABurrell24870",
+        "verified": false
+      }
+    ]
+  }
+}

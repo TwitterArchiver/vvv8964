@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1863018981164273890",
+    "created_at": "2024-12-02T02:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T03:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863417031200284904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1726969617850286080",
+          "start": 0,
+          "username": "NashiMoe233"
+        },
+        {
+          "end": 26,
+          "id": "910907614732574720",
+          "start": 13,
+          "username": "Keer28865422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863417031200284904",
+    "in_reply_to_user_id": "1726969617850286080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863170626489667975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NashiMoe233 @Keer28865422 什么东西，b12吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1863170626489667975].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1863170626489667975",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1863170626489667975"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1863018981164273890",
+        "created_at": "2024-12-02T02:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T03:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863417031200284904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1726969617850286080",
+              "start": 0,
+              "username": "NashiMoe233"
+            },
+            {
+              "end": 26,
+              "id": "910907614732574720",
+              "start": 13,
+              "username": "Keer28865422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863417031200284904",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863170626489667975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NashiMoe233 @Keer28865422 什么东西，b12吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  推特有时候莫名其妙收不到消息我会尽量回复回关  ||  不OD 正常用药  ||  正在解锁致幻剂  ||  大脑损伤逆转中",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1861216042522931472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 110,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 404
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子or眼泪贩卖机/enby/INTP-T/od&shwtw⚠️/精神药物滥用相关拒绝回复/精神支柱@_mucha_000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "_mucha_000"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "location": "我很失衡",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1849183754537029882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835386712559849472/C-YsSqJW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 197,
+          "like_count": 15025,
+          "listed_count": 1,
+          "media_count": 437,
+          "tweet_count": 7417
+        },
+        "username": "NashiMoe233",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-21T16:44:33.000Z",
+        "description": "同/直/双/跨 友好，烹饪 调酒 摄影 历史 抽象\ncosplay-photograper,model,love everything beautiful•\n业余二刺螈摄影  非盈利 偶尔自拍 云A互勉约拍请私信  \n\nbisexual",
+        "id": "910907614732574720",
+        "location": "四川省甘孜州理塘县",
+        "name": "你好我是丁真（求互fo喵）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545370334659952640/OmoEfGeA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 126,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 377
+        },
+        "username": "Keer28865422",
+        "verified": false
+      }
+    ]
+  }
+}

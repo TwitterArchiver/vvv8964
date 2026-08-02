@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1963366499466580131",
+    "created_at": "2025-09-03T22:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T23:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963366499466580131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VVV8964/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/VVV8964/status/1850978880288665617",
+          "start": 6,
+          "url": "https://t.co/mUJjkeYliW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963366499466580131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850978880288665617",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "传奇的开始 https://t.co/mUJjkeYliW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1963366499466580131",
+        "created_at": "2025-09-03T22:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T23:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963366499466580131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VVV8964/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/VVV8964/status/1850978880288665617",
+              "start": 6,
+              "url": "https://t.co/mUJjkeYliW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963366499466580131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850978880288665617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "传奇的开始 https://t.co/mUJjkeYliW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1850978880288665617",
+        "created_at": "2024-10-28T19:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T20:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850978880288665617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850978880288665617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 485,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草我1t普瑞好像闭眼幻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 330,
+          "like_count": 2809,
+          "listed_count": 4,
+          "media_count": 210,
+          "tweet_count": 3770
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

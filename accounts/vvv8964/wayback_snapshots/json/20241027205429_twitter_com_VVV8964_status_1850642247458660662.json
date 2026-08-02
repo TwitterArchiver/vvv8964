@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1850641522498392362",
+    "created_at": "2024-10-27T20:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T21:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850642247458660662"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1850642247458660662",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850641522498392362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "作业没写完，趁药效没上来先写作业去了，我是嗑致幻药写作业第一人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1850641522498392362",
+        "created_at": "2024-10-27T20:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T21:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850642247458660662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850642247458660662",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850641522498392362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "作业没写完，趁药效没上来先写作业去了，我是嗑致幻药写作业第一人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1850641522498392362",
+        "created_at": "2024-10-27T20:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T21:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850641522498392362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850641522498392362",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2cb 5mg 口服 低剂量\n液体滴管滴的不是很准确，但是我已经准备好开始爽了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 如果你给我点赞的话我会很开心\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 80,
+          "like_count": 83,
+          "listed_count": 0,
+          "tweet_count": 237
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

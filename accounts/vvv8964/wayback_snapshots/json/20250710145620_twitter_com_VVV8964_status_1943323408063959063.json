@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943232066008813894",
+    "created_at": "2025-07-10T14:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T15:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943323408063959063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279702935102865409",
+          "start": 0,
+          "username": "YoselinZhang"
+        },
+        {
+          "end": 24,
+          "id": "1597257668313260033",
+          "start": 14,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943323408063959063",
+    "in_reply_to_user_id": "1279702935102865409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943321669982130608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YoselinZhang @Minokakay 还是不行，只要你从中国大陆出发就不行。当然你可以从第三国出发，这样中国政府管不到你，只要台湾政府给你签证让你进来就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943232066008813894",
+        "created_at": "2025-07-10T14:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T15:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943323408063959063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279702935102865409",
+              "start": 0,
+              "username": "YoselinZhang"
+            },
+            {
+              "end": 24,
+              "id": "1597257668313260033",
+              "start": 14,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943323408063959063",
+        "in_reply_to_user_id": "1279702935102865409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943321669982130608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YoselinZhang @Minokakay 还是不行，只要你从中国大陆出发就不行。当然你可以从第三国出发，这样中国政府管不到你，只要台湾政府给你签证让你进来就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279702935102865409",
+        "conversation_id": "1943232066008813894",
+        "created_at": "2025-07-10T14:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T15:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943321669982130608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            },
+            {
+              "end": 19,
+              "id": "1597257668313260033",
+              "start": 9,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943321669982130608",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943320619711664207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 @Minokakay 那我有欧洲pr能来不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 274,
+          "like_count": 1302,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 2209
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T09:05:40.000Z",
+        "description": "07, ISFP, 26fall US, 泛性恋一/三爱顺女，LGBTQ+友好，Brat(BDSM), 中文&ENG   ❤️@coiloffaraday",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 63,
+                "username": "coiloffaraday"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mylifeallfucke…",
+                "end": 23,
+                "expanded_url": "https://t.me/mylifeallfuckedup",
+                "start": 0,
+                "url": "https://t.co/PAY0hcecwZ"
+              }
+            ]
+          }
+        },
+        "id": "1279702935102865409",
+        "location": "🚪88/128/158",
+        "name": "Yoselin🪬💊🩸",
+        "pinned_tweet_id": "1925173802385981764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858351609325162496/IJY_umTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 318,
+          "like_count": 11072,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1286
+        },
+        "url": "https://t.co/PAY0hcecwZ",
+        "username": "YoselinZhang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/癌症靶向藥找 @ChosekiNoraneko，我在做客服",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1940009083995873344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8112,
+          "following_count": 897,
+          "like_count": 44286,
+          "listed_count": 31,
+          "media_count": 1299,
+          "tweet_count": 19571
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

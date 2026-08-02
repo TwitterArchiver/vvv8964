@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1861334947862323398",
+    "created_at": "2024-11-27T07:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T08:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861679712407560615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1718907043166474240",
+          "start": 0,
+          "username": "hungerforzhouzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861679712407560615",
+    "in_reply_to_user_id": "1718907043166474240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861334947862323398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hungerforzhouzi “教徒们接受了一场用水执行的hrt，吃的是写在纸上的色普龙。” 我不觉得宗教是坏事，但是你的这段话真的很有意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1861334947862323398",
+        "created_at": "2024-11-27T07:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T08:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861679712407560615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1718907043166474240",
+              "start": 0,
+              "username": "hungerforzhouzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861679712407560615",
+        "in_reply_to_user_id": "1718907043166474240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861334947862323398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hungerforzhouzi “教徒们接受了一场用水执行的hrt，吃的是写在纸上的色普龙。” 我不觉得宗教是坏事，但是你的这段话真的很有意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718907043166474240",
+        "conversation_id": "1861334947862323398",
+        "created_at": "2024-11-26T09:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T10:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861334947862323398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/philipinspain/…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/philipinspain/status/1860617384098251176",
+              "start": 146,
+              "url": "https://t.co/GQBpBfpglb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861334947862323398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4706,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860617384098251176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，宗教自由。\n  教徒自己永远也不可能意识不到一点:宗教对一个人（尤其是未成年人）的身心影响远远比教徒们视为洪水猛兽的变性，堕胎或者同性恋之类的东西要深刻得多。\n  说白了，教徒们接受了一场用水执行的hrt，吃的是写在纸上的色普龙。\n  在非教徒人群眼里的观感和他们对某群体的观感是一样的 https://t.co/GQBpBfpglb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  \n推特有时候莫名其妙收不到消息我会尽量回复回关  \n不OD 正常用药  正在解锁致幻剂  \n大脑损伤逆转中   \n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1861216042522931472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 106,
+          "like_count": 117,
+          "listed_count": 0,
+          "tweet_count": 374
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T08:26:01.000Z",
+        "description": "吱吱～🐭",
+        "id": "1718907043166474240",
+        "location": "下水道",
+        "name": "下水道鼠鼠早饭要嗯造肘子派🐭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848607192527867905/kmz7ILbd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 285,
+          "like_count": 16100,
+          "listed_count": 2,
+          "tweet_count": 6146
+        },
+        "username": "hungerforzhouzi",
+        "verified": false
+      }
+    ]
+  }
+}

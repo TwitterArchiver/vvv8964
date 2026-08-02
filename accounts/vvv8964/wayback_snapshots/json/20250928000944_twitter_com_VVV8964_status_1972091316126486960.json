@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1972091309579190272"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1971734031013499262",
+    "created_at": "2025-09-28T00:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T01:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972091316126486960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M5Ak5YkU0Q",
+          "end": 31,
+          "expanded_url": "https://x.com/VVV8964/status/1972091316126486960/photo/1",
+          "media_key": "16_1972091309579190272",
+          "start": 8,
+          "url": "https://t.co/M5Ak5YkU0Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972091316126486960",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971734031013499262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop https://t.co/M5Ak5YkU0Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 470,
+        "media_key": "16_1972091309579190272",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G15GmPQaQAAl-UR.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G15GmPQaQAAl-UR.mp4"
+          }
+        ],
+        "width": 500
+      },
+      {
+        "height": 1706,
+        "media_key": "3_1971734019521105920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G10BpOEb0AAWvUj.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1972091309579190272"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1971734031013499262",
+        "created_at": "2025-09-28T00:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T01:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972091316126486960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M5Ak5YkU0Q",
+              "end": 31,
+              "expanded_url": "https://x.com/VVV8964/status/1972091316126486960/photo/1",
+              "media_key": "16_1972091309579190272",
+              "start": 8,
+              "url": "https://t.co/M5Ak5YkU0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972091316126486960",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971734031013499262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop https://t.co/M5Ak5YkU0Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971734019521105920"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1971734031013499262",
+        "created_at": "2025-09-27T00:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T01:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971734031013499262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zooHaK4S1b",
+              "end": 26,
+              "expanded_url": "https://x.com/Cldeop/status/1971734031013499262/photo/1",
+              "media_key": "3_1971734019521105920",
+              "start": 3,
+              "url": "https://t.co/zooHaK4S1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971734031013499262",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 36606,
+          "like_count": 504,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "？！ https://t.co/zooHaK4S1b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 336,
+          "like_count": 3231,
+          "listed_count": 5,
+          "media_count": 277,
+          "tweet_count": 4373
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80805,
+          "following_count": 639,
+          "like_count": 30639,
+          "listed_count": 256,
+          "media_count": 12445,
+          "tweet_count": 17632
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

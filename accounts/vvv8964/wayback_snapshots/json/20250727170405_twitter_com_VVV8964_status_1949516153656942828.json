@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1949297116905369802",
+    "created_at": "2025-07-27T17:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T18:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949516153656942828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738968913164353537",
+          "start": 0,
+          "username": "_bitterleaf_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949516153656942828",
+    "in_reply_to_user_id": "1738968913164353537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949468847775322121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_bitterleaf_ 糯米纸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1949297116905369802",
+        "created_at": "2025-07-27T17:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T18:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949516153656942828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738968913164353537",
+              "start": 0,
+              "username": "_bitterleaf_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949516153656942828",
+        "in_reply_to_user_id": "1738968913164353537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949468847775322121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_bitterleaf_ 糯米纸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738968913164353537",
+        "conversation_id": "1949297116905369802",
+        "created_at": "2025-07-27T13:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T14:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949468847775322121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949468847775322121",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949297116905369802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 这是真的还是糯米纸（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 296,
+          "like_count": 1751,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 2576
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T17:04:42.000Z",
+        "description": "✞做梦梦到了有钱的学历高的会撒娇的switch大胸妈妈✞",
+        "id": "1738968913164353537",
+        "location": "辣底火锅汤",
+        "name": "蘑菇蘑菇",
+        "pinned_tweet_id": "1921965909951795686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915723455674421248/ECedxD2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 289,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1888
+        },
+        "username": "_bitterleaf_",
+        "verified": false
+      }
+    ]
+  }
+}

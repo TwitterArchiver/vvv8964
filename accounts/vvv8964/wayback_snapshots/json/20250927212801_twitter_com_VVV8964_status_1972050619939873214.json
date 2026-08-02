@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971935692520407040"
+      ],
+      "media_source_tweet_id": [
+        "1971935695263748125"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1972050619939873214",
+    "created_at": "2025-09-27T21:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T22:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972050619939873214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1388283390340780040",
+          "start": 3,
+          "username": "Banished_Elk"
+        },
+        {
+          "end": 28,
+          "id": "1455858119762927623",
+          "start": 18,
+          "username": "wotancore"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OPXJ1B4Ty9",
+          "end": 52,
+          "expanded_url": "https://x.com/Banished_Elk/status/1971935695263748125/photo/1",
+          "media_key": "3_1971935692520407040",
+          "start": 29,
+          "url": "https://t.co/OPXJ1B4Ty9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972050619939873214",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971935695263748125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Banished_Elk: @wotancore https://t.co/OPXJ1B4Ty9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 371,
+        "media_key": "3_1971935692520407040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G125EIiXwAA6-aV.jpg",
+        "width": 539
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971935692520407040"
+          ],
+          "media_source_tweet_id": [
+            "1971935695263748125"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1972050619939873214",
+        "created_at": "2025-09-27T21:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T22:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972050619939873214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1388283390340780040",
+              "start": 3,
+              "username": "Banished_Elk"
+            },
+            {
+              "end": 28,
+              "id": "1455858119762927623",
+              "start": 18,
+              "username": "wotancore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OPXJ1B4Ty9",
+              "end": 52,
+              "expanded_url": "https://x.com/Banished_Elk/status/1971935695263748125/photo/1",
+              "media_key": "3_1971935692520407040",
+              "start": 29,
+              "url": "https://t.co/OPXJ1B4Ty9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972050619939873214",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971935695263748125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Banished_Elk: @wotancore https://t.co/OPXJ1B4Ty9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971935692520407040"
+          ]
+        },
+        "author_id": "1388283390340780040",
+        "conversation_id": "1971912375302496465",
+        "created_at": "2025-09-27T13:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T14:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971935695263748125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1455858119762927623",
+              "start": 0,
+              "username": "wotancore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OPXJ1B4Ty9",
+              "end": 34,
+              "expanded_url": "https://x.com/Banished_Elk/status/1971935695263748125/photo/1",
+              "media_key": "3_1971935692520407040",
+              "start": 11,
+              "url": "https://t.co/OPXJ1B4Ty9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971935695263748125",
+        "in_reply_to_user_id": "1455858119762927623",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 18116,
+          "like_count": 750,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971912375302496465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wotancore https://t.co/OPXJ1B4Ty9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 336,
+          "like_count": 3230,
+          "listed_count": 5,
+          "media_count": 276,
+          "tweet_count": 4371
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-01T00:05:38.000Z",
+        "description": "Banished, but not beaten.",
+        "id": "1388283390340780040",
+        "location": "Antarctica",
+        "name": "Banished Elk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856157297287770112/WKIFKdfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 1177,
+          "like_count": 82598,
+          "listed_count": 1,
+          "media_count": 574,
+          "tweet_count": 32011
+        },
+        "username": "Banished_Elk",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-03T11:23:34.000Z",
+        "description": "Historian",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "coff.ee/wotan",
+                "end": 23,
+                "expanded_url": "https://coff.ee/wotan",
+                "start": 0,
+                "url": "https://t.co/sQ0jz0ftNX"
+              }
+            ]
+          }
+        },
+        "id": "1455858119762927623",
+        "name": "Charles",
+        "pinned_tweet_id": "1714090598880231439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931805519380930560/2OQfaSO0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13013,
+          "following_count": 770,
+          "like_count": 71305,
+          "listed_count": 32,
+          "media_count": 102,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/sQ0jz0ftNX",
+        "username": "wotancore",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975766549916250112"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1492238537260879873",
+          "name": "National Taco Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+          "id": "109",
+          "name": "Reoccurring Trends"
+        },
+        "entity": {
+          "description": "National Taco Day",
+          "id": "915569686229655552",
+          "name": "National Taco Day"
+        }
+      }
+    ],
+    "conversation_id": "1975766552671842372",
+    "created_at": "2025-10-08T03:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T04:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975766552671842372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rfG8zS0i7R",
+          "end": 94,
+          "expanded_url": "https://x.com/VVV8964/status/1975766552671842372/photo/1",
+          "media_key": "3_1975766549916250112",
+          "start": 71,
+          "url": "https://t.co/rfG8zS0i7R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975766552671842372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天是national taco day，斥资40刀买点taco吃，抽了大麻也吃不完，留了一半\n真的太好吃了，特别是青酱，我都想自己做了吃了 https://t.co/rfG8zS0i7R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1975766549916250112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2tVNYbbcAAFVs9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975766549916250112"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1492238537260879873",
+              "name": "National Taco Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+              "id": "109",
+              "name": "Reoccurring Trends"
+            },
+            "entity": {
+              "description": "National Taco Day",
+              "id": "915569686229655552",
+              "name": "National Taco Day"
+            }
+          }
+        ],
+        "conversation_id": "1975766552671842372",
+        "created_at": "2025-10-08T03:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T04:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975766552671842372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rfG8zS0i7R",
+              "end": 94,
+              "expanded_url": "https://x.com/VVV8964/status/1975766552671842372/photo/1",
+              "media_key": "3_1975766549916250112",
+              "start": 71,
+              "url": "https://t.co/rfG8zS0i7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975766552671842372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是national taco day，斥资40刀买点taco吃，抽了大麻也吃不完，留了一半\n真的太好吃了，特别是青酱，我都想自己做了吃了 https://t.co/rfG8zS0i7R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 334,
+          "like_count": 3399,
+          "listed_count": 6,
+          "media_count": 306,
+          "tweet_count": 4592
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943629549457039493",
+    "created_at": "2025-07-11T14:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T15:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943685871628116292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893211688465506305",
+          "start": 0,
+          "username": "zhngfi179679"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943685871628116292",
+    "in_reply_to_user_id": "1893211688465506305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943684754567815492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngfi179679 炒作是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943629549457039493",
+        "created_at": "2025-07-11T14:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T15:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943685871628116292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893211688465506305",
+              "start": 0,
+              "username": "zhngfi179679"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943685871628116292",
+        "in_reply_to_user_id": "1893211688465506305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943684754567815492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngfi179679 炒作是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893211688465506305",
+        "conversation_id": "1943629549457039493",
+        "created_at": "2025-07-11T14:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T15:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943684754567815492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943684754567815492",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943629549457039493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 有可能是假消息，然后过几天就复活了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 274,
+          "like_count": 1340,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 2248
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T08:10:28.000Z",
+        "description": "",
+        "id": "1893211688465506305",
+        "name": "张飞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893211745587519488/Qyliwz5p_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 78,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "username": "zhngfi179679",
+        "verified": false
+      }
+    ]
+  }
+}

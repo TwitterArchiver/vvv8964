@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943919276869792039",
+    "created_at": "2025-07-12T06:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T07:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943919276869792039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1914507479133909315",
+          "start": 26,
+          "url": "https://t.co/Cz8jA2rTdM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943919276869792039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914507479133909315",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "某些小留真有点废物了 背的答案说不定还没我裸考的高 https://t.co/Cz8jA2rTdM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1664,
+        "media_key": "3_1914505726313291777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpGw0Ila4AEm8Ax.jpg",
+        "width": 2052
+      },
+      {
+        "height": 1680,
+        "media_key": "3_1914505745502232577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpGw1QEa4AEa3_5.jpg",
+        "width": 2064
+      },
+      {
+        "height": 1670,
+        "media_key": "3_1914505760362651649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpGw2Hba4AE9gcV.jpg",
+        "width": 1844
+      },
+      {
+        "height": 1668,
+        "media_key": "3_1914505777647378432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpGw3H0a4AADndm.jpg",
+        "width": 2066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943919276869792039",
+        "created_at": "2025-07-12T06:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T07:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943919276869792039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1914507479133909315",
+              "start": 26,
+              "url": "https://t.co/Cz8jA2rTdM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943919276869792039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914507479133909315",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "某些小留真有点废物了 背的答案说不定还没我裸考的高 https://t.co/Cz8jA2rTdM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914505726313291777",
+            "3_1914505745502232577",
+            "3_1914505760362651649",
+            "3_1914505777647378432"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1914507479133909315",
+        "created_at": "2025-04-22T02:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T03:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914507479133909315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r6SWqnA4yK",
+              "end": 163,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1914507479133909315/photo/1",
+              "media_key": "3_1914505726313291777",
+              "start": 140,
+              "url": "https://t.co/r6SWqnA4yK"
+            },
+            {
+              "display_url": "pic.x.com/r6SWqnA4yK",
+              "end": 163,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1914507479133909315/photo/1",
+              "media_key": "3_1914505745502232577",
+              "start": 140,
+              "url": "https://t.co/r6SWqnA4yK"
+            },
+            {
+              "display_url": "pic.x.com/r6SWqnA4yK",
+              "end": 163,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1914507479133909315/photo/1",
+              "media_key": "3_1914505760362651649",
+              "start": 140,
+              "url": "https://t.co/r6SWqnA4yK"
+            },
+            {
+              "display_url": "pic.x.com/r6SWqnA4yK",
+              "end": 163,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1914507479133909315/photo/1",
+              "media_key": "3_1914505777647378432",
+              "start": 140,
+              "url": "https://t.co/r6SWqnA4yK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914507479133909315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 547,
+          "impression_count": 1375955,
+          "like_count": 1693,
+          "quote_count": 37,
+          "reply_count": 123,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "近日 小红书上出现大量雅思考试作弊分享贴，声称可以在考前提供本次考试的听力、阅读和写作题目+答案让你背诵。\n并提供组团去国外雅思考场的作弊服务，这类前往国外作弊的考团都声称自己是“雅思面授”，并展示了大量的雅思成绩单，清一色的都有很高的听力、阅读和写作分数，以及极低的口语分数。 https://t.co/r6SWqnA4yK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 280,
+          "like_count": 1401,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 2284
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1943203544825475229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031615,
+          "following_count": 976,
+          "like_count": 7509,
+          "listed_count": 8185,
+          "media_count": 31432,
+          "tweet_count": 38053
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1948388564074688891",
+    "created_at": "2025-07-24T14:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T15:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948393157961404721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 19,
+          "id": "1739908593254883328",
+          "start": 6,
+          "username": "AngelSexyHem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948393157961404721",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948388769780167167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @AngelSexyHem ok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1948388564074688891",
+        "created_at": "2025-07-24T14:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T15:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948393157961404721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 19,
+              "id": "1739908593254883328",
+              "start": 6,
+              "username": "AngelSexyHem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948393157961404721",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948388769780167167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @AngelSexyHem ok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1948388564074688891",
+        "created_at": "2025-07-24T14:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T15:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948388769780167167"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 100,
+              "normalized_text": "YoselinXana",
+              "probability": 0.8282,
+              "start": 90,
+              "type": "Other"
+            },
+            {
+              "end": 114,
+              "normalized_text": "kasaikoxyg",
+              "probability": 0.8618,
+              "start": 105,
+              "type": "Other"
+            },
+            {
+              "end": 127,
+              "normalized_text": "YEOL_LiSu",
+              "probability": 0.7795,
+              "start": 119,
+              "type": "Other"
+            },
+            {
+              "end": 150,
+              "normalized_text": "_xyzzy",
+              "probability": 0.5611,
+              "start": 145,
+              "type": "Other"
+            },
+            {
+              "end": 167,
+              "normalized_text": "zqtlovekris99",
+              "probability": 0.6104,
+              "start": 155,
+              "type": "Other"
+            },
+            {
+              "end": 179,
+              "normalized_text": "pyke2076",
+              "probability": 0.6068,
+              "start": 172,
+              "type": "Other"
+            },
+            {
+              "end": 195,
+              "normalized_text": "icraveoflove",
+              "probability": 0.8169,
+              "start": 184,
+              "type": "Other"
+            },
+            {
+              "end": 208,
+              "normalized_text": "SalviaSWC",
+              "probability": 0.7388,
+              "start": 200,
+              "type": "Other"
+            },
+            {
+              "end": 227,
+              "normalized_text": "FelicityCWells",
+              "probability": 0.8273,
+              "start": 214,
+              "type": "Other"
+            },
+            {
+              "end": 247,
+              "normalized_text": "PaitangOfficial",
+              "probability": 0.7855,
+              "start": 233,
+              "type": "Other"
+            },
+            {
+              "end": 280,
+              "normalized_text": "Bowpeepgod_",
+              "probability": 0.7115,
+              "start": 270,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1739908593254883328",
+              "start": 0,
+              "username": "AngelSexyHem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948388769780167167",
+        "in_reply_to_user_id": "1739908593254883328",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Here’s a list of 25 of your mutuals on X, ranked by recent engagements:\n\n1. YoselinXana\n2. kasaikoxyg\n3. YEOL_LiSu\n4. VVV8964\n5. bc_xyzzy\n6. zqtlovekris99\n7. pyke2076\n8. icraveoflove\n9. SalviaSWC\n10. FelicityCWells\n11. PaitangOfficial\n12. CoFfffEeeeE1\n13. Bowpeepgod_\n14. MooshenO3O\n15. asian_catfish\n16. ZhenGezzz\n17. B_cat38324\n18. qishnlng20\n19. Cypress_7593\n20. ashitasiempre\n21. tataqwq\n22. PAIN4EVER999\n23. 4_ACO_DMT\n24. NankyuSeiichi\n25. Rorosharklady"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948388564074688891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelSexyHem Here’s a list of 25 of your mutuals on X, ranked by recent engagements:\n\n1. YoselinXana\n2. kasaikoxyg\n3. YEOL_LiSu\n4. VVV8964\n5. bc_xyzzy\n6. zqtlovekris99\n7. pyke2076\n8. icraveoflove\n9. SalviaSWC\n10. FelicityCWells\n11. PaitangOfficial\n12. CoFfffEeeeE1\n13. Bowpeepgod_\n14."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 287,
+          "like_count": 1645,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 2472
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5433490,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4442,
+          "media_count": 2396313,
+          "tweet_count": 24308265
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-27T07:18:44.000Z",
+        "description": "xtx/pan (ta/it/es)🏳️‍⚧️🏳️‍🌈Taiwanese💖26春nyc😚我是鸭鸭^ ^⚠️od血图裸露注意⚠️来互fo～匿名提问箱：https://t.co/IcTMNBCS7a🚪52/100/200",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andrea94071",
+                "end": 97,
+                "expanded_url": "https://ngl.link/andrea94071",
+                "start": 74,
+                "url": "https://t.co/IcTMNBCS7a"
+              }
+            ]
+          }
+        },
+        "id": "1739908593254883328",
+        "name": "安坠鸭鸭🏳️‍🌈🏳️‍⚧️（重生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888626247548514304/MegS1DUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 258,
+          "like_count": 3770,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 1696
+        },
+        "username": "AngelSexyHem",
+        "verified": false
+      }
+    ]
+  }
+}

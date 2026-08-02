@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965998568512090112"
+      ],
+      "media_source_tweet_id": [
+        "1965998585754898573"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1966554916803277210",
+    "created_at": "2025-09-12T17:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T18:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966554916803277210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1704940206942523392",
+          "start": 3,
+          "username": "gh0stblush"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZUFVcYh2jM",
+          "end": 52,
+          "expanded_url": "https://x.com/gh0stblush/status/1965998585754898573/photo/1",
+          "media_key": "3_1965998568512090112",
+          "start": 29,
+          "url": "https://t.co/ZUFVcYh2jM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966554916803277210",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14244
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965998585754898573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gh0stblush: dude im busy https://t.co/ZUFVcYh2jM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1223,
+        "media_key": "3_1965998568512090112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ihSCEW8AAl7Re.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965998568512090112"
+          ],
+          "media_source_tweet_id": [
+            "1965998585754898573"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1966554916803277210",
+        "created_at": "2025-09-12T17:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T18:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966554916803277210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1704940206942523392",
+              "start": 3,
+              "username": "gh0stblush"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZUFVcYh2jM",
+              "end": 52,
+              "expanded_url": "https://x.com/gh0stblush/status/1965998585754898573/photo/1",
+              "media_key": "3_1965998568512090112",
+              "start": 29,
+              "url": "https://t.co/ZUFVcYh2jM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966554916803277210",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14244
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965998585754898573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gh0stblush: dude im busy https://t.co/ZUFVcYh2jM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965998568512090112"
+          ]
+        },
+        "author_id": "1704940206942523392",
+        "conversation_id": "1965998585754898573",
+        "created_at": "2025-09-11T04:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T05:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965998585754898573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZUFVcYh2jM",
+              "end": 36,
+              "expanded_url": "https://x.com/gh0stblush/status/1965998585754898573/photo/1",
+              "media_key": "3_1965998568512090112",
+              "start": 13,
+              "url": "https://t.co/ZUFVcYh2jM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965998585754898573",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12932,
+          "impression_count": 1879464,
+          "like_count": 168707,
+          "quote_count": 264,
+          "reply_count": 192,
+          "retweet_count": 14244
+        },
+        "reply_settings": "everyone",
+        "text": "dude im busy https://t.co/ZUFVcYh2jM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 332,
+          "like_count": 2971,
+          "listed_count": 4,
+          "media_count": 240,
+          "tweet_count": 4005
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-21T19:26:44.000Z",
+        "description": "▽△ Lesbian | 17 | AuDHD △▽ Fan of: GWENPOOL! + Deltarune, Splatoon, & BFDI | ran @gomergimpson | Private: @ghoulredden| DNI: nsfw, shedtwt, proship.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "gomergimpson"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "ghoulredden"
+              }
+            ]
+          }
+        },
+        "id": "1704940206942523392",
+        "location": "she/her",
+        "name": "✦gh0stblush✦",
+        "pinned_tweet_id": "1935691904139600122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959712028316110848/pG15iHlb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3118,
+          "following_count": 917,
+          "like_count": 226048,
+          "listed_count": 4,
+          "media_count": 1013,
+          "tweet_count": 5297
+        },
+        "username": "gh0stblush",
+        "verified": false
+      }
+    ]
+  }
+}

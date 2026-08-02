@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942940282133327872",
+        "3_1942940281747415040",
+        "3_1942940283789774849",
+        "3_1942940282405937152"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Destinations",
+          "id": "857603051657482241",
+          "name": "Destinations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1194367046898733056",
+          "name": "Asia Pacific travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1308801514140360705",
+          "name": "Taiwan travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+          "id": "163",
+          "name": "Travel"
+        },
+        "entity": {
+          "id": "1308801514140360705",
+          "name": "Taiwan travel"
+        }
+      }
+    ],
+    "conversation_id": "1942940286847680903",
+    "created_at": "2025-07-09T13:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T14:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942940286847680903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lFXROL4Dw7",
+          "end": 150,
+          "expanded_url": "https://x.com/VVV8964/status/1942940286847680903/photo/1",
+          "media_key": "3_1942940282133327872",
+          "start": 127,
+          "url": "https://t.co/lFXROL4Dw7"
+        },
+        {
+          "display_url": "pic.x.com/lFXROL4Dw7",
+          "end": 150,
+          "expanded_url": "https://x.com/VVV8964/status/1942940286847680903/photo/1",
+          "media_key": "3_1942940281747415040",
+          "start": 127,
+          "url": "https://t.co/lFXROL4Dw7"
+        },
+        {
+          "display_url": "pic.x.com/lFXROL4Dw7",
+          "end": 150,
+          "expanded_url": "https://x.com/VVV8964/status/1942940286847680903/photo/1",
+          "media_key": "3_1942940283789774849",
+          "start": 127,
+          "url": "https://t.co/lFXROL4Dw7"
+        },
+        {
+          "display_url": "pic.x.com/lFXROL4Dw7",
+          "end": 150,
+          "expanded_url": "https://x.com/VVV8964/status/1942940286847680903/photo/1",
+          "media_key": "3_1942940282405937152",
+          "start": 127,
+          "url": "https://t.co/lFXROL4Dw7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942940286847680903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "台湾夜市给我吃撑了，太好玩了，旅行的时候一点责任也没有，只用享受生活。\n然而这种好日子一年也只有几天，不敢想象那些一年从头到尾都在环游世界的富二代有多幸福，我之前在中国就认识了一个希腊的女生，每天在ins上发自己旅行的照片，我都要羡慕死了，凭什么不是我 https://t.co/lFXROL4Dw7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942940282133327872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gva15HhasAAJ33H.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942940281747415040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gva15GFaIAAjyIh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942940283789774849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gva15NsWEAE8pkI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942940282405937152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gva15IiaYAAUza_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942940282133327872",
+            "3_1942940281747415040",
+            "3_1942940283789774849",
+            "3_1942940282405937152"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Destinations",
+              "id": "857603051657482241",
+              "name": "Destinations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1194367046898733056",
+              "name": "Asia Pacific travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308801514140360705",
+              "name": "Taiwan travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+              "id": "163",
+              "name": "Travel"
+            },
+            "entity": {
+              "id": "1308801514140360705",
+              "name": "Taiwan travel"
+            }
+          }
+        ],
+        "conversation_id": "1942940286847680903",
+        "created_at": "2025-07-09T13:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T14:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942940286847680903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFXROL4Dw7",
+              "end": 150,
+              "expanded_url": "https://x.com/VVV8964/status/1942940286847680903/photo/1",
+              "media_key": "3_1942940282133327872",
+              "start": 127,
+              "url": "https://t.co/lFXROL4Dw7"
+            },
+            {
+              "display_url": "pic.x.com/lFXROL4Dw7",
+              "end": 150,
+              "expanded_url": "https://x.com/VVV8964/status/1942940286847680903/photo/1",
+              "media_key": "3_1942940281747415040",
+              "start": 127,
+              "url": "https://t.co/lFXROL4Dw7"
+            },
+            {
+              "display_url": "pic.x.com/lFXROL4Dw7",
+              "end": 150,
+              "expanded_url": "https://x.com/VVV8964/status/1942940286847680903/photo/1",
+              "media_key": "3_1942940283789774849",
+              "start": 127,
+              "url": "https://t.co/lFXROL4Dw7"
+            },
+            {
+              "display_url": "pic.x.com/lFXROL4Dw7",
+              "end": 150,
+              "expanded_url": "https://x.com/VVV8964/status/1942940286847680903/photo/1",
+              "media_key": "3_1942940282405937152",
+              "start": 127,
+              "url": "https://t.co/lFXROL4Dw7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942940286847680903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "台湾夜市给我吃撑了，太好玩了，旅行的时候一点责任也没有，只用享受生活。\n然而这种好日子一年也只有几天，不敢想象那些一年从头到尾都在环游世界的富二代有多幸福，我之前在中国就认识了一个希腊的女生，每天在ins上发自己旅行的照片，我都要羡慕死了，凭什么不是我 https://t.co/lFXROL4Dw7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 273,
+          "like_count": 1263,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 2181
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

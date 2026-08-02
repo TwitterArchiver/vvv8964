@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1938162293088632835",
+    "created_at": "2025-06-27T08:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T09:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938510803508072807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1222980176251957253",
+          "start": 0,
+          "username": "ZZ3528648418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938510803508072807",
+    "in_reply_to_user_id": "1222980176251957253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938478051379318928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZZ3528648418 我没用过mdma，但是2cb跟别人描述的mdma差很多，别人说是mdma和lsd的结合体，我感觉也不是很像，自己试试才知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1938162293088632835",
+        "created_at": "2025-06-27T08:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T09:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938510803508072807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1222980176251957253",
+              "start": 0,
+              "username": "ZZ3528648418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938510803508072807",
+        "in_reply_to_user_id": "1222980176251957253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938478051379318928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZZ3528648418 我没用过mdma，但是2cb跟别人描述的mdma差很多，别人说是mdma和lsd的结合体，我感觉也不是很像，自己试试才知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1222980176251957253",
+        "conversation_id": "1938162293088632835",
+        "created_at": "2025-06-27T06:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T07:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938478051379318928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938478051379318928",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938162293088632835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 2cb和mdma效果差不多吗？我体验过mdma没玩过2cb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 256,
+          "like_count": 965,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 1934
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-30T20:29:43.000Z",
+        "description": "人科人种雄性智人，J-pop | 日语英语学习中 | 工商管理 | 主机游戏，在学习基础算法和硬件，北京大一大学牲，抽象程度上限很高，什么圈子都懂一点，是从小学就逛推的小透明，不太懂的东西会好好闭嘴请指正我",
+        "id": "1222980176251957253",
+        "name": "不想睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800050929921871873/NZ1RYf5U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 72,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 130
+        },
+        "username": "ZZ3528648418",
+        "verified": false
+      }
+    ]
+  }
+}

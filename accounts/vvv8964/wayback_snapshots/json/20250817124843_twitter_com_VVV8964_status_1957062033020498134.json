@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1957062033020498134",
+    "created_at": "2025-08-17T12:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T13:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957062033020498134"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1957062033020498134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好想制毒，我觉得自己动手合成精神活性物质是一个很浪漫很神圣的事情，虽然这肯定有我作为外行过度幻想的成分在，但这可能是我为数不多能够证明自己的行为了，虽然听着有点尴尬\n我之前也做过类似的事情，我去写挂绕过反作弊，很好玩，也很有意义，挺值得吹嘘的，虽然我也是投机取巧，有空再细说吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1957062033020498134",
+        "created_at": "2025-08-17T12:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T13:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957062033020498134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957062033020498134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想制毒，我觉得自己动手合成精神活性物质是一个很浪漫很神圣的事情，虽然这肯定有我作为外行过度幻想的成分在，但这可能是我为数不多能够证明自己的行为了，虽然听着有点尴尬\n我之前也做过类似的事情，我去写挂绕过反作弊，很好玩，也很有意义，挺值得吹嘘的，虽然我也是投机取巧，有空再细说吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 320,
+          "like_count": 2356,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 3136
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

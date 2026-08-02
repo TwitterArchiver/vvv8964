@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1955575895881855201",
+    "created_at": "2025-08-13T10:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T11:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955575895881855201"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AscendTheDark/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/AscendTheDark/status/1955017555124662374",
+          "start": 17,
+          "url": "https://t.co/Ndt83Abxov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955575895881855201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955017555124662374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉像是小学生会拿来当头像的东西 https://t.co/Ndt83Abxov"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1031,
+        "media_key": "3_1955017549709484032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyGeGnQWoAA8mqZ.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1955575895881855201",
+        "created_at": "2025-08-13T10:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T11:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955575895881855201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AscendTheDark/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/AscendTheDark/status/1955017555124662374",
+              "start": 17,
+              "url": "https://t.co/Ndt83Abxov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955575895881855201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955017555124662374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉像是小学生会拿来当头像的东西 https://t.co/Ndt83Abxov"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955017549709484032"
+          ]
+        },
+        "author_id": "1794765776508895232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1955017555124662374",
+        "created_at": "2025-08-11T21:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T22:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955017555124662374"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Rage Moment",
+              "probability": 0.8967,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mN6gRyeIkC",
+              "end": 64,
+              "expanded_url": "https://x.com/AscendTheDark/status/1955017555124662374/photo/1",
+              "media_key": "3_1955017549709484032",
+              "start": 41,
+              "url": "https://t.co/mN6gRyeIkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955017555124662374",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16694,
+          "impression_count": 8756199,
+          "like_count": 150193,
+          "quote_count": 1580,
+          "reply_count": 2474,
+          "retweet_count": 8804
+        },
+        "reply_settings": "everyone",
+        "text": "What's your favourite anime Rage Moment? https://t.co/mN6gRyeIkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 314,
+          "like_count": 2244,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 3015
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T16:21:29.000Z",
+        "description": "Ga Soku.\nMulti-Fandom Anime Fan HxH,Gachiakuta DB,One-Piece, Bleach, Fireforce\n@chimera_4212 🐐🐐🐐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 79,
+                "username": "chimera_4212"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@ascendthedark",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@ascendthedark",
+                "start": 0,
+                "url": "https://t.co/iMlfcek5OL"
+              }
+            ]
+          }
+        },
+        "id": "1794765776508895232",
+        "location": "United Kingdom",
+        "name": "Ascendance",
+        "pinned_tweet_id": "1955560697045418358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838191939033735168/ofFqEZ55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4458,
+          "following_count": 3447,
+          "like_count": 19260,
+          "listed_count": 19,
+          "media_count": 3346,
+          "tweet_count": 10112
+        },
+        "url": "https://t.co/iMlfcek5OL",
+        "username": "AscendTheDark",
+        "verified": true
+      }
+    ]
+  }
+}

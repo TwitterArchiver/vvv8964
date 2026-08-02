@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1922713078723920062",
+    "created_at": "2025-05-14T17:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T18:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922713078723920062"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1922713078723920062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "苯丙胺，也就是安非他命，阿德拉，在加拿大的市场价很离谱。如果是药房流出的而不是小作坊自己合成的，一片30mg的就要30刀，可以说是天价了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1922713078723920062",
+        "created_at": "2025-05-14T17:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T18:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922713078723920062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922713078723920062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苯丙胺，也就是安非他命，阿德拉，在加拿大的市场价很离谱。如果是药房流出的而不是小作坊自己合成的，一片30mg的就要30刀，可以说是天价了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 200,
+          "like_count": 468,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 1311
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

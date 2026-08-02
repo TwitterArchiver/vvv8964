@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930457618092568580",
+        "3_1930457618704936963"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1930457624375636488",
+    "created_at": "2025-06-05T02:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T03:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930457624375636488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fzTiTlJPN1",
+          "end": 32,
+          "expanded_url": "https://x.com/VVV8964/status/1930457624375636488/photo/1",
+          "media_key": "3_1930457618092568580",
+          "start": 9,
+          "url": "https://t.co/fzTiTlJPN1"
+        },
+        {
+          "display_url": "pic.x.com/fzTiTlJPN1",
+          "end": 32,
+          "expanded_url": "https://x.com/VVV8964/status/1930457624375636488/photo/1",
+          "media_key": "3_1930457618704936963",
+          "start": 9,
+          "url": "https://t.co/fzTiTlJPN1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930457624375636488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自由，平等，博爱 https://t.co/fzTiTlJPN1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1930457618092568580",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gspc-cRasAQpSxi.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930457618704936963",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gspc-ejasAMgyQj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930457618092568580",
+            "3_1930457618704936963"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1930457624375636488",
+        "created_at": "2025-06-05T02:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T03:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930457624375636488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fzTiTlJPN1",
+              "end": 32,
+              "expanded_url": "https://x.com/VVV8964/status/1930457624375636488/photo/1",
+              "media_key": "3_1930457618092568580",
+              "start": 9,
+              "url": "https://t.co/fzTiTlJPN1"
+            },
+            {
+              "display_url": "pic.x.com/fzTiTlJPN1",
+              "end": 32,
+              "expanded_url": "https://x.com/VVV8964/status/1930457624375636488/photo/1",
+              "media_key": "3_1930457618704936963",
+              "start": 9,
+              "url": "https://t.co/fzTiTlJPN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930457624375636488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自由，平等，博爱 https://t.co/fzTiTlJPN1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 243,
+          "like_count": 776,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 1714
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

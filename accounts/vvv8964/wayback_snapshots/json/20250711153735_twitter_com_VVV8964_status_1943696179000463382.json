@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943686621301481517",
+    "created_at": "2025-07-11T15:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T16:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943696179000463382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1487946486231015424",
+          "start": 0,
+          "username": "calamardudesert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943696179000463382",
+    "in_reply_to_user_id": "1487946486231015424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943695078699982892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@calamardudesert 普瑞巴林，pregabalin,lyrica"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943686621301481517",
+        "created_at": "2025-07-11T15:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T16:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943696179000463382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1487946486231015424",
+              "start": 0,
+              "username": "calamardudesert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943696179000463382",
+        "in_reply_to_user_id": "1487946486231015424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943695078699982892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@calamardudesert 普瑞巴林，pregabalin,lyrica"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487946486231015424",
+        "conversation_id": "1943686621301481517",
+        "created_at": "2025-07-11T15:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T16:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943695078699982892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943695078699982892",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943686621301481517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 您说的是什么产品？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 276,
+          "like_count": 1340,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 2252
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T00:31:18.000Z",
+        "description": "",
+        "id": "1487946486231015424",
+        "name": "vélib fan account",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942167793010434049/rZzUgT6W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 541,
+          "like_count": 1781,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 527
+        },
+        "username": "calamardudesert",
+        "verified": false
+      }
+    ]
+  }
+}

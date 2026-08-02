@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940193206878052352"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1940193209780772978",
+    "created_at": "2025-07-01T23:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T00:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940193209780772978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QUqK49Yeup",
+          "end": 31,
+          "expanded_url": "https://x.com/VVV8964/status/1940193209780772978/photo/1",
+          "media_key": "3_1940193206878052352",
+          "start": 8,
+          "url": "https://t.co/QUqK49Yeup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940193209780772978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怀旧金曲，好听 https://t.co/QUqK49Yeup"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940193206878052352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuzzcSuXoAA0cWB.jpg",
+        "width": 981
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940193206878052352"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1940193209780772978",
+        "created_at": "2025-07-01T23:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T00:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940193209780772978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QUqK49Yeup",
+              "end": 31,
+              "expanded_url": "https://x.com/VVV8964/status/1940193209780772978/photo/1",
+              "media_key": "3_1940193206878052352",
+              "start": 8,
+              "url": "https://t.co/QUqK49Yeup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940193209780772978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怀旧金曲，好听 https://t.co/QUqK49Yeup"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 265,
+          "like_count": 1077,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 2047
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

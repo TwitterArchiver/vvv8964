@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1854256178479739295",
+    "created_at": "2024-11-06T20:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T21:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854262291417747651"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1854262291417747651",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854261957483971015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看直线的东西会有波浪起伏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1854256178479739295",
+        "created_at": "2024-11-06T20:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T21:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854262291417747651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854262291417747651",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854261957483971015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看直线的东西会有波浪起伏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1854256178479739295",
+        "created_at": "2024-11-06T20:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T21:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854261957483971015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854261957483971015",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854261086540988447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "耳鸣加重 视觉效果开始出现"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 如果你给我点赞的话我会很开心\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 80,
+          "like_count": 88,
+          "listed_count": 0,
+          "tweet_count": 280
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

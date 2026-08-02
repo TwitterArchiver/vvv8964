@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1959638767108808983",
+    "created_at": "2025-08-24T15:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T16:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959638767108808983"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959638767108808983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃了普瑞还是有点焦虑 我这几天情绪不是很好一直很抑郁 我真的很想去加拿大 但是我又不敢跳出舒适圈探索未知的领域 大学对我来说还是太陌生了 如果可以的话我想当一辈子高中生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1959638767108808983",
+        "created_at": "2025-08-24T15:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T16:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959638767108808983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959638767108808983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了普瑞还是有点焦虑 我这几天情绪不是很好一直很抑郁 我真的很想去加拿大 但是我又不敢跳出舒适圈探索未知的领域 大学对我来说还是太陌生了 如果可以的话我想当一辈子高中生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 329,
+          "like_count": 2596,
+          "listed_count": 4,
+          "media_count": 184,
+          "tweet_count": 3471
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

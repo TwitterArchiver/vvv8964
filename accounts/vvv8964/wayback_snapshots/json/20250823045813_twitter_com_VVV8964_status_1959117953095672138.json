@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958852507318333440"
+      ],
+      "media_source_tweet_id": [
+        "1958852514176188760"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1959117953095672138",
+    "created_at": "2025-08-23T04:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T05:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959117953095672138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1448046092667473923",
+          "start": 3,
+          "username": "bitch98139742"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NRj3Pqp3Cs",
+          "end": 75,
+          "expanded_url": "https://x.com/bitch98139742/status/1958852514176188760/photo/1",
+          "media_key": "3_1958852507318333440",
+          "start": 52,
+          "url": "https://t.co/NRj3Pqp3Cs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959117953095672138",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1879
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958852514176188760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bitch98139742: good shit happening in amsterdam https://t.co/NRj3Pqp3Cs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1271,
+        "media_key": "3_1958852507318333440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy89-hoXsAA5PZQ.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958852507318333440"
+          ],
+          "media_source_tweet_id": [
+            "1958852514176188760"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1959117953095672138",
+        "created_at": "2025-08-23T04:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T05:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959117953095672138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1448046092667473923",
+              "start": 3,
+              "username": "bitch98139742"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NRj3Pqp3Cs",
+              "end": 75,
+              "expanded_url": "https://x.com/bitch98139742/status/1958852514176188760/photo/1",
+              "media_key": "3_1958852507318333440",
+              "start": 52,
+              "url": "https://t.co/NRj3Pqp3Cs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959117953095672138",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1879
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958852514176188760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bitch98139742: good shit happening in amsterdam https://t.co/NRj3Pqp3Cs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958852507318333440"
+          ]
+        },
+        "author_id": "1448046092667473923",
+        "conversation_id": "1958852514176188760",
+        "created_at": "2025-08-22T11:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T12:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958852514176188760"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "amsterdam",
+              "probability": 0.5413,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NRj3Pqp3Cs",
+              "end": 56,
+              "expanded_url": "https://x.com/bitch98139742/status/1958852514176188760/photo/1",
+              "media_key": "3_1958852507318333440",
+              "start": 33,
+              "url": "https://t.co/NRj3Pqp3Cs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958852514176188760",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1961,
+          "impression_count": 427028,
+          "like_count": 26684,
+          "quote_count": 39,
+          "reply_count": 70,
+          "retweet_count": 1879
+        },
+        "reply_settings": "everyone",
+        "text": "good shit happening in amsterdam https://t.co/NRj3Pqp3Cs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 327,
+          "like_count": 2514,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 3381
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-12T22:01:20.000Z",
+        "description": "me after i take 17 benadryl and start seeing spr_mysteryman https://t.co/wRemO3uJb7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gunplaydate.straw.page",
+                "end": 83,
+                "expanded_url": "https://gunplaydate.straw.page",
+                "start": 60,
+                "url": "https://t.co/wRemO3uJb7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gofund.me/72f30b18",
+                "end": 23,
+                "expanded_url": "https://gofund.me/72f30b18",
+                "start": 0,
+                "url": "https://t.co/NoTlgmrmIG"
+              }
+            ]
+          }
+        },
+        "id": "1448046092667473923",
+        "location": "he/she adult ",
+        "name": "⟡",
+        "pinned_tweet_id": "1948367480436531221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801983612763435008/Zw1mUVqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 648,
+          "like_count": 68096,
+          "listed_count": 4,
+          "media_count": 2555,
+          "tweet_count": 19459
+        },
+        "url": "https://t.co/NoTlgmrmIG",
+        "username": "bitch98139742",
+        "verified": false
+      }
+    ]
+  }
+}

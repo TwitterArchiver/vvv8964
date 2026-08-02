@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1961421183989227877",
+    "created_at": "2025-08-29T13:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T14:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961421183989227877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VVV8964/status…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/VVV8964/status/1961318940648640809",
+          "start": 69,
+          "url": "https://t.co/JdZtMrb8AW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961421183989227877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961318940648640809",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人能说点鼓励我的话吗 我一个人人生地不熟的 两个行李箱还都坏掉了 我真的很需要支持 我要熬过这几天 然后想办法带着行李箱去我租的房子里 https://t.co/JdZtMrb8AW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1961421183989227877",
+        "created_at": "2025-08-29T13:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T14:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961421183989227877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VVV8964/status…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/VVV8964/status/1961318940648640809",
+              "start": 69,
+              "url": "https://t.co/JdZtMrb8AW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961421183989227877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961318940648640809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人能说点鼓励我的话吗 我一个人人生地不熟的 两个行李箱还都坏掉了 我真的很需要支持 我要熬过这几天 然后想办法带着行李箱去我租的房子里 https://t.co/JdZtMrb8AW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1961318940648640809",
+        "created_at": "2025-08-29T06:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T07:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961318940648640809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961318940648640809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 483,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在哭 我航班延误取消 我花大钱买了张新的票 然后我去我入住的民宿 发现房东给我的地址是错的 我的行李箱还掉了两个轮子 推都很难推动 我好不容易到了正确的地址 但是我大门进不去 保安为难我 我穿着短袖在外面坐了好久好久 好冷 给房东打电话他也不理我 最后保安心软了还是怎么了 放我进去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 329,
+          "like_count": 2677,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 3584
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

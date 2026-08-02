@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1882975676028109049",
+    "created_at": "2025-01-25T02:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T03:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882976595381809644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "881002090637557760",
+          "start": 0,
+          "username": "SharuruHolmes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882976595381809644",
+    "in_reply_to_user_id": "881002090637557760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882975676028109049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SharuruHolmes 不准你这么说我们铁拳玩家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1882975676028109049",
+        "created_at": "2025-01-25T02:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T03:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882976595381809644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "881002090637557760",
+              "start": 0,
+              "username": "SharuruHolmes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882976595381809644",
+        "in_reply_to_user_id": "881002090637557760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882975676028109049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SharuruHolmes 不准你这么说我们铁拳玩家"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882975671418228736"
+          ]
+        },
+        "author_id": "881002090637557760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1882975676028109049",
+        "created_at": "2025-01-25T02:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T03:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882975676028109049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rmUZ6ngoWM",
+              "end": 38,
+              "expanded_url": "https://x.com/SharuruHolmes/status/1882975676028109049/photo/1",
+              "media_key": "3_1882975671418228736",
+              "start": 15,
+              "url": "https://t.co/rmUZ6ngoWM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882975676028109049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁玩铁拳谁没妈\n没妈放狗队伍 https://t.co/rmUZ6ngoWM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 148,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 703
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-01T04:10:41.000Z",
+        "description": "179 54双鱼男高 #智商超高 #拉爆你男友 #大孝子 #欺骗女人的事我做不到 #魅上照毁了我的卡密梦 #基拉 #沉淀 #清纯小白花 #恋爱脑 #40秒憋笑挑战 #35秒后就宣布胜利吧 #感谢L #死神感谢我 #局长是我爸 #其他人能做到吗 #你的冥字 #隔着屏薄纱杀你 #那场大雨毁了我的成神梦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 11,
+                "tag": "智商超高"
+              },
+              {
+                "end": 23,
+                "start": 17,
+                "tag": "拉爆你男友"
+              },
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "大孝子"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "tag": "欺骗女人的事我做不到"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "tag": "魅上照毁了我的卡密梦"
+              },
+              {
+                "end": 56,
+                "start": 53,
+                "tag": "基拉"
+              },
+              {
+                "end": 60,
+                "start": 57,
+                "tag": "沉淀"
+              },
+              {
+                "end": 67,
+                "start": 61,
+                "tag": "清纯小白花"
+              },
+              {
+                "end": 72,
+                "start": 68,
+                "tag": "恋爱脑"
+              },
+              {
+                "end": 81,
+                "start": 73,
+                "tag": "40秒憋笑挑战"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "tag": "35秒后就宣布胜利吧"
+              },
+              {
+                "end": 98,
+                "start": 94,
+                "tag": "感谢L"
+              },
+              {
+                "end": 105,
+                "start": 99,
+                "tag": "死神感谢我"
+              },
+              {
+                "end": 112,
+                "start": 106,
+                "tag": "局长是我爸"
+              },
+              {
+                "end": 121,
+                "start": 113,
+                "tag": "其他人能做到吗"
+              },
+              {
+                "end": 127,
+                "start": 122,
+                "tag": "你的冥字"
+              },
+              {
+                "end": 136,
+                "start": 128,
+                "tag": "隔着屏薄纱杀你"
+              },
+              {
+                "end": 149,
+                "start": 137,
+                "tag": "那场大雨毁了我的成神梦"
+              }
+            ]
+          }
+        },
+        "id": "881002090637557760",
+        "location": "不在天堂亦不在地狱",
+        "name": "夜神月",
+        "pinned_tweet_id": "1695649764392546797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866298613069905921/V4-XCB0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 1035,
+          "like_count": 34160,
+          "listed_count": 3,
+          "media_count": 2510,
+          "tweet_count": 17820
+        },
+        "username": "SharuruHolmes",
+        "verified": false
+      }
+    ]
+  }
+}

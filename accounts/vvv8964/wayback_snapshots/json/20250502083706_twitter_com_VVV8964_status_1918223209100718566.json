@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1918223209100718566",
+    "created_at": "2025-05-02T08:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T09:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918223209100718566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CIA/status/191…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/CIA/status/1917920117968584788",
+          "start": 6,
+          "url": "https://t.co/NiYMvMd3mu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918223209100718566",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917920117968584788",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我都想笑了 https://t.co/NiYMvMd3mu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 152986,
+        "height": 1080,
+        "media_key": "13_1917918904317300736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1917918904317300736/img/drFoBu1cil8yBYgo.jpg",
+        "public_metrics": {
+          "view_count": 908228
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917918904317300736/vid/avc1/480x270/JIh3B6q6jwAKyQOI.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917918904317300736/vid/avc1/1280x720/bE58IUzNck6-8slx.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1917918904317300736/pl/IDb9x--FVpO4v3dV.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917918904317300736/vid/avc1/640x360/HW5fl2NHRPE1NxCQ.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1917918904317300736/vid/avc1/1920x1080/Kmjh6Nnk1x8OROJB.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1918223209100718566",
+        "created_at": "2025-05-02T08:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T09:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918223209100718566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CIA/status/191…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/CIA/status/1917920117968584788",
+              "start": 6,
+              "url": "https://t.co/NiYMvMd3mu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918223209100718566",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917920117968584788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我都想笑了 https://t.co/NiYMvMd3mu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1917918904317300736"
+          ]
+        },
+        "author_id": "2359926157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "US Central Intelligence Agency",
+              "id": "954105882161307648",
+              "name": "US Central Intelligence Agency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Central Intelligence Agency",
+              "id": "954105882161307648",
+              "name": "US Central Intelligence Agency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1917920117968584788",
+        "created_at": "2025-05-01T12:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T13:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917920117968584788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "美国中央情报局 #CIA 以多国语言说明如何安全联系CIA。我们的全球任务要求让所有人能从任何地点安全地联系CIA。请小心任何自称代表CIA的帐号，检查比对CIA公开的官方网站与帐号清单，并且注意检查利用相似拼音伪装为CIA官方网站的假帐号。",
+              "display_url": "youtube.com/watch?v=AFJ9HV…",
+              "end": 41,
+              "expanded_url": "https://www.youtube.com/watch?v=AFJ9HVIVjIk",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1915808526020079616/hxa1yd40?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1915808526020079616/hxa1yd40?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 18,
+              "status": 200,
+              "title": "安全联系美国中央情报局（CIA）",
+              "unwound_url": "https://www.youtube.com/watch?v=AFJ9HVIVjIk",
+              "url": "https://t.co/4BsFttl79P"
+            },
+            {
+              "display_url": "pic.x.com/mjA3wPJdzT",
+              "end": 65,
+              "expanded_url": "https://x.com/CIA/status/1917920117968584788/video/1",
+              "media_key": "13_1917918904317300736",
+              "start": 42,
+              "url": "https://t.co/mjA3wPJdzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917920117968584788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2722,
+          "impression_count": 2156158,
+          "like_count": 6720,
+          "quote_count": 819,
+          "reply_count": 919,
+          "retweet_count": 1625
+        },
+        "reply_settings": "everyone",
+        "text": "选择合作的原因：成为命运的主宰者\n\nhttps://t.co/4BsFttl79P https://t.co/mjA3wPJdzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 179,
+          "like_count": 391,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 1138
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-24T19:08:11.000Z",
+        "description": "We are the Nation's first line of defense. We accomplish what others cannot accomplish and go where others cannot go.\n\nhttps://t.co/yhjtYvFBiJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/s/securelycont…",
+                "end": 142,
+                "expanded_url": "https://t.me/s/securelycontactingcia",
+                "start": 119,
+                "url": "https://t.co/yhjtYvFBiJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cia.gov",
+                "end": 23,
+                "expanded_url": "http://cia.gov",
+                "start": 0,
+                "url": "https://t.co/tKucZyJmxL"
+              }
+            ]
+          }
+        },
+        "id": "2359926157",
+        "location": "Langley, VA",
+        "name": "CIA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344919364039045120/7gBb2rC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3519959,
+          "following_count": 55,
+          "like_count": 145,
+          "listed_count": 11705,
+          "media_count": 2482,
+          "tweet_count": 5231
+        },
+        "url": "https://t.co/tKucZyJmxL",
+        "username": "CIA",
+        "verified": true
+      }
+    ]
+  }
+}

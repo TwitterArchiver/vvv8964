@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1888719779638509656",
+    "created_at": "2025-02-10T18:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T19:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889019601968931230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664988013406089217",
+          "start": 0,
+          "username": "iwanna2k1llpopo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889019601968931230",
+    "in_reply_to_user_id": "1664988013406089217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888827610895200568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iwanna2k1llpopo 轻微的情绪和认知提振吧，很小，基本上不明显，很微妙"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1888827610895200568].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1888827610895200568",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1888827610895200568"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1888719779638509656",
+        "created_at": "2025-02-10T18:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T19:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889019601968931230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664988013406089217",
+              "start": 0,
+              "username": "iwanna2k1llpopo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889019601968931230",
+        "in_reply_to_user_id": "1664988013406089217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888827610895200568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iwanna2k1llpopo 轻微的情绪和认知提振吧，很小，基本上不明显，很微妙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 156,
+          "like_count": 227,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 777
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T13:31:13.000Z",
+        "description": "",
+        "id": "1664988013406089217",
+        "name": "SUKI-｜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847884901355491328/5UH9F2Y-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 621,
+          "like_count": 15091,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 4074
+        },
+        "username": "iwanna2k1llpopo",
+        "verified": false
+      }
+    ]
+  }
+}

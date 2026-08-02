@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1963965592047870046",
+    "created_at": "2025-09-05T14:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T15:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963965592047870046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kiss_u_back/st…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/kiss_u_back/status/1963630600331387255",
+          "start": 22,
+          "url": "https://t.co/MG3DEh6ATa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963965592047870046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963630600331387255",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么没人看甜蜜小视频，我命令你们速速点赞 https://t.co/MG3DEh6ATa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1963630600331387255].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1963630600331387255",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1963630600331387255"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1963965592047870046",
+        "created_at": "2025-09-05T14:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T15:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963965592047870046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kiss_u_back/st…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/kiss_u_back/status/1963630600331387255",
+              "start": 22,
+              "url": "https://t.co/MG3DEh6ATa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963965592047870046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963630600331387255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么没人看甜蜜小视频，我命令你们速速点赞 https://t.co/MG3DEh6ATa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 332,
+          "like_count": 2857,
+          "listed_count": 4,
+          "media_count": 214,
+          "tweet_count": 3817
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

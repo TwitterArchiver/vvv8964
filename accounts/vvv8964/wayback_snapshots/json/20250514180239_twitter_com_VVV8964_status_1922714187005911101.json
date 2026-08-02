@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1922636611948269882",
+    "created_at": "2025-05-14T18:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T19:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922714187005911101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763125349875933184",
+          "start": 0,
+          "username": "mud592428447038"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922714187005911101",
+    "in_reply_to_user_id": "1763125349875933184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922636611948269882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mud592428447038 请问是任女士吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1922636611948269882",
+        "created_at": "2025-05-14T18:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T19:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922714187005911101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763125349875933184",
+              "start": 0,
+              "username": "mud592428447038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922714187005911101",
+        "in_reply_to_user_id": "1763125349875933184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922636611948269882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mud592428447038 请问是任女士吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763125349875933184",
+        "conversation_id": "1922636611948269882",
+        "created_at": "2025-05-14T12:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T13:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922636611948269882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PuppyZwj/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/PuppyZwj/status/1922604875315044707",
+              "start": 13,
+              "url": "https://t.co/mLGG6aJep7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922636611948269882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7057,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922604875315044707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我错了哥😭，不要开我信息 https://t.co/mLGG6aJep7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 200,
+          "like_count": 468,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 1312
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T08:54:29.000Z",
+        "description": "大图书馆私人防卫公司ceo，法律顾问:脱口秀达人林淏泽，深度烧烤冮方法\n电话:13934514716\n@Asha84313842 原号推友找回\n爱人:@yulu1824\nlibertarian，ANCAP🐍💛🖤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Asha84313842"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "yulu1824"
+              }
+            ]
+          }
+        },
+        "id": "1763125349875933184",
+        "name": "入艏宅急送📖📚",
+        "pinned_tweet_id": "1889328076548633029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889007454589190144/RgkzURII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 1369,
+          "like_count": 22341,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 7265
+        },
+        "username": "mud592428447038",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1963330725434069238",
+    "created_at": "2025-09-03T19:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T20:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963330725434069238"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1963330725434069238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "交到朋友了，太开心了，跟小女友打语音在中餐店抱怨怎么没有中国人，马上有拆腻子侧目而视，我马上掏出手机加上联系方式然后一起吃饭聊天。得知他也是润人（其实不是润人不会来阿尔伯塔这种地方），我跟他炫耀我精湛细腻的厨艺，他捕捉到关键词跟我一起乳包了，太有节目效果了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1963330725434069238",
+        "created_at": "2025-09-03T19:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T20:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963330725434069238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963330725434069238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "交到朋友了，太开心了，跟小女友打语音在中餐店抱怨怎么没有中国人，马上有拆腻子侧目而视，我马上掏出手机加上联系方式然后一起吃饭聊天。得知他也是润人（其实不是润人不会来阿尔伯塔这种地方），我跟他炫耀我精湛细腻的厨艺，他捕捉到关键词跟我一起乳包了，太有节目效果了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 328,
+          "like_count": 2805,
+          "listed_count": 4,
+          "media_count": 209,
+          "tweet_count": 3761
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

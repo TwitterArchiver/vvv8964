@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1979582251349520872",
+    "created_at": "2025-10-18T19:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T20:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979631033340621237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "622036546",
+          "start": 0,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979631033340621237",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979582251349520872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_six 这是不是那个cdp coline，也不是很小众吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_1979582248765538304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jjkSVWwAAgnSO.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1979582251349520872",
+        "created_at": "2025-10-18T19:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T20:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979631033340621237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979631033340621237",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979582251349520872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 这是不是那个cdp coline，也不是很小众吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979582248765538304"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "1979582251349520872",
+        "created_at": "2025-10-18T16:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T17:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979582251349520872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2dqCi9Yuz",
+              "end": 154,
+              "expanded_url": "https://x.com/overdose_six/status/1979582251349520872/photo/1",
+              "media_key": "3_1979582248765538304",
+              "start": 131,
+              "url": "https://t.co/F2dqCi9Yuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979582251349520872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 379,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享一款小众促智药 核苷衍生物 作用机制是增加脑内乙酰胆碱水平 改善神经传导促进脑血流 减少缺血损伤 激活脑代谢 增强神经修复  它通过降低脑血管阻力增加脑血流 促进脑物质代谢来改善脑循环 并增强脑干网状结构的功能 从而帮助恢复大脑功能和促进苏醒 比较容易买到 https://t.co/F2dqCi9Yuz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 341,
+          "like_count": 3605,
+          "listed_count": 7,
+          "media_count": 340,
+          "tweet_count": 4803
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科: https://t.co/BlAoDIjruc | 提问: https://t.co/b5c8bbmW1y | 里推: @fuck_8964 | 代购私信 | #overdose",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 88,
+                "tag": "overdose"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 78,
+                "start": 68,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 31,
+                "expanded_url": "http://overdose.day",
+                "start": 8,
+                "url": "https://t.co/BlAoDIjruc"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 61,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 38,
+                "url": "https://t.co/b5c8bbmW1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjruc"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979516242659581952/1sHyJle7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 76,
+          "like_count": 10651,
+          "listed_count": 7,
+          "media_count": 412,
+          "tweet_count": 3006
+        },
+        "url": "https://t.co/BlAoDIjruc",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

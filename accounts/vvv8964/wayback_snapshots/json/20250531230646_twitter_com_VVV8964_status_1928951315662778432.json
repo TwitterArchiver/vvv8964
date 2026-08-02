@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1928942661622198431",
+    "created_at": "2025-05-31T23:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T00:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928951315662778432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "408702956",
+          "start": 0,
+          "username": "niceball_wuwaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928951315662778432",
+    "in_reply_to_user_id": "408702956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928942661622198431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niceball_wuwaa 招保安吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1067,
+        "media_key": "3_1928942655594958848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsT7IBLWEAAHYl3.jpg",
+        "width": 1616
+      },
+      {
+        "height": 2424,
+        "media_key": "3_1928942655578230784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsT7IBHW0AAWYXF.jpg",
+        "width": 1362
+      },
+      {
+        "height": 1866,
+        "media_key": "3_1928942655590776832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsT7IBKWQAAtFxf.jpg",
+        "width": 1910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1928942661622198431",
+        "created_at": "2025-05-31T23:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T00:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928951315662778432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "408702956",
+              "start": 0,
+              "username": "niceball_wuwaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928951315662778432",
+        "in_reply_to_user_id": "408702956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928942661622198431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niceball_wuwaa 招保安吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928942655594958848",
+            "3_1928942655578230784",
+            "3_1928942655590776832"
+          ]
+        },
+        "author_id": "408702956",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040539342",
+              "name": "CIBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "1928942661622198431",
+        "created_at": "2025-05-31T22:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T23:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928942661622198431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gvvH7MNc5f",
+              "end": 112,
+              "expanded_url": "https://x.com/niceball_wuwaa/status/1928942661622198431/photo/1",
+              "media_key": "3_1928942655594958848",
+              "start": 89,
+              "url": "https://t.co/gvvH7MNc5f"
+            },
+            {
+              "display_url": "pic.x.com/gvvH7MNc5f",
+              "end": 112,
+              "expanded_url": "https://x.com/niceball_wuwaa/status/1928942661622198431/photo/1",
+              "media_key": "3_1928942655578230784",
+              "start": 89,
+              "url": "https://t.co/gvvH7MNc5f"
+            },
+            {
+              "display_url": "pic.x.com/gvvH7MNc5f",
+              "end": 112,
+              "expanded_url": "https://x.com/niceball_wuwaa/status/1928942661622198431/photo/1",
+              "media_key": "3_1928942655590776832",
+              "start": 89,
+              "url": "https://t.co/gvvH7MNc5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928942661622198431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 174,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对了，有没有人需要CIBC内推，俺可以在（计划中的）年底离职之前帮你推，如图，主要都在加拿大（509个岗位）和美国（99个岗位），如果有感兴趣的职位关键词，我可以帮忙搜一下看看 https://t.co/gvvH7MNc5f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 235,
+          "like_count": 692,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 1608
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-09T19:40:59.000Z",
+        "description": "间歇存在 持续虚无 是王萌豚 叫王好球 手淫宅男 油汗肥男 下头国男 恋童渴屄 雄性萌豚 术力口厨 车万小鬼 舞萌废人 每日加班 低薪社畜 微博难民 点赞狂魔 菜逼码农 本科废物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://www.example.com/",
+                "start": 0,
+                "url": "https://t.co/DqYbDnpkVy"
+              }
+            ]
+          }
+        },
+        "id": "408702956",
+        "location": "Toronto, Ontario",
+        "name": "王萌豚",
+        "pinned_tweet_id": "1866583625707450511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888338555484684288/8oc2KYdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7251,
+          "following_count": 1704,
+          "like_count": 355057,
+          "listed_count": 34,
+          "media_count": 4686,
+          "tweet_count": 60041
+        },
+        "url": "https://t.co/DqYbDnpkVy",
+        "username": "niceball_wuwaa",
+        "verified": true
+      }
+    ]
+  }
+}

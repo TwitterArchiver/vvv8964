@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1951119272719294466"
+      ],
+      "media_source_tweet_id": [
+        "1951119279220465864"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1951228110399218134",
+    "created_at": "2025-08-01T10:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T11:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951228110399218134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1832602414572261376",
+          "start": 3,
+          "username": "JusJazzinOut"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jOvXGw29Yq",
+          "end": 75,
+          "expanded_url": "https://x.com/JusJazzinOut/status/1951119279220465864/photo/1",
+          "media_key": "16_1951119272719294466",
+          "start": 52,
+          "url": "https://t.co/jOvXGw29Yq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951228110399218134",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 358
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951119279220465864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JusJazzinOut: This is the worst GIF of all time https://t.co/jOvXGw29Yq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 164,
+        "media_key": "16_1951119272719294466",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GxPEpBzaIAIKum2.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GxPEpBzaIAIKum2.mp4"
+          }
+        ],
+        "width": 164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1951119272719294466"
+          ],
+          "media_source_tweet_id": [
+            "1951119279220465864"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1951228110399218134",
+        "created_at": "2025-08-01T10:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T11:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951228110399218134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1832602414572261376",
+              "start": 3,
+              "username": "JusJazzinOut"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOvXGw29Yq",
+              "end": 75,
+              "expanded_url": "https://x.com/JusJazzinOut/status/1951119279220465864/photo/1",
+              "media_key": "16_1951119272719294466",
+              "start": 52,
+              "url": "https://t.co/jOvXGw29Yq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951228110399218134",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 358
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951119279220465864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JusJazzinOut: This is the worst GIF of all time https://t.co/jOvXGw29Yq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1951119272719294466"
+          ]
+        },
+        "author_id": "1832602414572261376",
+        "conversation_id": "1951119279220465864",
+        "created_at": "2025-08-01T03:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T04:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951119279220465864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOvXGw29Yq",
+              "end": 57,
+              "expanded_url": "https://x.com/JusJazzinOut/status/1951119279220465864/photo/1",
+              "media_key": "16_1951119272719294466",
+              "start": 34,
+              "url": "https://t.co/jOvXGw29Yq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951119279220465864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 779,
+          "impression_count": 78701,
+          "like_count": 5588,
+          "quote_count": 22,
+          "reply_count": 42,
+          "retweet_count": 358
+        },
+        "reply_settings": "everyone",
+        "text": "This is the worst GIF of all time https://t.co/jOvXGw29Yq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 302,
+          "like_count": 1898,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 2693
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T02:11:21.000Z",
+        "description": "The Jazziest one in the room 🎵\nI draw sometimes\nLvl. 18\nI LOVE THE POWER OF FRIENDSHIP\nSuggestive alt: @JazzALTEGO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 103,
+                "username": "JazzALTEGO"
+              }
+            ]
+          }
+        },
+        "id": "1832602414572261376",
+        "location": "Earth (homeless)",
+        "name": "Jazzalicious🎵 (THUNDER BUDDIES FOR LIFE)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949516711952281600/jjz2Yea5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9530,
+          "following_count": 2664,
+          "like_count": 30910,
+          "listed_count": 75,
+          "media_count": 1846,
+          "tweet_count": 17817
+        },
+        "username": "JusJazzinOut",
+        "verified": false
+      }
+    ]
+  }
+}

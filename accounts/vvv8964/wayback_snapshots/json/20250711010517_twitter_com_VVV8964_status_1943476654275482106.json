@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943476654275482106",
+    "created_at": "2025-07-11T01:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T02:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943476654275482106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1943260157980610966",
+          "start": 3,
+          "url": "https://t.co/fKa4zXPPgz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943476654275482106",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943260157980610966",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "温良 https://t.co/fKa4zXPPgz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1943259579250356224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvfYSp-XsAAVlpS.jpg",
+        "width": 651
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1943259579267047424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvfYSqCWYAAZAKb.jpg",
+        "width": 623
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943476654275482106",
+        "created_at": "2025-07-11T01:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T02:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943476654275482106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1943260157980610966",
+              "start": 3,
+              "url": "https://t.co/fKa4zXPPgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943476654275482106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943260157980610966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "温良 https://t.co/fKa4zXPPgz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943259579250356224",
+            "3_1943259579267047424"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1943260157980610966",
+        "created_at": "2025-07-10T10:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T11:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943260157980610966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VusSfCQnOG",
+              "end": 93,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1943260157980610966/photo/1",
+              "media_key": "3_1943259579250356224",
+              "start": 70,
+              "url": "https://t.co/VusSfCQnOG"
+            },
+            {
+              "display_url": "pic.x.com/VusSfCQnOG",
+              "end": 93,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1943260157980610966/photo/1",
+              "media_key": "3_1943259579267047424",
+              "start": 70,
+              "url": "https://t.co/VusSfCQnOG"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1941872319594385642",
+              "start": 94,
+              "url": "https://t.co/g0WdrPNa71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943260157980610966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 169011,
+          "like_count": 888,
+          "quote_count": 13,
+          "reply_count": 89,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941872319594385642",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "7月10日，有网友表示，郑州人民公园的这帮人会随机询问路人是不是同性恋，即使回答不是也会挨打。\n自己的爷爷路过也被打了，还被抢走了身上的钱 https://t.co/VusSfCQnOG https://t.co/g0WdrPNa71"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 274,
+          "like_count": 1320,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 2217
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1943203544825475229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030940,
+          "following_count": 975,
+          "like_count": 7470,
+          "listed_count": 8181,
+          "media_count": 31375,
+          "tweet_count": 37992
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

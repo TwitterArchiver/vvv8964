@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1947657179592593605",
+    "created_at": "2025-08-25T08:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T09:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959900243069387188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1790556326952886272",
+          "start": 0,
+          "username": "Vampju1ce_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959900243069387188",
+    "in_reply_to_user_id": "1790556326952886272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959862472795668796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vampju1ce_ 我要去当共产主义接班人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947657179592593605",
+        "created_at": "2025-08-25T08:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T09:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959900243069387188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1790556326952886272",
+              "start": 0,
+              "username": "Vampju1ce_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959900243069387188",
+        "in_reply_to_user_id": "1790556326952886272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959862472795668796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vampju1ce_ 我要去当共产主义接班人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790556326952886272",
+        "conversation_id": "1947657179592593605",
+        "created_at": "2025-08-25T06:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T07:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959862472795668796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959862472795668796",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959822185218097590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 vvv毕业了是要当麻辣女兵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 329,
+          "like_count": 2623,
+          "listed_count": 4,
+          "media_count": 188,
+          "tweet_count": 3492
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T01:34:40.000Z",
+        "description": "Den letzten Tanz, den letzten Tanz！ Tanz ich allein mit dir",
+        "id": "1790556326952886272",
+        "location": "Central & Western District",
+        "name": "Lancey or Lancey",
+        "pinned_tweet_id": "1959537768494964779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927352630377889792/SZH55g5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 229,
+          "like_count": 6579,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 808
+        },
+        "username": "Vampju1ce_",
+        "verified": false
+      }
+    ]
+  }
+}

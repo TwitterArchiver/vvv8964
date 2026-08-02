@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943716368836136960"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943716371994415515",
+    "created_at": "2025-07-11T16:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T17:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943716371994415515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wadxSXUo19",
+          "end": 43,
+          "expanded_url": "https://x.com/VVV8964/status/1943716371994415515/photo/1",
+          "media_key": "3_1943716368836136960",
+          "start": 20,
+          "url": "https://t.co/wadxSXUo19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943716371994415515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "迷幻金曲\n必听，整首歌没有一秒是多余的 https://t.co/wadxSXUo19"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943716368836136960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvl3vTyXEAAfSSq.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943716368836136960"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943716371994415515",
+        "created_at": "2025-07-11T16:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T17:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943716371994415515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wadxSXUo19",
+              "end": 43,
+              "expanded_url": "https://x.com/VVV8964/status/1943716371994415515/photo/1",
+              "media_key": "3_1943716368836136960",
+              "start": 20,
+              "url": "https://t.co/wadxSXUo19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943716371994415515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迷幻金曲\n必听，整首歌没有一秒是多余的 https://t.co/wadxSXUo19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 276,
+          "like_count": 1353,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 2260
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

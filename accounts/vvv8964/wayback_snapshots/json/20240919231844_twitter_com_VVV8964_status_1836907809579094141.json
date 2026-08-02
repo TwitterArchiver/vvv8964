@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1836240296251941091",
+    "created_at": "2024-09-19T23:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T00:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836907809579094141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1775851282710122496",
+          "start": 0,
+          "username": "Vincy1230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836907809579094141",
+    "in_reply_to_user_id": "1775851282710122496",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836240296251941091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vincy1230 这玩意我抹了一股味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1836240296251941091",
+        "created_at": "2024-09-19T23:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T00:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836907809579094141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1775851282710122496",
+              "start": 0,
+              "username": "Vincy1230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836907809579094141",
+        "in_reply_to_user_id": "1775851282710122496",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836240296251941091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vincy1230 这玩意我抹了一股味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836240287196446720"
+          ]
+        },
+        "author_id": "1775851282710122496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1836240296251941091",
+        "created_at": "2024-09-18T03:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T04:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836240296251941091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ncf5yuspzf",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Vincy1230/status/1836240296251941091/photo/1",
+              "media_key": "3_1836240287196446720",
+              "start": 21,
+              "url": "https://t.co/NCf5YUsPZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836240296251941091",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这肋间隔痛的人直摇头\n不上药不行啊... https://t.co/NCf5YUsPZF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 \n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁🏴‍☠️\nVVV",
+        "id": "1561334508212723713",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 54,
+          "like_count": 33,
+          "listed_count": 0,
+          "tweet_count": 25
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T11:42:12.000Z",
+        "description": "男的 | 推友寻回中",
+        "id": "1775851282710122496",
+        "location": "Macau SAR / Beijing, P.R.China",
+        "name": "Vincy SHI 🍥",
+        "pinned_tweet_id": "1775864235471536147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775859086460178432/_DNNt4--_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 201,
+          "like_count": 352,
+          "listed_count": 3,
+          "tweet_count": 1221
+        },
+        "username": "Vincy1230",
+        "verified": false
+      }
+    ]
+  }
+}

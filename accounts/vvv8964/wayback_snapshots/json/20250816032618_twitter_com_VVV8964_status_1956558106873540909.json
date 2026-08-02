@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1956447815221022720"
+      ],
+      "media_source_tweet_id": [
+        "1956447869826998273"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1956558106873540909",
+    "created_at": "2025-08-16T03:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T04:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956558106873540909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1586923432968654848",
+          "start": 3,
+          "username": "hayasaka_aryan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zzCzx1v3vX",
+          "end": 45,
+          "expanded_url": "https://x.com/hayasaka_aryan/status/1956447869826998273/video/1",
+          "media_key": "13_1956447815221022720",
+          "start": 22,
+          "url": "https://t.co/zzCzx1v3vX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956558106873540909",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1289
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956447869826998273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hayasaka_aryan: _ https://t.co/zzCzx1v3vX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6666,
+        "height": 1080,
+        "media_key": "13_1956447815221022720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1956447815221022720/img/C8hjxZ5NKRLSV8f9.jpg",
+        "public_metrics": {
+          "view_count": 207618
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956447815221022720/vid/avc1/720x720/0cgM7pvslkIgFYbl.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956447815221022720/vid/avc1/320x320/T5Lhc1ICT3KN_OTG.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956447815221022720/vid/avc1/1080x1080/0CqUxknYcH7QAIb2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956447815221022720/vid/avc1/540x540/w-fO4Nb7guHG3sGH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1956447815221022720/pl/7H6y1-qtVeX92U99.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1956447815221022720"
+          ],
+          "media_source_tweet_id": [
+            "1956447869826998273"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1956558106873540909",
+        "created_at": "2025-08-16T03:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T04:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956558106873540909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1586923432968654848",
+              "start": 3,
+              "username": "hayasaka_aryan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zzCzx1v3vX",
+              "end": 45,
+              "expanded_url": "https://x.com/hayasaka_aryan/status/1956447869826998273/video/1",
+              "media_key": "13_1956447815221022720",
+              "start": 22,
+              "url": "https://t.co/zzCzx1v3vX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956558106873540909",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1289
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956447869826998273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hayasaka_aryan: _ https://t.co/zzCzx1v3vX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1956447815221022720"
+          ]
+        },
+        "author_id": "1586923432968654848",
+        "conversation_id": "1956447869826998273",
+        "created_at": "2025-08-15T20:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T21:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956447869826998273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zzCzx1v3vX",
+              "end": 25,
+              "expanded_url": "https://x.com/hayasaka_aryan/status/1956447869826998273/video/1",
+              "media_key": "13_1956447815221022720",
+              "start": 2,
+              "url": "https://t.co/zzCzx1v3vX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956447869826998273",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4743,
+          "impression_count": 365944,
+          "like_count": 18941,
+          "quote_count": 51,
+          "reply_count": 159,
+          "retweet_count": 1289
+        },
+        "reply_settings": "everyone",
+        "text": "_ https://t.co/zzCzx1v3vX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 319,
+          "like_count": 2331,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 3108
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T03:30:14.000Z",
+        "description": "Hard hit by the times, that’s just how your life goes by",
+        "id": "1586923432968654848",
+        "name": "Kaguya’s Top Gal",
+        "pinned_tweet_id": "1861810968226926690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739670564254494720/PiJT2lOH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172718,
+          "following_count": 373,
+          "like_count": 127166,
+          "listed_count": 612,
+          "media_count": 11238,
+          "tweet_count": 29406
+        },
+        "username": "hayasaka_aryan",
+        "verified": true
+      }
+    ]
+  }
+}

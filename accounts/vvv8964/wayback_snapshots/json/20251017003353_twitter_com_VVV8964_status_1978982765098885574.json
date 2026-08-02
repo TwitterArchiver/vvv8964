@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1978978283787051072",
+    "created_at": "2025-10-17T00:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T01:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978982765098885574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892896759808217092",
+          "start": 0,
+          "username": "hajixi12356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978982765098885574",
+    "in_reply_to_user_id": "1892896759808217092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978978283787051072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajixi12356 怎么说话的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1978978283787051072",
+        "created_at": "2025-10-17T00:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T01:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978982765098885574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892896759808217092",
+              "start": 0,
+              "username": "hajixi12356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978982765098885574",
+        "in_reply_to_user_id": "1892896759808217092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978978283787051072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajixi12356 怎么说话的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892896759808217092",
+        "conversation_id": "1978978283787051072",
+        "created_at": "2025-10-17T00:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T01:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978978283787051072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VVV8964/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/VVV8964/status/1978744205200478509",
+              "start": 19,
+              "url": "https://t.co/tkKELXkIxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978978283787051072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978744205200478509",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持国家大力打击贩毒\n瘾君子似了得了 https://t.co/tkKELXkIxt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 340,
+          "like_count": 3577,
+          "listed_count": 7,
+          "media_count": 336,
+          "tweet_count": 4754
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T11:18:58.000Z",
+        "description": "我是建制反贼能不能别来烦我。支黑全部死妈。",
+        "id": "1892896759808217092",
+        "location": "台湾及其附属岛屿是中华人民共和国神圣不可分割的一部分",
+        "name": "你猜我是谁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943010728060796928/11S3jyjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 171,
+          "like_count": 7571,
+          "listed_count": 9,
+          "media_count": 158,
+          "tweet_count": 3373
+        },
+        "username": "hajixi12356",
+        "verified": false
+      }
+    ]
+  }
+}

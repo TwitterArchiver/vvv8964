@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1977027146502881518",
+    "created_at": "2025-10-11T16:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T17:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977053147823849763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1971006655430262784",
+          "start": 0,
+          "username": "FxxkApexLegend"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977053147823849763",
+    "in_reply_to_user_id": "1971006655430262784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977027146502881518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FxxkApexLegend 被吓晕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_1977027137497710599",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_PtPHbwAcWDeb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1977027146502881518",
+        "created_at": "2025-10-11T16:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T17:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977053147823849763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1971006655430262784",
+              "start": 0,
+              "username": "FxxkApexLegend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977053147823849763",
+        "in_reply_to_user_id": "1971006655430262784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977027146502881518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FxxkApexLegend 被吓晕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977027137497710599"
+          ]
+        },
+        "author_id": "1971006655430262784",
+        "conversation_id": "1977027146502881518",
+        "created_at": "2025-10-11T15:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T16:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977027146502881518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cnhwXLJeSb",
+              "end": 75,
+              "expanded_url": "https://x.com/FxxkApexLegend/status/1977027146502881518/photo/1",
+              "media_key": "3_1977027137497710599",
+              "start": 52,
+              "url": "https://t.co/cnhwXLJeSb"
+            },
+            {
+              "display_url": "x.com/fxxkapexlegend…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/fxxkapexlegend/status/1977026004792295733",
+              "start": 76,
+              "url": "https://t.co/9h1D8MjNZv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977027146502881518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977026004792295733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "观前提醒：此为转载俄军拍摄的严重暴力血腥内容，未成年人请勿观看\n\n我的妈呀这个是可以发b站的吗吓哭了😭 https://t.co/cnhwXLJeSb https://t.co/9h1D8MjNZv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 335,
+          "like_count": 3465,
+          "listed_count": 6,
+          "media_count": 315,
+          "tweet_count": 4654
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "“青野怎麼不玩地平線去推特賣藥了”/我是「翎」 / 181cm 54kg🏳️‍⚧️🍥MtX💛🤍💜🖤(they) /26fall🇨🇦🇬🇧 / Apex地平線從新手到入門到賬號已註銷 // 里推@KagurazakaAkira ❤️@juhao0721 / 擔保買藥找@minokakay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "KagurazakaAkira"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "juhao0721"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEbyHV"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "在🇬🇧读书",
+        "name": "🍀🍥青野🍥🍀",
+        "pinned_tweet_id": "1971656298539503670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971157025330704384/YaGDwMwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 249,
+          "like_count": 1253,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1453
+        },
+        "url": "https://t.co/BKhBrEbyHV",
+        "username": "FxxkApexLegend",
+        "verified": false
+      }
+    ]
+  }
+}

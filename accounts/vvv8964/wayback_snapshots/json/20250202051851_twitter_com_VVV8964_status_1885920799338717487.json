@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1885920799338717487",
+    "created_at": "2025-02-02T05:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T06:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885920799338717487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kanyewest/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/kanyewest/status/1885914922392973313",
+          "start": 6,
+          "url": "https://t.co/p5c4FRf0R9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885920799338717487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885914922392973313",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这傻逼疯了 https://t.co/p5c4FRf0R9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1885920799338717487",
+        "created_at": "2025-02-02T05:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T06:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885920799338717487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kanyewest/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/kanyewest/status/1885914922392973313",
+              "start": 6,
+              "url": "https://t.co/p5c4FRf0R9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885920799338717487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885914922392973313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这傻逼疯了 https://t.co/p5c4FRf0R9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885914919943454720"
+          ]
+        },
+        "author_id": "169686021",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kanye West",
+              "id": "806561823407239169",
+              "name": "Kanye West"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Kanye West",
+              "id": "806561823407239169",
+              "name": "Kanye West"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kanye West",
+              "id": "806561823407239169",
+              "name": "Kanye West"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "1885914922392973313",
+        "created_at": "2025-02-02T04:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T05:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885914922392973313"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "NewProfilePic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6wpd90Q4yD",
+              "end": 38,
+              "expanded_url": "https://x.com/kanyewest/status/1885914922392973313/photo/1",
+              "media_key": "3_1885914919943454720",
+              "start": 15,
+              "url": "https://t.co/6wpd90Q4yD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885914922392973313",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 683,
+          "impression_count": 917293,
+          "like_count": 28751,
+          "quote_count": 1649,
+          "reply_count": 2949,
+          "retweet_count": 3065
+        },
+        "reply_settings": "everyone",
+        "text": "#NewProfilePic https://t.co/6wpd90Q4yD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 151,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 739
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-22T23:00:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "YEEZY.COM",
+                "end": 23,
+                "expanded_url": "http://YEEZY.COM",
+                "start": 0,
+                "url": "https://t.co/sQVN5G8Bva"
+              }
+            ]
+          }
+        },
+        "id": "169686021",
+        "name": "ye",
+        "pinned_tweet_id": "1283507551586459648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885914900746129408/EZyU4W_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32033043,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 40819,
+          "media_count": 787,
+          "tweet_count": 1985
+        },
+        "url": "https://t.co/sQVN5G8Bva",
+        "username": "kanyewest",
+        "verified": true
+      }
+    ]
+  }
+}

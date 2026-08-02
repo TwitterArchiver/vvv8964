@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1953821567130947749",
+    "created_at": "2025-08-09T08:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T09:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954097106970427736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1439042200940253185",
+          "start": 0,
+          "username": "QzuserX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954097106970427736",
+    "in_reply_to_user_id": "1439042200940253185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953821567130947749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QzuserX 国男磕男同什么水平"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1953821567130947749",
+        "created_at": "2025-08-09T08:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T09:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954097106970427736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1439042200940253185",
+              "start": 0,
+              "username": "QzuserX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954097106970427736",
+        "in_reply_to_user_id": "1439042200940253185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953821567130947749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QzuserX 国男磕男同什么水平"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439042200940253185",
+        "conversation_id": "1953821567130947749",
+        "created_at": "2025-08-08T14:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T15:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953821567130947749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/keeganlike/sta…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/keeganlike/status/1952374500101918739",
+              "start": 66,
+              "url": "https://t.co/1cJuMpNoXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953821567130947749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2183,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952374500101918739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "腐女的嗑男桐和郭楠嗑百合是一样的，馋的是对方可爱/英俊，同时香草两个。真遇上了，人家一眼都不瞧你，小土豆和哥布林不得马上原地爆炸。 https://t.co/1cJuMpNoXk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 309,
+          "like_count": 2078,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 2882
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-18T01:43:03.000Z",
+        "description": "Dem-Socialism&Pan-Asianism.     横幅是神奈川冲浪兔.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "QzuserX.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://QzuserX.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/jAJFNvN4Mr"
+              }
+            ]
+          }
+        },
+        "id": "1439042200940253185",
+        "location": "北落师门座",
+        "name": "𝑸𝒁𝑼𝑺𝑬𝑹",
+        "pinned_tweet_id": "1936926169737404747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953969666164240387/k86vjXIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2741,
+          "following_count": 732,
+          "like_count": 130591,
+          "listed_count": 20,
+          "media_count": 2680,
+          "tweet_count": 23399
+        },
+        "url": "https://t.co/jAJFNvN4Mr",
+        "username": "QzuserX",
+        "verified": false
+      }
+    ]
+  }
+}

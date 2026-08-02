@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1937568247538417824",
+    "created_at": "2025-06-24T20:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T21:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937607632514326648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901299981518286848",
+          "start": 0,
+          "username": "kami18181818"
+        },
+        {
+          "end": 27,
+          "id": "1811690667720212480",
+          "start": 14,
+          "username": "repubilChina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937607632514326648",
+    "in_reply_to_user_id": "1901299981518286848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937569476855365735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kami18181818 @repubilChina 这傻逼到处偷人图炒作的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1937568247538417824",
+        "created_at": "2025-06-24T20:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T21:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937607632514326648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901299981518286848",
+              "start": 0,
+              "username": "kami18181818"
+            },
+            {
+              "end": 27,
+              "id": "1811690667720212480",
+              "start": 14,
+              "username": "repubilChina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937607632514326648",
+        "in_reply_to_user_id": "1901299981518286848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937569476855365735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami18181818 @repubilChina 这傻逼到处偷人图炒作的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901299981518286848",
+        "conversation_id": "1937568247538417824",
+        "created_at": "2025-06-24T17:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T18:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937569476855365735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811690667720212480",
+              "start": 0,
+              "username": "repubilChina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937569476855365735",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937568247538417824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@repubilChina 发我图不@我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 245,
+          "like_count": 919,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 1880
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T15:50:27.000Z",
+        "description": "",
+        "id": "1901299981518286848",
+        "name": "kami",
+        "pinned_tweet_id": "1917852735053127804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909312547976888320/uoGqMJXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 229,
+          "like_count": 1504,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 81
+        },
+        "username": "kami18181818",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "刚出狱，我是永远不可能找支女的，我找到现在也只找男婊子",
+        "id": "1811690667720212480",
+        "location": "China",
+        "name": "tyon*",
+        "pinned_tweet_id": "1929632317473280145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866392786326687744/PEd_S0wr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 191,
+          "like_count": 7,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 554
+        },
+        "username": "repubilChina",
+        "verified": false
+      }
+    ]
+  }
+}

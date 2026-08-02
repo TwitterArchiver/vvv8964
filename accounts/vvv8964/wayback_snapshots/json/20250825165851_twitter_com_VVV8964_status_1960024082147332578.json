@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1960017043052429406",
+    "created_at": "2025-08-25T16:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T17:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960024082147332578"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960024082147332578",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960020020442104206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我有点不想去加拿大了 榨干家里的钱 换一个不确定的未来 说不定找不到工作还得滚回国 那时候我会后悔现在的所作所为吗 但是话说回来 如果在国内上高中我肯定自杀死了 除非我上的是什么中专职高 但如果那样我妈会觉得丢脸先自杀 就像她之前想带着我一起自杀一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1960017043052429406",
+        "created_at": "2025-08-25T16:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T17:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960024082147332578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960024082147332578",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960020020442104206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有点不想去加拿大了 榨干家里的钱 换一个不确定的未来 说不定找不到工作还得滚回国 那时候我会后悔现在的所作所为吗 但是话说回来 如果在国内上高中我肯定自杀死了 除非我上的是什么中专职高 但如果那样我妈会觉得丢脸先自杀 就像她之前想带着我一起自杀一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1960017043052429406",
+        "created_at": "2025-08-25T16:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T17:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960020020442104206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960020020442104206",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960017043052429406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "耳鸣声音也好响 也许我这辈子都无法获得平静了 我在蘑菇药效上告诉自己要接受我现在的状况和疾病 但是实际执行下来一点都不简单"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 329,
+          "like_count": 2628,
+          "listed_count": 4,
+          "media_count": 188,
+          "tweet_count": 3499
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

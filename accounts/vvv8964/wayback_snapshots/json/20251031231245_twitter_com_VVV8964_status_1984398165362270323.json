@@ -1,0 +1,692 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984370337107116032"
+      ],
+      "media_source_tweet_id": [
+        "1984370346204524803"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1516097382118682624",
+          "name": "J. D. Vance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1579862252601036800",
+          "name": "J.D. Vance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "TONIGHT: VP Candidate @JDVance answers your questions in a town hall moderated by Chris Cuomo from Michigan. Watch at 8pm ET/7pm CT via @NewsNation streaming exclusively on @X.",
+          "id": "1848744575940091904",
+          "name": "NewsNation Town Hall with VP Candidate JD Vance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1579862252601036800",
+          "name": "J.D. Vance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1516097382118682624",
+          "name": "J. D. Vance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1518653065976369153",
+          "name": "United States political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1579862252601036800",
+          "name": "J.D. Vance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1984398165362270323",
+    "created_at": "2025-10-31T23:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T00:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984398165362270323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1542228578",
+          "start": 3,
+          "username": "JDVance"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TQT7JkRCa8",
+          "end": 36,
+          "expanded_url": "https://x.com/JDVance/status/1984370346204524803/photo/1",
+          "media_key": "3_1984370337107116032",
+          "start": 13,
+          "url": "https://t.co/TQT7JkRCa8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984398165362270323",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17033
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984370346204524803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JDVance: https://t.co/TQT7JkRCa8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3088,
+        "media_key": "3_1984370337107116032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4nmTtYXgAAaPPx.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984370337107116032"
+          ],
+          "media_source_tweet_id": [
+            "1984370346204524803"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1516097382118682624",
+              "name": "J. D. Vance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1579862252601036800",
+              "name": "J.D. Vance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TONIGHT: VP Candidate @JDVance answers your questions in a town hall moderated by Chris Cuomo from Michigan. Watch at 8pm ET/7pm CT via @NewsNation streaming exclusively on @X.",
+              "id": "1848744575940091904",
+              "name": "NewsNation Town Hall with VP Candidate JD Vance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1579862252601036800",
+              "name": "J.D. Vance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1516097382118682624",
+              "name": "J. D. Vance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518653065976369153",
+              "name": "United States political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1579862252601036800",
+              "name": "J.D. Vance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1984398165362270323",
+        "created_at": "2025-10-31T23:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T00:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984398165362270323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1542228578",
+              "start": 3,
+              "username": "JDVance"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TQT7JkRCa8",
+              "end": 36,
+              "expanded_url": "https://x.com/JDVance/status/1984370346204524803/photo/1",
+              "media_key": "3_1984370337107116032",
+              "start": 13,
+              "url": "https://t.co/TQT7JkRCa8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984398165362270323",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17033
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984370346204524803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JDVance: https://t.co/TQT7JkRCa8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984370337107116032"
+          ]
+        },
+        "author_id": "1542228578",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1516097382118682624",
+              "name": "J. D. Vance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1579862252601036800",
+              "name": "J.D. Vance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TONIGHT: VP Candidate @JDVance answers your questions in a town hall moderated by Chris Cuomo from Michigan. Watch at 8pm ET/7pm CT via @NewsNation streaming exclusively on @X.",
+              "id": "1848744575940091904",
+              "name": "NewsNation Town Hall with VP Candidate JD Vance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1579862252601036800",
+              "name": "J.D. Vance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1516097382118682624",
+              "name": "J. D. Vance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518653065976369153",
+              "name": "United States political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1579862252601036800",
+              "name": "J.D. Vance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The 2025 presidential inauguration has concluded, marking the transition to the 47th administration. The president and vice president were sworn in and participated in official ceremonies.\n",
+              "id": "1881365603878871040",
+              "name": "Inauguration Day: Donald Trump Takes Office as 47th US President"
+            }
+          }
+        ],
+        "conversation_id": "1984370346204524803",
+        "created_at": "2025-10-31T21:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T22:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984370346204524803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TQT7JkRCa8",
+              "end": 23,
+              "expanded_url": "https://x.com/JDVance/status/1984370346204524803/photo/1",
+              "media_key": "3_1984370337107116032",
+              "start": 0,
+              "url": "https://t.co/TQT7JkRCa8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984370346204524803",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8540,
+          "impression_count": 7053959,
+          "like_count": 171166,
+          "quote_count": 5237,
+          "reply_count": 11333,
+          "retweet_count": 17033
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TQT7JkRCa8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 350,
+          "like_count": 3758,
+          "listed_count": 9,
+          "media_count": 391,
+          "tweet_count": 4994
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-24T01:24:59.000Z",
+        "description": "Christian, husband, dad. Vice President of the United States.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jdvance.com",
+                "end": 23,
+                "expanded_url": "http://www.jdvance.com",
+                "start": 0,
+                "url": "https://t.co/RBAuazpm39"
+              }
+            ]
+          }
+        },
+        "id": "1542228578",
+        "location": "Cincinnati, OH",
+        "name": "JD Vance",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817220042578173953/5r-Qpvgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4823798,
+          "following_count": 1151,
+          "like_count": 8399,
+          "listed_count": 9793,
+          "media_count": 565,
+          "tweet_count": 4838
+        },
+        "url": "https://t.co/RBAuazpm39",
+        "username": "JDVance",
+        "verified": true
+      }
+    ]
+  }
+}

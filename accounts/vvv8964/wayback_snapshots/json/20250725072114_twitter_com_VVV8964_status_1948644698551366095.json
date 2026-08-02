@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1948644698551366095",
+    "created_at": "2025-07-25T07:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T08:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948644698551366095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dinosaurs1969/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/dinosaurs1969/status/1948563904163905892",
+          "start": 7,
+          "url": "https://t.co/jKj89rBNZ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948644698551366095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948563904163905892",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "多喝水推友们 https://t.co/jKj89rBNZ7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1174,
+        "media_key": "3_1948563901278265344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwqwi1XXIAAgr7C.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1948644698551366095",
+        "created_at": "2025-07-25T07:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T08:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948644698551366095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dinosaurs1969/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/dinosaurs1969/status/1948563904163905892",
+              "start": 7,
+              "url": "https://t.co/jKj89rBNZ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948644698551366095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948563904163905892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "多喝水推友们 https://t.co/jKj89rBNZ7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948563901278265344"
+          ]
+        },
+        "author_id": "1199730595527610368",
+        "conversation_id": "1948563904163905892",
+        "created_at": "2025-07-25T02:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T03:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948563904163905892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w3bj9VWepe",
+              "end": 72,
+              "expanded_url": "https://x.com/dinosaurs1969/status/1948563904163905892/photo/1",
+              "media_key": "3_1948563901278265344",
+              "start": 49,
+              "url": "https://t.co/w3bj9VWepe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948563904163905892",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 292,
+          "impression_count": 135475,
+          "like_count": 5100,
+          "quote_count": 31,
+          "reply_count": 22,
+          "retweet_count": 591
+        },
+        "reply_settings": "everyone",
+        "text": "how i feel goin to the bathroom every 30 minutes https://t.co/w3bj9VWepe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 289,
+          "like_count": 1655,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 2496
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-27T16:43:58.000Z",
+        "description": "joined this app and my life went downhill",
+        "id": "1199730595527610368",
+        "name": "dinosaur",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634597919402631171/PYxG2JBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303923,
+          "following_count": 177,
+          "like_count": 3353,
+          "listed_count": 257,
+          "media_count": 1894,
+          "tweet_count": 2089
+        },
+        "username": "dinosaurs1969",
+        "verified": true
+      }
+    ]
+  }
+}

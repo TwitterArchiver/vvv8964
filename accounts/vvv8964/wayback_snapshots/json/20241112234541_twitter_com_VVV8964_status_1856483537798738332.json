@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1856195823056416896",
+    "created_at": "2024-11-12T23:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T00:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856483537798738332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1655368918213722114",
+          "start": 0,
+          "username": "sngxishush30309"
+        },
+        {
+          "end": 27,
+          "id": "1779154402588172288",
+          "start": 17,
+          "username": "_Nikisade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856483537798738332",
+    "in_reply_to_user_id": "1655368918213722114",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856310221536100403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sngxishush30309 @_Nikisade 国男来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1856195823056416896",
+        "created_at": "2024-11-12T23:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T00:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856483537798738332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1655368918213722114",
+              "start": 0,
+              "username": "sngxishush30309"
+            },
+            {
+              "end": 27,
+              "id": "1779154402588172288",
+              "start": 17,
+              "username": "_Nikisade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856483537798738332",
+        "in_reply_to_user_id": "1655368918213722114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856310221536100403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sngxishush30309 @_Nikisade 国男来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655368918213722114",
+        "conversation_id": "1856195823056416896",
+        "created_at": "2024-11-12T12:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T13:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856310221536100403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779154402588172288",
+              "start": 0,
+              "username": "_Nikisade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856310221536100403",
+        "in_reply_to_user_id": "1779154402588172288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856195823056416896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Nikisade 在这呢，我呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 如果你给我点赞的话我会很开心\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 82,
+          "like_count": 94,
+          "listed_count": 0,
+          "tweet_count": 301
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T00:28:12.000Z",
+        "description": "",
+        "id": "1655368918213722114",
+        "name": "松下手刹",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 95,
+          "like_count": 124,
+          "listed_count": 0,
+          "tweet_count": 76
+        },
+        "username": "sngxishush30309",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:35:04.000Z",
+        "description": "等我死掉，你就会拥有独一无二的阴雨天娃娃。\n\nBlueSky: @nikisade.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "nikisade"
+              }
+            ]
+          }
+        },
+        "id": "1779154402588172288",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843029545542119424/vphwWoiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 419,
+          "like_count": 86597,
+          "listed_count": 5,
+          "tweet_count": 15148
+        },
+        "username": "_Nikisade",
+        "verified": false
+      }
+    ]
+  }
+}

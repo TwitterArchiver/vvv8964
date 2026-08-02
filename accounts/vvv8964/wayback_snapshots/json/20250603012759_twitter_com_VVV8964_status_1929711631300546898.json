@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1929523462072144203",
+    "created_at": "2025-06-03T01:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T02:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929711631300546898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1429405137198452736",
+          "start": 0,
+          "username": "EffieLindraDom"
+        },
+        {
+          "end": 29,
+          "id": "1687343259759349761",
+          "start": 16,
+          "username": "Chai20230817"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929711631300546898",
+    "in_reply_to_user_id": "1429405137198452736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929523462072144203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EffieLindraDom @Chai20230817 我妈好像有，这下民主斗士了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1929523462072144203",
+        "created_at": "2025-06-03T01:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T02:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929711631300546898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1429405137198452736",
+              "start": 0,
+              "username": "EffieLindraDom"
+            },
+            {
+              "end": 29,
+              "id": "1687343259759349761",
+              "start": 16,
+              "username": "Chai20230817"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929711631300546898",
+        "in_reply_to_user_id": "1429405137198452736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929523462072144203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EffieLindraDom @Chai20230817 我妈好像有，这下民主斗士了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429405137198452736",
+        "conversation_id": "1929523462072144203",
+        "created_at": "2025-06-02T13:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T14:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929523462072144203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1687343259759349761",
+              "start": 26,
+              "username": "Chai20230817"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929523462072144203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 492,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想买一本柴静的《看见 》，翻遍了全网都没有货...\n@Chai20230817 我是你忠实的粉丝，也是你的同行。我为现在的情况感到悲哀和惋惜，也希望以后能够在自由的土地上欣赏你的著作 ！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 242,
+          "like_count": 728,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 1657
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "I can drink nitric acid cause, it won't hurt me./Biohacker💉/Computer-Aided Drug Design…/Psychonaut/Cryptoanarchist/Konstruante potencon kun simboloj/Oder/🧬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "systemspaces.top",
+                "end": 23,
+                "expanded_url": "http://systemspaces.top",
+                "start": 0,
+                "url": "https://t.co/Rnqnch2leD"
+              }
+            ]
+          }
+        },
+        "id": "1429405137198452736",
+        "location": "Non-Daily Department",
+        "name": "Effie Lingley Dorme🧬🔬",
+        "pinned_tweet_id": "1923684421351375300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909109028254621696/ozLT6GKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9052,
+          "following_count": 940,
+          "like_count": 123952,
+          "listed_count": 35,
+          "media_count": 3427,
+          "tweet_count": 19902
+        },
+        "url": "https://t.co/Rnqnch2leD",
+        "username": "EffieLindraDom",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-04T06:03:37.000Z",
+        "description": "Chai Jing, journalist. Author of \"Under the Dome\" and \"Stranger: Talking to Jihadists.\" chaijing2023@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chaijing2023",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@chaijing2023",
+                "start": 0,
+                "url": "https://t.co/H7AV55Y1XE"
+              }
+            ]
+          }
+        },
+        "id": "1687343259759349761",
+        "name": "柴静",
+        "pinned_tweet_id": "1756545622507974945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689425473552703489/bCVMBk_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268929,
+          "following_count": 67,
+          "like_count": 104,
+          "listed_count": 645,
+          "media_count": 59,
+          "tweet_count": 159
+        },
+        "url": "https://t.co/H7AV55Y1XE",
+        "username": "Chai20230817",
+        "verified": true
+      }
+    ]
+  }
+}

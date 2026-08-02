@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1886310600990478436",
+    "created_at": "2025-02-03T07:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T08:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886320798941450742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1058172250761785345",
+          "start": 0,
+          "username": "Ety2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886320798941450742",
+    "in_reply_to_user_id": "1058172250761785345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886318976575349155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ety2025 确实我最近停止服用维生素了，可能我是要重新吃。但是我之前吃的时候也有焦虑就是了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1886318976575349155].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1886318976575349155",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1886318976575349155"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1886310600990478436",
+        "created_at": "2025-02-03T07:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T08:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886320798941450742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1058172250761785345",
+              "start": 0,
+              "username": "Ety2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886320798941450742",
+        "in_reply_to_user_id": "1058172250761785345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886318976575349155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ety2025 确实我最近停止服用维生素了，可能我是要重新吃。但是我之前吃的时候也有焦虑就是了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 152,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 749
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-02T01:41:39.000Z",
+        "description": "降临在车厘子的甜蜜蜜季节吧！",
+        "id": "1058172250761785345",
+        "name": "添加你的姓名",
+        "pinned_tweet_id": "1876836444913766539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872846813381967878/CBzwGqfc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 70,
+          "like_count": 767,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 664
+        },
+        "username": "Ety2025",
+        "verified": false
+      }
+    ]
+  }
+}

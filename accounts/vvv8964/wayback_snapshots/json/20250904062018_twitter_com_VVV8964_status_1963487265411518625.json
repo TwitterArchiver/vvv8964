@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1963487254028193794"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1963461088302821745",
+    "created_at": "2025-09-04T06:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T07:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963487265411518625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1889401541142126592",
+          "start": 0,
+          "username": "smilinpusi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7T6DobTKss",
+          "end": 35,
+          "expanded_url": "https://x.com/VVV8964/status/1963487265411518625/photo/1",
+          "media_key": "16_1963487254028193794",
+          "start": 12,
+          "url": "https://t.co/7T6DobTKss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963487265411518625",
+    "in_reply_to_user_id": "1889401541142126592",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963485689699602479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smilinpusi https://t.co/7T6DobTKss"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1963487265411518625].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1963487265411518625",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1963487265411518625"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1963487254028193794",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gz-1QSlbkAIgrtn.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gz-1QSlbkAIgrtn.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889401541142126592",
+        "conversation_id": "1963461088302821745",
+        "created_at": "2025-09-04T06:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T07:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963485689699602479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963485689699602479",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963461088302821745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 肯卡森我们喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 333,
+          "like_count": 2831,
+          "listed_count": 4,
+          "media_count": 213,
+          "tweet_count": 3789
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T19:50:27.000Z",
+        "description": "@rato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "rato"
+              }
+            ]
+          }
+        },
+        "id": "1889401541142126592",
+        "name": "xX_鼠_Xx",
+        "pinned_tweet_id": "1908247433420612030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908245044542529536/gcva1XYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 146,
+          "like_count": 462,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 148
+        },
+        "username": "smilinpusi",
+        "verified": false
+      }
+    ]
+  }
+}

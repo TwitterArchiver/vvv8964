@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1903752965447667907",
+    "created_at": "2025-03-23T19:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T20:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903886793742983575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1476149587421413386",
+          "start": 0,
+          "username": "2O12O72O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903886793742983575",
+    "in_reply_to_user_id": "1476149587421413386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903884887217799533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2O12O72O 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1903752965447667907",
+        "created_at": "2025-03-23T19:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T20:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903886793742983575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1476149587421413386",
+              "start": 0,
+              "username": "2O12O72O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903886793742983575",
+        "in_reply_to_user_id": "1476149587421413386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903884887217799533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2O12O72O 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476149587421413386",
+        "conversation_id": "1903752965447667907",
+        "created_at": "2025-03-23T19:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T20:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903884887217799533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903884887217799533",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903883568658751539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 那是Auvelity吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  什么都发 不止药物 || 正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 162,
+          "like_count": 334,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 980
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T11:14:34.000Z",
+        "description": "絵｜世界是一片荒原。",
+        "id": "1476149587421413386",
+        "name": "10⁴⁰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903500146572414976/7wQqzIJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 240,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 213
+        },
+        "username": "2O12O72O",
+        "verified": false
+      }
+    ]
+  }
+}

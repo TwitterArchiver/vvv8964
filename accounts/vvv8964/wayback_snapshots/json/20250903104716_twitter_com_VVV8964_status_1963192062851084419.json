@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1963192062851084419",
+    "created_at": "2025-09-03T10:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T11:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963192062851084419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yoselindead/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Yoselindead/status/1963188966133514668",
+          "start": 12,
+          "url": "https://t.co/1n1ZLGnOGr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963192062851084419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963188966133514668",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有谁想采访一下我的 https://t.co/1n1ZLGnOGr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1963192062851084419",
+        "created_at": "2025-09-03T10:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T11:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963192062851084419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yoselindead/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Yoselindead/status/1963188966133514668",
+              "start": 12,
+              "url": "https://t.co/1n1ZLGnOGr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963192062851084419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963188966133514668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有谁想采访一下我的 https://t.co/1n1ZLGnOGr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279702935102865409",
+        "conversation_id": "1963188966133514668",
+        "created_at": "2025-09-03T10:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T11:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963188966133514668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdosewiki/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/overdosewiki/status/1962860704823935084",
+              "start": 13,
+              "url": "https://t.co/E3HXaAHcD1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963188966133514668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962860704823935084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有谁想采访一下我的？ https://t.co/E3HXaAHcD1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 328,
+          "like_count": 2790,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 3738
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T09:05:40.000Z",
+        "description": "ISFP, 168/50kg, 07, LGBTQ+友好but sorry I’m一爱顺直女, 重抑重焦, 双向存疑, Brat(BDSM), 中文/ENG OK, 买美瞳外烟电子烟请找我,不贩卖任何药物, ｜👩🏻‍❤️‍👩🏻@coiloffaraday",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 113,
+                "username": "coiloffaraday"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mylifeallfucke…",
+                "end": 23,
+                "expanded_url": "https://t.me/mylifeallfuckedup",
+                "start": 0,
+                "url": "https://t.co/PAY0hcecwZ"
+              }
+            ]
+          }
+        },
+        "id": "1279702935102865409",
+        "location": "🚪288/588，线下过门后详问",
+        "name": "Yoselin🪬💊🩸",
+        "pinned_tweet_id": "1946090177505689972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947177584891936768/JyIXTLSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 347,
+          "like_count": 12451,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 2703
+        },
+        "url": "https://t.co/PAY0hcecwZ",
+        "username": "Yoselindead",
+        "verified": false
+      }
+    ]
+  }
+}

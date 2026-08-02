@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1963893279298080768"
+      ],
+      "media_source_tweet_id": [
+        "1963893339532488817"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1964328110947782833",
+    "created_at": "2025-09-06T14:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T15:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964328110947782833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1807843331982168064",
+          "start": 3,
+          "username": "Krystal793210"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R5PGBZOKzH",
+          "end": 75,
+          "expanded_url": "https://x.com/Krystal793210/status/1963893339532488817/video/1",
+          "media_key": "7_1963893279298080768",
+          "start": 52,
+          "url": "https://t.co/R5PGBZOKzH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964328110947782833",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 428
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963893339532488817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Krystal793210: THIS VIDEO IS A GAY MASTERPIECE! https://t.co/R5PGBZOKzH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30814,
+        "height": 1280,
+        "media_key": "7_1963893279298080768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1963893279298080768/pu/img/oveXGPmNtyLg5TD7.jpg",
+        "public_metrics": {
+          "view_count": 56550
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1963893279298080768/pu/vid/avc1/320x568/uqUDQsWLAi31R4nJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1963893279298080768/pu/vid/avc1/480x852/y7eqlbLa6JtWUEPc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1963893279298080768/pu/vid/avc1/720x1280/Qp3WJ1MY7R0i8yL4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1963893279298080768/pu/pl/xG0fX6s4wwzCWSPG.m3u8?tag=12&v=822"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1963893279298080768"
+          ],
+          "media_source_tweet_id": [
+            "1963893339532488817"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1964328110947782833",
+        "created_at": "2025-09-06T14:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964328110947782833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1807843331982168064",
+              "start": 3,
+              "username": "Krystal793210"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R5PGBZOKzH",
+              "end": 75,
+              "expanded_url": "https://x.com/Krystal793210/status/1963893339532488817/video/1",
+              "media_key": "7_1963893279298080768",
+              "start": 52,
+              "url": "https://t.co/R5PGBZOKzH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964328110947782833",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 428
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963893339532488817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Krystal793210: THIS VIDEO IS A GAY MASTERPIECE! https://t.co/R5PGBZOKzH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1963893279298080768"
+          ]
+        },
+        "author_id": "1807843331982168064",
+        "conversation_id": "1963893339532488817",
+        "created_at": "2025-09-05T09:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T10:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963893339532488817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R5PGBZOKzH",
+              "end": 56,
+              "expanded_url": "https://x.com/Krystal793210/status/1963893339532488817/video/1",
+              "media_key": "7_1963893279298080768",
+              "start": 33,
+              "url": "https://t.co/R5PGBZOKzH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963893339532488817",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1313,
+          "impression_count": 36629,
+          "like_count": 5773,
+          "quote_count": 24,
+          "reply_count": 29,
+          "retweet_count": 428
+        },
+        "reply_settings": "everyone",
+        "text": "THIS VIDEO IS A GAY MASTERPIECE! https://t.co/R5PGBZOKzH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 333,
+          "like_count": 2851,
+          "listed_count": 4,
+          "media_count": 218,
+          "tweet_count": 3848
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T18:27:03.000Z",
+        "description": "16 |•| 🩷 @PeaceableElf 🩷 |•| Wanted alive in more than 69 universes |•| mom: @RavenAriaChaos |•| voice actor |•| musician |•| pfp by @z_zmag8 |•| 🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "PeaceableElf"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "RavenAriaChaos"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "username": "z_zmag8"
+              }
+            ]
+          }
+        },
+        "id": "1807843331982168064",
+        "location": "She/Her 🏳️‍⚧️",
+        "name": "𝕂𝕣𝕪𝕤𝕥𝕒𝕝 🏳️‍⚧️ (KPDH Fangirl Arc)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925763700683665408/w71ZnlPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6872,
+          "following_count": 2580,
+          "like_count": 61470,
+          "listed_count": 34,
+          "media_count": 2539,
+          "tweet_count": 21084
+        },
+        "username": "Krystal793210",
+        "verified": false
+      }
+    ]
+  }
+}

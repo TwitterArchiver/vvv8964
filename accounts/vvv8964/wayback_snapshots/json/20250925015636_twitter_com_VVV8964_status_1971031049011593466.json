@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1971031049011593466",
+    "created_at": "2025-09-25T01:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T02:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971031049011593466"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1971031049011593466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我对大麻真的很敏感 市面上的大麻thc含量在28%左右，我抽8%的大麻，还有cbd，抽两三口就有感觉，之前抽30%的pink kush抽三分之一根直接焦虑症犯了心一直狂跳，还好我用药比较谨慎，不然要是一根全抽完估计得吐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1971031049011593466",
+        "created_at": "2025-09-25T01:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T02:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971031049011593466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971031049011593466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对大麻真的很敏感 市面上的大麻thc含量在28%左右，我抽8%的大麻，还有cbd，抽两三口就有感觉，之前抽30%的pink kush抽三分之一根直接焦虑症犯了心一直狂跳，还好我用药比较谨慎，不然要是一根全抽完估计得吐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 332,
+          "like_count": 3146,
+          "listed_count": 5,
+          "media_count": 270,
+          "tweet_count": 4284
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1839995461803094381",
+    "created_at": "2024-09-28T22:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T23:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840156771962454457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1747138924450029568",
+          "start": 0,
+          "username": "od_wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840156771962454457",
+    "in_reply_to_user_id": "1747138924450029568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839995461803094381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od_wiki 7700都成老爷机了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1839995461803094381",
+        "created_at": "2024-09-28T22:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T23:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840156771962454457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1747138924450029568",
+              "start": 0,
+              "username": "od_wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840156771962454457",
+        "in_reply_to_user_id": "1747138924450029568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839995461803094381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_wiki 7700都成老爷机了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839995449077575680"
+          ]
+        },
+        "author_id": "1747138924450029568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043043106",
+              "name": "Microsoft - OneDrive"
+            }
+          }
+        ],
+        "conversation_id": "1839995461803094381",
+        "created_at": "2024-09-28T11:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T12:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839995461803094381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxsqkb7bpd",
+              "end": 91,
+              "expanded_url": "https://twitter.com/od_wiki/status/1839995461803094381/photo/1",
+              "media_key": "3_1839995449077575680",
+              "start": 68,
+              "url": "https://t.co/ZxsQKb7bpD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839995461803094381",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11838,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不忘初心win10好用.\n内存只占用1.7G\n没杀毒没OneDrive 没微软浏览器那些乱七八糟的东西，\ni7 7700老爷机都能用… https://t.co/ZxsQKb7bpD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 如果你给我点赞的话我会很开心\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 57,
+          "like_count": 48,
+          "listed_count": 0,
+          "tweet_count": 105
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "个人Galgame站：https://t.co/OXiOIO9QLM\n个人博客：https://t.co/jzBbyyNnJF\n赌狗俱乐部：https://t.co/VGq4FK04Cv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "58game.xyz",
+                "end": 34,
+                "expanded_url": "https://58game.xyz/",
+                "start": 11,
+                "url": "https://t.co/OXiOIO9QLM"
+              },
+              {
+                "display_url": "hiv.icu",
+                "end": 63,
+                "expanded_url": "https://hiv.icu/",
+                "start": 40,
+                "url": "https://t.co/jzBbyyNnJF"
+              },
+              {
+                "display_url": "t.me/dugoujulebu",
+                "end": 93,
+                "expanded_url": "https://t.me/dugoujulebu",
+                "start": 70,
+                "url": "https://t.co/VGq4FK04Cv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "https://www.od-wiki.com/",
+                "start": 0,
+                "url": "https://t.co/YHP0zrJSxF"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "東京 港区",
+        "name": "胖猫🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1836034369275773338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821511007279206400/sD9YYCcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13119,
+          "following_count": 5871,
+          "like_count": 5529,
+          "listed_count": 11,
+          "tweet_count": 4213
+        },
+        "url": "https://t.co/YHP0zrJSxF",
+        "username": "od_wiki",
+        "verified": false
+      }
+    ]
+  }
+}

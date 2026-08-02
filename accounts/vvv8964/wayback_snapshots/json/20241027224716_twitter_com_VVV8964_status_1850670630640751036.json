@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1850641522498392362",
+    "created_at": "2024-10-27T22:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T23:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850670630640751036"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1850670630640751036",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850669385817719251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同理心增强，2CB这块应该是所有致幻剂里最强的了，虽然不能跟MDMA比，但是低剂量还是可以察觉到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1850641522498392362",
+        "created_at": "2024-10-27T22:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T23:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850670630640751036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850670630640751036",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850669385817719251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同理心增强，2CB这块应该是所有致幻剂里最强的了，虽然不能跟MDMA比，但是低剂量还是可以察觉到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1850641522498392362",
+        "created_at": "2024-10-27T22:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T23:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850669385817719251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850669385817719251",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850661256451248413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果药效没有延迟，我现在应该在顶峰。\n因为是低剂量，所以我只有一些微妙的效果，我确信什么东西变了，但是不知道，我感觉树木有一点侵略性地朝我挥舞。由于是低剂量，所以言语组织能力清晰很多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 如果你给我点赞的话我会很开心\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 80,
+          "like_count": 83,
+          "listed_count": 0,
+          "tweet_count": 245
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

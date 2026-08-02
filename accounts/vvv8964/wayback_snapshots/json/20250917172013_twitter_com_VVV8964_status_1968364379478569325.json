@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968364377595392000",
+        "3_1968364377700188160"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1968364379478569325",
+    "created_at": "2025-09-17T17:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T18:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968364379478569325"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 4,
+          "normalized_text": "Alone",
+          "probability": 0.6538,
+          "start": 0,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LbYHoFUKWy",
+          "end": 35,
+          "expanded_url": "https://x.com/VVV8964/status/1968364379478569325/photo/1",
+          "media_key": "3_1968364377595392000",
+          "start": 12,
+          "url": "https://t.co/LbYHoFUKWy"
+        },
+        {
+          "display_url": "pic.x.com/LbYHoFUKWy",
+          "end": 35,
+          "expanded_url": "https://x.com/VVV8964/status/1968364379478569325/photo/1",
+          "media_key": "3_1968364377700188160",
+          "start": 12,
+          "url": "https://t.co/LbYHoFUKWy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968364379478569325",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Alone again https://t.co/LbYHoFUKWy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968364377595392000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1EI-PsbMAAB9Yl.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968364377700188160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1EI-QFaQAA8xfN.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968364377595392000",
+            "3_1968364377700188160"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1968364379478569325",
+        "created_at": "2025-09-17T17:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T18:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968364379478569325"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Alone",
+              "probability": 0.6538,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbYHoFUKWy",
+              "end": 35,
+              "expanded_url": "https://x.com/VVV8964/status/1968364379478569325/photo/1",
+              "media_key": "3_1968364377595392000",
+              "start": 12,
+              "url": "https://t.co/LbYHoFUKWy"
+            },
+            {
+              "display_url": "pic.x.com/LbYHoFUKWy",
+              "end": 35,
+              "expanded_url": "https://x.com/VVV8964/status/1968364379478569325/photo/1",
+              "media_key": "3_1968364377700188160",
+              "start": 12,
+              "url": "https://t.co/LbYHoFUKWy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968364379478569325",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Alone again https://t.co/LbYHoFUKWy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 331,
+          "like_count": 3044,
+          "listed_count": 4,
+          "media_count": 255,
+          "tweet_count": 4152
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

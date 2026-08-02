@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1942859744492020005",
+    "created_at": "2025-07-09T15:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T16:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942962252392649115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942962252392649115",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942859744492020005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 还好我是高贵的三星用户"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1942859736237350912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvZsourWIAAW8sy.jpg",
+        "width": 1312
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1942859744492020005",
+        "created_at": "2025-07-09T15:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T16:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942962252392649115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942962252392649115",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942859744492020005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 还好我是高贵的三星用户"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942859736237350912"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "1942859744492020005",
+        "created_at": "2025-07-09T08:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T09:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942859744492020005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZzz8BnKmK",
+              "end": 58,
+              "expanded_url": "https://x.com/RainEngine2024/status/1942859744492020005/photo/1",
+              "media_key": "3_1942859736237350912",
+              "start": 35,
+              "url": "https://t.co/hZzz8BnKmK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942859744492020005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10075,
+          "like_count": 132,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "从这可以看得出来小米已经不再打算开放解锁Bootloader的权限了 https://t.co/hZzz8BnKmK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 273,
+          "like_count": 1267,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 2184
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/07年/貌似不是学生/小米之家运营/喜欢摄影/喜欢折腾各类的手机/欢迎各位小伙伴互fo",
+        "id": "1810873766119100416",
+        "name": "夏日晴海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942455639885897728/mtBUtqXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 399,
+          "like_count": 2375,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 553
+        },
+        "username": "RainEngine2024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1974597423285817799",
+    "created_at": "2025-10-05T00:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T01:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974635435319275965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1937692741305352192",
+          "start": 0,
+          "username": "wangduanxu2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974635435319275965",
+    "in_reply_to_user_id": "1937692741305352192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974625537634324624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangduanxu2007 现在不就是秋天吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1974597423285817799",
+        "created_at": "2025-10-05T00:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T01:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974635435319275965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1937692741305352192",
+              "start": 0,
+              "username": "wangduanxu2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974635435319275965",
+        "in_reply_to_user_id": "1937692741305352192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974625537634324624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangduanxu2007 现在不就是秋天吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937692741305352192",
+        "conversation_id": "1974597423285817799",
+        "created_at": "2025-10-04T23:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T00:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974625537634324624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974625537634324624",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974597423285817799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 加拿大有种好吃的水果叫pawpaw来着，明年秋天可以看一下有没有卖的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357,
+          "following_count": 336,
+          "like_count": 3336,
+          "listed_count": 6,
+          "media_count": 299,
+          "tweet_count": 4542
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T02:02:19.000Z",
+        "description": "做个好人，然后昆虫、花妖、左轮手枪",
+        "id": "1937692741305352192",
+        "location": "索科特拉岛",
+        "name": "王断续",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956881227119755264/amZt5xe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 73,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 159
+        },
+        "username": "wangduanxu2007",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1947330734294708559",
+    "created_at": "2025-07-21T16:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T17:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947330734294708559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/horizon_tem/st…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/horizon_tem/status/1947138153250451891",
+          "start": 74,
+          "url": "https://t.co/LkQR5dnlZQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947330734294708559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947138153250451891",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉网上很多说自己喜欢地雷女的人都是什么都不懂的国男...\n没有说地雷女不好的意思，网上好多人都在解构滥用这个词，我其实都不知道地雷女是什么意思了 https://t.co/LkQR5dnlZQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947330734294708559",
+        "created_at": "2025-07-21T16:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T17:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947330734294708559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/horizon_tem/st…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/horizon_tem/status/1947138153250451891",
+              "start": 74,
+              "url": "https://t.co/LkQR5dnlZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947330734294708559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947138153250451891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉网上很多说自己喜欢地雷女的人都是什么都不懂的国男...\n没有说地雷女不好的意思，网上好多人都在解构滥用这个词，我其实都不知道地雷女是什么意思了 https://t.co/LkQR5dnlZQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1947138153250451891",
+        "created_at": "2025-07-21T03:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T04:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947138153250451891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947138153250451891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 16670,
+          "like_count": 157,
+          "quote_count": 8,
+          "reply_count": 93,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢地雷妹的人一般是什么样子？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 284,
+          "like_count": 1558,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2383
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。同班同学 @KunaAkem1 逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "KunaAkem1"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1946959522763059202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946779629358043136/5W74ck-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4113,
+          "following_count": 2189,
+          "like_count": 30960,
+          "listed_count": 10,
+          "media_count": 549,
+          "tweet_count": 10545
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

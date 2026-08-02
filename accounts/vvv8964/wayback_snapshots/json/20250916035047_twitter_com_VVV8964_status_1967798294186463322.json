@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1967393905420484682",
+    "created_at": "2025-09-16T03:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T04:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967798294186463322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1810625971676176384",
+          "start": 0,
+          "username": "RaoulDaisy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967798294186463322",
+    "in_reply_to_user_id": "1810625971676176384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967796491336228866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RaoulDaisy 我好像眼熟这个人 是不是asiatripper上的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1967393905420484682",
+        "created_at": "2025-09-16T03:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T04:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967798294186463322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1810625971676176384",
+              "start": 0,
+              "username": "RaoulDaisy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967798294186463322",
+        "in_reply_to_user_id": "1810625971676176384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967796491336228866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RaoulDaisy 我好像眼熟这个人 是不是asiatripper上的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810625971676176384",
+        "conversation_id": "1967393905420484682",
+        "created_at": "2025-09-16T03:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T04:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967796491336228866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967796491336228866",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967393905420484682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 等我了解下加大🙂‍↔️\nig有个叫calbey的港人一直分享加大weed 可以扫一眼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 333,
+          "like_count": 3024,
+          "listed_count": 4,
+          "media_count": 252,
+          "tweet_count": 4120
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T10:44:18.000Z",
+        "description": "non-Sober",
+        "id": "1810625971676176384",
+        "location": "BIGAPPLE",
+        "name": "R.D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902254715238268928/_TPv5bdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 151,
+          "like_count": 838,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 516
+        },
+        "username": "RaoulDaisy",
+        "verified": true
+      }
+    ]
+  }
+}

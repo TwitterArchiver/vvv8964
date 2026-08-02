@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974727099459223552"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1974727101887762552",
+    "created_at": "2025-10-05T06:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T07:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974727101887762552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LR1zufhgFt",
+          "end": 59,
+          "expanded_url": "https://x.com/VVV8964/status/1974727101887762552/photo/1",
+          "media_key": "3_1974727099459223552",
+          "start": 36,
+          "url": "https://t.co/LR1zufhgFt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974727101887762552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抽点cbd的大麻烟\n埃德蒙顿现在晚上零度都不到，我去阳台抽烟都得穿大衣 https://t.co/LR1zufhgFt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974727099459223552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ej1ZuawAANpZt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974727099459223552"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1974727101887762552",
+        "created_at": "2025-10-05T06:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T07:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974727101887762552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LR1zufhgFt",
+              "end": 59,
+              "expanded_url": "https://x.com/VVV8964/status/1974727101887762552/photo/1",
+              "media_key": "3_1974727099459223552",
+              "start": 36,
+              "url": "https://t.co/LR1zufhgFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974727101887762552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽点cbd的大麻烟\n埃德蒙顿现在晚上零度都不到，我去阳台抽烟都得穿大衣 https://t.co/LR1zufhgFt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 336,
+          "like_count": 3341,
+          "listed_count": 6,
+          "media_count": 300,
+          "tweet_count": 4544
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

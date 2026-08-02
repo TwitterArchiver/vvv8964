@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1918231227209007148",
+    "created_at": "2025-05-02T20:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T21:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918406138867114000"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1918406138867114000",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918231227209007148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "梦到跟其他同学说这个，他们打开我的推特，发现我吸毒了，好尴尬，好害怕他们告诉晶哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1918231227209007148",
+        "created_at": "2025-05-02T20:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T21:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918406138867114000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918406138867114000",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918231227209007148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梦到跟其他同学说这个，他们打开我的推特，发现我吸毒了，好尴尬，好害怕他们告诉晶哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1918231227209007148",
+        "created_at": "2025-05-02T09:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T10:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918231227209007148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918231227209007148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "微信朋友圈发现初中同学的推号了，看她发自己的画，好想关注她一起玩耍，但是不想她发现我吸毒，只能点个收藏标记一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 179,
+          "like_count": 392,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 1141
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1971318457066230009",
+    "created_at": "2025-09-25T20:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T21:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971318458450342056"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1971318458450342056",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971318457066230009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以就是房租+生活费2000刀左右，一年也是10w人民币左右，加起来20w人民币\n本来我在纠结是去上海读国际高还是去加拿大读高中的，但是上海也差不多这个价，可能还融不进富蛆同学社交圈被孤立，加上我当时太讨厌中国了，所以就决定去加拿大读高中了，这是个好决定。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1971318457066230009",
+        "created_at": "2025-09-25T20:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T21:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971318458450342056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971318458450342056",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971318457066230009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以就是房租+生活费2000刀左右，一年也是10w人民币左右，加起来20w人民币\n本来我在纠结是去上海读国际高还是去加拿大读高中的，但是上海也差不多这个价，可能还融不进富蛆同学社交圈被孤立，加上我当时太讨厌中国了，所以就决定去加拿大读高中了，这是个好决定。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1971318457066230009",
+        "created_at": "2025-09-25T20:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T21:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971318457066230009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971318457066230009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我在加拿大上高中的花费比我想的便宜\n学费一年10w人民币左右\n房租一个月1300刀左右，本来是2000刀包吃的，但是我房东是爹妈朋友，一是我爹妈不想麻烦他们做菜，二是他们做菜难吃，三是他们作息阴间，所以我就自己做菜了，不仅好吃还能随时决定自己吃什么，给我大学独立生活也能打下基础"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 333,
+          "like_count": 3170,
+          "listed_count": 5,
+          "media_count": 271,
+          "tweet_count": 4310
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

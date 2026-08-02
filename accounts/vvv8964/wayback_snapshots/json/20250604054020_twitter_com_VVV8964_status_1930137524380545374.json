@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1930137524380545374",
+    "created_at": "2025-06-04T05:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T06:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930137524380545374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/love__bbh__lks…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/love__bbh__lks/status/1929731004081848676",
+          "start": 56,
+          "url": "https://t.co/BySPwNXiUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930137524380545374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929731004081848676",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我之前也很魔怔，休学的时候天天在家里敲键盘搞对立，直到我回归现实，发现现实里身边的都是比较正常的人，变成岁静了 https://t.co/BySPwNXiUd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1930137524380545374",
+        "created_at": "2025-06-04T05:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T06:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930137524380545374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/love__bbh__lks…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/love__bbh__lks/status/1929731004081848676",
+              "start": 56,
+              "url": "https://t.co/BySPwNXiUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930137524380545374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929731004081848676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我之前也很魔怔，休学的时候天天在家里敲键盘搞对立，直到我回归现实，发现现实里身边的都是比较正常的人，变成岁静了 https://t.co/BySPwNXiUd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619021081238732802",
+        "conversation_id": "1929731004081848676",
+        "created_at": "2025-06-03T02:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T03:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929731004081848676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929731004081848676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 22562,
+          "like_count": 377,
+          "quote_count": 7,
+          "reply_count": 30,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "唉，满脑子都是男拳女拳男女对立的你其实不太适合搞人文社科知道吗，你狭隘的思想里面容纳不了对人类整体最朴素的关怀和共情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 244,
+          "like_count": 764,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 1694
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T17:14:49.000Z",
+        "description": "清水碎碎念，别骚扰我。问隐私打钱发口令，可以喊我小柳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/love__bbh__lks",
+                "end": 23,
+                "expanded_url": "https://ngl.link/love__bbh__lks",
+                "start": 0,
+                "url": "https://t.co/oiNSPSRA4t"
+              }
+            ]
+          }
+        },
+        "id": "1619021081238732802",
+        "location": "匿名信箱👉🏻",
+        "name": "珏",
+        "pinned_tweet_id": "1891429284020957559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891325267286900736/PG6jOCBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 232,
+          "like_count": 17372,
+          "listed_count": 4,
+          "media_count": 1358,
+          "tweet_count": 10672
+        },
+        "url": "https://t.co/oiNSPSRA4t",
+        "username": "love__bbh__lks",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1931355458708906403",
+    "created_at": "2025-06-08T05:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T06:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931591466259767633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1732759010355339264",
+          "start": 0,
+          "username": "oOxaliSs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931591466259767633",
+    "in_reply_to_user_id": "1732759010355339264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931574365155713404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oOxaliSs 我们怀念他"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1931574365155713404].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1931574365155713404",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1931574365155713404"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1931355458708906403",
+        "created_at": "2025-06-08T05:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T06:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931591466259767633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732759010355339264",
+              "start": 0,
+              "username": "oOxaliSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931591466259767633",
+        "in_reply_to_user_id": "1732759010355339264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931574365155713404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oOxaliSs 我们怀念他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 244,
+          "like_count": 795,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 1745
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T13:49:09.000Z",
+        "description": "enby｜蘑菇恐龙猫头鹰🍄🦖🦉｜省流：嗑药的AS变态birder｜ iMAO（单胺氧化酶）tv｜比较恶趣味，但是无害｜不是很明白社交平台守则请多包含🙂‍↕️ ｜米线非常玄学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2ZsWq7zlUwBjY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2ZsWq7zlUwBjYWE1",
+                "start": 0,
+                "url": "https://t.co/7mtuwehe1Y"
+              }
+            ]
+          }
+        },
+        "id": "1732759010355339264",
+        "location": "they/them/ta/他",
+        "name": "oOxaliSs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732781379421921280/v1gUWytM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 560,
+          "like_count": 20369,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 2906
+        },
+        "url": "https://t.co/7mtuwehe1Y",
+        "username": "oOxaliSs",
+        "verified": false
+      }
+    ]
+  }
+}

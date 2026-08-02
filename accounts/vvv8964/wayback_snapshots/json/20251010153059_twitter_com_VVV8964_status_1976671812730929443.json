@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1976671812730929443",
+    "created_at": "2025-10-10T15:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T16:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976671812730929443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kiss_u_back/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/kiss_u_back/status/1976670457781977254",
+          "start": 15,
+          "url": "https://t.co/EI71iolppN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976671812730929443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976670457781977254",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "疑似跟小女友撞属性了怎么办？ https://t.co/EI71iolppN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1976671812730929443",
+        "created_at": "2025-10-10T15:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T16:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976671812730929443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kiss_u_back/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/kiss_u_back/status/1976670457781977254",
+              "start": 15,
+              "url": "https://t.co/EI71iolppN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976671812730929443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976670457781977254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "疑似跟小女友撞属性了怎么办？ https://t.co/EI71iolppN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944351426827735040",
+        "conversation_id": "1976670457781977254",
+        "created_at": "2025-10-10T15:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T16:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976670457781977254"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976670457781977254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "vvv太温柔让本brat完全不听指挥怎么办？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 334,
+          "like_count": 3451,
+          "listed_count": 6,
+          "media_count": 310,
+          "tweet_count": 4627
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "已死勿call 我不稳定 我是疯狗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccccindy11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ccccindy11",
+                "start": 0,
+                "url": "https://t.co/5cwDcyH0re"
+              }
+            ]
+          }
+        },
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1957691726635888962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950024167241502722/DbHwNpOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 95,
+          "like_count": 647,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 666
+        },
+        "url": "https://t.co/5cwDcyH0re",
+        "username": "kiss_u_back",
+        "verified": false
+      }
+    ]
+  }
+}

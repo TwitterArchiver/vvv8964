@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920364003714347008",
+        "3_1920364003877892096",
+        "3_1920364004016263168",
+        "3_1920364004607688704"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1920364007392755944",
+    "created_at": "2025-05-08T06:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T07:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920364007392755944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KiPnCuMDo7",
+          "end": 164,
+          "expanded_url": "https://x.com/VVV8964/status/1920364007392755944/photo/1",
+          "media_key": "3_1920364003714347008",
+          "start": 141,
+          "url": "https://t.co/KiPnCuMDo7"
+        },
+        {
+          "display_url": "pic.x.com/KiPnCuMDo7",
+          "end": 164,
+          "expanded_url": "https://x.com/VVV8964/status/1920364007392755944/photo/1",
+          "media_key": "3_1920364003877892096",
+          "start": 141,
+          "url": "https://t.co/KiPnCuMDo7"
+        },
+        {
+          "display_url": "pic.x.com/KiPnCuMDo7",
+          "end": 164,
+          "expanded_url": "https://x.com/VVV8964/status/1920364007392755944/photo/1",
+          "media_key": "3_1920364004016263168",
+          "start": 141,
+          "url": "https://t.co/KiPnCuMDo7"
+        },
+        {
+          "display_url": "pic.x.com/KiPnCuMDo7",
+          "end": 164,
+          "expanded_url": "https://x.com/VVV8964/status/1920364007392755944/photo/1",
+          "media_key": "3_1920364004607688704",
+          "start": 141,
+          "url": "https://t.co/KiPnCuMDo7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920364007392755944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要化身美食博主了，斥巨资100刀，来到温哥华的日料餐厅miku\n和街边的老中寿司不一样，这里的员工基本上都是太君\n上次来的时候吃了大麻增强食欲，这次来的时候没有大麻，还是挺好吃的，本来以为这种高级餐厅分量都很少，但是实际上吃的很饱，可能是因为我放学的时候吃了点饼干预先填饱肚子了 https://t.co/KiPnCuMDo7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1920364003714347008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqaA4wjXMAAkgQC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1920364003877892096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqaA4xKWsAApSvm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1920364004016263168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqaA4xrWEAAh1QD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1920364004607688704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqaA4z4WgAAX7_S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920364003714347008",
+            "3_1920364003877892096",
+            "3_1920364004016263168",
+            "3_1920364004607688704"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1920364007392755944",
+        "created_at": "2025-05-08T06:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T07:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920364007392755944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KiPnCuMDo7",
+              "end": 164,
+              "expanded_url": "https://x.com/VVV8964/status/1920364007392755944/photo/1",
+              "media_key": "3_1920364003714347008",
+              "start": 141,
+              "url": "https://t.co/KiPnCuMDo7"
+            },
+            {
+              "display_url": "pic.x.com/KiPnCuMDo7",
+              "end": 164,
+              "expanded_url": "https://x.com/VVV8964/status/1920364007392755944/photo/1",
+              "media_key": "3_1920364003877892096",
+              "start": 141,
+              "url": "https://t.co/KiPnCuMDo7"
+            },
+            {
+              "display_url": "pic.x.com/KiPnCuMDo7",
+              "end": 164,
+              "expanded_url": "https://x.com/VVV8964/status/1920364007392755944/photo/1",
+              "media_key": "3_1920364004016263168",
+              "start": 141,
+              "url": "https://t.co/KiPnCuMDo7"
+            },
+            {
+              "display_url": "pic.x.com/KiPnCuMDo7",
+              "end": 164,
+              "expanded_url": "https://x.com/VVV8964/status/1920364007392755944/photo/1",
+              "media_key": "3_1920364004607688704",
+              "start": 141,
+              "url": "https://t.co/KiPnCuMDo7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920364007392755944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要化身美食博主了，斥巨资100刀，来到温哥华的日料餐厅miku\n和街边的老中寿司不一样，这里的员工基本上都是太君\n上次来的时候吃了大麻增强食欲，这次来的时候没有大麻，还是挺好吃的，本来以为这种高级餐厅分量都很少，但是实际上吃的很饱，可能是因为我放学的时候吃了点饼干预先填饱肚子了 https://t.co/KiPnCuMDo7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 184,
+          "like_count": 420,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 1188
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

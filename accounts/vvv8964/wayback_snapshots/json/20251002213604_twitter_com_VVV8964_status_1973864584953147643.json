@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1973864584953147643",
+    "created_at": "2025-10-02T21:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T22:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973864584953147643"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1973864584953147643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本来以为只有加拿大能爽吃蘑菇 昨天突然刷到中国也有不少埋包的 虽然中国晶哥抓的很严\n如果有一天我沦落回国了 也不是不能接受 毕竟我吃蘑菇吃的也不多 买一次够我吃一两年了估计 除了蘑菇和普瑞我也没什么特别想要的药了 如果有那就是vyvanse 这个中国确实不好搞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1973864584953147643",
+        "created_at": "2025-10-02T21:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T22:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973864584953147643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973864584953147643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来以为只有加拿大能爽吃蘑菇 昨天突然刷到中国也有不少埋包的 虽然中国晶哥抓的很严\n如果有一天我沦落回国了 也不是不能接受 毕竟我吃蘑菇吃的也不多 买一次够我吃一两年了估计 除了蘑菇和普瑞我也没什么特别想要的药了 如果有那就是vyvanse 这个中国确实不好搞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 338,
+          "like_count": 3314,
+          "listed_count": 6,
+          "media_count": 294,
+          "tweet_count": 4491
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

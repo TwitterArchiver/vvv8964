@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1938885892053340209",
+    "created_at": "2025-06-29T08:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T09:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939244340997750811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1870808293838573568",
+          "start": 0,
+          "username": "wanzi4416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939244340997750811",
+    "in_reply_to_user_id": "1870808293838573568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938885892053340209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanzi4416 我也喜欢这个啤酒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938885879021608961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuhOby8aoAEgxpx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1938885892053340209",
+        "created_at": "2025-06-29T08:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T09:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939244340997750811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1870808293838573568",
+              "start": 0,
+              "username": "wanzi4416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939244340997750811",
+        "in_reply_to_user_id": "1870808293838573568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938885892053340209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanzi4416 我也喜欢这个啤酒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938885879021608961"
+          ]
+        },
+        "author_id": "1870808293838573568",
+        "conversation_id": "1938885892053340209",
+        "created_at": "2025-06-28T09:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T10:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938885892053340209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cLdO84Dtm1",
+              "end": 34,
+              "expanded_url": "https://x.com/wanzi4416/status/1938885892053340209/photo/1",
+              "media_key": "3_1938885879021608961",
+              "start": 11,
+              "url": "https://t.co/cLdO84Dtm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938885892053340209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🍻\n今晚要大吃特吃！ https://t.co/cLdO84Dtm1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 260,
+          "like_count": 1012,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1983
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T12:27:19.000Z",
+        "description": "08｜顺女｜istp｜日常推｜猫猫领养人@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1870808293838573568",
+        "name": "丸🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930777131635859456/H4QWg6Jo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 120,
+          "like_count": 3055,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 606
+        },
+        "username": "wanzi4416",
+        "verified": false
+      }
+    ]
+  }
+}

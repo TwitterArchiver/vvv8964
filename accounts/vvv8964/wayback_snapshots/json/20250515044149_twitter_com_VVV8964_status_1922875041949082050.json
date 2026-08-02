@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1922875041949082050",
+    "created_at": "2025-05-15T04:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T05:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922875041949082050"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1922875041949082050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1t普瑞，偶尔吃一次感觉还不错。去年九月到现在吃了四十多次，总共6克，而这居然是有些人一次的量。平均下来我每周一次，还是比较健全的使用了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1922875041949082050",
+        "created_at": "2025-05-15T04:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T05:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922875041949082050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922875041949082050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1t普瑞，偶尔吃一次感觉还不错。去年九月到现在吃了四十多次，总共6克，而这居然是有些人一次的量。平均下来我每周一次，还是比较健全的使用了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 200,
+          "like_count": 470,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 1326
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

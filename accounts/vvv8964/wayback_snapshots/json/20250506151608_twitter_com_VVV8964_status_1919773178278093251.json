@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1919773178278093251",
+    "created_at": "2025-05-06T15:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T16:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919773178278093251"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1919773178278093251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "普瑞的宿醉给我一种轻微的无力感，不会强制我很困，但是有点想在床上多睡一会，感觉胸腔都被打开了，整个身体都很放松\n这是我在150mg下的效果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1919773178278093251",
+        "created_at": "2025-05-06T15:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T16:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919773178278093251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919773178278093251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞的宿醉给我一种轻微的无力感，不会强制我很困，但是有点想在床上多睡一会，感觉胸腔都被打开了，整个身体都很放松\n这是我在150mg下的效果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 184,
+          "like_count": 416,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 1175
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

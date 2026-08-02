@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1872570150698004660",
+    "created_at": "2024-12-27T19:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T20:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872724506483278158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1226849579951243266",
+          "start": 0,
+          "username": "beiwoiscat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872724506483278158",
+    "in_reply_to_user_id": "1226849579951243266",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872570150698004660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beiwoiscat Psywiki journal吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1872570150698004660",
+        "created_at": "2024-12-27T19:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T20:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872724506483278158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1226849579951243266",
+              "start": 0,
+              "username": "beiwoiscat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872724506483278158",
+        "in_reply_to_user_id": "1226849579951243266",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872570150698004660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beiwoiscat Psywiki journal吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226849579951243266",
+        "conversation_id": "1872570150698004660",
+        "created_at": "2024-12-27T09:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T10:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872570150698004660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872570150698004660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有实时追踪药物起效或者血液浓度 app？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 138,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 548
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:45:17.000Z",
+        "description": "叫我被窝就行 ｜性别🐱（生理男） 06/150.9cm/44kg 雙相一型 重躁重鬱 ADHD |抱歉呢希望你這輩子不會再遇到像我一樣糟糕的人",
+        "id": "1226849579951243266",
+        "location": "離我再近一點",
+        "name": "被窩總有一天會變成貓",
+        "pinned_tweet_id": "1872185697702170681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840690366053564416/ullCQ_ls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 1166,
+          "like_count": 13791,
+          "listed_count": 4,
+          "media_count": 1095,
+          "tweet_count": 7452
+        },
+        "username": "beiwoiscat",
+        "verified": false
+      }
+    ]
+  }
+}

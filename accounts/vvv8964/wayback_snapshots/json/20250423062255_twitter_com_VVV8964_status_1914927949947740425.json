@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1914927949947740425",
+    "created_at": "2025-04-23T06:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T07:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914927949947740425"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1914927949947740425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么会有人这么喜欢艾灸，我在中国我妈就天天搞这个，镜子上都起雾了，我来温哥华了我房东也搞这个，真的头晕眼花了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1914927949947740425",
+        "created_at": "2025-04-23T06:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T07:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914927949947740425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914927949947740425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么会有人这么喜欢艾灸，我在中国我妈就天天搞这个，镜子上都起雾了，我来温哥华了我房东也搞这个，真的头晕眼花了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 176,
+          "like_count": 389,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 1091
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

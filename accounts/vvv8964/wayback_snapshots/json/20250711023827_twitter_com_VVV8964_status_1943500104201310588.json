@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943474403989467261",
+    "created_at": "2025-07-11T02:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T03:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943500104201310588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1810625971676176384",
+          "start": 0,
+          "username": "RaoulDaisy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943500104201310588",
+    "in_reply_to_user_id": "1810625971676176384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943497503166378422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RaoulDaisy 巧克力和铁观音"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943474403989467261",
+        "created_at": "2025-07-11T02:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T03:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943500104201310588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1810625971676176384",
+              "start": 0,
+              "username": "RaoulDaisy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943500104201310588",
+        "in_reply_to_user_id": "1810625971676176384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943497503166378422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RaoulDaisy 巧克力和铁观音"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810625971676176384",
+        "conversation_id": "1943474403989467261",
+        "created_at": "2025-07-11T02:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T03:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943497503166378422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943497503166378422",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943474403989467261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 是什么口味双拼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 274,
+          "like_count": 1321,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 2222
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T10:44:18.000Z",
+        "description": "TRIPPING WITHOUT SOBER/娱乐/业余",
+        "id": "1810625971676176384",
+        "location": "Union Square, Manhattan",
+        "name": "R.D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902254715238268928/_TPv5bdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 154,
+          "like_count": 842,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 469
+        },
+        "username": "RaoulDaisy",
+        "verified": true
+      }
+    ]
+  }
+}

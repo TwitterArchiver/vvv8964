@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1971279474412093441",
+    "created_at": "2025-09-25T18:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T19:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971283565464924332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658664482632253441",
+          "start": 0,
+          "username": "jujube8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971283565464924332",
+    "in_reply_to_user_id": "1658664482632253441",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971279474412093441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jujube8964 😱😱😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_1971279470750523392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1tkO_8a4AA6pxi.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1971279474412093441",
+        "created_at": "2025-09-25T18:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T19:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971283565464924332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1658664482632253441",
+              "start": 0,
+              "username": "jujube8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971283565464924332",
+        "in_reply_to_user_id": "1658664482632253441",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971279474412093441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jujube8964 😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971279470750523392"
+          ]
+        },
+        "author_id": "1658664482632253441",
+        "conversation_id": "1971279474412093441",
+        "created_at": "2025-09-25T18:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T19:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971279474412093441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+              "display_url": "infintytweet.me/secret-stalker…",
+              "end": 47,
+              "expanded_url": "https://infintytweet.me/secret-stalker?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1970791652509077504/v3yGm2uS?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1970791652509077504/v3yGm2uS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "Secret Stalkers • Infinitweet",
+              "unwound_url": "https://infintytweet.me/secret-stalker?lang=zh",
+              "url": "https://t.co/wEGdikmPht"
+            },
+            {
+              "display_url": "pic.x.com/aAyVpp0N56",
+              "end": 71,
+              "expanded_url": "https://x.com/jujube8964/status/1971279474412093441/photo/1",
+              "media_key": "3_1971279470750523392",
+              "start": 48,
+              "url": "https://t.co/aAyVpp0N56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971279474412093441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/wEGdikmPht https://t.co/aAyVpp0N56"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 333,
+          "like_count": 3161,
+          "listed_count": 5,
+          "media_count": 271,
+          "tweet_count": 4295
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T02:43:36.000Z",
+        "description": "🇨🇳🇨🇳我不懂什么卖淫赌博吸毒。我是三好学生，我是少先队员。我从来没有发表过对国家不利的消息。我爱国爱党爱社会。我始终坚持拥护中国共产党的领导与党的教诲，在中国共产党的领导下为社会添砖加瓦，为实现中华民族的伟大复兴，为社会主义的建设做贡献。我深知即使个人的力量渺小，也可以融入国家的整体。🇨🇳🇨🇳",
+        "id": "1658664482632253441",
+        "location": "党的光芒照耀下的每一寸伟大中国的领土",
+        "name": "党的光辉照冬枣",
+        "pinned_tweet_id": "1970884534037266847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964614874266521600/6X-PARwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 479,
+          "like_count": 1772,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 2498
+        },
+        "username": "jujube8964",
+        "verified": false
+      }
+    ]
+  }
+}

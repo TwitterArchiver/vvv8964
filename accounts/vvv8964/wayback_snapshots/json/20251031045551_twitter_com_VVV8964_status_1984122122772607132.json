@@ -1,0 +1,874 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983987235994411008"
+      ],
+      "media_source_tweet_id": [
+        "1983987247059030117"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Sydney Sweeney",
+          "id": "1011696140805287937",
+          "name": "Sydney Sweeney"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Sydney Sweeney",
+          "id": "1011696140805287937",
+          "name": "Sydney Sweeney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Events",
+          "id": "845345515667566592",
+          "name": "Fashion events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fashion Events",
+          "id": "845345515667566592",
+          "name": "Fashion events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sydney Sweeney",
+          "id": "1011696140805287937",
+          "name": "Sydney Sweeney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296818513844166657",
+          "name": "New York Fashion Week"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Fashion Week",
+          "id": "845350255436546048",
+          "name": "Fashion Week"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Events",
+          "id": "845345515667566592",
+          "name": "Fashion events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Fashion Week",
+          "id": "845350255436546048",
+          "name": "Fashion Week"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1620199337190891521",
+          "name": "New York Fashion Week 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Your front row seat to all things #NYFW - September 6 - 11th, 2024  ",
+          "id": "1831343266144440320",
+          "name": "New York Fashion Week Womenswear SS25"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Your front row seat to all things #PFW- Sept 24th - October 1st, 2024\n@KonbiniFr 📷",
+          "id": "1831369168467185664",
+          "name": "Paris Fashion Week 2024 Womenswear SS25"
+        }
+      }
+    ],
+    "conversation_id": "1984122122772607132",
+    "created_at": "2025-10-31T04:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T05:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984122122772607132"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Sydney Sweeney",
+          "probability": 0.9597,
+          "start": 21,
+          "type": "Person"
+        },
+        {
+          "end": 46,
+          "normalized_text": "New York",
+          "probability": 0.5583,
+          "start": 39,
+          "type": "Other"
+        },
+        {
+          "end": 59,
+          "normalized_text": "Week",
+          "probability": 0.5503,
+          "start": 56,
+          "type": "Other"
+        },
+        {
+          "end": 69,
+          "normalized_text": "Zohran",
+          "probability": 0.4118,
+          "start": 64,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1355945100216573952",
+          "start": 3,
+          "username": "dogeofficialceo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZMxxL9kx4B",
+          "end": 108,
+          "expanded_url": "https://x.com/dogeofficialceo/status/1983987247059030117/photo/1",
+          "media_key": "3_1983987235994411008",
+          "start": 85,
+          "url": "https://t.co/ZMxxL9kx4B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984122122772607132",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 526
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983987247059030117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dogeofficialceo: Sydney Sweeney at New York Fashion Week if Zohran becomes Mayor https://t.co/ZMxxL9kx4B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1983987235994411008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4iJ4ShbIAA9rzs.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983987235994411008"
+          ],
+          "media_source_tweet_id": [
+            "1983987247059030117"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Sydney Sweeney",
+              "id": "1011696140805287937",
+              "name": "Sydney Sweeney"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Sydney Sweeney",
+              "id": "1011696140805287937",
+              "name": "Sydney Sweeney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Events",
+              "id": "845345515667566592",
+              "name": "Fashion events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion Events",
+              "id": "845345515667566592",
+              "name": "Fashion events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sydney Sweeney",
+              "id": "1011696140805287937",
+              "name": "Sydney Sweeney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296818513844166657",
+              "name": "New York Fashion Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Fashion Week",
+              "id": "845350255436546048",
+              "name": "Fashion Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Events",
+              "id": "845345515667566592",
+              "name": "Fashion events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fashion Week",
+              "id": "845350255436546048",
+              "name": "Fashion Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1620199337190891521",
+              "name": "New York Fashion Week 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Your front row seat to all things #NYFW - September 6 - 11th, 2024  ",
+              "id": "1831343266144440320",
+              "name": "New York Fashion Week Womenswear SS25"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Your front row seat to all things #PFW- Sept 24th - October 1st, 2024\n@KonbiniFr 📷",
+              "id": "1831369168467185664",
+              "name": "Paris Fashion Week 2024 Womenswear SS25"
+            }
+          }
+        ],
+        "conversation_id": "1984122122772607132",
+        "created_at": "2025-10-31T04:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T05:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984122122772607132"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Sydney Sweeney",
+              "probability": 0.9597,
+              "start": 21,
+              "type": "Person"
+            },
+            {
+              "end": 46,
+              "normalized_text": "New York",
+              "probability": 0.5583,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "Week",
+              "probability": 0.5503,
+              "start": 56,
+              "type": "Other"
+            },
+            {
+              "end": 69,
+              "normalized_text": "Zohran",
+              "probability": 0.4118,
+              "start": 64,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1355945100216573952",
+              "start": 3,
+              "username": "dogeofficialceo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMxxL9kx4B",
+              "end": 108,
+              "expanded_url": "https://x.com/dogeofficialceo/status/1983987247059030117/photo/1",
+              "media_key": "3_1983987235994411008",
+              "start": 85,
+              "url": "https://t.co/ZMxxL9kx4B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984122122772607132",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 526
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983987247059030117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dogeofficialceo: Sydney Sweeney at New York Fashion Week if Zohran becomes Mayor https://t.co/ZMxxL9kx4B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983987235994411008"
+          ]
+        },
+        "author_id": "1355945100216573952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Sydney Sweeney",
+              "id": "1011696140805287937",
+              "name": "Sydney Sweeney"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Sydney Sweeney",
+              "id": "1011696140805287937",
+              "name": "Sydney Sweeney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Events",
+              "id": "845345515667566592",
+              "name": "Fashion events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion Events",
+              "id": "845345515667566592",
+              "name": "Fashion events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sydney Sweeney",
+              "id": "1011696140805287937",
+              "name": "Sydney Sweeney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296818513844166657",
+              "name": "New York Fashion Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Fashion Week",
+              "id": "845350255436546048",
+              "name": "Fashion Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Events",
+              "id": "845345515667566592",
+              "name": "Fashion events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fashion Week",
+              "id": "845350255436546048",
+              "name": "Fashion Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1620199337190891521",
+              "name": "New York Fashion Week 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Your front row seat to all things #NYFW - September 6 - 11th, 2024  ",
+              "id": "1831343266144440320",
+              "name": "New York Fashion Week Womenswear SS25"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Your front row seat to all things #PFW- Sept 24th - October 1st, 2024\n@KonbiniFr 📷",
+              "id": "1831369168467185664",
+              "name": "Paris Fashion Week 2024 Womenswear SS25"
+            }
+          }
+        ],
+        "conversation_id": "1983987247059030117",
+        "created_at": "2025-10-30T19:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T20:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983987247059030117"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "Sydney Sweeney",
+              "probability": 0.9569,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 25,
+              "normalized_text": "New York",
+              "probability": 0.6829,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 38,
+              "normalized_text": "Week",
+              "probability": 0.6074,
+              "start": 35,
+              "type": "Other"
+            },
+            {
+              "end": 48,
+              "normalized_text": "Zohran",
+              "probability": 0.3518,
+              "start": 43,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMxxL9kx4B",
+              "end": 87,
+              "expanded_url": "https://x.com/dogeofficialceo/status/1983987247059030117/photo/1",
+              "media_key": "3_1983987235994411008",
+              "start": 64,
+              "url": "https://t.co/ZMxxL9kx4B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983987247059030117",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 208,
+          "impression_count": 303094,
+          "like_count": 11759,
+          "quote_count": 50,
+          "reply_count": 199,
+          "retweet_count": 526
+        },
+        "reply_settings": "everyone",
+        "text": "Sydney Sweeney at New York Fashion Week if Zohran becomes Mayor https://t.co/ZMxxL9kx4B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 350,
+          "like_count": 3745,
+          "listed_count": 9,
+          "media_count": 389,
+          "tweet_count": 4981
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-31T18:24:47.000Z",
+        "description": "Protector of Coin 🐶🪙 Self-proclaimed king of memes 👑🇮🇪",
+        "id": "1355945100216573952",
+        "location": "𝕏Ð",
+        "name": "Sir Doge of the Coin ⚔️",
+        "pinned_tweet_id": "1983962821173112937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608804759258939392/7z_cf2bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436468,
+          "following_count": 660,
+          "like_count": 353173,
+          "listed_count": 1622,
+          "media_count": 23334,
+          "tweet_count": 89165
+        },
+        "username": "dogeofficialceo",
+        "verified": true
+      }
+    ]
+  }
+}

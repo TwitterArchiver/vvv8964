@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "1984039513073840327",
+    "created_at": "2025-10-30T23:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T00:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984039513073840327"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "GPT-6",
+          "probability": 0.8078,
+          "start": 10,
+          "type": "Other"
+        },
+        {
+          "end": 34,
+          "normalized_text": "GPT",
+          "probability": 0.7044,
+          "start": 32,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1605",
+          "start": 3,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984039513073840327",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 426
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984025727763935585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sama: GPT-6 will be renamed GPT-6-7, you're welcome"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "1984039513073840327",
+        "created_at": "2025-10-30T23:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T00:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984039513073840327"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "GPT-6",
+              "probability": 0.8078,
+              "start": 10,
+              "type": "Other"
+            },
+            {
+              "end": 34,
+              "normalized_text": "GPT",
+              "probability": 0.7044,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1605",
+              "start": 3,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984039513073840327",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 426
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984025727763935585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sama: GPT-6 will be renamed GPT-6-7, you're welcome"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "1984025727763935585",
+        "created_at": "2025-10-30T22:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T23:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984025727763935585"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "GPT-6",
+              "probability": 0.8393,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 24,
+              "normalized_text": "GPT",
+              "probability": 0.6949,
+              "start": 22,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984025727763935585",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 284,
+          "impression_count": 298205,
+          "like_count": 6348,
+          "quote_count": 271,
+          "reply_count": 1104,
+          "retweet_count": 426
+        },
+        "reply_settings": "everyone",
+        "text": "GPT-6 will be renamed GPT-6-7, you're welcome"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667,
+          "following_count": 350,
+          "like_count": 3744,
+          "listed_count": 9,
+          "media_count": 385,
+          "tweet_count": 4975
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4084619,
+          "following_count": 973,
+          "like_count": 1025,
+          "listed_count": 24961,
+          "media_count": 375,
+          "tweet_count": 7264
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

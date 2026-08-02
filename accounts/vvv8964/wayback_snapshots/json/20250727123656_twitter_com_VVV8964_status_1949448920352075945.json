@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1949442574210760771",
+    "created_at": "2025-07-27T12:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T13:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949448920352075945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1573863666000224256",
+          "start": 0,
+          "username": "Futuristic2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949448920352075945",
+    "in_reply_to_user_id": "1573863666000224256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949448196003942447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Futuristic2007 我说着玩的，我才不o这玩意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1949442574210760771",
+        "created_at": "2025-07-27T12:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T13:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949448920352075945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1573863666000224256",
+              "start": 0,
+              "username": "Futuristic2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949448920352075945",
+        "in_reply_to_user_id": "1573863666000224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949448196003942447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Futuristic2007 我说着玩的，我才不o这玩意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573863666000224256",
+        "conversation_id": "1949442574210760771",
+        "created_at": "2025-07-27T12:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T13:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949448196003942447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949448196003942447",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949442574210760771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 可，第一次建议12t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 293,
+          "like_count": 1731,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 2566
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T02:36:14.000Z",
+        "description": "26届高三牲😭/dser/最近很幸福✨/希望大家也都可以找到自己热爱的事情并过上充实的生活哦❤️/永远是中推圈的过客🥹",
+        "id": "1573863666000224256",
+        "location": "People's Republic of China",
+        "name": "过客·Futuristic History",
+        "pinned_tweet_id": "1890321283470266672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915598098606546945/Hm_FVz3k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 605,
+          "like_count": 125693,
+          "listed_count": 2,
+          "media_count": 1012,
+          "tweet_count": 23340
+        },
+        "username": "Futuristic2007",
+        "verified": true
+      }
+    ]
+  }
+}

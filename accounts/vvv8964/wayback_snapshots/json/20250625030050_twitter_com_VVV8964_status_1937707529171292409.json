@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937707526642192384"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1937707529171292409",
+    "created_at": "2025-06-25T03:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T04:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937707529171292409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y1yzrG878y",
+          "end": 72,
+          "expanded_url": "https://x.com/VVV8964/status/1937707529171292409/photo/1",
+          "media_key": "3_1937707526642192384",
+          "start": 49,
+          "url": "https://t.co/y1yzrG878y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937707529171292409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "sb沃尔玛，买了一堆炸鸡酱料甜点小吃准备晚上边看剧边吃，结果给我送错了，送过来个大白菜，气死我了 https://t.co/y1yzrG878y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937707526642192384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuQeuqQb0AAzzkG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937707526642192384"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1937707529171292409",
+        "created_at": "2025-06-25T03:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T04:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937707529171292409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1yzrG878y",
+              "end": 72,
+              "expanded_url": "https://x.com/VVV8964/status/1937707529171292409/photo/1",
+              "media_key": "3_1937707526642192384",
+              "start": 49,
+              "url": "https://t.co/y1yzrG878y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937707529171292409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "sb沃尔玛，买了一堆炸鸡酱料甜点小吃准备晚上边看剧边吃，结果给我送错了，送过来个大白菜，气死我了 https://t.co/y1yzrG878y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 250,
+          "like_count": 929,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 1886
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

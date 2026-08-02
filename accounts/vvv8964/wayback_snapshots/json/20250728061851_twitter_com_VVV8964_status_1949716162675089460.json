@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1949716116038717644",
+    "created_at": "2025-07-28T06:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T07:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949716162675089460"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1949716162675089460",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949716116038717644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补发一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949716104450134016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw7Id4qb0AA9ObG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949716102512254976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw7IdxcaIAAOgV9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949716111609786368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw7IeTVbcAAMpg9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949716107658776576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw7IeEnb0AAtBhl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1949716116038717644",
+        "created_at": "2025-07-28T06:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T07:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949716162675089460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949716162675089460",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949716116038717644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补发一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949716104450134016",
+            "3_1949716102512254976",
+            "3_1949716111609786368",
+            "3_1949716107658776576"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949716116038717644",
+        "created_at": "2025-07-28T06:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T07:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949716116038717644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1011854647642939392",
+              "start": 1,
+              "username": "netai_nemurenai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hjr5KT4HtW",
+              "end": 41,
+              "expanded_url": "https://x.com/VVV8964/status/1949716116038717644/photo/1",
+              "media_key": "3_1949716104450134016",
+              "start": 18,
+              "url": "https://t.co/Hjr5KT4HtW"
+            },
+            {
+              "display_url": "pic.x.com/Hjr5KT4HtW",
+              "end": 41,
+              "expanded_url": "https://x.com/VVV8964/status/1949716116038717644/photo/1",
+              "media_key": "3_1949716102512254976",
+              "start": 18,
+              "url": "https://t.co/Hjr5KT4HtW"
+            },
+            {
+              "display_url": "pic.x.com/Hjr5KT4HtW",
+              "end": 41,
+              "expanded_url": "https://x.com/VVV8964/status/1949716116038717644/photo/1",
+              "media_key": "3_1949716111609786368",
+              "start": 18,
+              "url": "https://t.co/Hjr5KT4HtW"
+            },
+            {
+              "display_url": "pic.x.com/Hjr5KT4HtW",
+              "end": 41,
+              "expanded_url": "https://x.com/VVV8964/status/1949716116038717644/photo/1",
+              "media_key": "3_1949716107658776576",
+              "start": 18,
+              "url": "https://t.co/Hjr5KT4HtW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949716116038717644",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@netai_nemurenai https://t.co/Hjr5KT4HtW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 298,
+          "like_count": 1772,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 2599
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

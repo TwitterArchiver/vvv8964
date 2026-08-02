@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1939743361272783314",
+    "created_at": "2025-06-30T20:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T21:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939786741722067395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1434608964629639168",
+          "start": 0,
+          "username": "Sharkie_4005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939786741722067395",
+    "in_reply_to_user_id": "1434608964629639168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939743361272783314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sharkie_4005 是ganada吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1939743361272783314",
+        "created_at": "2025-06-30T20:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T21:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939786741722067395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1434608964629639168",
+              "start": 0,
+              "username": "Sharkie_4005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939786741722067395",
+        "in_reply_to_user_id": "1434608964629639168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939743361272783314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sharkie_4005 是ganada吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434608964629639168",
+        "conversation_id": "1939743361272783314",
+        "created_at": "2025-06-30T17:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T18:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939743361272783314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sharkie_4005/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/sharkie_4005/status/1939530683757576541",
+              "start": 18,
+              "url": "https://t.co/G1Nbk3SObo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939743361272783314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939530683757576541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "肚子開始痛，對不起我不應該吃這麼辣 https://t.co/G1Nbk3SObo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 264,
+          "like_count": 1053,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 2018
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T20:07:08.000Z",
+        "description": "19 years old｜海豹姊姊@Siyan_Xiao| 頻道：https://t.co/qdWrorhEHa｜楓葉永恆🍁｜一隻在遊蕩的小空白",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Siyan_Xiao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+VzcKaxiMaJ5mM…",
+                "end": 56,
+                "expanded_url": "https://t.me/+VzcKaxiMaJ5mM2E8",
+                "start": 33,
+                "url": "https://t.co/qdWrorhEHa"
+              }
+            ]
+          }
+        },
+        "id": "1434608964629639168",
+        "location": "Québec, Dominion of Canada",
+        "name": "Atlantic_Sea Shark ☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891641996462174208/hu5f1xyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 482,
+          "like_count": 32500,
+          "listed_count": 2,
+          "media_count": 487,
+          "tweet_count": 8279
+        },
+        "username": "Sharkie_4005",
+        "verified": false
+      }
+    ]
+  }
+}

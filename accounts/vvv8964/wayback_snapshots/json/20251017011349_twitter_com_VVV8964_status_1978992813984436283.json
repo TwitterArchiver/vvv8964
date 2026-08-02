@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1978978283787051072",
+    "created_at": "2025-10-17T01:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T02:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978992813984436283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892896759808217092",
+          "start": 0,
+          "username": "hajixi12356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978992813984436283",
+    "in_reply_to_user_id": "1892896759808217092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978984271898726500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajixi12356 你说的对，这些吸毒的人真是太可恶了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1978978283787051072",
+        "created_at": "2025-10-17T01:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T02:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978992813984436283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892896759808217092",
+              "start": 0,
+              "username": "hajixi12356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978992813984436283",
+        "in_reply_to_user_id": "1892896759808217092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978984271898726500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajixi12356 你说的对，这些吸毒的人真是太可恶了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892896759808217092",
+        "conversation_id": "1978978283787051072",
+        "created_at": "2025-10-17T00:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T01:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978984271898726500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978984271898726500",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978982765098885574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 我说的有错吗🤔瘾君子不是好死🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 340,
+          "like_count": 3577,
+          "listed_count": 7,
+          "media_count": 336,
+          "tweet_count": 4755
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T11:18:58.000Z",
+        "description": "我是建制反贼能不能别来烦我。支黑全部死妈。",
+        "id": "1892896759808217092",
+        "location": "台湾及其附属岛屿是中华人民共和国神圣不可分割的一部分",
+        "name": "你猜我是谁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943010728060796928/11S3jyjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 171,
+          "like_count": 7573,
+          "listed_count": 9,
+          "media_count": 158,
+          "tweet_count": 3376
+        },
+        "username": "hajixi12356",
+        "verified": false
+      }
+    ]
+  }
+}

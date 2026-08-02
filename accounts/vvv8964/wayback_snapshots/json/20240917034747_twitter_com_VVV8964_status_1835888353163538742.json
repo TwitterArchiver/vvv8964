@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1835564613389148400",
+    "created_at": "2024-09-17T03:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T04:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835888353163538742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587653801305153538",
+          "start": 0,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835888353163538742",
+    "in_reply_to_user_id": "1587653801305153538",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835564613389148400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoHuiHuiH 确实不是刻板印象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1835564613389148400",
+        "created_at": "2024-09-17T03:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T04:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835888353163538742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587653801305153538",
+              "start": 0,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835888353163538742",
+        "in_reply_to_user_id": "1587653801305153538",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835564613389148400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoHuiHuiH 确实不是刻板印象"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835564610532913152",
+            "3_1835564611027828736"
+          ]
+        },
+        "author_id": "1587653801305153538",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1835564613389148400",
+        "created_at": "2024-09-16T06:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T07:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835564613389148400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibzxh9d7p2",
+              "end": 69,
+              "expanded_url": "https://twitter.com/XiaoHuiHuiH/status/1835564613389148400/photo/1",
+              "media_key": "3_1835564610532913152",
+              "start": 46,
+              "url": "https://t.co/IbZxH9D7P2"
+            },
+            {
+              "display_url": "pic.x.com/ibzxh9d7p2",
+              "end": 69,
+              "expanded_url": "https://twitter.com/XiaoHuiHuiH/status/1835564613389148400/photo/1",
+              "media_key": "3_1835564611027828736",
+              "start": 46,
+              "url": "https://t.co/IbZxH9D7P2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835564613389148400",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7424,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇去\nmtf圈子真的是计算机大佬云集啊\n\n南信大竟然有这么多mtf\n\n看一眼有没有推友👀（ https://t.co/IbZxH9D7P2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男的",
+        "id": "1561334508212723713",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 49,
+          "like_count": 30,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点“里哦😈\n/日常抽象涩涩推🫣/\nENFP(INFP)/偏女性非二元跨mtx(f)🏳️‍⚧️/hrt 2023.12.7🍥/泛性恋/🏳️‍🌈🩷💜/20岁/可1可0可S可M🥵/开放式关系🥰/加拿大留学🇨🇦/\n\n⚠️魔怔疯批/时而温柔/时常发癫/淫趴头子/滥交药攻/嗑药地雷💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🏳️‍⚧️喵喵艺术家~",
+        "pinned_tweet_id": "1822113111270457511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805817537021853699/IF42qnFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7693,
+          "following_count": 891,
+          "like_count": 58660,
+          "listed_count": 17,
+          "tweet_count": 32856
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1863121091775902061",
+    "created_at": "2024-12-01T07:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T08:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863121091775902061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1757320080604741633",
+          "start": 3,
+          "username": "Hiyallcestmoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863121091775902061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862764640918544645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hiyallcestmoi: 很喜欢患者的一句话\n“国产仿制药就像开盲盒，每家的副作用都不一样”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1863121091775902061",
+        "created_at": "2024-12-01T07:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T08:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863121091775902061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1757320080604741633",
+              "start": 3,
+              "username": "Hiyallcestmoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863121091775902061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862764640918544645",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hiyallcestmoi: 很喜欢患者的一句话\n“国产仿制药就像开盲盒，每家的副作用都不一样”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757320080604741633",
+        "conversation_id": "1862764640918544645",
+        "created_at": "2024-11-30T07:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T08:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862764640918544645"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862764640918544645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 862,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "很喜欢患者的一句话\n“国产仿制药就像开盲盒，每家的副作用都不一样”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  推特有时候莫名其妙收不到消息我会尽量回复回关  ||  不OD 正常用药  ||  正在解锁致幻剂  ||  大脑损伤逆转中",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1861216042522931472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 108,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 399
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T08:25:47.000Z",
+        "description": "🌈彩虹友好 |🍹生活艺术 | 🤮赤石分享 | 🔄重开预备 |♀低脂蝈釹 | 💩纯种废物 | 🍼幼稚巨婴 |❔持续虚无 | 🥃准健全逼 | 👻随地抛尸 | 🪷人淡如莲 | 💕或许是pan",
+        "id": "1757320080604741633",
+        "location": "Nowhere Land",
+        "name": "阿溪 Kay",
+        "pinned_tweet_id": "1861299295858917646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759078716867739648/8Z1CIBXR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 258,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 943
+        },
+        "username": "Hiyallcestmoi",
+        "verified": false
+      }
+    ]
+  }
+}

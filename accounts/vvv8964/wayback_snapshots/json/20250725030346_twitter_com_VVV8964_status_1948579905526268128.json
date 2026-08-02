@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1948462142862315525",
+    "created_at": "2025-07-25T03:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T04:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948579905526268128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1826961681886355456",
+          "start": 0,
+          "username": "xibiwx"
+        },
+        {
+          "end": 13,
+          "id": "1720665183188922368",
+          "start": 8,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948579905526268128",
+    "in_reply_to_user_id": "1826961681886355456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948462778748211445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xibiwx @grok 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1948462142862315525",
+        "created_at": "2025-07-25T03:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T04:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948579905526268128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1826961681886355456",
+              "start": 0,
+              "username": "xibiwx"
+            },
+            {
+              "end": 13,
+              "id": "1720665183188922368",
+              "start": 8,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948579905526268128",
+        "in_reply_to_user_id": "1826961681886355456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948462778748211445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xibiwx @grok 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826961681886355456",
+        "conversation_id": "1948462142862315525",
+        "created_at": "2025-07-24T19:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T20:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948462778748211445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948462778748211445",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948462615308763296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 诶我操 这都谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 288,
+          "like_count": 1655,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 2492
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T12:36:56.000Z",
+        "description": "v我50 关注小帐",
+        "id": "1826961681886355456",
+        "location": "Xicotepec, Puebla",
+        "name": "۴۴۴ پاڤەڵ",
+        "pinned_tweet_id": "1846719580258832681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826962492183965696/Hn0zcCCg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 2463,
+          "like_count": 65225,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 10977
+        },
+        "username": "xibiwx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5452789,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4452,
+          "media_count": 2397623,
+          "tweet_count": 24768230
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1964040468351914409",
+    "created_at": "2025-09-05T19:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T20:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964043549818946047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1758280045355737088",
+          "start": 0,
+          "username": "itchyball8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964043549818946047",
+    "in_reply_to_user_id": "1758280045355737088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964041472313106698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itchyball8964 我在学校 旁边没有大统华"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1964040468351914409",
+        "created_at": "2025-09-05T19:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T20:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964043549818946047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1758280045355737088",
+              "start": 0,
+              "username": "itchyball8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964043549818946047",
+        "in_reply_to_user_id": "1758280045355737088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964041472313106698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itchyball8964 我在学校 旁边没有大统华"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758280045355737088",
+        "conversation_id": "1964040468351914409",
+        "created_at": "2025-09-05T19:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T20:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964041472313106698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964041472313106698",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964040468351914409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 不如大统华"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 333,
+          "like_count": 2867,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 3831
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T00:00:09.000Z",
+        "description": "",
+        "id": "1758280045355737088",
+        "name": "Ume侠（唱多苹果第一人👊🍎🔥）",
+        "pinned_tweet_id": "1864133770921824503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758601064390266880/uWGrjhFP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 570,
+          "like_count": 4751,
+          "listed_count": 5,
+          "media_count": 41,
+          "tweet_count": 1495
+        },
+        "username": "itchyball8964",
+        "verified": false
+      }
+    ]
+  }
+}

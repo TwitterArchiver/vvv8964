@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1909741260597842067",
+    "created_at": "2025-04-08T22:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T23:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909741260597842067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ChineseEmbinUS…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/ChineseEmbinUS/status/1909574948093313451",
+          "start": 9,
+          "url": "https://t.co/owQBocQMWA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909741260597842067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909574948093313451",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "疯狂宇宙要来了吗 https://t.co/owQBocQMWA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1909741260597842067",
+        "created_at": "2025-04-08T22:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T23:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909741260597842067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChineseEmbinUS…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ChineseEmbinUS/status/1909574948093313451",
+              "start": 9,
+              "url": "https://t.co/owQBocQMWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909741260597842067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909574948093313451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "疯狂宇宙要来了吗 https://t.co/owQBocQMWA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1136383051917910017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1909574948093313451",
+        "created_at": "2025-04-08T11:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T12:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909574948093313451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SpoxCHN_MaoNin…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/SpoxCHN_MaoNing/status/1909463116242678172",
+              "start": 49,
+              "url": "https://t.co/p5Txr3ju9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909574948093313451",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 289,
+          "impression_count": 467820,
+          "like_count": 4586,
+          "quote_count": 81,
+          "reply_count": 488,
+          "retweet_count": 480
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909463116242678172",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The Chinese economy is not a pond, but an ocean. https://t.co/p5Txr3ju9N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  什么都发 不止药物 || 正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 162,
+          "like_count": 369,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 1030
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-05T21:23:27.000Z",
+        "description": "Official twitter account of the Embassy of the People's Republic of China in the United States of America",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "china-embassy.org/eng/",
+                "end": 23,
+                "expanded_url": "http://www.china-embassy.org/eng/",
+                "start": 0,
+                "url": "https://t.co/CDD3PtM4RK"
+              }
+            ]
+          }
+        },
+        "id": "1136383051917910017",
+        "location": "Washington, DC",
+        "name": "Chinese Embassy in US",
+        "pinned_tweet_id": "1908875500446941301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246473297199587329/Sih5XdxP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200675,
+          "following_count": 575,
+          "like_count": 5260,
+          "listed_count": 964,
+          "media_count": 1898,
+          "tweet_count": 5017
+        },
+        "url": "https://t.co/CDD3PtM4RK",
+        "username": "ChineseEmbinUS",
+        "verified": true
+      }
+    ]
+  }
+}

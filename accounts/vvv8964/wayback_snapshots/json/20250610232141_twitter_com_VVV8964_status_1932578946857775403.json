@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1932465409271206370",
+    "created_at": "2025-06-10T23:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T00:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932578946857775403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        },
+        {
+          "end": 27,
+          "id": "408702956",
+          "start": 12,
+          "username": "niceball_wuwaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932578946857775403",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932501676096974942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot @niceball_wuwaa 可惜我还是高中生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1932465409271206370",
+        "created_at": "2025-06-10T23:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T00:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932578946857775403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            },
+            {
+              "end": 27,
+              "id": "408702956",
+              "start": 12,
+              "username": "niceball_wuwaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932578946857775403",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932501676096974942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot @niceball_wuwaa 可惜我还是高中生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657055349982244865",
+        "conversation_id": "1932465409271206370",
+        "created_at": "2025-06-10T18:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T19:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932501676096974942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "408702956",
+              "start": 0,
+              "username": "niceball_wuwaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932501676096974942",
+        "in_reply_to_user_id": "408702956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932465409271206370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niceball_wuwaa 可惜我没毕业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 245,
+          "like_count": 814,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 1767
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "嘎国公民🇨🇦｜猎奇｜逆弯嘎",
+        "id": "1657055349982244865",
+        "location": "嘎堡",
+        "name": "ガガ鳥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881958913450582016/I4zjL7PS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1767,
+          "following_count": 1093,
+          "like_count": 63369,
+          "listed_count": 4,
+          "media_count": 1736,
+          "tweet_count": 21476
+        },
+        "username": "Glagagapot",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-09T19:40:59.000Z",
+        "description": "间歇存在 持续虚无 是王萌豚 叫王好球 手淫宅男 油汗肥男 下头国男 恋童渴屄 雄性萌豚 术力口厨 车万小鬼 舞萌废人 每日加班 低薪社畜 微博难民 点赞狂魔 菜逼码农 本科废物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://www.example.com/",
+                "start": 0,
+                "url": "https://t.co/DqYbDnpkVy"
+              }
+            ]
+          }
+        },
+        "id": "408702956",
+        "location": "Toronto, Ontario",
+        "name": "王萌豚",
+        "pinned_tweet_id": "1932465409271206370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888338555484684288/8oc2KYdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7284,
+          "following_count": 1733,
+          "like_count": 355564,
+          "listed_count": 34,
+          "media_count": 4706,
+          "tweet_count": 60272
+        },
+        "url": "https://t.co/DqYbDnpkVy",
+        "username": "niceball_wuwaa",
+        "verified": true
+      }
+    ]
+  }
+}

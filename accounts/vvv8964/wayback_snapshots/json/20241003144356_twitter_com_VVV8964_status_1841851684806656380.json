@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1841796823230644349",
+    "created_at": "2024-10-03T14:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T15:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841851684806656380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717434951497629696",
+          "start": 0,
+          "username": "GongShi22101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841851684806656380",
+    "in_reply_to_user_id": "1717434951497629696",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841796823230644349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GongShi22101 还有场地打球吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1841796823230644349",
+        "created_at": "2024-10-03T14:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T15:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841851684806656380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717434951497629696",
+              "start": 0,
+              "username": "GongShi22101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841851684806656380",
+        "in_reply_to_user_id": "1717434951497629696",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841796823230644349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GongShi22101 还有场地打球吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841796811490787329"
+          ]
+        },
+        "author_id": "1717434951497629696",
+        "conversation_id": "1841796823230644349",
+        "created_at": "2024-10-03T11:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T12:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841796823230644349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAOeDRkYba",
+              "end": 37,
+              "expanded_url": "https://x.com/GongShi22101/status/1841796823230644349/photo/1",
+              "media_key": "3_1841796811490787329",
+              "start": 14,
+              "url": "https://t.co/sAOeDRkYba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841796823230644349",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天锻炼三小时 抑郁远离我 https://t.co/sAOeDRkYba"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 如果你给我点赞的话我会很开心\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 57,
+          "like_count": 55,
+          "listed_count": 0,
+          "tweet_count": 139
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T06:56:23.000Z",
+        "description": "愛 しているのに 😿",
+        "id": "1717434951497629696",
+        "name": "叶藏Escitalopram",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801042697609994240/R1nuWnSd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 172,
+          "like_count": 275,
+          "listed_count": 0,
+          "tweet_count": 461
+        },
+        "username": "GongShi22101",
+        "verified": false
+      }
+    ]
+  }
+}

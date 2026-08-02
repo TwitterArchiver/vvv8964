@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1913282258858881085",
+    "created_at": "2025-04-19T02:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T03:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913416795945672898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1895344303746228224",
+          "start": 0,
+          "username": "tdoutu1106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913416795945672898",
+    "in_reply_to_user_id": "1895344303746228224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913282258858881085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tdoutu1106 嗨呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1913282258858881085",
+        "created_at": "2025-04-19T02:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T03:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913416795945672898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1895344303746228224",
+              "start": 0,
+              "username": "tdoutu1106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913416795945672898",
+        "in_reply_to_user_id": "1895344303746228224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913282258858881085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tdoutu1106 嗨呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895344303746228224",
+        "conversation_id": "1913282258858881085",
+        "created_at": "2025-04-18T17:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T18:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913282258858881085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913282258858881085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊好无聊有人聊天吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 165,
+          "like_count": 381,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 1056
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T05:24:50.000Z",
+        "description": "06｜戒o中｜双相",
+        "id": "1895344303746228224",
+        "location": "沙发",
+        "name": "77不是琪",
+        "pinned_tweet_id": "1913252533088243921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913254039099211776/j_w_AzGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 28,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 135
+        },
+        "username": "tdoutu1106",
+        "verified": false
+      }
+    ]
+  }
+}

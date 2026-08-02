@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1375162849635434496",
+          "name": "Banksy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Street Art",
+          "id": "1029430037810827264",
+          "name": "Street art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Street Art",
+          "id": "1029430037810827264",
+          "name": "Street art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1375162849635434496",
+          "name": "Banksy"
+        }
+      }
+    ],
+    "conversation_id": "1965570977674465661",
+    "created_at": "2025-09-10T00:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T01:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965570977674465661"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RebelCartoon/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/RebelCartoon/status/1965169719507566832",
+          "start": 20,
+          "url": "https://t.co/7XitTRHcGo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965570977674465661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965169719507566832",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我当时吃了lsd就去看了这个人的艺术展 https://t.co/7XitTRHcGo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 648,
+        "media_key": "3_1965169714172194816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0WvcXCW8AAQvYv.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1965169714180583424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0WvcXEW8AAMUCj.jpg",
+        "width": 861
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1375162849635434496",
+              "name": "Banksy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Street Art",
+              "id": "1029430037810827264",
+              "name": "Street art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Street Art",
+              "id": "1029430037810827264",
+              "name": "Street art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1375162849635434496",
+              "name": "Banksy"
+            }
+          }
+        ],
+        "conversation_id": "1965570977674465661",
+        "created_at": "2025-09-10T00:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T01:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965570977674465661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RebelCartoon/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/RebelCartoon/status/1965169719507566832",
+              "start": 20,
+              "url": "https://t.co/7XitTRHcGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965570977674465661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965169719507566832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我当时吃了lsd就去看了这个人的艺术展 https://t.co/7XitTRHcGo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965169714172194816",
+            "3_1965169714180583424"
+          ]
+        },
+        "author_id": "245354027",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1375162849635434496",
+              "name": "Banksy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Street Art",
+              "id": "1029430037810827264",
+              "name": "Street art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Street Art",
+              "id": "1029430037810827264",
+              "name": "Street art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1375162849635434496",
+              "name": "Banksy"
+            }
+          }
+        ],
+        "conversation_id": "1965169719507566832",
+        "created_at": "2025-09-08T21:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T22:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965169719507566832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I8bsdnRTOJ",
+              "end": 133,
+              "expanded_url": "https://x.com/RebelCartoon/status/1965169719507566832/photo/1",
+              "media_key": "3_1965169714172194816",
+              "start": 110,
+              "url": "https://t.co/I8bsdnRTOJ"
+            },
+            {
+              "display_url": "pic.x.com/I8bsdnRTOJ",
+              "end": 133,
+              "expanded_url": "https://x.com/RebelCartoon/status/1965169719507566832/photo/1",
+              "media_key": "3_1965169714180583424",
+              "start": 110,
+              "url": "https://t.co/I8bsdnRTOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965169719507566832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 200929,
+          "like_count": 1048,
+          "quote_count": 12,
+          "reply_count": 60,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "著名涂鸦艺术家Banksy刚刚在伦敦皇家法院外画了一幅讽刺法官镇压抗议者的壁画。\n\n1小时不到，法院就用黑布和铁栏把画遮了，还派了保安和摄像头守着。\n\n这幅讽刺“司法审查”的作品，刚出现就被“司法”审查了，效率非常高👍 https://t.co/I8bsdnRTOJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 333,
+          "like_count": 2926,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 3943
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-31T14:05:50.000Z",
+        "description": "🎨 漫画家订阅支持 → https://t.co/Kqe9XiuPD3 咖啡打赏支持创作 → https://t.co/2ROJHYlRZt PayPal支持→ https://t.co/ybz8C8jwMC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rebelpepperscartoons.substack.com/subscribe",
+                "end": 35,
+                "expanded_url": "https://rebelpepperscartoons.substack.com/subscribe",
+                "start": 12,
+                "url": "https://t.co/Kqe9XiuPD3"
+              },
+              {
+                "display_url": "buymeacoffee.com/rebelpepper",
+                "end": 70,
+                "expanded_url": "https://buymeacoffee.com/rebelpepper",
+                "start": 47,
+                "url": "https://t.co/2ROJHYlRZt"
+              },
+              {
+                "display_url": "paypal.me/LimingWang1973",
+                "end": 104,
+                "expanded_url": "https://www.paypal.me/LimingWang1973",
+                "start": 81,
+                "url": "https://t.co/ybz8C8jwMC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rebelpepperscartoons.substack.com",
+                "end": 23,
+                "expanded_url": "https://rebelpepperscartoons.substack.com",
+                "start": 0,
+                "url": "https://t.co/qfhqzBuSYN"
+              }
+            ]
+          }
+        },
+        "id": "245354027",
+        "location": "Frederick, MD",
+        "name": "变态辣椒RebelPepper",
+        "pinned_tweet_id": "1963131509486870986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903526014917169152/tm9dTA3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512076,
+          "following_count": 467,
+          "like_count": 571,
+          "listed_count": 1987,
+          "media_count": 8310,
+          "tweet_count": 25828
+        },
+        "url": "https://t.co/qfhqzBuSYN",
+        "username": "RebelCartoon",
+        "verified": true
+      }
+    ]
+  }
+}

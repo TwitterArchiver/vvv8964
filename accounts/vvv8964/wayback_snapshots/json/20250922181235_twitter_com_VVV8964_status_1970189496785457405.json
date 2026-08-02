@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1969943369855144027",
+    "created_at": "2025-09-22T18:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T19:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970189496785457405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4258489634",
+          "start": 0,
+          "username": "Nico1_Fn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970189496785457405",
+    "in_reply_to_user_id": "4258489634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970038274740875340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nico1_Fn 怎么这么贵 大城市会便宜点吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1969943369855144027",
+        "created_at": "2025-09-22T18:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T19:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970189496785457405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4258489634",
+              "start": 0,
+              "username": "Nico1_Fn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970189496785457405",
+        "in_reply_to_user_id": "4258489634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970038274740875340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nico1_Fn 怎么这么贵 大城市会便宜点吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4258489634",
+        "conversation_id": "1969943369855144027",
+        "created_at": "2025-09-22T08:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T09:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970038274740875340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970038274740875340",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969943369855144027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 bro 6刀打车约等于不要钱了 之前在东德小城打车3公里花了20欧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 329,
+          "like_count": 3108,
+          "listed_count": 5,
+          "media_count": 266,
+          "tweet_count": 4233
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-16T16:38:11.000Z",
+        "description": "温和安那其主义者\n食髓知味*（判定成功）",
+        "id": "4258489634",
+        "location": "Chuo-ku, Tokyo",
+        "name": "FN 酚鍩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517345190217805824/M1XW1zYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 390,
+          "like_count": 5221,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 2268
+        },
+        "username": "Nico1_Fn",
+        "verified": false
+      }
+    ]
+  }
+}

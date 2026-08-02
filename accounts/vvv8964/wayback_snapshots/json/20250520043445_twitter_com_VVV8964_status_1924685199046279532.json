@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1924624315439566921",
+    "created_at": "2025-05-20T04:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T05:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924685199046279532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1397924779219292167",
+          "start": 0,
+          "username": "KawawaShota"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924685199046279532",
+    "in_reply_to_user_id": "1397924779219292167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924624315439566921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaShota 有点像王局"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1924624315439566921",
+        "created_at": "2025-05-20T04:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T05:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924685199046279532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1397924779219292167",
+              "start": 0,
+              "username": "KawawaShota"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924685199046279532",
+        "in_reply_to_user_id": "1397924779219292167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924624315439566921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaShota 有点像王局"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397924779219292167",
+        "conversation_id": "1924624315439566921",
+        "created_at": "2025-05-20T00:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T01:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924624315439566921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KawawaShota/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/KawawaShota/status/1924483604803154292",
+              "start": 29,
+              "url": "https://t.co/QaXsn1ZRgI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924624315439566921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10341,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924483604803154292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢疯唐小耄来日四年花了父母140万学出来的日语水平吗😁 https://t.co/QaXsn1ZRgI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  |||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 218,
+          "like_count": 538,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 1393
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T14:37:03.000Z",
+        "description": "包蜜&Minecraft船大工&Flight enthusiast👨‍✈️&僵毁老司机\n日本語⭕、English⭕、蜀语⭕\n荣获B友评选的“2024年度爱支TV全国模范罕见”🏆\n对线推文不留＞5h\n学畜\n拉面仙人🍜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rocom.qq.com",
+                "end": 23,
+                "expanded_url": "https://rocom.qq.com/",
+                "start": 0,
+                "url": "https://t.co/6NGSGyOMPh"
+              }
+            ]
+          }
+        },
+        "id": "1397924779219292167",
+        "location": " 卡洛西亚大陸",
+        "name": "翔太くん✈️",
+        "pinned_tweet_id": "1818618506080141480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789605085322072065/MLtOe3d__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12608,
+          "following_count": 1992,
+          "like_count": 47404,
+          "listed_count": 61,
+          "media_count": 1110,
+          "tweet_count": 6651
+        },
+        "url": "https://t.co/6NGSGyOMPh",
+        "username": "KawawaShota",
+        "verified": true
+      }
+    ]
+  }
+}

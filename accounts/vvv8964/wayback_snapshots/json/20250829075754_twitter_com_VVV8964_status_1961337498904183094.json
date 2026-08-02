@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1961337488058060800"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1961305633040576878",
+    "created_at": "2025-08-29T07:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T08:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961337498904183094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905180625981890560",
+          "start": 0,
+          "username": "MyMikuRomance"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WVlcbbXtgN",
+          "end": 38,
+          "expanded_url": "https://x.com/VVV8964/status/1961337498904183094/photo/1",
+          "media_key": "16_1961337488058060800",
+          "start": 15,
+          "url": "https://t.co/WVlcbbXtgN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961337498904183094",
+    "in_reply_to_user_id": "1905180625981890560",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961305633040576878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MyMikuRomance https://t.co/WVlcbbXtgN"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1961305633040576878].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1961305633040576878",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1961305633040576878"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 458,
+        "media_key": "16_1961337488058060800",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GzgSDcRbkAAR6C7.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GzgSDcRbkAAR6C7.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1961337488058060800"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1961305633040576878",
+        "created_at": "2025-08-29T07:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T08:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961337498904183094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905180625981890560",
+              "start": 0,
+              "username": "MyMikuRomance"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WVlcbbXtgN",
+              "end": 38,
+              "expanded_url": "https://x.com/VVV8964/status/1961337498904183094/photo/1",
+              "media_key": "16_1961337488058060800",
+              "start": 15,
+              "url": "https://t.co/WVlcbbXtgN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961337498904183094",
+        "in_reply_to_user_id": "1905180625981890560",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961305633040576878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MyMikuRomance https://t.co/WVlcbbXtgN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 329,
+          "like_count": 2674,
+          "listed_count": 4,
+          "media_count": 192,
+          "tweet_count": 3579
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T08:51:21.000Z",
+        "description": "Developing a personality.\n\nThus far, do not disturb.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "973-eht-namuh-973.com",
+                "end": 23,
+                "expanded_url": "https://973-eht-namuh-973.com/",
+                "start": 0,
+                "url": "https://t.co/OQUkpqto2C"
+              }
+            ]
+          }
+        },
+        "id": "1905180625981890560",
+        "location": "in your wifi",
+        "name": "໊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953776045699817472/jynEVTfC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 1531,
+          "like_count": 45983,
+          "listed_count": 4,
+          "media_count": 888,
+          "tweet_count": 8635
+        },
+        "url": "https://t.co/OQUkpqto2C",
+        "username": "MyMikuRomance",
+        "verified": false
+      }
+    ]
+  }
+}

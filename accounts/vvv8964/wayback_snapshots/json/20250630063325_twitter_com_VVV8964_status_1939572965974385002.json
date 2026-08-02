@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1939564747474530399",
+    "created_at": "2025-06-30T06:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T07:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939572965974385002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "408702956",
+          "start": 0,
+          "username": "niceball_wuwaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939572965974385002",
+    "in_reply_to_user_id": "408702956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939564747474530399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niceball_wuwaa 加拿大怎么开的思诺思，好开吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1939564747474530399",
+        "created_at": "2025-06-30T06:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T07:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939572965974385002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "408702956",
+              "start": 0,
+              "username": "niceball_wuwaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939572965974385002",
+        "in_reply_to_user_id": "408702956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939564747474530399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niceball_wuwaa 加拿大怎么开的思诺思，好开吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "408702956",
+        "conversation_id": "1939564747474530399",
+        "created_at": "2025-06-30T06:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T07:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939564747474530399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939564747474530399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "0:30用35度的野格吞下了一粒加拿大剂量的思诺思，后续又断断续续喝了大半杯野格，照理来说我早该睡着了，可现在都2:00了，只好吞第二粒思诺思了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 262,
+          "like_count": 1029,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 2008
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-09T19:40:59.000Z",
+        "description": "间歇存在 持续虚无 雄性萌豚 术力口厨 车万小鬼 舞萌废人 每日加班 低薪社畜 微博难民 点赞狂魔 菜逼码农 本科废物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://www.example.com/",
+                "start": 0,
+                "url": "https://t.co/DqYbDnpkVy"
+              }
+            ]
+          }
+        },
+        "id": "408702956",
+        "location": "Toronto, Ontario",
+        "name": "王萌豚",
+        "pinned_tweet_id": "1935472034886070590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888338555484684288/8oc2KYdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7380,
+          "following_count": 1754,
+          "like_count": 358811,
+          "listed_count": 34,
+          "media_count": 4763,
+          "tweet_count": 60838
+        },
+        "url": "https://t.co/DqYbDnpkVy",
+        "username": "niceball_wuwaa",
+        "verified": true
+      }
+    ]
+  }
+}

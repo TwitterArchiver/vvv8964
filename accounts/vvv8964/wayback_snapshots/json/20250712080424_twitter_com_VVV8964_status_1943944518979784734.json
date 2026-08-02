@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943917482185830723",
+    "created_at": "2025-07-12T08:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T09:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943944518979784734"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1943944518979784734",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943917482185830723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还被虫子咬了，可能是两年以来第一次，痒的想截肢，腿要断掉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943917482185830723",
+        "created_at": "2025-07-12T08:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T09:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943944518979784734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943944518979784734",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943917482185830723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还被虫子咬了，可能是两年以来第一次，痒的想截肢，腿要断掉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943917482185830723",
+        "created_at": "2025-07-12T06:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T07:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943917482185830723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VVV8964/status…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/VVV8964/status/1943623958080958764",
+              "start": 57,
+              "url": "https://t.co/wYo1MfaM9H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943917482185830723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943623958080958764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更新，今天被鸟屎砸了，鞋子袜子全脏了，行程全部报废。不能百分百确定是鸟屎，但是是从树上掉下来的，至暗时刻，绝望了 https://t.co/wYo1MfaM9H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 281,
+          "like_count": 1404,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 2288
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

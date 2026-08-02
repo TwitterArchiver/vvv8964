@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1977248306423021568"
+      ],
+      "media_source_tweet_id": [
+        "1977248322319503723"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1977468828922806287",
+    "created_at": "2025-10-12T20:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T21:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977468828922806287"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "discord",
+          "probability": 0.937,
+          "start": 29,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3439229860",
+          "start": 3,
+          "username": "ultr4nima"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kd2hboNBDf",
+          "end": 81,
+          "expanded_url": "https://x.com/ultr4nima/status/1977248322319503723/video/1",
+          "media_key": "13_1977248306423021568",
+          "start": 58,
+          "url": "https://t.co/Kd2hboNBDf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977468828922806287",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3537
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977248322319503723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ultr4nima: clicking on a discord nitro user’s profile https://t.co/Kd2hboNBDf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9513,
+        "height": 374,
+        "media_key": "13_1977248306423021568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1977248306423021568/img/HVWUyDcYc1Ctshpv.jpg",
+        "public_metrics": {
+          "view_count": 145058
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977248306423021568/vid/avc1/320x332/IRK0HBDPiXXdIkFK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977248306423021568/vid/avc1/360x374/hQY-o9qi97QjijMm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1977248306423021568/pl/JOZm7EUzWBodHxFE.m3u8"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1977248306423021568"
+          ],
+          "media_source_tweet_id": [
+            "1977248322319503723"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1977468828922806287",
+        "created_at": "2025-10-12T20:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T21:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977468828922806287"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "discord",
+              "probability": 0.937,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3439229860",
+              "start": 3,
+              "username": "ultr4nima"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kd2hboNBDf",
+              "end": 81,
+              "expanded_url": "https://x.com/ultr4nima/status/1977248322319503723/video/1",
+              "media_key": "13_1977248306423021568",
+              "start": 58,
+              "url": "https://t.co/Kd2hboNBDf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977468828922806287",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3537
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977248322319503723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ultr4nima: clicking on a discord nitro user’s profile https://t.co/Kd2hboNBDf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1977248306423021568"
+          ]
+        },
+        "author_id": "3439229860",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1977248322319503723",
+        "created_at": "2025-10-12T05:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T06:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977248322319503723"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "discord",
+              "probability": 0.9005,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kd2hboNBDf",
+              "end": 66,
+              "expanded_url": "https://x.com/ultr4nima/status/1977248322319503723/video/1",
+              "media_key": "13_1977248306423021568",
+              "start": 43,
+              "url": "https://t.co/Kd2hboNBDf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977248322319503723",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3401,
+          "impression_count": 300744,
+          "like_count": 32548,
+          "quote_count": 56,
+          "reply_count": 73,
+          "retweet_count": 3537
+        },
+        "reply_settings": "everyone",
+        "text": "clicking on a discord nitro user’s profile https://t.co/Kd2hboNBDf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 334,
+          "like_count": 3485,
+          "listed_count": 6,
+          "media_count": 320,
+          "tweet_count": 4672
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-25T13:59:58.000Z",
+        "description": "adults & minors dni",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tf2classic.com",
+                "end": 23,
+                "expanded_url": "http://tf2classic.com",
+                "start": 0,
+                "url": "https://t.co/c6rjNTADBa"
+              }
+            ]
+          }
+        },
+        "id": "3439229860",
+        "location": "Moldova",
+        "name": "Daniel 🇲🇩",
+        "pinned_tweet_id": "1808153811191505216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853486878399270912/tcMPTHgM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6498,
+          "following_count": 809,
+          "like_count": 725718,
+          "listed_count": 12,
+          "media_count": 3149,
+          "tweet_count": 28071
+        },
+        "url": "https://t.co/c6rjNTADBa",
+        "username": "ultr4nima",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1948620541088170046",
+    "created_at": "2025-07-25T12:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T13:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948725085348790446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948725085348790446",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948620541088170046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 哎气死我了为什么你们都能润为什么只有我是猪肝红真的急死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_1948620537845911552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrkDhBWEAAdk4C.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1948620541088170046",
+        "created_at": "2025-07-25T12:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T13:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948725085348790446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948725085348790446",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948620541088170046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 哎气死我了为什么你们都能润为什么只有我是猪肝红真的急死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948620537845911552"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1948620541088170046",
+        "created_at": "2025-07-25T05:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T06:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948620541088170046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FsJbSXNa92",
+              "end": 41,
+              "expanded_url": "https://x.com/Rococo90933671/status/1948620541088170046/photo/1",
+              "media_key": "3_1948620537845911552",
+              "start": 18,
+              "url": "https://t.co/FsJbSXNa92"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948620541088170046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 67109,
+          "like_count": 552,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "历史的荒诞与错乱感在此刻交织了命运 https://t.co/FsJbSXNa92"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 290,
+          "like_count": 1658,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 2504
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5193,
+          "following_count": 2159,
+          "like_count": 25851,
+          "listed_count": 9,
+          "media_count": 2379,
+          "tweet_count": 15011
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1962947477742735418",
+    "created_at": "2025-09-02T18:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T19:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962950805239251039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3772102818",
+          "start": 0,
+          "username": "AlexYang965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962950805239251039",
+    "in_reply_to_user_id": "3772102818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962950353223352783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlexYang965 一学期四门是不是平均水平"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1962947477742735418",
+        "created_at": "2025-09-02T18:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T19:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962950805239251039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3772102818",
+              "start": 0,
+              "username": "AlexYang965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962950805239251039",
+        "in_reply_to_user_id": "3772102818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962950353223352783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlexYang965 一学期四门是不是平均水平"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3772102818",
+        "conversation_id": "1962947477742735418",
+        "created_at": "2025-09-02T18:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T19:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962950353223352783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962950353223352783",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962947477742735418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 闲着也不错，先熟悉学校"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 327,
+          "like_count": 2762,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 3699
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-03T17:18:45.000Z",
+        "description": "ENTJ 8w7 278 (sp/sx)/cs bachelor/psychoanalysis/shadow @AlexYang645 /lover @Lys_Mediterrane /buy me coffee tenshi9096@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "AlexYang645"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "Lys_Mediterrane"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/alexGamingChair",
+                "end": 23,
+                "expanded_url": "https://t.me/alexGamingChair",
+                "start": 0,
+                "url": "https://t.co/A6KzNwsYk4"
+              }
+            ]
+          }
+        },
+        "id": "3772102818",
+        "location": "British Columbia, Canada",
+        "name": "Alex杨",
+        "pinned_tweet_id": "1940831722389819806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1368602571720466439/HV9iruUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2513,
+          "following_count": 4814,
+          "like_count": 95725,
+          "listed_count": 15,
+          "media_count": 4768,
+          "tweet_count": 23935
+        },
+        "url": "https://t.co/A6KzNwsYk4",
+        "username": "AlexYang965",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943777455912730624"
+      ],
+      "media_source_tweet_id": [
+        "1943777458878394690"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943874108951081225",
+    "created_at": "2025-07-12T03:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T04:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943874108951081225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "143104075",
+          "start": 3,
+          "username": "KyleKulinski"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6EgUuWC3Ne",
+          "end": 41,
+          "expanded_url": "https://x.com/KyleKulinski/status/1943777458878394690/photo/1",
+          "media_key": "3_1943777455912730624",
+          "start": 18,
+          "url": "https://t.co/6EgUuWC3Ne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943874108951081225",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1279
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943777458878394690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KyleKulinski: https://t.co/6EgUuWC3Ne"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1316,
+        "media_key": "3_1943777455912730624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvmvTC4XQAASO8z.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943777455912730624"
+          ],
+          "media_source_tweet_id": [
+            "1943777458878394690"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943874108951081225",
+        "created_at": "2025-07-12T03:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T04:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943874108951081225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "143104075",
+              "start": 3,
+              "username": "KyleKulinski"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6EgUuWC3Ne",
+              "end": 41,
+              "expanded_url": "https://x.com/KyleKulinski/status/1943777458878394690/photo/1",
+              "media_key": "3_1943777455912730624",
+              "start": 18,
+              "url": "https://t.co/6EgUuWC3Ne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943874108951081225",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1279
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943777458878394690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KyleKulinski: https://t.co/6EgUuWC3Ne"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943777455912730624"
+          ]
+        },
+        "author_id": "143104075",
+        "conversation_id": "1943777458878394690",
+        "created_at": "2025-07-11T21:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T22:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943777458878394690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6EgUuWC3Ne",
+              "end": 23,
+              "expanded_url": "https://x.com/KyleKulinski/status/1943777458878394690/photo/1",
+              "media_key": "3_1943777455912730624",
+              "start": 0,
+              "url": "https://t.co/6EgUuWC3Ne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943777458878394690",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 763,
+          "impression_count": 597738,
+          "like_count": 18952,
+          "quote_count": 49,
+          "reply_count": 178,
+          "retweet_count": 1279
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6EgUuWC3Ne"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 279,
+          "like_count": 1388,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 2271
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-12T16:05:25.000Z",
+        "description": "🎙Host of The Kyle Kulinski Show & co-host of Krystal Kyle & Friends | Over a billion YouTube views🎙🖤💚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/seculartalk",
+                "end": 23,
+                "expanded_url": "http://youtube.com/seculartalk",
+                "start": 0,
+                "url": "https://t.co/1vMqph6XCE"
+              }
+            ]
+          }
+        },
+        "id": "143104075",
+        "location": "New York",
+        "name": "Secular Talk (KyleKulinskiShow@bsky.social)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345165400569499649/t8UVW_0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500198,
+          "following_count": 1308,
+          "like_count": 1244,
+          "listed_count": 3433,
+          "media_count": 19121,
+          "tweet_count": 82932
+        },
+        "url": "https://t.co/1vMqph6XCE",
+        "username": "KyleKulinski",
+        "verified": true
+      }
+    ]
+  }
+}

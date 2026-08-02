@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1955290626125336909",
+    "created_at": "2025-08-12T15:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T16:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955290626125336909"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1955290626125336909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "马上千粉了，到时候开帖说一下我玩推一年来的心路历程，会很有意思的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1955290626125336909",
+        "created_at": "2025-08-12T15:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T16:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955290626125336909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955290626125336909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马上千粉了，到时候开帖说一下我玩推一年来的心路历程，会很有意思的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/qsq2bP3YAH"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "1337",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 314,
+          "like_count": 2193,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 2982
+        },
+        "url": "https://t.co/qsq2bP3YAH",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1944992845212905677",
+    "created_at": "2025-07-15T05:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T06:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944997640678121526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901299981518286848",
+          "start": 0,
+          "username": "kami18181818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944997640678121526",
+    "in_reply_to_user_id": "1901299981518286848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944992845212905677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kami18181818 被晶哥抓了我就这么狡辩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1925,
+        "media_key": "3_1944992835834658816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv4Ard6awAAkIDI.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1944992845212905677",
+        "created_at": "2025-07-15T05:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T06:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944997640678121526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901299981518286848",
+              "start": 0,
+              "username": "kami18181818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944997640678121526",
+        "in_reply_to_user_id": "1901299981518286848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944992845212905677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami18181818 被晶哥抓了我就这么狡辩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944992835834658816"
+          ]
+        },
+        "author_id": "1901299981518286848",
+        "conversation_id": "1944992845212905677",
+        "created_at": "2025-07-15T05:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T06:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944992845212905677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ScrQuqhLfA",
+              "end": 28,
+              "expanded_url": "https://x.com/kami18181818/status/1944992845212905677/photo/1",
+              "media_key": "3_1944992835834658816",
+              "start": 5,
+              "url": "https://t.co/ScrQuqhLfA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944992845212905677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了 https://t.co/ScrQuqhLfA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 283,
+          "like_count": 1508,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 2348
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T15:50:27.000Z",
+        "description": "",
+        "id": "1901299981518286848",
+        "name": "kami",
+        "pinned_tweet_id": "1943247985607090250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909312547976888320/uoGqMJXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 149,
+          "like_count": 1679,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 129
+        },
+        "username": "kami18181818",
+        "verified": false
+      }
+    ]
+  }
+}

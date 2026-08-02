@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1947682248159072628",
+    "created_at": "2025-07-22T15:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T16:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947683017226653817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1768328423498276864",
+          "start": 0,
+          "username": "aociig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947683017226653817",
+    "in_reply_to_user_id": "1768328423498276864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 65,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947682714485985681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aociig 别急，半小时后应该可以回答你，但是我感觉除了困就没别的了，我基础没有焦虑症"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947682248159072628",
+        "created_at": "2025-07-22T15:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T16:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947683017226653817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1768328423498276864",
+              "start": 0,
+              "username": "aociig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947683017226653817",
+        "in_reply_to_user_id": "1768328423498276864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947682714485985681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aociig 别急，半小时后应该可以回答你，但是我感觉除了困就没别的了，我基础没有焦虑症"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768328423498276864",
+        "conversation_id": "1947682248159072628",
+        "created_at": "2025-07-22T15:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T16:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947682714485985681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947682714485985681",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947682248159072628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 这个吃了啥感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 286,
+          "like_count": 1608,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2428
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T17:29:17.000Z",
+        "description": "葵(あおい)|CN 17|病み垢|愚痴|リスカ|簡単の日本語◎English and Chinese◎ DM◎|FF大歓迎 無言フォロー◎",
+        "id": "1768328423498276864",
+        "location": "明日、死にますように",
+        "name": "寝言犬",
+        "pinned_tweet_id": "1943258719174955479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924750203141173248/3i-cqu6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 400,
+          "like_count": 7253,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 8724
+        },
+        "username": "aociig",
+        "verified": false
+      }
+    ]
+  }
+}

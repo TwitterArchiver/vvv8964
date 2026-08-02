@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about global finance and economies.",
+          "id": "847511168268644352",
+          "name": "Global Economy"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1913897307109535938",
+    "created_at": "2025-04-20T10:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T11:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913897307109535938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PresidentXiCHN…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/PresidentXiCHN/status/1910882971290374240",
+          "start": 24,
+          "url": "https://t.co/V9LacMp5Zq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913897307109535938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910882971290374240",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "习近平开不起推特订阅，被迫1/n，还是太廉洁了 https://t.co/V9LacMp5Zq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1913897307109535938",
+        "created_at": "2025-04-20T10:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T11:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913897307109535938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PresidentXiCHN…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/PresidentXiCHN/status/1910882971290374240",
+              "start": 24,
+              "url": "https://t.co/V9LacMp5Zq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913897307109535938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910882971290374240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "习近平开不起推特订阅，被迫1/n，还是太廉洁了 https://t.co/V9LacMp5Zq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758787225050038272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          }
+        ],
+        "conversation_id": "1910882971290374240",
+        "created_at": "2025-04-12T02:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T03:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910882971290374240"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "China",
+              "probability": 0.9804,
+              "start": 18,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910882971290374240",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 115970,
+          "like_count": 451,
+          "quote_count": 10,
+          "reply_count": 76,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "In just 30 years, China has transformed into the world’s 2nd largest economy, the largest consumer market, and the foremost industrial powerhouse. It stands as the first superpower in human history to rise peacefully, without the need for war or colonization, a feat unparalleled-"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 165,
+          "like_count": 384,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 1065
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T09:35:52.000Z",
+        "description": "President of the People’s Republic of China | General Secretary of the Communist Party of China | Official Commentary Account 🇨🇳",
+        "id": "1758787225050038272",
+        "location": "Beijing, China",
+        "name": "President Xi Jinping - Commentary",
+        "pinned_tweet_id": "1910882971290374240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910950585790070784/XkElxS_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13914,
+          "following_count": 105,
+          "like_count": 264,
+          "listed_count": 25,
+          "media_count": 27,
+          "tweet_count": 91
+        },
+        "username": "PresidentXiCHN",
+        "verified": true
+      }
+    ]
+  }
+}

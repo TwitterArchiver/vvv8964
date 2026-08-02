@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1937573655288189367",
+    "created_at": "2025-06-25T00:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T01:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937668522546798828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "Dextrometh0208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937668522546798828",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937573655288189367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dextrometh0208 劝你别搞 全都是健全人看乐子的 指不定还被铁拳砸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1937573655288189367",
+        "created_at": "2025-06-25T00:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T01:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937668522546798828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "Dextrometh0208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937668522546798828",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937573655288189367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dextrometh0208 劝你别搞 全都是健全人看乐子的 指不定还被铁拳砸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545898408858161154",
+        "conversation_id": "1937573655288189367",
+        "created_at": "2025-06-24T18:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T19:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937573655288189367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937573655288189367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在墙内是个小有名气的几千粉up主，主要还是画画up\n如果可以的话我有点想做一期视频，关于我从开始药物滥用到走出戒断的那些事\n但担心被人骂，，哎idk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 245,
+          "like_count": 922,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 1883
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "某个角落的避难所/欢迎互关/负能碎碎念/药物报告 #drugtwt #shtwt，抑郁焦虑/AuDHD/性别是猫猫或ftx（画画和英文圈大号是@StrawberryC208（但不要在大号说这个是我谢谢‘w'）不太擅长社交果咩/请不要转载我的推文到墙内",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 25,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 40,
+                "start": 34,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "StrawberryC208"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "name": "Dextromethorphan",
+        "pinned_tweet_id": "1931407576635486211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918547891276398594/PINr3ecr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 245,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 293
+        },
+        "username": "Dextrometh0208",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943232066008813894",
+    "created_at": "2025-07-10T08:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T09:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943232066008813894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VVV8964/status…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/VVV8964/status/1941478224778932448",
+          "start": 41,
+          "url": "https://t.co/771GEs1eUl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943232066008813894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941478224778932448",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的很多很多，很多，很多\n今天又看见一个\n这几天看到的比我在加拿大一年看到的都多 https://t.co/771GEs1eUl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943232066008813894",
+        "created_at": "2025-07-10T08:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T09:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943232066008813894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VVV8964/status…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/VVV8964/status/1941478224778932448",
+              "start": 41,
+              "url": "https://t.co/771GEs1eUl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943232066008813894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941478224778932448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的很多很多，很多，很多\n今天又看见一个\n这几天看到的比我在加拿大一年看到的都多 https://t.co/771GEs1eUl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1941478224778932448",
+        "created_at": "2025-07-05T12:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T13:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941478224778932448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941478224778932448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 473,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "台湾真的好多人穿那个神奈川冲浪里和优衣库的联名t恤，我们神系真是崛起了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 275,
+          "like_count": 1296,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 2201
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1938997312250093980",
+    "created_at": "2025-06-29T05:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T06:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939201629905162715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786565196913541120",
+          "start": 0,
+          "username": "dimangmu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939201629905162715",
+    "in_reply_to_user_id": "1786565196913541120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 341,
+      "like_count": 17,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938997312250093980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dimangmu8964 这傻逼做题家也把我屏蔽了，手机估计都要按冒烟了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938997305010479104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuizxpGW4AAQ74Z.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1938997312250093980",
+        "created_at": "2025-06-29T05:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T06:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939201629905162715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786565196913541120",
+              "start": 0,
+              "username": "dimangmu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939201629905162715",
+        "in_reply_to_user_id": "1786565196913541120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938997312250093980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dimangmu8964 这傻逼做题家也把我屏蔽了，手机估计都要按冒烟了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938997305010479104"
+          ]
+        },
+        "author_id": "1786565196913541120",
+        "conversation_id": "1938997312250093980",
+        "created_at": "2025-06-28T16:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T17:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938997312250093980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hPAjp3Kog0",
+              "end": 26,
+              "expanded_url": "https://x.com/dimangmu8964/status/1938997312250093980/photo/1",
+              "media_key": "3_1938997305010479104",
+              "start": 3,
+              "url": "https://t.co/hPAjp3Kog0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938997312250093980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4981,
+          "like_count": 140,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑嘻 https://t.co/hPAjp3Kog0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 260,
+          "like_count": 1010,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1982
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T01:15:24.000Z",
+        "description": "小升博延毕ing",
+        "id": "1786565196913541120",
+        "location": "北京市西城区西华门大街28号",
+        "name": "迅鸽🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888808700875509760/Myhp0mOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 1145,
+          "like_count": 94587,
+          "listed_count": 20,
+          "media_count": 1415,
+          "tweet_count": 25562
+        },
+        "username": "dimangmu8964",
+        "verified": false
+      }
+    ]
+  }
+}

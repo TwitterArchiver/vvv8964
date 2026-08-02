@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1858415655990460447",
+    "created_at": "2024-11-18T07:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T08:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1858415655990460447"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1858415655990460447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天一堆作业，后天还有两个高强度考试\n快请三年前的我上身"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1858415655990460447",
+        "created_at": "2024-11-18T07:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T08:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858415655990460447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858415655990460447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天一堆作业，后天还有两个高强度考试\n快请三年前的我上身"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 推特有时候莫名其妙收不到消息我会尽量回复回关\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 91,
+          "like_count": 103,
+          "listed_count": 0,
+          "tweet_count": 344
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986092392907239424"
+      ],
+      "media_source_tweet_id": [
+        "1986092402847707521"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1986322154863141228",
+    "created_at": "2025-11-06T06:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T07:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986322154863141228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1579496271534034945",
+          "start": 3,
+          "username": "realwow_mao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7P3tqlOBpr",
+          "end": 64,
+          "expanded_url": "https://x.com/realwow_mao/status/1986092402847707521/photo/1",
+          "media_key": "3_1986092392907239424",
+          "start": 41,
+          "url": "https://t.co/7P3tqlOBpr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986322154863141228",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 473
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986092402847707521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realwow_mao: trying out a new dealer https://t.co/7P3tqlOBpr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1155,
+        "media_key": "3_1986092392907239424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5AEgjJXcAA4NVR.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986092392907239424"
+          ],
+          "media_source_tweet_id": [
+            "1986092402847707521"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1986322154863141228",
+        "created_at": "2025-11-06T06:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T07:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986322154863141228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1579496271534034945",
+              "start": 3,
+              "username": "realwow_mao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7P3tqlOBpr",
+              "end": 64,
+              "expanded_url": "https://x.com/realwow_mao/status/1986092402847707521/photo/1",
+              "media_key": "3_1986092392907239424",
+              "start": 41,
+              "url": "https://t.co/7P3tqlOBpr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986322154863141228",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 473
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986092402847707521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realwow_mao: trying out a new dealer https://t.co/7P3tqlOBpr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986092392907239424"
+          ]
+        },
+        "author_id": "1579496271534034945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1986092402847707521",
+        "created_at": "2025-11-05T15:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T16:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986092402847707521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7P3tqlOBpr",
+              "end": 47,
+              "expanded_url": "https://x.com/realwow_mao/status/1986092402847707521/photo/1",
+              "media_key": "3_1986092392907239424",
+              "start": 24,
+              "url": "https://t.co/7P3tqlOBpr"
+            },
+            {
+              "display_url": "x.com/realwow_mao/st…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/realwow_mao/status/1944170250645250162",
+              "start": 48,
+              "url": "https://t.co/vXKTr9eZfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986092402847707521",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 957,
+          "impression_count": 295747,
+          "like_count": 12437,
+          "quote_count": 49,
+          "reply_count": 84,
+          "retweet_count": 473
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944170250645250162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "trying out a new dealer https://t.co/7P3tqlOBpr https://t.co/vXKTr9eZfW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品\n\n埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZ3Lh"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2103,
+          "following_count": 358,
+          "like_count": 3821,
+          "listed_count": 9,
+          "media_count": 414,
+          "tweet_count": 5068
+        },
+        "url": "https://t.co/tuzURhZ3Lh",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T15:38:14.000Z",
+        "description": "coal miner // media dubbed \"filipino youtube celebrity\" // hasan piker's tiktok editor // 87 IQ // poet // https://t.co/9oRGUlWEux",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/wowmao",
+                "end": 130,
+                "expanded_url": "http://discord.gg/wowmao",
+                "start": 107,
+                "url": "https://t.co/9oRGUlWEux"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/wowmao",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/wowmao",
+                "start": 0,
+                "url": "https://t.co/BYoGJIdI1Y"
+              }
+            ]
+          }
+        },
+        "id": "1579496271534034945",
+        "name": "mao_wow",
+        "pinned_tweet_id": "1983937848362312073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940155763256676353/S0rIiGdC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45567,
+          "following_count": 104,
+          "like_count": 29641,
+          "listed_count": 37,
+          "media_count": 935,
+          "tweet_count": 3387
+        },
+        "url": "https://t.co/BYoGJIdI1Y",
+        "username": "realwow_mao",
+        "verified": true
+      }
+    ]
+  }
+}

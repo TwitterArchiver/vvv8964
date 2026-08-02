@@ -1,0 +1,581 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Texas",
+          "id": "855432197297192961",
+          "name": "Texas"
+        }
+      }
+    ],
+    "conversation_id": "1968167244883693807",
+    "created_at": "2025-09-17T04:16:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T05:16:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968167244883693807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RT_com/status/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/RT_com/status/1967986339368018249",
+          "start": 16,
+          "url": "https://t.co/nzqhJJ3IUA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968167244883693807",
+    "lang": "no",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967986339368018249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Bye bye college https://t.co/nzqhJJ3IUA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40912,
+        "height": 1920,
+        "media_key": "13_1967986092935720960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967986092935720960/img/i-wfDan-zyTcMA6l.jpg",
+        "public_metrics": {
+          "view_count": 669548
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967986092935720960/vid/avc1/480x852/G92pkqhOEXo9RV4r.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967986092935720960/pl/Lps7jNJUBtIbCSZi.m3u8?tag=16&v=0d4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967986092935720960/vid/avc1/1080x1920/1zAHu4aqTaQTDEUN.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967986092935720960/vid/avc1/720x1280/Vz5REBXLc06-EzYd.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967986092935720960/vid/avc1/320x568/JZSfigLB5GOlWqhQ.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "1968167244883693807",
+        "created_at": "2025-09-17T04:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T05:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968167244883693807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RT_com/status/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/RT_com/status/1967986339368018249",
+              "start": 16,
+              "url": "https://t.co/nzqhJJ3IUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968167244883693807",
+        "lang": "no",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967986339368018249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Bye bye college https://t.co/nzqhJJ3IUA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967986092935720960"
+          ]
+        },
+        "author_id": "64643056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Fox News",
+              "id": "1065657279150665728",
+              "name": "Fox News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fox News",
+              "id": "1065657279150665728",
+              "name": "Fox News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "1967986339368018249",
+        "created_at": "2025-09-16T16:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T17:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967986339368018249"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Charlie Kirk",
+              "probability": 0.9582,
+              "start": 1,
+              "type": "Person"
+            },
+            {
+              "end": 67,
+              "normalized_text": "Texas State",
+              "probability": 0.8967,
+              "start": 57,
+              "type": "Organization"
+            },
+            {
+              "end": 102,
+              "normalized_text": "Charlie",
+              "probability": 0.6731,
+              "start": 96,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ZAN3pGadW",
+              "end": 196,
+              "expanded_url": "https://x.com/RT_com/status/1967986339368018249/video/1",
+              "media_key": "13_1967986092935720960",
+              "start": 173,
+              "url": "https://t.co/8ZAN3pGadW"
+            },
+            {
+              "display_url": "x.com/RT_com/status/…",
+              "end": 220,
+              "expanded_url": "https://twitter.com/RT_com/status/1967983992726278360",
+              "start": 197,
+              "url": "https://t.co/Ij2kP0TcU2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967986339368018249",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1663,
+          "impression_count": 3182094,
+          "like_count": 10106,
+          "quote_count": 915,
+          "reply_count": 415,
+          "retweet_count": 666
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967983992726278360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "‘Charlie Kirk right in the neck b***h…f**k that nigga!’\n\nTexas State student disrupts vigil for Charlie, reenacting his death\n\nHow do you deal with this kind of disrespect? https://t.co/8ZAN3pGadW https://t.co/Ij2kP0TcU2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 333,
+          "like_count": 3040,
+          "listed_count": 4,
+          "media_count": 254,
+          "tweet_count": 4145
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-11T06:12:45.000Z",
+        "description": "Freedom over censorship, Truth over narrative",
+        "id": "64643056",
+        "name": "RT",
+        "pinned_tweet_id": "1968115200902697063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922066094182830080/UY-fskwb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3354547,
+          "following_count": 897,
+          "like_count": 2305,
+          "listed_count": 21908,
+          "media_count": 297580,
+          "tweet_count": 533266
+        },
+        "username": "RT_com",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "AT",
+            "BE",
+            "BG",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "HR",
+            "HU",
+            "IE",
+            "IT",
+            "LT",
+            "LU",
+            "LV",
+            "MT",
+            "NL",
+            "PL",
+            "PT",
+            "RO",
+            "SE",
+            "SI",
+            "SK"
+          ]
+        }
+      }
+    ]
+  }
+}

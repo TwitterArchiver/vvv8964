@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1960572077922005077",
+    "created_at": "2025-08-27T12:36:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T13:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960682876971704565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1758280045355737088",
+          "start": 0,
+          "username": "itchyball8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960682876971704565",
+    "in_reply_to_user_id": "1758280045355737088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960678589604749545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itchyball8964 我在国内买的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1960572077922005077",
+        "created_at": "2025-08-27T12:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960682876971704565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1758280045355737088",
+              "start": 0,
+              "username": "itchyball8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960682876971704565",
+        "in_reply_to_user_id": "1758280045355737088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960678589604749545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itchyball8964 我在国内买的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758280045355737088",
+        "conversation_id": "1960572077922005077",
+        "created_at": "2025-08-27T12:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960678589604749545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960678589604749545",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960572077922005077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 这些你就正常托运带回国的吗？😪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 331,
+          "like_count": 2657,
+          "listed_count": 4,
+          "media_count": 190,
+          "tweet_count": 3547
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T00:00:09.000Z",
+        "description": "",
+        "id": "1758280045355737088",
+        "name": "Ume侠（唱多苹果第一人👊🍎🔥）",
+        "pinned_tweet_id": "1864133770921824503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758601064390266880/uWGrjhFP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 571,
+          "like_count": 4593,
+          "listed_count": 5,
+          "media_count": 37,
+          "tweet_count": 1396
+        },
+        "username": "itchyball8964",
+        "verified": false
+      }
+    ]
+  }
+}

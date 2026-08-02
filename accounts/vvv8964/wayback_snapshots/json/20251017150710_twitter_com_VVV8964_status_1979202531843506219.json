@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1979186886791897507",
+    "created_at": "2025-10-17T15:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T16:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979202531843506219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1861007013662384128",
+          "start": 0,
+          "username": "xiaoBH9C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979202531843506219",
+    "in_reply_to_user_id": "1861007013662384128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979186886791897507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoBH9C 怎么这么友善 是我我就要哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1979186886791897507",
+        "created_at": "2025-10-17T15:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T16:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979202531843506219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1861007013662384128",
+              "start": 0,
+              "username": "xiaoBH9C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979202531843506219",
+        "in_reply_to_user_id": "1861007013662384128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979186886791897507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoBH9C 怎么这么友善 是我我就要哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861007013662384128",
+        "conversation_id": "1979186886791897507",
+        "created_at": "2025-10-17T14:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979186886791897507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaobh9c/statu…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/xiaobh9c/status/1979140001636958237",
+              "start": 84,
+              "url": "https://t.co/0Z5O3Rt1QZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979186886791897507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979140001636958237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我开完药了，我这个gp不愧是4.75的gp，医生和前台都很好，有一个前台阿姨看我状态很不好还抱了我，说我可以把她当妈妈，说了她的工作时间说不管什么时候我去找她她都会在 https://t.co/0Z5O3Rt1QZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 340,
+          "like_count": 3587,
+          "listed_count": 7,
+          "media_count": 336,
+          "tweet_count": 4765
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T11:20:31.000Z",
+        "description": "本人是一株植物，心情随天气变化。",
+        "id": "1861007013662384128",
+        "location": "London, England",
+        "name": "sayaka",
+        "pinned_tweet_id": "1896059562752688385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970400480309268480/JfPct9A3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 142,
+          "like_count": 5132,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 2095
+        },
+        "username": "xiaoBH9C",
+        "verified": false
+      }
+    ]
+  }
+}

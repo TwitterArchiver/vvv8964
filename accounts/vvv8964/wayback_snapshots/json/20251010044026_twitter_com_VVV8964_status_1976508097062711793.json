@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976508095246503936"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1976508097062711793",
+    "created_at": "2025-10-10T04:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T05:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976508097062711793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HlFmfFxOd1",
+          "end": 55,
+          "expanded_url": "https://x.com/VVV8964/status/1976508097062711793/photo/1",
+          "media_key": "3_1976508095246503936",
+          "start": 32,
+          "url": "https://t.co/HlFmfFxOd1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976508097062711793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么大统华的新鲜蓝莓比沃尔玛的冷冻货卖的都便宜，20人民币一斤 https://t.co/HlFmfFxOd1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1494,
+        "media_key": "3_1976508095246503936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G233pADaEAA4ZLk.jpg",
+        "width": 996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976508095246503936"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1976508097062711793",
+        "created_at": "2025-10-10T04:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T05:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976508097062711793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlFmfFxOd1",
+              "end": 55,
+              "expanded_url": "https://x.com/VVV8964/status/1976508097062711793/photo/1",
+              "media_key": "3_1976508095246503936",
+              "start": 32,
+              "url": "https://t.co/HlFmfFxOd1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976508097062711793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么大统华的新鲜蓝莓比沃尔玛的冷冻货卖的都便宜，20人民币一斤 https://t.co/HlFmfFxOd1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 334,
+          "like_count": 3445,
+          "listed_count": 6,
+          "media_count": 310,
+          "tweet_count": 4622
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

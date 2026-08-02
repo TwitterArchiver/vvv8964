@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1839227326523191517",
+    "created_at": "2024-09-27T04:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T05:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839523642214125919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1779154402588172288",
+          "start": 0,
+          "username": "_Nikisade"
+        },
+        {
+          "end": 22,
+          "id": "1657055349982244865",
+          "start": 11,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839523642214125919",
+    "in_reply_to_user_id": "1779154402588172288",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839511943427584006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Nikisade @Glagagapot 温哥华是那个espot的游戏厅吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1839227326523191517",
+        "created_at": "2024-09-27T04:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T05:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839523642214125919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779154402588172288",
+              "start": 0,
+              "username": "_Nikisade"
+            },
+            {
+              "end": 22,
+              "id": "1657055349982244865",
+              "start": 11,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839523642214125919",
+        "in_reply_to_user_id": "1779154402588172288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839511943427584006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Nikisade @Glagagapot 温哥华是那个espot的游戏厅吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779154402588172288",
+        "conversation_id": "1839227326523191517",
+        "created_at": "2024-09-27T03:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T04:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839511943427584006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839511943427584006",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839227326523191517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 我服了啊一放假就想往温跑\n我去年暑假去，rw去，圣诞节去，今年暑假去，这次rw还想去。。。那里的机厅我都去过（（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 如果你给我点赞的话我会很开心\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁\nVVV",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 58,
+          "like_count": 45,
+          "listed_count": 0,
+          "tweet_count": 94
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:35:04.000Z",
+        "description": "等我死掉，你就会拥有独一无二的阴雨天娃娃。",
+        "id": "1779154402588172288",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空 is watching you, affectionately.",
+        "pinned_tweet_id": "1828873920969355779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836238844519194624/UCHQCmH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 368,
+          "like_count": 71699,
+          "listed_count": 4,
+          "tweet_count": 12316
+        },
+        "username": "_Nikisade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "FTG（G是嘎）",
+        "id": "1657055349982244865",
+        "location": "嘎拉国",
+        "name": "呆呆鸟",
+        "pinned_tweet_id": "1835093325214601346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819951340115959808/lwFuXAUy_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 1008,
+          "like_count": 38750,
+          "listed_count": 3,
+          "tweet_count": 14173
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

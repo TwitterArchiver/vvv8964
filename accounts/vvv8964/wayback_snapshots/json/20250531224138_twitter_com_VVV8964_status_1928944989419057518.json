@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1928858893100396622",
+    "created_at": "2025-05-31T22:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T23:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928944989419057518"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1928944989419057518",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928913293692854430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好像没事，我房东很chill，似乎不怎么在意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1928858893100396622",
+        "created_at": "2025-05-31T22:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T23:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928944989419057518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928944989419057518",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928913293692854430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像没事，我房东很chill，似乎不怎么在意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1928858893100396622",
+        "created_at": "2025-05-31T20:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T21:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928913293692854430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928913293692854430",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928909222894563335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草我草我草我草，我遇到了一个非常严重的问题可能要跟房东交涉，连清醒的我都不一定能解决，我可以把这件事情拖延到我药效结束后解决，但是这是否值得，我现在要饿死了，下楼解决食物问题有一定的风险。我的房间里有过期的面包，我是绝对不会吃的，还有米饼，味道很差连我清醒的时候都不会吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 235,
+          "like_count": 692,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 1606
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

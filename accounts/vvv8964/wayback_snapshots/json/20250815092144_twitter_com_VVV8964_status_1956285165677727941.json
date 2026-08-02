@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1956233794761187588",
+    "created_at": "2025-08-15T09:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T10:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956285165677727941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1011854647642939392",
+          "start": 0,
+          "username": "netai_nemurenai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956285165677727941",
+    "in_reply_to_user_id": "1011854647642939392",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956283351414743437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@netai_nemurenai nigga"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1956283351414743437].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1956283351414743437",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1956283351414743437"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1956233794761187588",
+        "created_at": "2025-08-15T09:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956285165677727941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1011854647642939392",
+              "start": 0,
+              "username": "netai_nemurenai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956285165677727941",
+        "in_reply_to_user_id": "1011854647642939392",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956283351414743437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@netai_nemurenai nigga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 319,
+          "like_count": 2307,
+          "listed_count": 3,
+          "media_count": 151,
+          "tweet_count": 3090
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-27T06:12:02.000Z",
+        "description": "",
+        "id": "1011854647642939392",
+        "location": "湖心島",
+        "name": "❀さき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1273361527978913792/oPRT-EES_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 572,
+          "like_count": 11730,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1011
+        },
+        "username": "netai_nemurenai",
+        "verified": false
+      }
+    ]
+  }
+}

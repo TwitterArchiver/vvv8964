@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1879683365009551446",
+    "created_at": "2025-01-16T00:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T01:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1879683365009551446"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1879683365009551446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "考完试突然有点脱力了，跟跑完步一样轻飘飘的。我在想之前会不会把这种效果认成普瑞了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1879683365009551446",
+        "created_at": "2025-01-16T00:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T01:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879683365009551446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879683365009551446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "考完试突然有点脱力了，跟跑完步一样轻飘飘的。我在想之前会不会把这种效果认成普瑞了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 143,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 676
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

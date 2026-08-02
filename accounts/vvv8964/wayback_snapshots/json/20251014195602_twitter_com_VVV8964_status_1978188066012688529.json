@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1977834673784160522",
+    "created_at": "2025-10-14T19:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T20:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978188066012688529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1934904279334338560",
+          "start": 0,
+          "username": "TakemeShark_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978188066012688529",
+    "in_reply_to_user_id": "1934904279334338560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978011967148503059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TakemeShark_ 啊啊啊啊啊不准你这么说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1977834673784160522",
+        "created_at": "2025-10-14T19:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T20:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978188066012688529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1934904279334338560",
+              "start": 0,
+              "username": "TakemeShark_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978188066012688529",
+        "in_reply_to_user_id": "1934904279334338560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978011967148503059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TakemeShark_ 啊啊啊啊啊不准你这么说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934904279334338560",
+        "conversation_id": "1977834673784160522",
+        "created_at": "2025-10-14T08:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T09:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978011967148503059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978011967148503059",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977834673784160522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 盘子上那两根像广东双马尾😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 336,
+          "like_count": 3526,
+          "listed_count": 7,
+          "media_count": 327,
+          "tweet_count": 4705
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T09:21:57.000Z",
+        "description": "",
+        "id": "1934904279334338560",
+        "location": "Vancouver, British Columbia",
+        "name": "Shark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950081431180652544/evO4GXNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 97
+        },
+        "username": "TakemeShark_",
+        "verified": false
+      }
+    ]
+  }
+}

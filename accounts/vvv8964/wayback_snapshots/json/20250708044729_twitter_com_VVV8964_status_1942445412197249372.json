@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942445402516516864"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1942445412197249372",
+    "created_at": "2025-07-08T04:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T05:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942445412197249372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tF3PFctuYg",
+          "end": 92,
+          "expanded_url": "https://x.com/VVV8964/status/1942445412197249372/photo/1",
+          "media_key": "3_1942445402516516864",
+          "start": 69,
+          "url": "https://t.co/tF3PFctuYg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942445412197249372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "taiwanese疑似太有钱了，进店免费给我一个凤梨酥和一杯茶\n这个凤梨酥一个就要卖15人民币了，我本来以为台湾买会更便宜，实际上一样贵 https://t.co/tF3PFctuYg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942445402516516864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvTzzVSWcAAdvIH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942445402516516864"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1942445412197249372",
+        "created_at": "2025-07-08T04:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T05:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942445412197249372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tF3PFctuYg",
+              "end": 92,
+              "expanded_url": "https://x.com/VVV8964/status/1942445412197249372/photo/1",
+              "media_key": "3_1942445402516516864",
+              "start": 69,
+              "url": "https://t.co/tF3PFctuYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942445412197249372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "taiwanese疑似太有钱了，进店免费给我一个凤梨酥和一杯茶\n这个凤梨酥一个就要卖15人民币了，我本来以为台湾买会更便宜，实际上一样贵 https://t.co/tF3PFctuYg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 271,
+          "like_count": 1196,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 2142
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

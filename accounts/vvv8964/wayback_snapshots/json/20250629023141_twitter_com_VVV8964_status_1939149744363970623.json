@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1939112794806251602",
+    "created_at": "2025-06-29T02:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T03:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939149744363970623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1277411486168756231",
+          "start": 0,
+          "username": "mangoiceshake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939149744363970623",
+    "in_reply_to_user_id": "1277411486168756231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939112794806251602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mangoiceshake 沃尔玛都有卖吧，我之前还想买来着，但是太多了我冰箱放不下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1939112794806251602",
+        "created_at": "2025-06-29T02:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T03:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939149744363970623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1277411486168756231",
+              "start": 0,
+              "username": "mangoiceshake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939149744363970623",
+        "in_reply_to_user_id": "1277411486168756231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939112794806251602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mangoiceshake 沃尔玛都有卖吧，我之前还想买来着，但是太多了我冰箱放不下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277411486168756231",
+        "conversation_id": "1939112794806251602",
+        "created_at": "2025-06-29T00:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T01:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939112794806251602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939112794806251602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想吃hash brown了为什么加拿大没有hash brown吃😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 260,
+          "like_count": 1008,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1980
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-29T01:20:17.000Z",
+        "description": "🥭 是一颗会自言自语的神奇魔法小芒果猫猫🥭门槛us$20什么都收也可以不给() 犯病我会乱block人对不起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mangoiceshake.bsky.social",
+                "end": 23,
+                "expanded_url": "http://mangoiceshake.bsky.social",
+                "start": 0,
+                "url": "https://t.co/DZKNtHGRt0"
+              }
+            ]
+          }
+        },
+        "id": "1277411486168756231",
+        "location": "加拿大有机三文鱼甜虾芒果冻干猫条",
+        "name": "🥭🐈❄️ 🍰🐙✨🍦冬眠中(´⌯ ̫⌯`)",
+        "pinned_tweet_id": "1910551654757249100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886264934683549696/hN-LO71W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 445,
+          "like_count": 4299,
+          "listed_count": 2,
+          "media_count": 862,
+          "tweet_count": 9012
+        },
+        "url": "https://t.co/DZKNtHGRt0",
+        "username": "mangoiceshake",
+        "verified": false
+      }
+    ]
+  }
+}

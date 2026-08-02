@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943414619516596479",
+    "created_at": "2025-07-11T05:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T06:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943549087351263423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901299981518286848",
+          "start": 0,
+          "username": "kami18181818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943549087351263423",
+    "in_reply_to_user_id": "1901299981518286848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943414619516596479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kami18181818 这样岂不是很不好控制剂量，倒水也不知道倒的是多少"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18566,
+        "height": 1024,
+        "media_key": "13_1943414552432947200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1943414552432947200/img/QWWytmqhA_o9CNos.jpg",
+        "public_metrics": {
+          "view_count": 43
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943414552432947200/vid/avc1/320x568/TvJtVOZJc3QZ53nn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943414552432947200/vid/avc1/480x852/YiECLaJK_IDNgA7N.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943414552432947200/vid/avc1/576x1024/RxMvHpHNMDjgxhQV.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1943414552432947200/pl/OVHsJNvlHtbxPJVe.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943414619516596479",
+        "created_at": "2025-07-11T05:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T06:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943549087351263423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901299981518286848",
+              "start": 0,
+              "username": "kami18181818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943549087351263423",
+        "in_reply_to_user_id": "1901299981518286848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943414619516596479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami18181818 这样岂不是很不好控制剂量，倒水也不知道倒的是多少"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1943414552432947200"
+          ]
+        },
+        "author_id": "1901299981518286848",
+        "conversation_id": "1943414619516596479",
+        "created_at": "2025-07-10T20:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T21:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943414619516596479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xa84RgQtff",
+              "end": 73,
+              "expanded_url": "https://x.com/kami18181818/status/1943414619516596479/video/1",
+              "media_key": "13_1943414552432947200",
+              "start": 50,
+              "url": "https://t.co/xa84RgQtff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943414619516596479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前喝过一次开心水是这样的，基本是k粉加摇头丸，有些还会加冰，曲马多，安定各种乱七八糟的一锅乱炖 https://t.co/xa84RgQtff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 274,
+          "like_count": 1328,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 2229
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T15:50:27.000Z",
+        "description": "",
+        "id": "1901299981518286848",
+        "name": "kami",
+        "pinned_tweet_id": "1943247985607090250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909312547976888320/uoGqMJXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 151,
+          "like_count": 1661,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 111
+        },
+        "username": "kami18181818",
+        "verified": false
+      }
+    ]
+  }
+}

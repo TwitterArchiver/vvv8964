@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1920364007392755944",
+    "created_at": "2025-05-08T06:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T07:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920365618752311562"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1920365618752311562",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920364960980611497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "p4是押寿司，相对普通的寿司卷我更喜欢吃这种押寿司，但也没有特别喜欢，而且我还买错了，本来想买三文鱼的，买成虾了，三文鱼押寿司我记得会煎的很香。今天我坐在寿司吧台旁边都能闻到油脂的香气，但是看他们的鱼肉也是拿包装好的出来，不知道是不是新鲜的，如果花一百多吃个冷冻寿司那真成冤大头了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1920364007392755944",
+        "created_at": "2025-05-08T06:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T07:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920365618752311562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920365618752311562",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920364960980611497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "p4是押寿司，相对普通的寿司卷我更喜欢吃这种押寿司，但也没有特别喜欢，而且我还买错了，本来想买三文鱼的，买成虾了，三文鱼押寿司我记得会煎的很香。今天我坐在寿司吧台旁边都能闻到油脂的香气，但是看他们的鱼肉也是拿包装好的出来，不知道是不是新鲜的，如果花一百多吃个冷冻寿司那真成冤大头了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1920364007392755944",
+        "created_at": "2025-05-08T06:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T07:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920364960980611497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920364960980611497",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920364007392755944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "p1是香辣海鲜面，不知道是不是那个什么荞麦面，36刀，海鲜也挺多，有虾，贝壳，香菇之类的。面刚上来的时候热腾腾的，辣味也刚刚好，但是给四川人湖南人吃就不够了。\np2p3是手握寿司，没有酱油，可能因为不想让调味品掩盖食物本身的味道。但是我觉得油脂多一点火烤多一点会更好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 184,
+          "like_count": 420,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 1190
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

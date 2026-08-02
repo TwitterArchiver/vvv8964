@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943001391133528258",
+    "created_at": "2025-07-10T05:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T06:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943179757153325280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1400872791688183810",
+          "start": 0,
+          "username": "YouthStudyCPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943179757153325280",
+    "in_reply_to_user_id": "1400872791688183810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943001391133528258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YouthStudyCPC 哪买的亚麻这么便宜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943001391133528258",
+        "created_at": "2025-07-10T05:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T06:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943179757153325280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1400872791688183810",
+              "start": 0,
+              "username": "YouthStudyCPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943179757153325280",
+        "in_reply_to_user_id": "1400872791688183810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943001391133528258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YouthStudyCPC 哪买的亚麻这么便宜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400872791688183810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597176467456",
+              "name": "Sports/Outdoor - Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10028061771",
+              "name": "Carhartt"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10028061771",
+              "name": "Carhartt"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283418429320355840",
+              "name": "Outdoor brands"
+            }
+          }
+        ],
+        "conversation_id": "1943001391133528258",
+        "created_at": "2025-07-09T17:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T18:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943001391133528258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoyuwei/statu…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/luoyuwei/status/1942851769081438666",
+              "start": 135,
+              "url": "https://t.co/IffzcrxSIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943001391133528258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4474,
+          "like_count": 13,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942851769081438666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我五年多没出去剪过头发（在自己家推子推），穿的内衣T恤（亚麻50块16件），一年四季踏着洞洞鞋 （打折40块一双），唯一点爱好就是带块表，从来不用洗面奶，没有背包，出门带个carhartt工头腰包 （二手20块），一个手机用5年起步，没有手机壳，经常在推上闲逛着。。。 https://t.co/IffzcrxSIS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 275,
+          "like_count": 1290,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 2192
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-04T17:51:34.000Z",
+        "description": "Proud husband, dad (of two dogs), amateur strongman\n\n575 Deadlift with straps\n525 Squat \n252 Log",
+        "id": "1400872791688183810",
+        "location": "大家拿",
+        "name": "素里肥汉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857970529698983938/RFxZBgaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 665,
+          "like_count": 36429,
+          "listed_count": 9,
+          "media_count": 2661,
+          "tweet_count": 28158
+        },
+        "username": "YouthStudyCPC",
+        "verified": true
+      }
+    ]
+  }
+}

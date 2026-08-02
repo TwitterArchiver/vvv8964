@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1966749149958652335",
+    "created_at": "2025-09-13T06:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T07:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966749149958652335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VVV8964/status…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/VVV8964/status/1965406551998685382",
+          "start": 74,
+          "url": "https://t.co/4zmqHAoWtL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966749149958652335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965406551998685382",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "类似的事情发生了，这次是被小女友家阿姨撞到了\n感觉比上次更加尴尬，可能是因为大麻影响下我的礼义廉耻是强行思考模拟得出的，比清醒时的感性思考更加深刻 https://t.co/4zmqHAoWtL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1966749149958652335",
+        "created_at": "2025-09-13T06:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T07:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966749149958652335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VVV8964/status…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/VVV8964/status/1965406551998685382",
+              "start": 74,
+              "url": "https://t.co/4zmqHAoWtL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966749149958652335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965406551998685382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "类似的事情发生了，这次是被小女友家阿姨撞到了\n感觉比上次更加尴尬，可能是因为大麻影响下我的礼义廉耻是强行思考模拟得出的，比清醒时的感性思考更加深刻 https://t.co/4zmqHAoWtL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1965406551998685382",
+        "created_at": "2025-09-09T13:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T14:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965406551998685382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965406551998685382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1013,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟小女友连麦搞一些不是很好说的事情的时候被她爹撞见了\n好尴尬好尴尬好尴尬啊啊啊啊啊啊啊\n一想到时候还可能见到他爹就流汗了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 331,
+          "like_count": 2979,
+          "listed_count": 4,
+          "media_count": 245,
+          "tweet_count": 4039
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

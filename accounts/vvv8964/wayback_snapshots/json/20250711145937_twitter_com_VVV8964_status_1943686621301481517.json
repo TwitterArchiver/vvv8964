@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943686621301481517",
+    "created_at": "2025-07-11T14:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T15:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943686621301481517"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1943686621301481517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "普瑞真的很好🥹\n但是还是建议大家少吃，不要干烂自己的受体，负责任地使用，像我每次就吃150mg最多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943686621301481517",
+        "created_at": "2025-07-11T14:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T15:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943686621301481517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943686621301481517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞真的很好🥹\n但是还是建议大家少吃，不要干烂自己的受体，负责任地使用，像我每次就吃150mg最多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 275,
+          "like_count": 1340,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 2250
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

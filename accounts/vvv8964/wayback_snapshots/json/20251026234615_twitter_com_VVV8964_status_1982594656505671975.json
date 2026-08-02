@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1982446094400581691",
+    "created_at": "2025-10-26T23:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T00:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982594656505671975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1850072961468043264",
+          "start": 0,
+          "username": "Guling_Nijika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982594656505671975",
+    "in_reply_to_user_id": "1850072961468043264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982446094400581691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guling_Nijika 登不上去了还是什么 为啥我看你号还在"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_1982446086963781632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4MQNm_W4AAGGkj.jpg",
+        "width": 1100
+      },
+      {
+        "height": 519,
+        "media_key": "3_1982446086984740864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4MQNnEWsAAezow.jpg",
+        "width": 387
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1982446094400581691",
+        "created_at": "2025-10-26T23:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T00:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982594656505671975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1850072961468043264",
+              "start": 0,
+              "username": "Guling_Nijika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982594656505671975",
+        "in_reply_to_user_id": "1850072961468043264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982446094400581691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guling_Nijika 登不上去了还是什么 为啥我看你号还在"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982446086963781632",
+            "3_1982446086984740864"
+          ]
+        },
+        "author_id": "1850072961468043264",
+        "conversation_id": "1982446094400581691",
+        "created_at": "2025-10-26T13:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T14:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982446094400581691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dXxuWBklsN",
+              "end": 71,
+              "expanded_url": "https://x.com/Guling_Nijika/status/1982446094400581691/photo/1",
+              "media_key": "3_1982446086963781632",
+              "start": 48,
+              "url": "https://t.co/dXxuWBklsN"
+            },
+            {
+              "display_url": "pic.x.com/dXxuWBklsN",
+              "end": 71,
+              "expanded_url": "https://x.com/Guling_Nijika/status/1982446094400581691/photo/1",
+              "media_key": "3_1982446086984740864",
+              "start": 48,
+              "url": "https://t.co/dXxuWBklsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982446094400581691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2549,
+          "like_count": 24,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我是Winit420，我重生了，上一世突然暴死，这一世我一定要拿回我的一切。\n大家帮忙转发一下 https://t.co/dXxuWBklsN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 348,
+          "like_count": 3709,
+          "listed_count": 9,
+          "media_count": 371,
+          "tweet_count": 4942
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T07:12:32.000Z",
+        "description": "今天我思考了吗",
+        "id": "1850072961468043264",
+        "location": "Winit420",
+        "name": "牯岭街普通虹夏",
+        "pinned_tweet_id": "1977198260264878216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982437648179355648/Gyd20Lbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 136,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 342
+        },
+        "username": "Guling_Nijika",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1957404600480260276",
+    "created_at": "2025-08-18T14:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T15:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957447927548568039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1732759010355339264",
+          "start": 0,
+          "username": "oOxaliSs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957447927548568039",
+    "in_reply_to_user_id": "1732759010355339264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957447724976013665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oOxaliSs 我的初吻被夺走了 而我甚至没有相关记忆 😭😭😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1957447724976013665].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1957447724976013665",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1957447724976013665"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1957404600480260276",
+        "created_at": "2025-08-18T14:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T15:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957447927548568039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732759010355339264",
+              "start": 0,
+              "username": "oOxaliSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957447927548568039",
+        "in_reply_to_user_id": "1732759010355339264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957447724976013665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oOxaliSs 我的初吻被夺走了 而我甚至没有相关记忆 😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 322,
+          "like_count": 2366,
+          "listed_count": 3,
+          "media_count": 153,
+          "tweet_count": 3181
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T13:49:09.000Z",
+        "description": "enby｜恐龙蘑菇猫头鹰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2ZsWq7zlUwBjY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2ZsWq7zlUwBjYWE1",
+                "start": 0,
+                "url": "https://t.co/7mtuwegGcq"
+              }
+            ]
+          }
+        },
+        "id": "1732759010355339264",
+        "location": "they/them/ta/他",
+        "name": "oOxaliSs",
+        "pinned_tweet_id": "1940783826273509492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732781379421921280/v1gUWytM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 615,
+          "like_count": 24448,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 3505
+        },
+        "url": "https://t.co/7mtuwegGcq",
+        "username": "oOxaliSs",
+        "verified": false
+      }
+    ]
+  }
+}

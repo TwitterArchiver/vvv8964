@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1869762762689409047",
+    "created_at": "2024-12-20T04:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T05:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869967494737473677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647904361778122752",
+          "start": 0,
+          "username": "Maferccaxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869967494737473677",
+    "in_reply_to_user_id": "1647904361778122752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869762762689409047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maferccaxxx 好死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1869762762689409047",
+        "created_at": "2024-12-20T04:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T05:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869967494737473677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647904361778122752",
+              "start": 0,
+              "username": "Maferccaxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869967494737473677",
+        "in_reply_to_user_id": "1647904361778122752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869762762689409047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maferccaxxx 好死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647904361778122752",
+        "conversation_id": "1869762762689409047",
+        "created_at": "2024-12-19T15:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T16:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869762762689409047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/baojiangdilei/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/baojiangdilei/status/1869529858247954479",
+              "start": 42,
+              "url": "https://t.co/azDlWHV2xP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869762762689409047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3034,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869529858247954479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "众多盒狗网暴达人都拿他没办法的顶级硬汉，给中年大妈随手一通电话就拿下了，我要笑死了 https://t.co/azDlWHV2xP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 135,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 486
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T10:06:47.000Z",
+        "description": "注定被遗忘者",
+        "id": "1647904361778122752",
+        "location": "桥洞",
+        "name": "玛菲卡回归现实",
+        "pinned_tweet_id": "1718487677660766249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681634803249221632/HWIVAmlR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3092,
+          "following_count": 708,
+          "like_count": 2243,
+          "listed_count": 18,
+          "media_count": 276,
+          "tweet_count": 2008
+        },
+        "username": "Maferccaxxx",
+        "verified": false
+      }
+    ]
+  }
+}

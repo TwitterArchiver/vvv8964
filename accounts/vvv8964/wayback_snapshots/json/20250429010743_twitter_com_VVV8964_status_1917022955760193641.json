@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1916910731603370279",
+    "created_at": "2025-04-29T01:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T02:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917022955760193641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917022955760193641",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916910731603370279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 旅游季是不是就贵了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1916910716201930754",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpo8I-FbEAIUtZK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1916910716399063043",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpo8I-0bEAMFaEe.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1916910716734607361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpo8JAEbEAEQ-Yc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1916910731603370279",
+        "created_at": "2025-04-29T01:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T02:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917022955760193641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917022955760193641",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916910731603370279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 旅游季是不是就贵了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916910716201930754",
+            "3_1916910716399063043",
+            "3_1916910716734607361"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1916910731603370279",
+        "created_at": "2025-04-28T17:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T18:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916910731603370279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6DgAXDyqRc",
+              "end": 74,
+              "expanded_url": "https://x.com/Minokakay/status/1916910731603370279/photo/1",
+              "media_key": "3_1916910716201930754",
+              "start": 51,
+              "url": "https://t.co/6DgAXDyqRc"
+            },
+            {
+              "display_url": "pic.x.com/6DgAXDyqRc",
+              "end": 74,
+              "expanded_url": "https://x.com/Minokakay/status/1916910731603370279/photo/1",
+              "media_key": "3_1916910716399063043",
+              "start": 51,
+              "url": "https://t.co/6DgAXDyqRc"
+            },
+            {
+              "display_url": "pic.x.com/6DgAXDyqRc",
+              "end": 74,
+              "expanded_url": "https://x.com/Minokakay/status/1916910731603370279/photo/1",
+              "media_key": "3_1916910716734607361",
+              "start": 51,
+              "url": "https://t.co/6DgAXDyqRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916910731603370279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2726,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "重庆，一个老的五星级，170一晚上，双人含早，这个配置其他城市真的羡慕死了吧，170在日本只能睡大街 https://t.co/6DgAXDyqRc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 177,
+          "like_count": 389,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 1121
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1916475690863726978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6531,
+          "following_count": 865,
+          "like_count": 41332,
+          "listed_count": 29,
+          "media_count": 864,
+          "tweet_count": 16726
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

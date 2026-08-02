@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1942577959736623330",
+    "created_at": "2025-07-08T14:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T15:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942594114719269058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279702935102865409",
+          "start": 0,
+          "username": "YoselinZhang"
+        },
+        {
+          "end": 28,
+          "id": "1250481447606968322",
+          "start": 14,
+          "username": "DoyleMeridian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942594114719269058",
+    "in_reply_to_user_id": "1279702935102865409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942577959736623330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YoselinZhang @DoyleMeridian 有这么厉害吗 为什么这么多人抽了都吐了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22421,
+        "height": 1280,
+        "media_key": "13_1942577385682972672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1942577385682972672/img/SUC8v__1hAtrflTg.jpg",
+        "public_metrics": {
+          "view_count": 64
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942577385682972672/vid/avc1/320x568/vWFBOEdSxPoMWh67.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942577385682972672/vid/avc1/480x852/FAPtoe_0PUuwi41U.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942577385682972672/vid/avc1/720x1280/GXI5g-EAS31_ro29.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1942577385682972672/pl/TlP0kBqBiD36JLYu.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 18085,
+        "height": 1280,
+        "media_key": "13_1942577385481854977",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1942577385481854977/img/rW2_cF-44JWK8d2q.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942577385481854977/vid/avc1/320x568/-YzCjpfNVFhOElx5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942577385481854977/vid/avc1/480x852/JFZe5X80iaA1ThkT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942577385481854977/vid/avc1/720x1280/VtMnIY16PaHKqMQq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1942577385481854977/pl/8l10M7NibaL86RHs.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1942577959736623330",
+        "created_at": "2025-07-08T14:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T15:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942594114719269058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279702935102865409",
+              "start": 0,
+              "username": "YoselinZhang"
+            },
+            {
+              "end": 28,
+              "id": "1250481447606968322",
+              "start": 14,
+              "username": "DoyleMeridian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942594114719269058",
+        "in_reply_to_user_id": "1279702935102865409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942577959736623330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YoselinZhang @DoyleMeridian 有这么厉害吗 为什么这么多人抽了都吐了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1942577385682972672",
+            "13_1942577385481854977"
+          ]
+        },
+        "author_id": "1279702935102865409",
+        "conversation_id": "1942577959736623330",
+        "created_at": "2025-07-08T13:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T14:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942577959736623330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1250481447606968322",
+              "start": 25,
+              "username": "DoyleMeridian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VDpbAorn3q",
+              "end": 63,
+              "expanded_url": "https://x.com/YoselinZhang/status/1942577959736623330/video/1",
+              "media_key": "13_1942577385682972672",
+              "start": 40,
+              "url": "https://t.co/VDpbAorn3q"
+            },
+            {
+              "display_url": "pic.x.com/VDpbAorn3q",
+              "end": 63,
+              "expanded_url": "https://x.com/YoselinZhang/status/1942577959736623330/video/1",
+              "media_key": "13_1942577385481854977",
+              "start": 40,
+              "url": "https://t.co/VDpbAorn3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942577959736623330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个人在我家飞了草狂吐，这该说明他菜还是我这个太纯@DoyleMeridian https://t.co/VDpbAorn3q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 272,
+          "like_count": 1219,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 2158
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T09:05:40.000Z",
+        "description": "07, ISFP, 计划26fall US, 泛性恋一/三爱顺女，LGBTQ+友好，Brat(BDSM), 中文&ENG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mylifeallfucke…",
+                "end": 23,
+                "expanded_url": "https://t.me/mylifeallfuckedup",
+                "start": 0,
+                "url": "https://t.co/PAY0hcecwZ"
+              }
+            ]
+          }
+        },
+        "id": "1279702935102865409",
+        "name": "Yoselin🪬💊🩸",
+        "pinned_tweet_id": "1925173802385981764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858351609325162496/IJY_umTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 311,
+          "like_count": 10949,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1057
+        },
+        "url": "https://t.co/PAY0hcecwZ",
+        "username": "YoselinZhang",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-15T17:50:06.000Z",
+        "description": "送我上青云。",
+        "id": "1250481447606968322",
+        "location": "0.1km",
+        "name": "仇。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1473559953084272640/5MjV1KAs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4228,
+          "following_count": 315,
+          "like_count": 2580,
+          "listed_count": 12,
+          "media_count": 56,
+          "tweet_count": 2012
+        },
+        "username": "DoyleMeridian",
+        "verified": false
+      }
+    ]
+  }
+}

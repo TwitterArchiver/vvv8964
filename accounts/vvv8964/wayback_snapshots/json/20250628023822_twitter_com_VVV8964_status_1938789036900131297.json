@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1937846582017425440",
+    "created_at": "2025-06-28T02:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T03:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938789036900131297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690721268373581824",
+          "start": 0,
+          "username": "Celsius233C"
+        },
+        {
+          "end": 26,
+          "id": "1761775667430191104",
+          "start": 13,
+          "username": "FallenF58682"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938789036900131297",
+    "in_reply_to_user_id": "1690721268373581824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938494574995067099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Celsius233C @FallenF58682 我之前在老中竞赛班遇到的做题蛆就这样  一个比一个假装谦虚 实际上恨不得比自己考的高的人都去死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1937846582017425440",
+        "created_at": "2025-06-28T02:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T03:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938789036900131297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690721268373581824",
+              "start": 0,
+              "username": "Celsius233C"
+            },
+            {
+              "end": 26,
+              "id": "1761775667430191104",
+              "start": 13,
+              "username": "FallenF58682"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938789036900131297",
+        "in_reply_to_user_id": "1690721268373581824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938494574995067099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Celsius233C @FallenF58682 我之前在老中竞赛班遇到的做题蛆就这样  一个比一个假装谦虚 实际上恨不得比自己考的高的人都去死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690721268373581824",
+        "conversation_id": "1937846582017425440",
+        "created_at": "2025-06-27T07:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T08:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938494574995067099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1761775667430191104",
+              "start": 0,
+              "username": "FallenF58682"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938494574995067099",
+        "in_reply_to_user_id": "1761775667430191104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 388,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937846582017425440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FallenF58682 做题曲闹麻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 258,
+          "like_count": 986,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1966
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T13:45:44.000Z",
+        "description": "Gender undefined｜zh-CN/en-US｜R-18G｜Film Photography📷｜Planes✈️｜Amateur Radio📻｜War Thunder",
+        "id": "1690721268373581824",
+        "location": "Washington, USA",
+        "name": "233°C",
+        "pinned_tweet_id": "1882365999896543468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709080494498054145/b4FIrcBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5598,
+          "following_count": 771,
+          "like_count": 15663,
+          "listed_count": 20,
+          "media_count": 69,
+          "tweet_count": 1211
+        },
+        "username": "Celsius233C",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T15:30:35.000Z",
+        "description": "欢迎光临残夜的小窝🌸(´つヮ⊂︎) 愿你天天开心！| 🇹🇼🇺🇸 | vocaloid🎵 | BrawlStars⭐ |",
+        "id": "1761775667430191104",
+        "location": "四通桥",
+        "name": "残夜🍇",
+        "pinned_tweet_id": "1809851934087737504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776160737943252992/jkyJSbq9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 221,
+          "like_count": 1031,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 599
+        },
+        "username": "FallenF58682",
+        "verified": false
+      }
+    ]
+  }
+}

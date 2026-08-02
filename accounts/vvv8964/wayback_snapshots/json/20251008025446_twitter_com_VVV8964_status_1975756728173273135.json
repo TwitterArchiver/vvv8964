@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1975346892574732288"
+      ],
+      "media_source_tweet_id": [
+        "1975347009407361535"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1975756728173273135",
+    "created_at": "2025-10-08T02:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T03:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975756728173273135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1846541474512482304",
+          "start": 3,
+          "username": "CHILLVILLE4EVER"
+        },
+        {
+          "end": 33,
+          "id": "1206886541248933888",
+          "start": 21,
+          "username": "DAKKADAKKA1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3GoBvIlIgW",
+          "end": 57,
+          "expanded_url": "https://x.com/CHILLVILLE4EVER/status/1975347009407361535/video/1",
+          "media_key": "13_1975346892574732288",
+          "start": 34,
+          "url": "https://t.co/3GoBvIlIgW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975756728173273135",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975347009407361535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CHILLVILLE4EVER: @DAKKADAKKA1 https://t.co/3GoBvIlIgW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21736,
+        "height": 720,
+        "media_key": "13_1975346892574732288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1975346892574732288/img/ImbhMn7Kmygu98Y4.jpg",
+        "public_metrics": {
+          "view_count": 1119
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975346892574732288/vid/avc1/450x270/5HQhzYag1xACAfrY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975346892574732288/vid/avc1/600x360/ePCNTzgZExgGKdo_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975346892574732288/vid/avc1/1200x720/zA5-XrfDw0mLNZd4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1975346892574732288/pl/Zpd-tizxQka6cwSc.m3u8?v=f12"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975346892574732288"
+          ],
+          "media_source_tweet_id": [
+            "1975347009407361535"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1975756728173273135",
+        "created_at": "2025-10-08T02:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T03:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975756728173273135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1846541474512482304",
+              "start": 3,
+              "username": "CHILLVILLE4EVER"
+            },
+            {
+              "end": 33,
+              "id": "1206886541248933888",
+              "start": 21,
+              "username": "DAKKADAKKA1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3GoBvIlIgW",
+              "end": 57,
+              "expanded_url": "https://x.com/CHILLVILLE4EVER/status/1975347009407361535/video/1",
+              "media_key": "13_1975346892574732288",
+              "start": 34,
+              "url": "https://t.co/3GoBvIlIgW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975756728173273135",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975347009407361535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CHILLVILLE4EVER: @DAKKADAKKA1 https://t.co/3GoBvIlIgW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975346892574732288"
+          ]
+        },
+        "author_id": "1846541474512482304",
+        "conversation_id": "1975344819158589889",
+        "created_at": "2025-10-06T23:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T00:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975347009407361535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1206886541248933888",
+              "start": 0,
+              "username": "DAKKADAKKA1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3GoBvIlIgW",
+              "end": 36,
+              "expanded_url": "https://x.com/CHILLVILLE4EVER/status/1975347009407361535/video/1",
+              "media_key": "13_1975346892574732288",
+              "start": 13,
+              "url": "https://t.co/3GoBvIlIgW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975347009407361535",
+        "in_reply_to_user_id": "1206886541248933888",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 2038,
+          "like_count": 191,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975344819158589889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DAKKADAKKA1 https://t.co/3GoBvIlIgW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 334,
+          "like_count": 3399,
+          "listed_count": 6,
+          "media_count": 305,
+          "tweet_count": 4592
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T13:19:46.000Z",
+        "description": "SCHIZO-POSTER. POWERLIFTER. USA ONLY. CHILLVILLE 4EVER. CHRIST LIVES!",
+        "id": "1846541474512482304",
+        "location": "USA, CHILLVILLE",
+        "name": "CHILLKING🇺🇸",
+        "pinned_tweet_id": "1927783763011899397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975756489890430976/nkIctEtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 24,
+          "like_count": 7665,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 827
+        },
+        "username": "CHILLVILLE4EVER",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-17T10:39:17.000Z",
+        "description": "Christian, Father, Husband and shitposter in that order. https://t.co/Xm2fDguLZK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "subscribestar.com/dakkadakka",
+                "end": 80,
+                "expanded_url": "http://subscribestar.com/dakkadakka",
+                "start": 57,
+                "url": "https://t.co/Xm2fDguLZK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCJuXM…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCJuXM1DhpGWvnEw-BuqiWQQ",
+                "start": 0,
+                "url": "https://t.co/zI68lgqEFR"
+              }
+            ]
+          }
+        },
+        "id": "1206886541248933888",
+        "location": "Oklahoma, USA",
+        "name": "DAKKADAKKA",
+        "pinned_tweet_id": "1862679402565238924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832345505369624576/P7sGqZG5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31580,
+          "following_count": 703,
+          "like_count": 284428,
+          "listed_count": 149,
+          "media_count": 14071,
+          "tweet_count": 38386
+        },
+        "url": "https://t.co/zI68lgqEFR",
+        "username": "DAKKADAKKA1",
+        "verified": true
+      }
+    ]
+  }
+}

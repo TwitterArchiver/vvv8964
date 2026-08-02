@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1958014694964506907",
+    "created_at": "2025-08-21T06:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T07:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958409948028916138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1257994078094012417",
+          "start": 0,
+          "username": "phil_u_tikhona"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958409948028916138",
+    "in_reply_to_user_id": "1257994078094012417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958177388459880679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@phil_u_tikhona 我就看一眼，我不会去黑市花这么多钱买这俩的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1958014694964506907",
+        "created_at": "2025-08-21T06:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T07:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958409948028916138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1257994078094012417",
+              "start": 0,
+              "username": "phil_u_tikhona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958409948028916138",
+        "in_reply_to_user_id": "1257994078094012417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958177388459880679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@phil_u_tikhona 我就看一眼，我不会去黑市花这么多钱买这俩的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257994078094012417",
+        "conversation_id": "1958014694964506907",
+        "created_at": "2025-08-20T14:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T15:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958177388459880679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958177388459880679",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958014694964506907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 你去找gp说你有depression以前吃抗抑郁药吃安非他酮就可以开了，有学校保险的话还能报销，为啥要看黑市嘞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 324,
+          "like_count": 2454,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 3270
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-06T11:22:26.000Z",
+        "description": "=phil. 21 中文/en sometimes political",
+        "id": "1257994078094012417",
+        "location": "私立月光館学園",
+        "name": "Philistine at Tikhon’s",
+        "pinned_tweet_id": "1675859083973238788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892010117748703232/bmX72py1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 390,
+          "like_count": 2051,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 1358
+        },
+        "username": "phil_u_tikhona",
+        "verified": false
+      }
+    ]
+  }
+}

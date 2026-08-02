@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1966519438716408180",
+    "created_at": "2025-09-12T15:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T16:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966519438716408180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VVV8964/status…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/VVV8964/status/1899626980380995781",
+          "start": 16,
+          "url": "https://t.co/GsdjQcDo00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966519438716408180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899626980380995781",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "重新置顶了，因为有些人私信很烦 https://t.co/GsdjQcDo00"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1966519438716408180",
+        "created_at": "2025-09-12T15:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T16:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966519438716408180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VVV8964/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/VVV8964/status/1899626980380995781",
+              "start": 16,
+              "url": "https://t.co/GsdjQcDo00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966519438716408180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899626980380995781",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "重新置顶了，因为有些人私信很烦 https://t.co/GsdjQcDo00"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1899626980380995781",
+        "created_at": "2025-03-12T01:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T02:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899626980380995781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899626980380995781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 24314,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要问我在哪里买大麻之类的毒品了，更不要问我能不能寄到中国给你，我不能，更不敢。\n我未来也没有回国计划，晶哥也别钓了，没用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 332,
+          "like_count": 2966,
+          "listed_count": 4,
+          "media_count": 240,
+          "tweet_count": 4003
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

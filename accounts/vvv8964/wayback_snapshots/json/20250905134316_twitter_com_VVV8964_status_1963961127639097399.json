@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1963961127639097399",
+    "created_at": "2025-09-05T13:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T14:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963961127639097399"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1963961127639097399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恐怖经历，昨天我不知道怎么回事，在1t普瑞下出现了谵妄一样的恐怖幻觉，是给小孩看的卡通动画一样的人物，几秒钟就变一下，有些也很怪异很猎奇\n我不知道怎么回事，可能是因为我倒时差只睡了三个小时，我当时真的吓死了，都想吃下机药了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1963961127639097399",
+        "created_at": "2025-09-05T13:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T14:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963961127639097399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963961127639097399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恐怖经历，昨天我不知道怎么回事，在1t普瑞下出现了谵妄一样的恐怖幻觉，是给小孩看的卡通动画一样的人物，几秒钟就变一下，有些也很怪异很猎奇\n我不知道怎么回事，可能是因为我倒时差只睡了三个小时，我当时真的吓死了，都想吃下机药了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 332,
+          "like_count": 2856,
+          "listed_count": 4,
+          "media_count": 214,
+          "tweet_count": 3816
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1929335433831292936",
+    "created_at": "2025-06-02T00:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T01:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929335433831292936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luoluolan1/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/luoluolan1/status/1929030929936203959",
+          "start": 21,
+          "url": "https://t.co/U7KMlNZ70B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929335433831292936",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929030929936203959",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Mango mango mango💀💀💀 https://t.co/U7KMlNZ70B"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1929030929936203959].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1929030929936203959",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1929030929936203959"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1929335433831292936",
+        "created_at": "2025-06-02T00:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T01:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929335433831292936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoluolan1/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/luoluolan1/status/1929030929936203959",
+              "start": 21,
+              "url": "https://t.co/U7KMlNZ70B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929335433831292936",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929030929936203959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Mango mango mango💀💀💀 https://t.co/U7KMlNZ70B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 240,
+          "like_count": 713,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1637
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

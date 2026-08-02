@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937182131228200965"
+      ],
+      "media_source_tweet_id": [
+        "1949025545225716204"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1949179593853915483",
+    "created_at": "2025-07-26T18:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T19:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949179593853915483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1594329207768846337",
+          "start": 3,
+          "username": "stonersvilla"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2j5HGWGDGu",
+          "end": 41,
+          "expanded_url": "https://x.com/stonersvilla/status/1949025545225716204/photo/1",
+          "media_key": "3_1937182131228200965",
+          "start": 18,
+          "url": "https://t.co/2j5HGWGDGu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949179593853915483",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 328
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949025545225716204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stonersvilla: https://t.co/2j5HGWGDGu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_1937182131228200965",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuJA4n0XUAUIaQ1.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937182131228200965"
+          ],
+          "media_source_tweet_id": [
+            "1949025545225716204"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1949179593853915483",
+        "created_at": "2025-07-26T18:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T19:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949179593853915483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1594329207768846337",
+              "start": 3,
+              "username": "stonersvilla"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2j5HGWGDGu",
+              "end": 41,
+              "expanded_url": "https://x.com/stonersvilla/status/1949025545225716204/photo/1",
+              "media_key": "3_1937182131228200965",
+              "start": 18,
+              "url": "https://t.co/2j5HGWGDGu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949179593853915483",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 328
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949025545225716204",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stonersvilla: https://t.co/2j5HGWGDGu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937182131228200965"
+          ]
+        },
+        "author_id": "1594329207768846337",
+        "conversation_id": "1949025545225716204",
+        "created_at": "2025-07-26T08:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T09:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949025545225716204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2j5HGWGDGu",
+              "end": 23,
+              "expanded_url": "https://x.com/stonersvilla/status/1949025545225716204/photo/1",
+              "media_key": "3_1937182131228200965",
+              "start": 0,
+              "url": "https://t.co/2j5HGWGDGu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949025545225716204",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 203848,
+          "like_count": 3978,
+          "quote_count": 17,
+          "reply_count": 6,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2j5HGWGDGu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 293,
+          "like_count": 1712,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 2549
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T13:58:49.000Z",
+        "description": "🧚🏼‍♀️",
+        "id": "1594329207768846337",
+        "location": "☁️",
+        "name": "Stoner Barbie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937865127497207808/_BuqHspm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341548,
+          "following_count": 1,
+          "like_count": 12165,
+          "listed_count": 440,
+          "media_count": 9563,
+          "tweet_count": 19287
+        },
+        "username": "stonersvilla",
+        "verified": true
+      }
+    ]
+  }
+}

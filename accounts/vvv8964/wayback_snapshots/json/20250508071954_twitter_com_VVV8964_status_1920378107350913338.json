@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1920359851818938825",
+    "created_at": "2025-05-08T07:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T08:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920378107350913338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1345332631429287936",
+          "start": 0,
+          "username": "omo0903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920378107350913338",
+    "in_reply_to_user_id": "1345332631429287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920377199502172198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omo0903 很多人都是生吃或者泡茶，涂点花生酱掩盖味道一口闷了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1920359851818938825",
+        "created_at": "2025-05-08T07:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T08:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920378107350913338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1345332631429287936",
+              "start": 0,
+              "username": "omo0903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920378107350913338",
+        "in_reply_to_user_id": "1345332631429287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920377199502172198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omo0903 很多人都是生吃或者泡茶，涂点花生酱掩盖味道一口闷了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1345332631429287936",
+        "conversation_id": "1920359851818938825",
+        "created_at": "2025-05-08T07:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T08:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920377199502172198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920377199502172198",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920359851818938825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 這是要怎麼服用，磨粉裝膠囊嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 184,
+          "like_count": 420,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 1192
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T11:34:37.000Z",
+        "description": "可以叫我歐姆\n聊天隨意\nINTP人\n匿箱：https://t.co/TWj1YDanYx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/omo0903",
+                "end": 44,
+                "expanded_url": "https://ngl.link/omo0903",
+                "start": 21,
+                "url": "https://t.co/TWj1YDanYx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/UFWHGqfbbogogx…",
+                "end": 23,
+                "expanded_url": "https://lit.link/UFWHGqfbbogogxgPwfYEFlXTIEA3",
+                "start": 0,
+                "url": "https://t.co/5uTbEJIJNq"
+              }
+            ]
+          }
+        },
+        "id": "1345332631429287936",
+        "location": "New Taipei City, Taiwan",
+        "name": "？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829065257689690112/v8akCqvm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 804,
+          "like_count": 47507,
+          "listed_count": 6,
+          "media_count": 461,
+          "tweet_count": 2216
+        },
+        "url": "https://t.co/5uTbEJIJNq",
+        "username": "omo0903",
+        "verified": false
+      }
+    ]
+  }
+}

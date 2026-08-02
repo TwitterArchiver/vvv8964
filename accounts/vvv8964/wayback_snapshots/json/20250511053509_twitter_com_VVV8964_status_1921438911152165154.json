@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1921438911152165154",
+    "created_at": "2025-05-11T05:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T06:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921438911152165154"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shitpost_2077/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/shitpost_2077/status/1921226221662466562",
+          "start": 10,
+          "url": "https://t.co/VE1vhebysr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921438911152165154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921226221662466562",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欧美10后小登最爱 https://t.co/VE1vhebysr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22797,
+        "height": 1080,
+        "media_key": "13_1920894140583149569",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1920894140583149569/img/_WwcbnTiHkDHJRc5.jpg",
+        "public_metrics": {
+          "view_count": 449867
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1920894140583149569/pl/uMo-DE9Us8qZZ2GO.m3u8?tag=16&v=cfc"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920894140583149569/vid/avc1/720x720/fzkTl-GRMb4-Obo2.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920894140583149569/vid/avc1/540x540/PiIZIpWS0_XnriwF.mp4?tag=16"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920894140583149569/vid/avc1/1080x1080/FMG8i95qhUeA9A6W.mp4?tag=16"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920894140583149569/vid/avc1/320x320/5Oosgc9eA-IAY_CU.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1921438911152165154",
+        "created_at": "2025-05-11T05:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T06:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921438911152165154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shitpost_2077/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/shitpost_2077/status/1921226221662466562",
+              "start": 10,
+              "url": "https://t.co/VE1vhebysr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921438911152165154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921226221662466562",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欧美10后小登最爱 https://t.co/VE1vhebysr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1920894140583149569"
+          ]
+        },
+        "author_id": "1605230972588462081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1921226221662466562",
+        "created_at": "2025-05-10T15:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T16:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921226221662466562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iMgOmh5Qnu",
+              "end": 23,
+              "expanded_url": "https://x.com/shitpost_2077/status/1921226221662466562/video/1",
+              "media_key": "13_1920894140583149569",
+              "start": 0,
+              "url": "https://t.co/iMgOmh5Qnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921226221662466562",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2475,
+          "impression_count": 892780,
+          "like_count": 23581,
+          "quote_count": 54,
+          "reply_count": 60,
+          "retweet_count": 1425
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iMgOmh5Qnu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 198,
+          "like_count": 451,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 1250
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T15:57:54.000Z",
+        "description": "shitpost post until 2077 | owner @Necati_coskun_ \n| Dm for credit and removals | NO PROMOS/ADS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "Necati_coskun_"
+              }
+            ]
+          }
+        },
+        "id": "1605230972588462081",
+        "name": "Shitpost 2077",
+        "pinned_tweet_id": "1870106893248799193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711677491142594560/UUZ48b1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824293,
+          "following_count": 147,
+          "like_count": 9919,
+          "listed_count": 1129,
+          "media_count": 1641,
+          "tweet_count": 1775
+        },
+        "username": "shitpost_2077",
+        "verified": true
+      }
+    ]
+  }
+}

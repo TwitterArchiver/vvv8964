@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1909591103197925411",
+    "created_at": "2025-04-08T23:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T00:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909744859113804273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3022697779",
+          "start": 0,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909744859113804273",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909591103197925411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RXdruglab 大麻加致幻剂联用本来就容易badtrip"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3725,
+        "media_key": "3_1909590786074984452",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoA6s9ZbwAQbvnl.jpg",
+        "width": 2478
+      },
+      {
+        "height": 3725,
+        "media_key": "3_1909590786167173120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoA6s9vacAABLbD.jpg",
+        "width": 2478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1909591103197925411",
+        "created_at": "2025-04-08T23:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T00:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909744859113804273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909744859113804273",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909591103197925411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab 大麻加致幻剂联用本来就容易badtrip"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909590786074984452",
+            "3_1909590786167173120"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "1909591103197925411",
+        "created_at": "2025-04-08T12:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T13:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909591103197925411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hqpqj63GRA",
+              "end": 41,
+              "expanded_url": "https://x.com/RXdruglab/status/1909591103197925411/photo/1",
+              "media_key": "3_1909590786074984452",
+              "start": 18,
+              "url": "https://t.co/hqpqj63GRA"
+            },
+            {
+              "display_url": "pic.x.com/hqpqj63GRA",
+              "end": 41,
+              "expanded_url": "https://x.com/RXdruglab/status/1909591103197925411/photo/1",
+              "media_key": "3_1909590786167173120",
+              "start": 18,
+              "url": "https://t.co/hqpqj63GRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909591103197925411",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3687,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "LSD Bad trip投稿一例。 https://t.co/hqpqj63GRA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  什么都发 不止药物 || 正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 162,
+          "like_count": 369,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 1032
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14536,
+          "following_count": 17,
+          "like_count": 30,
+          "listed_count": 11,
+          "media_count": 32,
+          "tweet_count": 876
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1947494884061155837",
+    "created_at": "2025-07-22T03:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T04:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947494884061155837"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1947494884061155837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我其实是老实人，真的很老实\n我虽然吸毒，吸毒，吸毒，但我是好孩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947494884061155837",
+        "created_at": "2025-07-22T03:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947494884061155837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947494884061155837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实是老实人，真的很老实\n我虽然吸毒，吸毒，吸毒，但我是好孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 284,
+          "like_count": 1581,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2400
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

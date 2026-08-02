@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1892444050625593553",
+    "created_at": "2025-02-22T04:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T05:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893162214044967303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797727504540807168",
+          "start": 0,
+          "username": "od_angelkaii_od"
+        },
+        {
+          "end": 33,
+          "id": "1489988682673434626",
+          "start": 17,
+          "username": "InterAnnihilate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893162214044967303",
+    "in_reply_to_user_id": "1797727504540807168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893158766662820112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od_angelkaii_od @InterAnnihilate 不往死里吸怎么会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1892444050625593553",
+        "created_at": "2025-02-22T04:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T05:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893162214044967303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797727504540807168",
+              "start": 0,
+              "username": "od_angelkaii_od"
+            },
+            {
+              "end": 33,
+              "id": "1489988682673434626",
+              "start": 17,
+              "username": "InterAnnihilate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893162214044967303",
+        "in_reply_to_user_id": "1797727504540807168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893158766662820112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_angelkaii_od @InterAnnihilate 不往死里吸怎么会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797727504540807168",
+        "conversation_id": "1892444050625593553",
+        "created_at": "2025-02-22T04:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T05:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893158766662820112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            },
+            {
+              "end": 25,
+              "id": "1489988682673434626",
+              "start": 9,
+              "username": "InterAnnihilate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893158766662820112",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893150124974416017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 @InterAnnihilate 膀胱萎缩就老实了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 160,
+          "like_count": 250,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 834
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "古希腊掌管od的神",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.jp",
+                "end": 23,
+                "expanded_url": "https://overdose.jp/",
+                "start": 0,
+                "url": "https://t.co/nDuhQw85LH"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose知识站点",
+        "pinned_tweet_id": "1889540094710915274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889532170391396352/BjXFZMK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 4088,
+          "like_count": 2191,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 1914
+        },
+        "url": "https://t.co/nDuhQw85LH",
+        "username": "od_angelkaii_od",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T15:46:18.000Z",
+        "description": "INTP (Incel, Nerd, Troll, Psychopath) & Alt-Left Nihilist & Denpa-kei Weirdo \n丨Post-SSRI Sexual Dysfunction & Anal Fistula丨最喜欢的动物是 赤狐 堪察加亚种(V. v. beringiana",
+        "id": "1489988682673434626",
+        "name": "Anarcho-Nihlist丨观费拉左费拉右乱斗归来丨⏰🧠⬆️",
+        "pinned_tweet_id": "1862613598939619464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866501379742941184/D_rUctNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 2671,
+          "like_count": 10407,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 1433
+        },
+        "username": "InterAnnihilate",
+        "verified": false
+      }
+    ]
+  }
+}

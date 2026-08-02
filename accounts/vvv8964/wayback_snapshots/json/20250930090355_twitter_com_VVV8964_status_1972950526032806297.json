@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1972834089498755310",
+    "created_at": "2025-09-30T09:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T10:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972950526032806297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1937692741305352192",
+          "start": 0,
+          "username": "wangduanxu2007"
+        },
+        {
+          "end": 26,
+          "id": "1462960587806105605",
+          "start": 16,
+          "username": "dajingou1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972950526032806297",
+    "in_reply_to_user_id": "1937692741305352192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972942024434397671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangduanxu2007 @dajingou1 戒色吧往里进"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1972834089498755310",
+        "created_at": "2025-09-30T09:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T10:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972950526032806297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1937692741305352192",
+              "start": 0,
+              "username": "wangduanxu2007"
+            },
+            {
+              "end": 26,
+              "id": "1462960587806105605",
+              "start": 16,
+              "username": "dajingou1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972950526032806297",
+        "in_reply_to_user_id": "1937692741305352192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972942024434397671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangduanxu2007 @dajingou1 戒色吧往里进"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937692741305352192",
+        "conversation_id": "1972834089498755310",
+        "created_at": "2025-09-30T08:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T09:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972942024434397671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462960587806105605",
+              "start": 0,
+              "username": "dajingou1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972942024434397671",
+        "in_reply_to_user_id": "1462960587806105605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972834089498755310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dajingou1 来外网谈这个有意思吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 336,
+          "like_count": 3277,
+          "listed_count": 5,
+          "media_count": 283,
+          "tweet_count": 4438
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T02:02:19.000Z",
+        "description": "做个好人，然后昆虫、花妖、左轮手枪",
+        "id": "1937692741305352192",
+        "location": "索科特拉岛",
+        "name": "王断续",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956881227119755264/amZt5xe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 68,
+          "like_count": 566,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 135
+        },
+        "username": "wangduanxu2007",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-23T01:46:11.000Z",
+        "description": "半山腰太挤总要去山顶看看 nft|撸毛|新赛道挖掘|教程 合作请私信 #Binance 币安全球龙头交易所注册https://t.co/pN4rBkh5rE #OKX 注册 https://t.co/2RKabWgg1P 竹贤会成员@bamboozcrypto",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Binance"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "OKX"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 116,
+                "username": "bamboozcrypto"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/zh-CN/join?ref…",
+                "end": 78,
+                "expanded_url": "https://www.binance.com/zh-CN/join?ref=523453188",
+                "start": 55,
+                "url": "https://t.co/pN4rBkh5rE"
+              },
+              {
+                "display_url": "okx.com/join/17759181",
+                "end": 110,
+                "expanded_url": "http://okx.com/join/17759181",
+                "start": 87,
+                "url": "https://t.co/2RKabWgg1P"
+              }
+            ]
+          }
+        },
+        "id": "1462960587806105605",
+        "location": "United States",
+        "name": "pandaWL",
+        "pinned_tweet_id": "1800121025104920975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600674839802482689/KuZMDlzV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75703,
+          "following_count": 6715,
+          "like_count": 14490,
+          "listed_count": 647,
+          "media_count": 3228,
+          "tweet_count": 16736
+        },
+        "username": "dajingou1",
+        "verified": true
+      }
+    ]
+  }
+}

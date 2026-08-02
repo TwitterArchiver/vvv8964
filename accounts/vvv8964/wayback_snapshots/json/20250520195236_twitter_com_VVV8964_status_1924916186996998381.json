@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1924916186996998381",
+    "created_at": "2025-05-20T19:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T20:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924916186996998381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/weirddalle/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/weirddalle/status/1924593409639018860",
+          "start": 6,
+          "url": "https://t.co/67bbRXrCUF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924916186996998381",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924593409639018860",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "海盗党崛起 https://t.co/67bbRXrCUF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_1924589633385472000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrWEExxXIAAC98c.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1924916186996998381",
+        "created_at": "2025-05-20T19:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T20:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924916186996998381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weirddalle/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/weirddalle/status/1924593409639018860",
+              "start": 6,
+              "url": "https://t.co/67bbRXrCUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924916186996998381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924593409639018860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "海盗党崛起 https://t.co/67bbRXrCUF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924589633385472000"
+          ]
+        },
+        "author_id": "1492677599390322689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1924593409639018860",
+        "created_at": "2025-05-19T22:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T23:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924593409639018860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YrjgPghMvl",
+              "end": 23,
+              "expanded_url": "https://x.com/weirddalle/status/1924593409639018860/photo/1",
+              "media_key": "3_1924589633385472000",
+              "start": 0,
+              "url": "https://t.co/YrjgPghMvl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924593409639018860",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5719,
+          "impression_count": 2677653,
+          "like_count": 152931,
+          "quote_count": 312,
+          "reply_count": 358,
+          "retweet_count": 9012
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YrjgPghMvl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  |||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 223,
+          "like_count": 560,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 1416
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T01:50:55.000Z",
+        "description": "making memes at @memelordtech | @weirddalleslop | use AI to create your own memes here 👇 try for free",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "memelordtech"
+              },
+              {
+                "end": 47,
+                "start": 32,
+                "username": "weirddalleslop"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "memelord.tech/?via=weirddalle",
+                "end": 23,
+                "expanded_url": "https://memelord.tech/?via=weirddalle",
+                "start": 0,
+                "url": "https://t.co/UtJH236g8c"
+              }
+            ]
+          }
+        },
+        "id": "1492677599390322689",
+        "name": "no context memes",
+        "pinned_tweet_id": "1923876184128884955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694331764091564032/My5iC3pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089714,
+          "following_count": 546,
+          "like_count": 23626,
+          "listed_count": 3517,
+          "media_count": 20529,
+          "tweet_count": 22417
+        },
+        "url": "https://t.co/UtJH236g8c",
+        "username": "weirddalle",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1965630318402302148",
+    "created_at": "2025-09-10T15:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T16:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965805822510002398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1897617359751294976",
+          "start": 0,
+          "username": "gxny184406"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965805822510002398",
+    "in_reply_to_user_id": "1897617359751294976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965630318402302148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gxny184406 欢迎收听，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1965630318402302148",
+        "created_at": "2025-09-10T15:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T16:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965805822510002398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1897617359751294976",
+              "start": 0,
+              "username": "gxny184406"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965805822510002398",
+        "in_reply_to_user_id": "1897617359751294976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965630318402302148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gxny184406 欢迎收听，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897617359751294976",
+        "conversation_id": "1965630318402302148",
+        "created_at": "2025-09-10T04:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T05:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965630318402302148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965630318402302148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是有史以来最被低估的制作人，他的名字叫dj osama 他仍然保持神秘，没有人认识他。起初他为珠宝店做混音，现在他跟最大的明星合作。当你听到他的混音时，就无法停止跳舞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 333,
+          "like_count": 2931,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 3953
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T11:58:50.000Z",
+        "description": "",
+        "id": "1897617359751294976",
+        "name": "绝对猫",
+        "pinned_tweet_id": "1913130127149445512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952397371125755905/PTZApxa0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 348,
+          "like_count": 6315,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 3066
+        },
+        "username": "gxny184406",
+        "verified": false
+      }
+    ]
+  }
+}

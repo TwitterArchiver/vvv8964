@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942224951466934272"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1942222859591651600",
+    "created_at": "2025-07-07T14:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T15:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942224954445152455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z7mZlPIGVm",
+          "end": 52,
+          "expanded_url": "https://x.com/VVV8964/status/1942224954445152455/photo/1",
+          "media_key": "3_1942224951466934272",
+          "start": 29,
+          "url": "https://t.co/z7mZlPIGVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942224954445152455",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942222859591651600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来空调一直没开，急死我了，为什么这老式空调不开也会亮着 https://t.co/z7mZlPIGVm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942224951466934272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvQrTZIWQAAtzdr.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942224951466934272"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1942222859591651600",
+        "created_at": "2025-07-07T14:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T15:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942224954445152455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z7mZlPIGVm",
+              "end": 52,
+              "expanded_url": "https://x.com/VVV8964/status/1942224954445152455/photo/1",
+              "media_key": "3_1942224951466934272",
+              "start": 29,
+              "url": "https://t.co/z7mZlPIGVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942224954445152455",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942222859591651600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来空调一直没开，急死我了，为什么这老式空调不开也会亮着 https://t.co/z7mZlPIGVm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1942222859591651600",
+        "created_at": "2025-07-07T14:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T15:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942222859591651600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942222859591651600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "sb民宿空调制冷都制不明白，热死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 272,
+          "like_count": 1181,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 2133
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

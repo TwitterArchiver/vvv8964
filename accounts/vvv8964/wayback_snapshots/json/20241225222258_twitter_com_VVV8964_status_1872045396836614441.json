@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1871507585456853206",
+    "created_at": "2024-12-25T22:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T23:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872045396836614441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733183818960633856",
+          "start": 0,
+          "username": "whitething02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872045396836614441",
+    "in_reply_to_user_id": "1733183818960633856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871507585456853206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitething02 感觉底层原理有些视频也是在乱说，说什么k粉吸了就会痛苦的死掉，我都想笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1871507585456853206",
+        "created_at": "2024-12-25T22:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T23:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872045396836614441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733183818960633856",
+              "start": 0,
+              "username": "whitething02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872045396836614441",
+        "in_reply_to_user_id": "1733183818960633856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871507585456853206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitething02 感觉底层原理有些视频也是在乱说，说什么k粉吸了就会痛苦的死掉，我都想笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733183818960633856",
+        "conversation_id": "1871507585456853206",
+        "created_at": "2024-12-24T10:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T11:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871507585456853206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1871507585456853206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 494,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "除了底层原理，Chubbyemu那几个做的视频还算像样的禁毒科普外。某UP主做的像吸毒指南一样。很难让人不怀疑流量才是他的最终目的。\n刻意忽略家庭社会原因，开篇就是“打入内部，破解暗语。”站在道德制高点，问你何不吃肉糜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  ||  正在解锁致幻剂 定期产出报告  ||  不OD 正常用药  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 136,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 540
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T17:56:55.000Z",
+        "description": "就这样，他走在时间的裂缝上，被自己的伤口照亮。",
+        "id": "1733183818960633856",
+        "location": "夜的另一端",
+        "name": "无名小卒",
+        "pinned_tweet_id": "1869793640505323623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861474547872210945/aqttihVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 196,
+          "like_count": 6626,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 189
+        },
+        "username": "whitething02",
+        "verified": false
+      }
+    ]
+  }
+}

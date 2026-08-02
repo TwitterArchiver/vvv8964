@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1911389391894860025",
+    "created_at": "2025-04-14T06:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T07:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911672732745421249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1618800860",
+          "start": 0,
+          "username": "Artoria2e5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911672732745421249",
+    "in_reply_to_user_id": "1618800860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911389391894860025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Artoria2e5 我就被骗过，我妈带我去专门治青少年的那种私立机构，检查加上几盒舍曲林就花了一千多，本来就怕穷结果更抑郁了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1911389391894860025",
+        "created_at": "2025-04-14T06:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T07:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911672732745421249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1618800860",
+              "start": 0,
+              "username": "Artoria2e5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911672732745421249",
+        "in_reply_to_user_id": "1618800860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911389391894860025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artoria2e5 我就被骗过，我妈带我去专门治青少年的那种私立机构，检查加上几盒舍曲林就花了一千多，本来就怕穷结果更抑郁了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618800860",
+        "conversation_id": "1911389391894860025",
+        "created_at": "2025-04-13T12:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T13:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911389391894860025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "zh.m.wikipedia.org/wiki/%E8%84%91…",
+              "end": 41,
+              "expanded_url": "https://zh.m.wikipedia.org/wiki/%E8%84%91%E7%A5%9E%E7%BB%8F%E9%80%92%E8%B4%A8%E6%A3%80%E6%B5%8B%E4%BB%AA%E9%AA%97%E5%B1%80",
+              "start": 18,
+              "status": 200,
+              "title": "脑神经递质检测仪骗局 - 维基百科，自由的百科全书",
+              "unwound_url": "https://zh.m.wikipedia.org/wiki/%E8%84%91%E7%A5%9E%E7%BB%8F%E9%80%92%E8%B4%A8%E6%A3%80%E6%B5%8B%E4%BB%AA%E9%AA%97%E5%B1%80",
+              "url": "https://t.co/8QD2uYG3EV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911389391894860025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1409,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "很好奇是不是很多病友小朋友都没读过 https://t.co/8QD2uYG3EV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 164,
+          "like_count": 379,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 1045
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-24T22:52:36.000Z",
+        "description": "💖 @Tsumikiiss | 小号 @Arthur2e5 | Fully-Stuck Cross-Platform User. she/her || im on https://t.co/jazkZAV5uj 🚪42 请给我钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Tsumikiiss"
+              },
+              {
+                "end": 29,
+                "start": 19,
+                "username": "Arthur2e5"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "enwp.org",
+                "end": 105,
+                "expanded_url": "http://enwp.org",
+                "start": 82,
+                "url": "https://t.co/jazkZAV5uj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.me/Arthur2e5",
+                "end": 23,
+                "expanded_url": "http://about.me/Arthur2e5",
+                "start": 0,
+                "url": "https://t.co/qOu0ummcvE"
+              }
+            ]
+          }
+        },
+        "id": "1618800860",
+        "location": "Shanghai",
+        "name": "Mingye Wang 4.0.1（已九价）🏳️‍⚧️🌻",
+        "pinned_tweet_id": "1782256531150680464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835643449141567488/GSCV91th_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 2250,
+          "like_count": 67109,
+          "listed_count": 26,
+          "media_count": 500,
+          "tweet_count": 45425
+        },
+        "url": "https://t.co/qOu0ummcvE",
+        "username": "Artoria2e5",
+        "verified": false
+      }
+    ]
+  }
+}

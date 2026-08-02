@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1958525664463864177",
+    "created_at": "2025-08-21T15:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T16:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958551759657517110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1882203079220887552",
+          "start": 0,
+          "username": "yan081219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958551759657517110",
+    "in_reply_to_user_id": "1882203079220887552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958550667930575284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan081219 过期了，我要回加拿大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1958525664463864177",
+        "created_at": "2025-08-21T15:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T16:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958551759657517110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1882203079220887552",
+              "start": 0,
+              "username": "yan081219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958551759657517110",
+        "in_reply_to_user_id": "1882203079220887552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958550667930575284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan081219 过期了，我要回加拿大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882203079220887552",
+        "conversation_id": "1958525664463864177",
+        "created_at": "2025-08-21T15:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T16:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958550667930575284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958550667930575284",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958525664463864177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 活动还在吗 求掉落"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 323,
+          "like_count": 2470,
+          "listed_count": 3,
+          "media_count": 163,
+          "tweet_count": 3313
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T23:06:18.000Z",
+        "description": "🚪52 仅好友位 问坐标10/次\n私信只回口令 不是口令直接拉黑 会回关喜欢的",
+        "id": "1882203079220887552",
+        "name": "日日日日日安安",
+        "pinned_tweet_id": "1953902451196932286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957850944579989507/87dfeIhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 118,
+          "like_count": 1804,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 296
+        },
+        "username": "yan081219",
+        "verified": false
+      }
+    ]
+  }
+}

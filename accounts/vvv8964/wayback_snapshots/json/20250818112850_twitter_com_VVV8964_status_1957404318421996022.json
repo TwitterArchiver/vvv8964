@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1957404318421996022",
+    "created_at": "2025-08-18T11:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T12:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957404318421996022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VVV8964/status…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/VVV8964/status/1957008164861440399",
+          "start": 53,
+          "url": "https://t.co/5EwucZY9ab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957404318421996022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957008164861440399",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "经典再现 中午还好好的 晚上就吃不下饭了 我现在真流汗了 恶心犯了物理流汗那种 可惜了我斥巨资购买的美食 https://t.co/5EwucZY9ab"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1957404318421996022",
+        "created_at": "2025-08-18T11:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T12:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957404318421996022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VVV8964/status…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/VVV8964/status/1957008164861440399",
+              "start": 53,
+              "url": "https://t.co/5EwucZY9ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957404318421996022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957008164861440399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经典再现 中午还好好的 晚上就吃不下饭了 我现在真流汗了 恶心犯了物理流汗那种 可惜了我斥巨资购买的美食 https://t.co/5EwucZY9ab"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1957008164861440399",
+        "created_at": "2025-08-17T09:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T10:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957008164861440399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957008164861440399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1238,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟小女友出门吃饭 一个恶心犯了 一个厌食症 都没吃什么东西 这辈子有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 322,
+          "like_count": 2365,
+          "listed_count": 3,
+          "media_count": 153,
+          "tweet_count": 3167
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

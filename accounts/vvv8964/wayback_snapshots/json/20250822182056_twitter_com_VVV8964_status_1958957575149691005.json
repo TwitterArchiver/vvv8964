@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1958957575149691005",
+    "created_at": "2025-08-22T18:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T19:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958957575149691005"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1958957575149691005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在在深夜抑郁听迷幻音乐\n每次都是回加拿大前几天精神状况极度恶化\n不过熬过这几天就自由了\n我其实不是很喜欢很丧的音乐\n但是现在我真不想听那种很嗨的舞曲或者bpm很高的音乐了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1958957575149691005",
+        "created_at": "2025-08-22T18:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T19:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958957575149691005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958957575149691005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在在深夜抑郁听迷幻音乐\n每次都是回加拿大前几天精神状况极度恶化\n不过熬过这几天就自由了\n我其实不是很喜欢很丧的音乐\n但是现在我真不想听那种很嗨的舞曲或者bpm很高的音乐了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 327,
+          "like_count": 2502,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 3373
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

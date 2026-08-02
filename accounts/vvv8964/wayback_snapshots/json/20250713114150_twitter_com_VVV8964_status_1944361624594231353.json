@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1944008300921589824",
+    "created_at": "2025-07-13T11:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T12:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944361624594231353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1507781509788229632",
+          "start": 0,
+          "username": "Noira_M2F"
+        },
+        {
+          "end": 21,
+          "id": "1659962043460354050",
+          "start": 11,
+          "username": "SalviaSWC"
+        },
+        {
+          "end": 32,
+          "id": "1672822866986024961",
+          "start": 22,
+          "username": "Lycaropia"
+        },
+        {
+          "end": 38,
+          "id": "1720665183188922368",
+          "start": 33,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944361624594231353",
+    "in_reply_to_user_id": "1507781509788229632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944353084672504203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noira_M2F @SalviaSWC @Lycaropia @grok 你看你grok爹理你吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1944008300921589824",
+        "created_at": "2025-07-13T11:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T12:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944361624594231353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1507781509788229632",
+              "start": 0,
+              "username": "Noira_M2F"
+            },
+            {
+              "end": 21,
+              "id": "1659962043460354050",
+              "start": 11,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 32,
+              "id": "1672822866986024961",
+              "start": 22,
+              "username": "Lycaropia"
+            },
+            {
+              "end": 38,
+              "id": "1720665183188922368",
+              "start": 33,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944361624594231353",
+        "in_reply_to_user_id": "1507781509788229632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944353084672504203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noira_M2F @SalviaSWC @Lycaropia @grok 你看你grok爹理你吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507781509788229632",
+        "conversation_id": "1944008300921589824",
+        "created_at": "2025-07-13T11:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T12:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944353084672504203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 21,
+              "id": "1672822866986024961",
+              "start": 11,
+              "username": "Lycaropia"
+            },
+            {
+              "end": 27,
+              "id": "1720665183188922368",
+              "start": 22,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944353084672504203",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944351713034399857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @Lycaropia @grok 事实核查"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 281,
+          "like_count": 1442,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2313
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T18:08:28.000Z",
+        "description": "うちのうずらは、かわいいうずら。\n持证含糖友跨顺男｜回民兼LGBTQ｜She/Hers｜#StandWithPalestinian｜#Kingquail\n请大胆发私信求回关，不然我大概率忘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 44,
+                "tag": "StandWithPalestinian"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "tag": "Kingquail"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "post.qingjuacg.top",
+                "end": 23,
+                "expanded_url": "http://post.qingjuacg.top",
+                "start": 0,
+                "url": "https://t.co/wBYPU62ubK"
+              }
+            ]
+          }
+        },
+        "id": "1507781509788229632",
+        "location": "距您18.74km",
+        "name": "伊良子4698🇵🇸",
+        "pinned_tweet_id": "1880882186322374889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881009486212841473/AQCDFQVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3213,
+          "following_count": 1429,
+          "like_count": 24995,
+          "listed_count": 7,
+          "media_count": 948,
+          "tweet_count": 7824
+        },
+        "url": "https://t.co/wBYPU62ubK",
+        "username": "Noira_M2F",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 287,
+          "like_count": 4237,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1501
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T04:24:03.000Z",
+        "description": "Aspie | TS Fullstack | Transgirl🏳️‍⚧️ | 🌈Les | GF @CatTalkerMitaka LOVE ❤ FOREVER",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "CatTalkerMitaka"
+              }
+            ]
+          }
+        },
+        "id": "1672822866986024961",
+        "location": "384,400km",
+        "name": "居眠姬",
+        "pinned_tweet_id": "1910250184527024612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905253739625320448/sKopIlPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 1090,
+          "like_count": 80830,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 9779
+        },
+        "username": "Lycaropia",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5014544,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4191,
+          "media_count": 2360230,
+          "tweet_count": 17095312
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

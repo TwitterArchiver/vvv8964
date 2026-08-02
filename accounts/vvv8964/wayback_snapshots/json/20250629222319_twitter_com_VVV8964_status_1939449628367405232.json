@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1939449628367405232",
+    "created_at": "2025-06-29T22:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T23:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939449628367405232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MuhammadSmiry/…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/MuhammadSmiry/status/1938704550329786388",
+          "start": 140,
+          "url": "https://t.co/bsIAgY4jnW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939449628367405232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938704550329786388",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美国送给巴勒斯坦的人道援助的面粉里发现了羟考酮片。\n我觉得这是毒贩走私或者造假宣传，而不是很多人说的美国和以色列想要下毒。\n阿片类致命性不够高，而且如果要下毒没有理由保持药片完整而不碾碎混到粉末里，更不用提做菜的时候高温可能影响药效，美国人要下毒的话会有更高明的手段，不会这么蠢 https://t.co/bsIAgY4jnW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938704455567835137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guepbj6WgAE8dJ7.jpg",
+        "width": 1187
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1939449628367405232",
+        "created_at": "2025-06-29T22:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T23:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939449628367405232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MuhammadSmiry/…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/MuhammadSmiry/status/1938704550329786388",
+              "start": 140,
+              "url": "https://t.co/bsIAgY4jnW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939449628367405232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938704550329786388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美国送给巴勒斯坦的人道援助的面粉里发现了羟考酮片。\n我觉得这是毒贩走私或者造假宣传，而不是很多人说的美国和以色列想要下毒。\n阿片类致命性不够高，而且如果要下毒没有理由保持药片完整而不碾碎混到粉末里，更不用提做菜的时候高温可能影响药效，美国人要下毒的话会有更高明的手段，不会这么蠢 https://t.co/bsIAgY4jnW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938704455567835137"
+          ]
+        },
+        "author_id": "226350647",
+        "conversation_id": "1938704550329786388",
+        "created_at": "2025-06-27T21:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T22:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938704550329786388"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Gaza",
+              "probability": 0.9797,
+              "start": 29,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1SPrVrH20v",
+              "end": 58,
+              "expanded_url": "https://x.com/MuhammadSmiry/status/1938704550329786388/photo/1",
+              "media_key": "3_1938704455567835137",
+              "start": 35,
+              "url": "https://t.co/1SPrVrH20v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938704550329786388",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1538,
+          "impression_count": 7458379,
+          "like_count": 40954,
+          "quote_count": 949,
+          "reply_count": 634,
+          "retweet_count": 15291
+        },
+        "reply_settings": "everyone",
+        "text": "Drugs found in flour sent to Gaza. https://t.co/1SPrVrH20v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 261,
+          "like_count": 1018,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1993
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-13T23:36:11.000Z",
+        "description": "A Palestinian, born, raised and based in Gaza. I tweet about my life under the occupation! #Gaza",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 91,
+                "tag": "Gaza"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/Msmiry",
+                "end": 23,
+                "expanded_url": "https://paypal.me/Msmiry",
+                "start": 0,
+                "url": "https://t.co/bkBjNh3wff"
+              }
+            ]
+          }
+        },
+        "id": "226350647",
+        "location": "Palestine",
+        "name": "Muhammad Smiry 🇵🇸",
+        "pinned_tweet_id": "758626196921937920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728876455726112768/LzXAMgip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841567,
+          "following_count": 102419,
+          "like_count": 28835,
+          "listed_count": 2226,
+          "media_count": 17751,
+          "tweet_count": 56715
+        },
+        "url": "https://t.co/bkBjNh3wff",
+        "username": "MuhammadSmiry",
+        "verified": true
+      }
+    ]
+  }
+}

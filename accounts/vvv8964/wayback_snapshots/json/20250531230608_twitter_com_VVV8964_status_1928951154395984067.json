@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1168446053839863808",
+          "name": "Kris Wu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1168446053839863808",
+          "name": "Kris Wu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168446053839863808",
+          "name": "Kris Wu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "1928951154395984067",
+    "created_at": "2025-05-31T23:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T00:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928951154395984067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MarshWatt776/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/MarshWatt776/status/1928767241593430385",
+          "start": 13,
+          "url": "https://t.co/tu6gXCY3ST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928951154395984067",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928767241593430385",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Free Kris Wu https://t.co/tu6gXCY3ST"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_1928767228431970304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsRbk0EaMAA4n7w.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1168446053839863808",
+              "name": "Kris Wu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1168446053839863808",
+              "name": "Kris Wu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168446053839863808",
+              "name": "Kris Wu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "1928951154395984067",
+        "created_at": "2025-05-31T23:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T00:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928951154395984067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MarshWatt776/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/MarshWatt776/status/1928767241593430385",
+              "start": 13,
+              "url": "https://t.co/tu6gXCY3ST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928951154395984067",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928767241593430385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Free Kris Wu https://t.co/tu6gXCY3ST"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928767228431970304"
+          ]
+        },
+        "author_id": "1686999547413995521",
+        "conversation_id": "1928767241593430385",
+        "created_at": "2025-05-31T10:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T11:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928767241593430385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ob9OrHLv5f",
+              "end": 33,
+              "expanded_url": "https://x.com/MarshWatt776/status/1928767241593430385/photo/1",
+              "media_key": "3_1928767228431970304",
+              "start": 10,
+              "url": "https://t.co/ob9OrHLv5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928767241593430385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 71160,
+          "like_count": 334,
+          "quote_count": 3,
+          "reply_count": 31,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "吴亦凡微博经典回顾 https://t.co/ob9OrHLv5f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 235,
+          "like_count": 692,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 1607
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T07:16:50.000Z",
+        "description": "出名就卸载推特！  进群吃瓜见置顶。\n\n有国内明星资源，可对接日本女优，可线下，没钱别问\n\n合作请私信小号：@mazziniunsaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "mazziniunsaya"
+              }
+            ]
+          }
+        },
+        "id": "1686999547413995521",
+        "name": "北京小影子（演员",
+        "pinned_tweet_id": "1865932866724786661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771085383088078848/hxKnJgJZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205400,
+          "following_count": 14,
+          "like_count": 225,
+          "listed_count": 296,
+          "media_count": 221,
+          "tweet_count": 1112
+        },
+        "username": "MarshWatt776",
+        "verified": true
+      }
+    ]
+  }
+}

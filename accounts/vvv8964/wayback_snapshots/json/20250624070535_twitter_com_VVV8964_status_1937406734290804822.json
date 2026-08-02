@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1937369588376990135",
+    "created_at": "2025-06-24T07:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T08:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937406734290804822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "16216973",
+          "start": 0,
+          "username": "DanaLarsen"
+        },
+        {
+          "end": 23,
+          "id": "1106363525365026816",
+          "start": 12,
+          "username": "GYDTcanada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937406734290804822",
+    "in_reply_to_user_id": "16216973",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937405803969056961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanaLarsen @GYDTcanada You are welcome! I genuinely appreciate your service! We need more people like you"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1937369588376990135",
+        "created_at": "2025-06-24T07:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T08:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937406734290804822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "16216973",
+              "start": 0,
+              "username": "DanaLarsen"
+            },
+            {
+              "end": 23,
+              "id": "1106363525365026816",
+              "start": 12,
+              "username": "GYDTcanada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937406734290804822",
+        "in_reply_to_user_id": "16216973",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937405803969056961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanaLarsen @GYDTcanada You are welcome! I genuinely appreciate your service! We need more people like you"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "16216973",
+        "conversation_id": "1937369588376990135",
+        "created_at": "2025-06-24T07:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T08:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937405803969056961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            },
+            {
+              "end": 20,
+              "id": "1106363525365026816",
+              "start": 9,
+              "username": "GYDTcanada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937405803969056961",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937369588376990135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 @GYDTcanada It was nice to meet you, thanks for visiting my shop!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 245,
+          "like_count": 917,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 1878
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2008-09-10T04:55:05.000Z",
+        "description": "Founder of: https://t.co/bsS3rDxjd0 • https://t.co/03jsNBOlES • https://t.co/qoIAYBa5w3 • https://t.co/EoBz2EDgUm • https://t.co/wiptNs60cO • https://t.co/XFEe8bgNsL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "GetYourDrugsTested.com",
+                "end": 35,
+                "expanded_url": "http://GetYourDrugsTested.com",
+                "start": 12,
+                "url": "https://t.co/bsS3rDxjd0"
+              },
+              {
+                "display_url": "MushroomDispensary.com",
+                "end": 61,
+                "expanded_url": "http://MushroomDispensary.com",
+                "start": 38,
+                "url": "https://t.co/03jsNBOlES"
+              },
+              {
+                "display_url": "MicrodoseDispensary.com",
+                "end": 87,
+                "expanded_url": "http://MicrodoseDispensary.com",
+                "start": 64,
+                "url": "https://t.co/qoIAYBa5w3"
+              },
+              {
+                "display_url": "CannabisDispensary.ca",
+                "end": 113,
+                "expanded_url": "http://CannabisDispensary.ca",
+                "start": 90,
+                "url": "https://t.co/EoBz2EDgUm"
+              },
+              {
+                "display_url": "CocaLeafCafe.com",
+                "end": 139,
+                "expanded_url": "http://CocaLeafCafe.com",
+                "start": 116,
+                "url": "https://t.co/wiptNs60cO"
+              },
+              {
+                "display_url": "PotheadBooks.com",
+                "end": 165,
+                "expanded_url": "http://PotheadBooks.com",
+                "start": 142,
+                "url": "https://t.co/XFEe8bgNsL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "DanaLarsen.com",
+                "end": 23,
+                "expanded_url": "http://DanaLarsen.com",
+                "start": 0,
+                "url": "https://t.co/JZpkURo1Tq"
+              }
+            ]
+          }
+        },
+        "id": "16216973",
+        "location": "Vancouver, British Columbia",
+        "name": "Dana Larsen",
+        "pinned_tweet_id": "1762458663577649546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629704874509352962/nrIoGSey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19698,
+          "following_count": 5841,
+          "like_count": 5813,
+          "listed_count": 221,
+          "media_count": 3557,
+          "tweet_count": 30400
+        },
+        "url": "https://t.co/JZpkURo1Tq",
+        "username": "DanaLarsen",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-15T01:16:34.000Z",
+        "description": "Community service offering free street drug analysis in Vancouver and by mail. Over 65,000 results posted online. Founded by @DanaLarsen. Funded by @TMCDCanada",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "DanaLarsen"
+              },
+              {
+                "end": 159,
+                "start": 148,
+                "username": "TMCDCanada"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/GetYourDrugsTe…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/GetYourDrugsTested",
+                "start": 0,
+                "url": "https://t.co/hXuNdnq60P"
+              }
+            ]
+          }
+        },
+        "id": "1106363525365026816",
+        "location": "880 E Hastings, Vancouver, BC",
+        "name": "Get Your Drugs Tested",
+        "pinned_tweet_id": "1924555933830582386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830342464789528576/qLax8w5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 16,
+          "like_count": 133,
+          "listed_count": 13,
+          "media_count": 1551,
+          "tweet_count": 1919
+        },
+        "url": "https://t.co/hXuNdnq60P",
+        "username": "GYDTcanada",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1959305697122038166",
+    "created_at": "2025-08-23T17:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T18:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959305697122038166"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959305697122038166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "120mg普瑞巴林给我一种很明显很强烈的内幻 虽然不如蘑菇 但是本来这俩就没法比\n具体的内幻就是高度重复数量很多的线条，入睡幻觉一样的cev，轻微复视，动不动就差点睡着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1959305697122038166",
+        "created_at": "2025-08-23T17:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T18:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959305697122038166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959305697122038166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "120mg普瑞巴林给我一种很明显很强烈的内幻 虽然不如蘑菇 但是本来这俩就没法比\n具体的内幻就是高度重复数量很多的线条，入睡幻觉一样的cev，轻微复视，动不动就差点睡着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 327,
+          "like_count": 2550,
+          "listed_count": 4,
+          "media_count": 181,
+          "tweet_count": 3414
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

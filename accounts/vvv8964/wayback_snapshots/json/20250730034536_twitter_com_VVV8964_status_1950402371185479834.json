@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1950402365661860353",
+    "created_at": "2025-07-30T03:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T04:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950402371185479834"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1950402371185479834",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950402367611896009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我误打误撞进了一个废弃的商场，里面没有人，里面有一个便捷交通方式，人站在上面会被一股力量推着往前滑行，但是只能扭脚控制方向，在我梦里看来很不方便，我当时有一种dejavu的感觉，大概意思就是这种科技我之前已经见过，现在已经过时了，感叹还是温哥华好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1950402365661860353",
+        "created_at": "2025-07-30T03:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T04:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950402371185479834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950402371185479834",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950402367611896009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我误打误撞进了一个废弃的商场，里面没有人，里面有一个便捷交通方式，人站在上面会被一股力量推着往前滑行，但是只能扭脚控制方向，在我梦里看来很不方便，我当时有一种dejavu的感觉，大概意思就是这种科技我之前已经见过，现在已经过时了，感叹还是温哥华好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1950402365661860353",
+        "created_at": "2025-07-30T03:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T04:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950402367611896009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950402367611896009",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950402365661860353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后我一直被害妄想症犯了草木皆兵，觉得遇到的每个人都要抢我，直到我看到了一头熊在和人类互动在我觉得好危险啊，擦擦眼睛一看发现居然是一个老头在熊的服装里，好像是在假扮熊讨生活。我把车停在一个地方后想回学校拍照纪念，发ins给我加拿大的同学看本自由斗士伟大的社会调查，但是找不到学校了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 300,
+          "like_count": 1820,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 2646
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

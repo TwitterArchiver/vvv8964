@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1943934676009148503",
+    "created_at": "2025-07-12T15:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T16:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944050309137088706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1010463231905796096",
+          "start": 0,
+          "username": "Mionostand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944050309137088706",
+    "in_reply_to_user_id": "1010463231905796096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943934676009148503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mionostand 已严肃学习"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1943934671659622400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvo-SNLWYAABGEs.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1943934676009148503",
+        "created_at": "2025-07-12T15:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T16:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944050309137088706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1010463231905796096",
+              "start": 0,
+              "username": "Mionostand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944050309137088706",
+        "in_reply_to_user_id": "1010463231905796096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943934676009148503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mionostand 已严肃学习"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943934671659622400"
+          ]
+        },
+        "author_id": "1010463231905796096",
+        "conversation_id": "1943934676009148503",
+        "created_at": "2025-07-12T07:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T08:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943934676009148503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MWuRzW10v1",
+              "end": 28,
+              "expanded_url": "https://x.com/Mionostand/status/1943934676009148503/photo/1",
+              "media_key": "3_1943934671659622400",
+              "start": 5,
+              "url": "https://t.co/MWuRzW10v1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943934676009148503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 11406,
+          "like_count": 215,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "温馨提示 https://t.co/MWuRzW10v1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 281,
+          "like_count": 1408,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2298
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-23T10:03:02.000Z",
+        "description": "神经病小女孩，主治医生兼丈夫@Waifu8964 一度の人生だから、楽しいは一番です丨在线承接各种女仆服务，包括但不限于洗衣做饭修电脑以及陪着看你玩游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Waifu8964"
+              }
+            ]
+          }
+        },
+        "id": "1010463231905796096",
+        "location": "あなたのハート",
+        "name": "𝕄𝕚𝕠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839765853593538560/f2yQmbJy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 648,
+          "like_count": 21071,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 3893
+        },
+        "username": "Mionostand",
+        "verified": false
+      }
+    ]
+  }
+}

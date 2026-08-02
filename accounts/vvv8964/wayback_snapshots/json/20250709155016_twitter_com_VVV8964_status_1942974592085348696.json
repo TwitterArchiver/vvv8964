@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1942974592085348696",
+    "created_at": "2025-07-09T15:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T16:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942974592085348696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/weirddalle/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/weirddalle/status/1942343638580621565",
+          "start": 17,
+          "url": "https://t.co/LNauMNqPfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942974592085348696",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942343638580621565",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Haha 67 so funny https://t.co/LNauMNqPfn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_1942343635514564608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvSXPtqWIAAkH5v.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1942974592085348696",
+        "created_at": "2025-07-09T15:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T16:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942974592085348696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weirddalle/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/weirddalle/status/1942343638580621565",
+              "start": 17,
+              "url": "https://t.co/LNauMNqPfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942974592085348696",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942343638580621565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Haha 67 so funny https://t.co/LNauMNqPfn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942343635514564608"
+          ]
+        },
+        "author_id": "1492677599390322689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1942343638580621565",
+        "created_at": "2025-07-07T22:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T23:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942343638580621565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JpNrY4LXjN",
+              "end": 23,
+              "expanded_url": "https://x.com/weirddalle/status/1942343638580621565/photo/1",
+              "media_key": "3_1942343635514564608",
+              "start": 0,
+              "url": "https://t.co/JpNrY4LXjN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942343638580621565",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 740,
+          "impression_count": 4622003,
+          "like_count": 16010,
+          "quote_count": 113,
+          "reply_count": 67,
+          "retweet_count": 999
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JpNrY4LXjN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 273,
+          "like_count": 1271,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 2185
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T01:50:55.000Z",
+        "description": "making memes at @memelordtech | @weirddalleslop | create your own memes easily here 👇 try for free",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "memelordtech"
+              },
+              {
+                "end": 47,
+                "start": 32,
+                "username": "weirddalleslop"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "memelord.tech/?via=weirddalle",
+                "end": 23,
+                "expanded_url": "https://memelord.tech/?via=weirddalle",
+                "start": 0,
+                "url": "https://t.co/UtJH236g8c"
+              }
+            ]
+          }
+        },
+        "id": "1492677599390322689",
+        "name": "no context memes",
+        "pinned_tweet_id": "1942826465608827079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694331764091564032/My5iC3pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097748,
+          "following_count": 563,
+          "like_count": 26348,
+          "listed_count": 3561,
+          "media_count": 22858,
+          "tweet_count": 24823
+        },
+        "url": "https://t.co/UtJH236g8c",
+        "username": "weirddalle",
+        "verified": true
+      }
+    ]
+  }
+}

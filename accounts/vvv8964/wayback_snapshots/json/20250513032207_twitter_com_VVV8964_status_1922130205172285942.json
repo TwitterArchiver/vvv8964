@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1921740852961145262",
+    "created_at": "2025-05-13T03:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T04:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922130205172285942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1680291377228259330",
+          "start": 0,
+          "username": "aya_the_raven"
+        },
+        {
+          "end": 25,
+          "id": "1379373361189425162",
+          "start": 15,
+          "username": "ryougi773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922130205172285942",
+    "in_reply_to_user_id": "1680291377228259330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921974279127634412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aya_the_raven @ryougi773 40w够我包括学费在加拿大活两年了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1921740852961145262",
+        "created_at": "2025-05-13T03:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T04:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922130205172285942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1680291377228259330",
+              "start": 0,
+              "username": "aya_the_raven"
+            },
+            {
+              "end": 25,
+              "id": "1379373361189425162",
+              "start": 15,
+              "username": "ryougi773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922130205172285942",
+        "in_reply_to_user_id": "1680291377228259330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921974279127634412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aya_the_raven @ryougi773 40w够我包括学费在加拿大活两年了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680291377228259330",
+        "conversation_id": "1921740852961145262",
+        "created_at": "2025-05-12T17:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T18:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921974279127634412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1379373361189425162",
+              "start": 0,
+              "username": "ryougi773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921974279127634412",
+        "in_reply_to_user_id": "1379373361189425162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 894,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921740852961145262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryougi773 神人了，40萬在北美照樣活一年，這小子是夜夜大久保？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 198,
+          "like_count": 458,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 1270
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T19:01:10.000Z",
+        "description": "旗を掲げよ 宵闇が明く | 這是Aya的藍色時代",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/z4ymvFTkgF",
+                "end": 23,
+                "expanded_url": "https://discord.gg/z4ymvFTkgF",
+                "start": 0,
+                "url": "https://t.co/L8WugyPd2I"
+              }
+            ]
+          }
+        },
+        "id": "1680291377228259330",
+        "location": "NGTI 33072 “La Stella”",
+        "name": "La période azurée de Aya",
+        "pinned_tweet_id": "1825651520664416627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910659151753052160/HdLjfEAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3627,
+          "following_count": 3551,
+          "like_count": 40672,
+          "listed_count": 10,
+          "media_count": 1042,
+          "tweet_count": 11144
+        },
+        "url": "https://t.co/L8WugyPd2I",
+        "username": "aya_the_raven",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-06T10:00:17.000Z",
+        "description": "滞日二刺螈 | SE孝子 | 吉RPGアンチ | 野球",
+        "id": "1379373361189425162",
+        "name": "ryougi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823364594372673536/dAIqEdNH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 860,
+          "like_count": 114,
+          "listed_count": 6,
+          "media_count": 21,
+          "tweet_count": 1578
+        },
+        "username": "ryougi773",
+        "verified": false
+      }
+    ]
+  }
+}

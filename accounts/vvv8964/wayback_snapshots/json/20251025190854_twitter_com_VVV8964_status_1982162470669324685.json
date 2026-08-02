@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982162468299292672"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1982162470669324685",
+    "created_at": "2025-10-25T19:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T20:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982162470669324685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x5AyCvqitK",
+          "end": 65,
+          "expanded_url": "https://x.com/VVV8964/status/1982162470669324685/photo/1",
+          "media_key": "3_1982162468299292672",
+          "start": 42,
+          "url": "https://t.co/x5AyCvqitK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982162470669324685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大统华的牛肉面，12刀，有点贵，但是真挺香的，辣味也刚刚好\n如果加了大葱应该会更香 https://t.co/x5AyCvqitK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982162468299292672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4IOQ1IXQAAbQ0g.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982162468299292672"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1982162470669324685",
+        "created_at": "2025-10-25T19:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T20:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982162470669324685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x5AyCvqitK",
+              "end": 65,
+              "expanded_url": "https://x.com/VVV8964/status/1982162470669324685/photo/1",
+              "media_key": "3_1982162468299292672",
+              "start": 42,
+              "url": "https://t.co/x5AyCvqitK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982162470669324685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大统华的牛肉面，12刀，有点贵，但是真挺香的，辣味也刚刚好\n如果加了大葱应该会更香 https://t.co/x5AyCvqitK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 345,
+          "like_count": 3695,
+          "listed_count": 7,
+          "media_count": 369,
+          "tweet_count": 4928
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

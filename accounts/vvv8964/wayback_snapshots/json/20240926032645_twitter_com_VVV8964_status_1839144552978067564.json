@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1837903753607106845",
+    "created_at": "2024-09-26T03:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T04:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839144552978067564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1732759010355339264",
+          "start": 0,
+          "username": "oOxaliSs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839144552978067564",
+    "in_reply_to_user_id": "1732759010355339264",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839138525549137951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oOxaliSs 是很好搞，街上有实体店卖蘑菇lsddmt警察都不来管"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1837903753607106845",
+        "created_at": "2024-09-26T03:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T04:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839144552978067564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732759010355339264",
+              "start": 0,
+              "username": "oOxaliSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839144552978067564",
+        "in_reply_to_user_id": "1732759010355339264",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839138525549137951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oOxaliSs 是很好搞，街上有实体店卖蘑菇lsddmt警察都不来管"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732759010355339264",
+        "conversation_id": "1837903753607106845",
+        "created_at": "2024-09-26T03:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T04:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839138525549137951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839138525549137951",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839130220047306881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 🍁那边应该好搞吧🥹但是注意安全喔（指trip意外事件）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 如果你给我点赞的话我会很开心\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁\nVVV",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 58,
+          "like_count": 44,
+          "listed_count": 0,
+          "tweet_count": 87
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T13:49:09.000Z",
+        "description": "enby｜蘑菇恐龙猫头鹰🍄🦖🦉｜我有鸟人控.jpg｜比较恶趣味，但是无害｜不是很明白社交平台守则请多包含",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2ZsWq7zlUwBjY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2ZsWq7zlUwBjYWE1",
+                "start": 0,
+                "url": "https://t.co/qAO79G1mwY"
+              }
+            ]
+          }
+        },
+        "id": "1732759010355339264",
+        "name": "oOxaliSs",
+        "pinned_tweet_id": "1820316690493980755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732781379421921280/v1gUWytM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 318,
+          "like_count": 6814,
+          "listed_count": 1,
+          "tweet_count": 1132
+        },
+        "url": "https://t.co/qAO79G1mwY",
+        "username": "oOxaliSs",
+        "verified": false
+      }
+    ]
+  }
+}

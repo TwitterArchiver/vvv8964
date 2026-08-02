@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1838109840335679746",
+    "created_at": "2024-09-23T15:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T16:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838237992282185788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815649539057201152",
+          "start": 0,
+          "username": "NankyuSeiichi"
+        },
+        {
+          "end": 25,
+          "id": "1527308255927492609",
+          "start": 15,
+          "username": "love1027w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838237992282185788",
+    "in_reply_to_user_id": "1815649539057201152",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838120203592302597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NankyuSeiichi @love1027w Wtf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1838109840335679746",
+        "created_at": "2024-09-23T15:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T16:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838237992282185788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815649539057201152",
+              "start": 0,
+              "username": "NankyuSeiichi"
+            },
+            {
+              "end": 25,
+              "id": "1527308255927492609",
+              "start": 15,
+              "username": "love1027w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838237992282185788",
+        "in_reply_to_user_id": "1815649539057201152",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838120203592302597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NankyuSeiichi @love1027w Wtf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838120194713292800"
+          ]
+        },
+        "author_id": "1815649539057201152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1838109840335679746",
+        "created_at": "2024-09-23T07:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T08:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838120203592302597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1527308255927492609",
+              "start": 0,
+              "username": "love1027w"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/afv4d9ktof",
+              "end": 34,
+              "expanded_url": "https://twitter.com/NankyuSeiichi/status/1838120203592302597/photo/1",
+              "media_key": "3_1838120194713292800",
+              "start": 11,
+              "url": "https://t.co/afv4d9KtOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838120203592302597",
+        "in_reply_to_user_id": "1527308255927492609",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 117,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838109840335679746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love1027w https://t.co/afv4d9KtOf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 如果你给我点赞的话我会很开心\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁🏴‍☠️\nVVV",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 58,
+          "like_count": 39,
+          "listed_count": 0,
+          "tweet_count": 72
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "加速南墙/幻觉游泳/历史进程/不进则退",
+        "id": "1815649539057201152",
+        "name": "南宫清一（戒色第0天）",
+        "pinned_tweet_id": "1837497453349605653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815652365674160128/rokkTcsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 416,
+          "like_count": 2929,
+          "listed_count": 1,
+          "tweet_count": 2143
+        },
+        "username": "NankyuSeiichi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T15:20:47.000Z",
+        "description": "⚠️‼️无敏感血图/OD/负能量，注意避雷，善用屏蔽，谨慎关注，被误b可联系@Yuzumi0211 ⚠️NSFW 🏳️‍⚧️Non-binary（they/he/she）🌈pan | grey-aro #shtwt #od",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 101,
+                "tag": "shtwt"
+              },
+              {
+                "end": 111,
+                "start": 108,
+                "tag": "od"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "Yuzumi0211"
+              }
+            ]
+          }
+        },
+        "id": "1527308255927492609",
+        "location": "白云山制药厂",
+        "name": "兮柚用西柚在吸右",
+        "pinned_tweet_id": "1832125547960471576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765012568337432576/CKVTZuPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11321,
+          "following_count": 466,
+          "like_count": 38394,
+          "listed_count": 16,
+          "tweet_count": 21567
+        },
+        "username": "love1027w",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1947317068292100331",
+    "created_at": "2025-07-21T15:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T16:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947317858016309341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1758280045355737088",
+          "start": 0,
+          "username": "itchyball8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947317858016309341",
+    "in_reply_to_user_id": "1758280045355737088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947317068292100331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itchyball8964 这傻逼气死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947317068292100331",
+        "created_at": "2025-07-21T15:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T16:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947317858016309341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1758280045355737088",
+              "start": 0,
+              "username": "itchyball8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947317858016309341",
+        "in_reply_to_user_id": "1758280045355737088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947317068292100331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itchyball8964 这傻逼气死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758280045355737088",
+        "conversation_id": "1947317068292100331",
+        "created_at": "2025-07-21T15:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T16:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947317068292100331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YahooNewsTopic…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/YahooNewsTopics/status/1947071521765380215",
+              "start": 9,
+              "url": "https://t.co/Pev3pHj8g4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947317068292100331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947071521765380215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还好我没贸然润日 https://t.co/Pev3pHj8g4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 284,
+          "like_count": 1558,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 2379
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T00:00:09.000Z",
+        "description": "",
+        "id": "1758280045355737088",
+        "name": "Ume侠（错过英伟达第一人💧👁️💧）",
+        "pinned_tweet_id": "1864133770921824503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758601064390266880/uWGrjhFP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 528,
+          "like_count": 3925,
+          "listed_count": 4,
+          "media_count": 113,
+          "tweet_count": 2548
+        },
+        "username": "itchyball8964",
+        "verified": false
+      }
+    ]
+  }
+}

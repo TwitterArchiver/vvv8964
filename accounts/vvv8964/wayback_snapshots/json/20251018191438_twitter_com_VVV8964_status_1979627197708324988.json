@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979356837381070848"
+      ],
+      "media_source_tweet_id": [
+        "1979356840967209173"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1979627197708324988",
+    "created_at": "2025-10-18T19:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T20:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979627197708324988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721420351132028928",
+          "start": 3,
+          "username": "3letter_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HcfPcN8sjr",
+          "end": 41,
+          "expanded_url": "https://x.com/3letter_/status/1979356840967209173/photo/1",
+          "media_key": "3_1979356837381070848",
+          "start": 18,
+          "url": "https://t.co/HcfPcN8sjr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979627197708324988",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8481
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979356840967209173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3letter_: Fag https://t.co/HcfPcN8sjr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1979356837381070848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3gWjnfW4AAgIiw.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979356837381070848"
+          ],
+          "media_source_tweet_id": [
+            "1979356840967209173"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1979627197708324988",
+        "created_at": "2025-10-18T19:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T20:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979627197708324988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721420351132028928",
+              "start": 3,
+              "username": "3letter_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HcfPcN8sjr",
+              "end": 41,
+              "expanded_url": "https://x.com/3letter_/status/1979356840967209173/photo/1",
+              "media_key": "3_1979356837381070848",
+              "start": 18,
+              "url": "https://t.co/HcfPcN8sjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979627197708324988",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8481
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979356840967209173",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3letter_: Fag https://t.co/HcfPcN8sjr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979356837381070848"
+          ]
+        },
+        "author_id": "1721420351132028928",
+        "conversation_id": "1979356840967209173",
+        "created_at": "2025-10-18T01:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T02:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979356840967209173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HcfPcN8sjr",
+              "end": 27,
+              "expanded_url": "https://x.com/3letter_/status/1979356840967209173/photo/1",
+              "media_key": "3_1979356837381070848",
+              "start": 4,
+              "url": "https://t.co/HcfPcN8sjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979356840967209173",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2469,
+          "impression_count": 877563,
+          "like_count": 46672,
+          "quote_count": 1811,
+          "reply_count": 851,
+          "retweet_count": 8481
+        },
+        "reply_settings": "everyone",
+        "text": "Fag https://t.co/HcfPcN8sjr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 340,
+          "like_count": 3605,
+          "listed_count": 7,
+          "media_count": 340,
+          "tweet_count": 4802
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T06:52:56.000Z",
+        "description": "Follow me and I’ll reply with three special letters just for you! ✨ 4 letters ver. @4letter_ My other accounts ▶︎ https://t.co/Y78fHbbetx By KAEDE Games",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "4letter_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tr.ee/kae",
+                "end": 137,
+                "expanded_url": "https://tr.ee/kae",
+                "start": 114,
+                "url": "https://t.co/Y78fHbbetx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/search?q=from%…",
+                "end": 23,
+                "expanded_url": "https://x.com/search?q=from%3A3letter_%20min_retweets%3A100%20min_faves%3A1000",
+                "start": 0,
+                "url": "https://t.co/GugMOlkOrQ"
+              }
+            ]
+          }
+        },
+        "id": "1721420351132028928",
+        "location": "♡ 1K+ likes posts ⤵︎ 🌷🍀🌹🌻",
+        "name": "3 random letters every 10 mins",
+        "pinned_tweet_id": "1938142335998824751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886499055821578241/XRzle1rA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108320,
+          "following_count": 7246,
+          "like_count": 2089,
+          "listed_count": 59,
+          "media_count": 99403,
+          "tweet_count": 105087
+        },
+        "url": "https://t.co/GugMOlkOrQ",
+        "username": "3letter_",
+        "verified": true
+      }
+    ]
+  }
+}

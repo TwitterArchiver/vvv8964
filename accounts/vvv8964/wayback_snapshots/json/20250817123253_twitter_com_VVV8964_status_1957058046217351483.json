@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1957020402800271360"
+      ],
+      "media_source_tweet_id": [
+        "1957020522711032249"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1957058046217351483",
+    "created_at": "2025-08-17T12:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T13:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957058046217351483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "42764154",
+          "start": 3,
+          "username": "______punished"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5JP33MxpFt",
+          "end": 43,
+          "expanded_url": "https://x.com/______punished/status/1957020522711032249/video/1",
+          "media_key": "13_1957020402800271360",
+          "start": 20,
+          "url": "https://t.co/5JP33MxpFt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957058046217351483",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957020522711032249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @______punished: https://t.co/5JP33MxpFt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12120,
+        "height": 900,
+        "media_key": "13_1957020402800271360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957020402800271360/img/B0woiBdKzzFb0yqs.jpg",
+        "public_metrics": {
+          "view_count": 5740
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957020402800271360/vid/avc1/320x400/Ste019XYv1PoL8Zb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957020402800271360/vid/avc1/480x600/Wzw067VbOIph0RF5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957020402800271360/vid/avc1/720x900/bktGjjalkwV8uxTQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957020402800271360/pl/lhoiAVgHTowBKmVI.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957020402800271360"
+          ],
+          "media_source_tweet_id": [
+            "1957020522711032249"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1957058046217351483",
+        "created_at": "2025-08-17T12:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T13:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957058046217351483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "42764154",
+              "start": 3,
+              "username": "______punished"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5JP33MxpFt",
+              "end": 43,
+              "expanded_url": "https://x.com/______punished/status/1957020522711032249/video/1",
+              "media_key": "13_1957020402800271360",
+              "start": 20,
+              "url": "https://t.co/5JP33MxpFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957058046217351483",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957020522711032249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @______punished: https://t.co/5JP33MxpFt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957020402800271360"
+          ]
+        },
+        "author_id": "42764154",
+        "conversation_id": "1957020522711032249",
+        "created_at": "2025-08-17T10:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T11:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957020522711032249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5JP33MxpFt",
+              "end": 23,
+              "expanded_url": "https://x.com/______punished/status/1957020522711032249/video/1",
+              "media_key": "13_1957020402800271360",
+              "start": 0,
+              "url": "https://t.co/5JP33MxpFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957020522711032249",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 7430,
+          "like_count": 1135,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5JP33MxpFt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 320,
+          "like_count": 2354,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 3134
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-27T00:10:45.000Z",
+        "description": "💎 Mining",
+        "id": "42764154",
+        "location": "Uploaded to the blockchain",
+        "name": "They got me",
+        "pinned_tweet_id": "1843570541648851147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889231073638596608/q5TaywAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19953,
+          "following_count": 1081,
+          "like_count": 6628,
+          "listed_count": 33,
+          "media_count": 5936,
+          "tweet_count": 13394
+        },
+        "username": "______punished",
+        "verified": true
+      }
+    ]
+  }
+}

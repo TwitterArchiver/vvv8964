@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1948019539188588949",
+    "created_at": "2025-07-23T13:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T14:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948019539188588949"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1948019539188588949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爹好像是冲浪高手，我跟他抱怨中国人素质太低了，他开口就是“你们支那人...”我当时都笑死了，问他是哪里学的，他问我不是我跟他说的吗，我怎么敢跟他说这些，肯定是他网上冲浪看到的\n能吱吱叫的就俩地方，红迪或者推特。我现在害怕我爹刷到我推特发现我吸毒，我就再也回不去加拿大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1948019539188588949",
+        "created_at": "2025-07-23T13:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T14:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948019539188588949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948019539188588949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爹好像是冲浪高手，我跟他抱怨中国人素质太低了，他开口就是“你们支那人...”我当时都笑死了，问他是哪里学的，他问我不是我跟他说的吗，我怎么敢跟他说这些，肯定是他网上冲浪看到的\n能吱吱叫的就俩地方，红迪或者推特。我现在害怕我爹刷到我推特发现我吸毒，我就再也回不去加拿大了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 286,
+          "like_count": 1623,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 2439
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

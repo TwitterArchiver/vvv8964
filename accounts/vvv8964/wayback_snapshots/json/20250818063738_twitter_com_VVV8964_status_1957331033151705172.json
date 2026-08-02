@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1957054939165081600"
+      ],
+      "media_source_tweet_id": [
+        "1957055191808901288"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1957331033151705172",
+    "created_at": "2025-08-18T06:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T07:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957331033151705172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1867267845853421568",
+          "start": 3,
+          "username": "isfjcutebear"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kLACxNWoo8",
+          "end": 41,
+          "expanded_url": "https://x.com/isfjcutebear/status/1957055191808901288/video/1",
+          "media_key": "13_1957054939165081600",
+          "start": 18,
+          "url": "https://t.co/kLACxNWoo8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957331033151705172",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 294
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957055191808901288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @isfjcutebear: https://t.co/kLACxNWoo8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15116,
+        "height": 1280,
+        "media_key": "13_1957054939165081600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957054939165081600/img/AsNIGdICn1krTG5-.jpg",
+        "public_metrics": {
+          "view_count": 148628
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957054939165081600/vid/avc1/320x568/GqDuBu29ObJn7nM2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957054939165081600/vid/avc1/480x852/5dUhlwlEaQdISuqV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957054939165081600/vid/avc1/720x1280/7Thps2T8Cet7nuIA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957054939165081600/pl/QknBQdaCIq_fkJe-.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957054939165081600"
+          ],
+          "media_source_tweet_id": [
+            "1957055191808901288"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1957331033151705172",
+        "created_at": "2025-08-18T06:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T07:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957331033151705172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867267845853421568",
+              "start": 3,
+              "username": "isfjcutebear"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kLACxNWoo8",
+              "end": 41,
+              "expanded_url": "https://x.com/isfjcutebear/status/1957055191808901288/video/1",
+              "media_key": "13_1957054939165081600",
+              "start": 18,
+              "url": "https://t.co/kLACxNWoo8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957331033151705172",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 294
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957055191808901288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @isfjcutebear: https://t.co/kLACxNWoo8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957054939165081600"
+          ]
+        },
+        "author_id": "1867267845853421568",
+        "conversation_id": "1957055191808901288",
+        "created_at": "2025-08-17T12:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T13:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957055191808901288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kLACxNWoo8",
+              "end": 23,
+              "expanded_url": "https://x.com/isfjcutebear/status/1957055191808901288/video/1",
+              "media_key": "13_1957054939165081600",
+              "start": 0,
+              "url": "https://t.co/kLACxNWoo8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957055191808901288",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1447,
+          "impression_count": 89513,
+          "like_count": 4706,
+          "quote_count": 20,
+          "reply_count": 41,
+          "retweet_count": 294
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kLACxNWoo8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 321,
+          "like_count": 2359,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 3163
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T17:58:48.000Z",
+        "description": "彼氏と復縁しました♡ カフェ巡りが好き☕️ 人見知りのISFJ ポケモン大好き💕",
+        "id": "1867267845853421568",
+        "name": "クマシュン🔆ISFJ",
+        "pinned_tweet_id": "1956914156566626795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953171890845171718/H-hJJ4qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17523,
+          "following_count": 3198,
+          "like_count": 12633,
+          "listed_count": 43,
+          "media_count": 37,
+          "tweet_count": 71
+        },
+        "username": "isfjcutebear",
+        "verified": true
+      }
+    ]
+  }
+}

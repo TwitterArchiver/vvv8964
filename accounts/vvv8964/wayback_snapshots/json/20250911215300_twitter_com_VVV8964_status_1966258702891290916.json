@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1966258702891290916",
+    "created_at": "2025-09-11T21:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T22:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966258702891290916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VVV8964/status…",
+          "end": 115,
+          "expanded_url": "https://twitter.com/VVV8964/status/1965882091360686087",
+          "start": 92,
+          "url": "https://t.co/5CzXAW85uY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966258702891290916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965882091360686087",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的评价是，虽然我很讨厌他，但是他只是个influencer，他甚至没有直接参政，罪不至此，我还是支持言论自由的，我不知道杀人者动机是什么，但是不能因为单纯不喜欢一个人的言论把人杀掉 https://t.co/5CzXAW85uY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1966258702891290916",
+        "created_at": "2025-09-11T21:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T22:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966258702891290916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VVV8964/status…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/VVV8964/status/1965882091360686087",
+              "start": 92,
+              "url": "https://t.co/5CzXAW85uY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966258702891290916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965882091360686087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的评价是，虽然我很讨厌他，但是他只是个influencer，他甚至没有直接参政，罪不至此，我还是支持言论自由的，我不知道杀人者动机是什么，但是不能因为单纯不喜欢一个人的言论把人杀掉 https://t.co/5CzXAW85uY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "1965882091360686087",
+        "created_at": "2025-09-10T20:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T21:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965882091360686087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PamphletsY/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/PamphletsY/status/1965858675500957808",
+              "start": 31,
+              "url": "https://t.co/39pcQCoPpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965882091360686087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 945,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965858675500957808",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这人怎么死了，给我一个工作日，我将对其发表评论\n（血腥慎点） https://t.co/39pcQCoPpx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 331,
+          "like_count": 2957,
+          "listed_count": 4,
+          "media_count": 240,
+          "tweet_count": 3995
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

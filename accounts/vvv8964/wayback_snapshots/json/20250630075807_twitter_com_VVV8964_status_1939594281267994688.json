@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1939594281267994688",
+    "created_at": "2025-06-30T07:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T08:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939594281267994688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QzuserX/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/QzuserX/status/1939487018456883521",
+          "start": 4,
+          "url": "https://t.co/0vqUuBQ5Sn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939594281267994688",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939487018456883521",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "，，， https://t.co/0vqUuBQ5Sn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1062,
+        "media_key": "3_1939487015516475392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GupxKi5XkAAo0VJ.jpg",
+        "width": 580
+      },
+      {
+        "height": 1003,
+        "media_key": "3_1939487015415713792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GupxKihWEAAzKJE.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1939594281267994688",
+        "created_at": "2025-06-30T07:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T08:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939594281267994688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QzuserX/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/QzuserX/status/1939487018456883521",
+              "start": 4,
+              "url": "https://t.co/0vqUuBQ5Sn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939594281267994688",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939487018456883521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "，，， https://t.co/0vqUuBQ5Sn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939487015516475392",
+            "3_1939487015415713792"
+          ]
+        },
+        "author_id": "1439042200940253185",
+        "conversation_id": "1939487018456883521",
+        "created_at": "2025-06-30T00:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T01:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939487018456883521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2yYJQnE0Sx",
+              "end": 34,
+              "expanded_url": "https://x.com/QzuserX/status/1939487018456883521/photo/1",
+              "media_key": "3_1939487015516475392",
+              "start": 11,
+              "url": "https://t.co/2yYJQnE0Sx"
+            },
+            {
+              "display_url": "pic.x.com/2yYJQnE0Sx",
+              "end": 34,
+              "expanded_url": "https://x.com/QzuserX/status/1939487018456883521/photo/1",
+              "media_key": "3_1939487015415713792",
+              "start": 11,
+              "url": "https://t.co/2yYJQnE0Sx"
+            },
+            {
+              "display_url": "x.com/GlunekiKCA/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/GlunekiKCA/status/1938252921625588072",
+              "start": 35,
+              "url": "https://t.co/IhYdJadnj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939487018456883521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 16826,
+          "like_count": 204,
+          "quote_count": 4,
+          "reply_count": 42,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938252921625588072",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这才是苗族美女... https://t.co/2yYJQnE0Sx https://t.co/IhYdJadnj6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 263,
+          "like_count": 1035,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 2012
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-18T01:43:03.000Z",
+        "description": "Dem-Socialism&Pan-Asianism.     横幅是神奈川冲浪兔.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "QzuserX.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://QzuserX.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/jAJFNvN4Mr"
+              }
+            ]
+          }
+        },
+        "id": "1439042200940253185",
+        "location": "北落师门座",
+        "name": "𝑸𝒁𝑼𝑺𝑬𝑹",
+        "pinned_tweet_id": "1936926169737404747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933109180182978560/9MjPbEaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2719,
+          "following_count": 723,
+          "like_count": 127571,
+          "listed_count": 20,
+          "media_count": 2646,
+          "tweet_count": 23048
+        },
+        "url": "https://t.co/jAJFNvN4Mr",
+        "username": "QzuserX",
+        "verified": false
+      }
+    ]
+  }
+}

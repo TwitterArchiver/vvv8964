@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1939449628367405232",
+    "created_at": "2025-06-29T22:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T23:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939450543837188299"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1939450543837188299",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 12,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939449628367405232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉现在这些网上搞政治的原来越魔怔了，group polarization 把人的观点搞得越来越极端，还是跟我一样岁静吧🥀🥀🥀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1939449628367405232",
+        "created_at": "2025-06-29T22:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T23:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939450543837188299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939450543837188299",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939449628367405232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉现在这些网上搞政治的原来越魔怔了，group polarization 把人的观点搞得越来越极端，还是跟我一样岁静吧🥀🥀🥀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1939449628367405232",
+        "created_at": "2025-06-29T22:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T23:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939449628367405232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MuhammadSmiry/…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/MuhammadSmiry/status/1938704550329786388",
+              "start": 140,
+              "url": "https://t.co/bsIAgY4jnW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939449628367405232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938704550329786388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美国送给巴勒斯坦的人道援助的面粉里发现了羟考酮片。\n我觉得这是毒贩走私或者造假宣传，而不是很多人说的美国和以色列想要下毒。\n阿片类致命性不够高，而且如果要下毒没有理由保持药片完整而不碾碎混到粉末里，更不用提做菜的时候高温可能影响药效，美国人要下毒的话会有更高明的手段，不会这么蠢 https://t.co/bsIAgY4jnW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 261,
+          "like_count": 1019,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1994
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

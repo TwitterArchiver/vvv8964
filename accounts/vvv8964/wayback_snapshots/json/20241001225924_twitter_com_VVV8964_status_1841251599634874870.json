@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1841163496387735947",
+    "created_at": "2024-10-01T22:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T23:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841251599634874870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600277431256256512",
+          "start": 0,
+          "username": "Oriyukiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841251599634874870",
+    "in_reply_to_user_id": "1600277431256256512",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841163496387735947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oriyukiiiii 放我兄弟出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1841163496387735947",
+        "created_at": "2024-10-01T22:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T23:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841251599634874870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600277431256256512",
+              "start": 0,
+              "username": "Oriyukiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841251599634874870",
+        "in_reply_to_user_id": "1600277431256256512",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841163496387735947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oriyukiiiii 放我兄弟出来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1841163408412233728"
+          ]
+        },
+        "author_id": "1600277431256256512",
+        "conversation_id": "1841163496387735947",
+        "created_at": "2024-10-01T17:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T18:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841163496387735947"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "神奈川冲螂里",
+              "probability": 0.4465,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kw0cFkKHUa",
+              "end": 30,
+              "expanded_url": "https://x.com/Oriyukiiiii/status/1841163496387735947/video/1",
+              "media_key": "13_1841163408412233728",
+              "start": 7,
+              "url": "https://t.co/Kw0cFkKHUa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841163496387735947",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1389,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神奈川冲螂里 https://t.co/Kw0cFkKHUa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 如果你给我点赞的话我会很开心\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 58,
+          "like_count": 50,
+          "listed_count": 0,
+          "tweet_count": 130
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T23:54:14.000Z",
+        "description": "中推特供之便宜货的人间冒险。世界反折耳根协会会长现已卷土重来。来聊，承接：防水补漏、情感咨询、水泥型号推荐、排忧解难。心理咨询100r/h 加急200。🚪88，美女免费。投喂爱发电链接⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/Oriyuki",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/Oriyuki",
+                "start": 0,
+                "url": "https://t.co/DDg7CccjLo"
+              }
+            ]
+          }
+        },
+        "id": "1600277431256256512",
+        "location": "无处不在",
+        "name": "石獅落麻雀",
+        "pinned_tweet_id": "1837866926300975289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828968257405235200/qMZ2VQQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4409,
+          "following_count": 338,
+          "like_count": 1339,
+          "listed_count": 4,
+          "tweet_count": 1362
+        },
+        "url": "https://t.co/DDg7CccjLo",
+        "username": "Oriyukiiiii",
+        "verified": true
+      }
+    ]
+  }
+}

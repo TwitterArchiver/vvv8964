@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1861680616095523278",
+    "created_at": "2024-11-27T07:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T08:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861680616095523278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1811812787058016257",
+          "start": 3,
+          "username": "kanakosama0223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861680616095523278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861454206244397224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanakosama0223: 为什么有些人觉得抑郁症就不会去酒吧去看演出呢。？难道我们抑郁症非要死在家里割手吗。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1861680616095523278",
+        "created_at": "2024-11-27T07:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T08:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861680616095523278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1811812787058016257",
+              "start": 3,
+              "username": "kanakosama0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861680616095523278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861454206244397224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanakosama0223: 为什么有些人觉得抑郁症就不会去酒吧去看演出呢。？难道我们抑郁症非要死在家里割手吗。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811812787058016257",
+        "conversation_id": "1861454206244397224",
+        "created_at": "2024-11-26T16:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T17:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861454206244397224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861454206244397224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2209,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有些人觉得抑郁症就不会去酒吧去看演出呢。？难道我们抑郁症非要死在家里割手吗。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高  \n推特有时候莫名其妙收不到消息我会尽量回复回关  \n不OD 正常用药  正在解锁致幻剂  \n大脑损伤逆转中   \n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1861216042522931472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 106,
+          "like_count": 117,
+          "listed_count": 0,
+          "tweet_count": 375
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "07餐券女 kanako的六代目 🚪288",
+        "id": "1811812787058016257",
+        "location": "小老鼠墓地🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "1828825210201710749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858913436249583616/x_qvP_nV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5492,
+          "following_count": 75,
+          "like_count": 2481,
+          "listed_count": 4,
+          "tweet_count": 1439
+        },
+        "username": "kanakosama0223",
+        "verified": false
+      }
+    ]
+  }
+}

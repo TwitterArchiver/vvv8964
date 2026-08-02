@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1949449248661246381",
+    "created_at": "2025-07-28T05:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T06:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949710694808490424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825930221905915907",
+          "start": 0,
+          "username": "ai_yin16898"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949710694808490424",
+    "in_reply_to_user_id": "1825930221905915907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949706407885861289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ai_yin16898 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1949449248661246381",
+        "created_at": "2025-07-28T05:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T06:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949710694808490424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825930221905915907",
+              "start": 0,
+              "username": "ai_yin16898"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949710694808490424",
+        "in_reply_to_user_id": "1825930221905915907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949706407885861289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ai_yin16898 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825930221905915907",
+        "conversation_id": "1949449248661246381",
+        "created_at": "2025-07-28T05:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T06:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949706407885861289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949706407885861289",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949449248661246381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 150mg就有了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 297,
+          "like_count": 1766,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 2593
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T16:17:54.000Z",
+        "description": "我...从来没有觉得乐队开心过...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@Mutsumi_never…",
+                "end": 23,
+                "expanded_url": "http://t.me/@Mutsumi_never_cry",
+                "start": 0,
+                "url": "https://t.co/ej2qs6BC5H"
+              }
+            ]
+          }
+        },
+        "id": "1825930221905915907",
+        "name": "Mutsumi Wakaba",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918921883476742144/ou3_vAyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 1605,
+          "like_count": 13018,
+          "listed_count": 2,
+          "media_count": 268,
+          "tweet_count": 1459
+        },
+        "url": "https://t.co/ej2qs6BC5H",
+        "username": "ai_yin16898",
+        "verified": false
+      }
+    ]
+  }
+}

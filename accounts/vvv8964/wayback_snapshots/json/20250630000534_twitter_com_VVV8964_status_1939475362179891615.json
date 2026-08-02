@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1939475359822684467",
+    "created_at": "2025-06-30T00:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T01:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939475362179891615"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1939475362179891615",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 48,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939475361072591088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "心理成瘾可能也是类似的原理，我其实觉得心理成瘾跟环境有关，可能有些人，包括我，在加拿大不会成瘾，但是在中国药物资源稀缺，这批货吃完下批还不知道什么时候能到，那肯定是日以继夜地翘首以盼，自然就成瘾了。\n有些东西唾手可得的时候反而容易放下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1939475359822684467",
+        "created_at": "2025-06-30T00:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T01:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939475362179891615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939475362179891615",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939475361072591088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心理成瘾可能也是类似的原理，我其实觉得心理成瘾跟环境有关，可能有些人，包括我，在加拿大不会成瘾，但是在中国药物资源稀缺，这批货吃完下批还不知道什么时候能到，那肯定是日以继夜地翘首以盼，自然就成瘾了。\n有些东西唾手可得的时候反而容易放下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1939475359822684467",
+        "created_at": "2025-06-30T00:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T01:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939475361072591088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939475361072591088",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939475359822684467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在中国高中被学校残酷压迫，丧失了很多兴趣爱好，导致我随便看点课外书都津津有味。但是加拿大高中生才不看什么课外书，他们只想玩手机。\n我在中国特别想吃蘑菇，等我在加拿大了，蘑菇坐个车就能买到，我倒不想吃了。\n我之前特别想抽大麻但是买不到，我现在抽过了，但是我大麻店都没进去过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 261,
+          "like_count": 1024,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 2001
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984369320143831043"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1984369321909633095",
+    "created_at": "2025-10-31T21:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T22:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984369321909633095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZAf9fXGsV9",
+          "end": 82,
+          "expanded_url": "https://x.com/VVV8964/status/1984369321909633095/photo/1",
+          "media_key": "3_1984369320143831043",
+          "start": 59,
+          "url": "https://t.co/ZAf9fXGsV9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984369321909633095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又开vyvanse了，这次加大剂量了，现在是40mg，这就是安非他命\n40颗17刀，太便宜了，这下不得不拥护加拿大了 https://t.co/ZAf9fXGsV9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984369320143831043",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4nlYg5bQAMDzBI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984369320143831043"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1984369321909633095",
+        "created_at": "2025-10-31T21:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T22:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984369321909633095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZAf9fXGsV9",
+              "end": 82,
+              "expanded_url": "https://x.com/VVV8964/status/1984369321909633095/photo/1",
+              "media_key": "3_1984369320143831043",
+              "start": 59,
+              "url": "https://t.co/ZAf9fXGsV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984369321909633095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又开vyvanse了，这次加大剂量了，现在是40mg，这就是安非他命\n40颗17刀，太便宜了，这下不得不拥护加拿大了 https://t.co/ZAf9fXGsV9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 350,
+          "like_count": 3758,
+          "listed_count": 9,
+          "media_count": 391,
+          "tweet_count": 4993
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

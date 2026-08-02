@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1922883510433395139",
+    "created_at": "2025-05-15T15:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T16:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923036968583119197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279702935102865409",
+          "start": 0,
+          "username": "YoselinZhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923036968583119197",
+    "in_reply_to_user_id": "1279702935102865409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922952181826630052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YoselinZhang 有的，还是比较明显的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1922883510433395139",
+        "created_at": "2025-05-15T15:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T16:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923036968583119197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279702935102865409",
+              "start": 0,
+              "username": "YoselinZhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923036968583119197",
+        "in_reply_to_user_id": "1279702935102865409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922952181826630052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YoselinZhang 有的，还是比较明显的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279702935102865409",
+        "conversation_id": "1922883510433395139",
+        "created_at": "2025-05-15T09:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T10:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922952181826630052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922952181826630052",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922883510433395139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 大麻电子烟没有味道吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 200,
+          "like_count": 472,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 1332
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T09:05:40.000Z",
+        "description": "07, ISFP, 计划26fall US, 泛性恋一/三爱顺女，LGBTQ+友好，Brat(BDSM), 中文&ENG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/upsetallday",
+                "end": 23,
+                "expanded_url": "https://t.me/upsetallday",
+                "start": 0,
+                "url": "https://t.co/DrDwjEv8l8"
+              }
+            ]
+          }
+        },
+        "id": "1279702935102865409",
+        "location": "物质滥用/药物依赖/精神病发作/性",
+        "name": "Yoselin🪬💊🩸",
+        "pinned_tweet_id": "1914647966574330345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858351609325162496/IJY_umTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 274,
+          "like_count": 9452,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 2780
+        },
+        "url": "https://t.co/DrDwjEv8l8",
+        "username": "YoselinZhang",
+        "verified": false
+      }
+    ]
+  }
+}

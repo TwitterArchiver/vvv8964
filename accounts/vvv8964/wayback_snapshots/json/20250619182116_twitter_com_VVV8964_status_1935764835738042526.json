@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1935746592520171708",
+    "created_at": "2025-06-19T18:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T19:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935764835738042526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4258489634",
+          "start": 0,
+          "username": "Nico1_Fn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935764835738042526",
+    "in_reply_to_user_id": "4258489634",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935746592520171708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nico1_Fn I don't need sex, my government fuck me everyday"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1935746592520171708",
+        "created_at": "2025-06-19T18:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T19:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935764835738042526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4258489634",
+              "start": 0,
+              "username": "Nico1_Fn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935764835738042526",
+        "in_reply_to_user_id": "4258489634",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935746592520171708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nico1_Fn I don't need sex, my government fuck me everyday"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4258489634",
+        "conversation_id": "1935746592520171708",
+        "created_at": "2025-06-19T17:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T18:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935746592520171708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935746592520171708",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Everyone is fuckable, because you've been fucked to death by life"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 242,
+          "like_count": 876,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 1818
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-16T16:38:11.000Z",
+        "description": "温和安那其主义者\n食髓知味*（判定成功）",
+        "id": "4258489634",
+        "location": "Chuo-ku, Tokyo",
+        "name": "FN 酚鍩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517345190217805824/M1XW1zYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 360,
+          "like_count": 4318,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 2096
+        },
+        "username": "Nico1_Fn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1974159659427836034",
+    "created_at": "2025-10-03T18:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T19:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974178270020268288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1861007013662384128",
+          "start": 0,
+          "username": "xiaoBH9C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974178270020268288",
+    "in_reply_to_user_id": "1861007013662384128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974177989828251914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoBH9C 有没有拆腻子加我说喜欢我的ootd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1974159659427836034",
+        "created_at": "2025-10-03T18:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T19:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974178270020268288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1861007013662384128",
+              "start": 0,
+              "username": "xiaoBH9C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974178270020268288",
+        "in_reply_to_user_id": "1861007013662384128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974177989828251914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoBH9C 有没有拆腻子加我说喜欢我的ootd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861007013662384128",
+        "conversation_id": "1974159659427836034",
+        "created_at": "2025-10-03T18:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T19:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974177989828251914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974177989828251914",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974172736147894390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 就这么静静等待缘分到来🤲🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 336,
+          "like_count": 3322,
+          "listed_count": 6,
+          "media_count": 297,
+          "tweet_count": 4519
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T11:20:31.000Z",
+        "description": "",
+        "id": "1861007013662384128",
+        "location": "London, England",
+        "name": "sayaka",
+        "pinned_tweet_id": "1896059562752688385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970400480309268480/JfPct9A3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 137,
+          "like_count": 5032,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 2055
+        },
+        "username": "xiaoBH9C",
+        "verified": false
+      }
+    ]
+  }
+}

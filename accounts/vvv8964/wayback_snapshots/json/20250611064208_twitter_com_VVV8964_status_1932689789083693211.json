@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1932655155230703900",
+    "created_at": "2025-06-11T06:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T07:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932689789083693211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1891527972601069569",
+          "start": 0,
+          "username": "ai_yu40106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932689789083693211",
+    "in_reply_to_user_id": "1891527972601069569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932655155230703900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ai_yu40106 你好 我是王"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1932655155230703900",
+        "created_at": "2025-06-11T06:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T07:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932689789083693211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1891527972601069569",
+              "start": 0,
+              "username": "ai_yu40106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932689789083693211",
+        "in_reply_to_user_id": "1891527972601069569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932655155230703900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ai_yu40106 你好 我是王"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891527972601069569",
+        "conversation_id": "1932655155230703900",
+        "created_at": "2025-06-11T04:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T05:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932655155230703900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932655155230703900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "福州有沒人出來群o，到時候可以拉個群"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 245,
+          "like_count": 820,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 1778
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T16:39:54.000Z",
+        "description": "♀￤病ﾐ ￤情緒ｺﾞﾐ￤依存￤OD￤愛￤🔮\n\n話し相手お願い",
+        "id": "1891527972601069569",
+        "name": "NANA_病み垢",
+        "pinned_tweet_id": "1891874580693909968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932654559689904128/BZ5iCQhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 55,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 38
+        },
+        "username": "ai_yu40106",
+        "verified": false
+      }
+    ]
+  }
+}

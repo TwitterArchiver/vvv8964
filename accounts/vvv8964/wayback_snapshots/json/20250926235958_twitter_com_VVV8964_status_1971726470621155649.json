@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1947657179592593605",
+    "created_at": "2025-09-26T23:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T00:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971726470621155649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1335220888917053440",
+          "start": 0,
+          "username": "S4U7A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971726470621155649",
+    "in_reply_to_user_id": "1335220888917053440",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971709026804420617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S4U7A Nigga😂🎉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1947657179592593605",
+        "created_at": "2025-09-26T23:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T00:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971726470621155649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1335220888917053440",
+              "start": 0,
+              "username": "S4U7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971726470621155649",
+        "in_reply_to_user_id": "1335220888917053440",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971709026804420617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S4U7A Nigga😂🎉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1335220888917053440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1947657179592593605",
+        "created_at": "2025-09-26T22:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T23:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971709026804420617"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "edm",
+              "probability": 0.5749,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971709026804420617",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971685145649508849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 Holy shit we got a edm reference somebody play some faded"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 336,
+          "like_count": 3199,
+          "listed_count": 5,
+          "media_count": 273,
+          "tweet_count": 4342
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-05T13:54:10.000Z",
+        "description": "🏳️‍⚧️ She / Her / Helicopter | Mắt tôi nhìn thấy mọi thứ, nhưng chúng không phải của tôi. English/Español/Tiếng Việt/中文/日本語 / sis @kit_serizu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "kit_serizu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sauta.carrd.co",
+                "end": 23,
+                "expanded_url": "http://sauta.carrd.co",
+                "start": 0,
+                "url": "https://t.co/Ae1BXuTyA3"
+              }
+            ]
+          }
+        },
+        "id": "1335220888917053440",
+        "location": "電子の海",
+        "name": "🈂️ | ℙ𝔸𝕊𝔸𝕌 𝕊𝕆𝕌ℕ𝔻𝕊 𝕧𝟚𝟘.𝟚𝟝",
+        "pinned_tweet_id": "1963107556622323833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914252873367691264/HSZR0QUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 487,
+          "like_count": 9452,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 1364
+        },
+        "url": "https://t.co/Ae1BXuTyA3",
+        "username": "S4U7A",
+        "verified": false
+      }
+    ]
+  }
+}

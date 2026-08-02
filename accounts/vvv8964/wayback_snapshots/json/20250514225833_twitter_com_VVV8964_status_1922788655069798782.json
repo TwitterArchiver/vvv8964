@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1922738455349444802",
+    "created_at": "2025-05-14T22:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T23:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922788655069798782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827402609885638659",
+          "start": 0,
+          "username": "angelb0ring"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922788655069798782",
+    "in_reply_to_user_id": "1827402609885638659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922738455349444802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelb0ring 这些都是群发诈骗的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1922738441059446785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq7wbM9WMAEw0HM.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1922738455349444802",
+        "created_at": "2025-05-14T22:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T23:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922788655069798782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827402609885638659",
+              "start": 0,
+              "username": "angelb0ring"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922788655069798782",
+        "in_reply_to_user_id": "1827402609885638659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922738455349444802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelb0ring 这些都是群发诈骗的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922738441059446785"
+          ]
+        },
+        "author_id": "1827402609885638659",
+        "conversation_id": "1922738455349444802",
+        "created_at": "2025-05-14T19:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T20:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922738455349444802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hwmSrz8cuQ",
+              "end": 30,
+              "expanded_url": "https://x.com/angelb0ring/status/1922738455349444802/photo/1",
+              "media_key": "3_1922738441059446785",
+              "start": 7,
+              "url": "https://t.co/hwmSrz8cuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922738455349444802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这他妈都是啥 https://t.co/hwmSrz8cuQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 200,
+          "like_count": 464,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1317
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T17:48:37.000Z",
+        "description": "🚪52",
+        "id": "1827402609885638659",
+        "name": "angelboring",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827407386702729216/4xt4Ln94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 15,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 171
+        },
+        "username": "angelb0ring",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1929167341943669228",
+    "created_at": "2025-06-01T23:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T00:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929323930482880653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901299981518286848",
+          "start": 0,
+          "username": "kami18181818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929323930482880653",
+    "in_reply_to_user_id": "1901299981518286848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929323038094377348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kami18181818 这是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929323030121209856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsZVEuta4AAHGOC.jpg",
+        "width": 1378
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1929167341943669228",
+        "created_at": "2025-06-01T23:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T00:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929323930482880653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901299981518286848",
+              "start": 0,
+              "username": "kami18181818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929323930482880653",
+        "in_reply_to_user_id": "1901299981518286848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929323038094377348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami18181818 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929323030121209856"
+          ]
+        },
+        "author_id": "1901299981518286848",
+        "conversation_id": "1929167341943669228",
+        "created_at": "2025-06-01T23:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T00:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929323038094377348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTnbO6Udb9",
+              "end": 23,
+              "expanded_url": "https://x.com/kami18181818/status/1929323038094377348/photo/1",
+              "media_key": "3_1929323030121209856",
+              "start": 0,
+              "url": "https://t.co/fTnbO6Udb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929323038094377348",
+        "in_reply_to_user_id": "1901299981518286848",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929167341943669228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/fTnbO6Udb9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 240,
+          "like_count": 712,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1636
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T15:50:27.000Z",
+        "description": "https://t.co/0OTkgW5lG2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/npc93484",
+                "end": 23,
+                "expanded_url": "https://ngl.link/npc93484",
+                "start": 0,
+                "url": "https://t.co/0OTkgW5lG2"
+              }
+            ]
+          }
+        },
+        "id": "1901299981518286848",
+        "name": "kami",
+        "pinned_tweet_id": "1917852735053127804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909312547976888320/uoGqMJXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 217,
+          "like_count": 1408,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 38
+        },
+        "username": "kami18181818",
+        "verified": false
+      }
+    ]
+  }
+}

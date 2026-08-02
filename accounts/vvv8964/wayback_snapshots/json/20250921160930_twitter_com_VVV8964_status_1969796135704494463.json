@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1969796135704494463",
+    "created_at": "2025-09-21T16:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T17:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969796135704494463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "VVV’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1gqGv…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1gqGvrPRBbBGB",
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 就不做了睡大觉",
+          "unwound_url": "https://twitter.com/i/spaces/1gqGvrPRBbBGB/peek",
+          "url": "https://t.co/IzXxJ4oDnZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969796135704494463",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/IzXxJ4oDnZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1969796135704494463",
+        "created_at": "2025-09-21T16:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T17:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969796135704494463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "VVV’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1gqGv…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1gqGvrPRBbBGB",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 就不做了睡大觉",
+              "unwound_url": "https://twitter.com/i/spaces/1gqGvrPRBbBGB/peek",
+              "url": "https://t.co/IzXxJ4oDnZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969796135704494463",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IzXxJ4oDnZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 330,
+          "like_count": 3093,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 4205
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

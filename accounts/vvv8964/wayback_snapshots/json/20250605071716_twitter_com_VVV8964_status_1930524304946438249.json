@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1930524183710363649",
+        "7_1930524258436030464",
+        "3_1930524127737389056",
+        "3_1930524127871512576"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1930524304946438249",
+    "created_at": "2025-06-05T07:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T08:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930524304946438249"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kg7HQePqOl",
+          "end": 42,
+          "expanded_url": "https://x.com/VVV8964/status/1930524304946438249/video/1",
+          "media_key": "7_1930524183710363649",
+          "start": 19,
+          "url": "https://t.co/Kg7HQePqOl"
+        },
+        {
+          "display_url": "pic.x.com/Kg7HQePqOl",
+          "end": 42,
+          "expanded_url": "https://x.com/VVV8964/status/1930524304946438249/video/1",
+          "media_key": "7_1930524258436030464",
+          "start": 19,
+          "url": "https://t.co/Kg7HQePqOl"
+        },
+        {
+          "display_url": "pic.x.com/Kg7HQePqOl",
+          "end": 42,
+          "expanded_url": "https://x.com/VVV8964/status/1930524304946438249/video/1",
+          "media_key": "3_1930524127737389056",
+          "start": 19,
+          "url": "https://t.co/Kg7HQePqOl"
+        },
+        {
+          "display_url": "pic.x.com/Kg7HQePqOl",
+          "end": 42,
+          "expanded_url": "https://x.com/VVV8964/status/1930524304946438249/video/1",
+          "media_key": "3_1930524127871512576",
+          "start": 19,
+          "url": "https://t.co/Kg7HQePqOl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930524304946438249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太感动了，时代革命，光复香港，看哭了 https://t.co/Kg7HQePqOl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68497,
+        "height": 1280,
+        "media_key": "7_1930524183710363649",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1930524183710363649/pu/img/Jum-2v2xIJqXixtr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930524183710363649/pu/vid/avc1/320x568/JScooUpAvPytNagj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930524183710363649/pu/vid/avc1/480x852/IQte-0VWFpdcR1Bc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930524183710363649/pu/vid/avc1/720x1280/AGRrENhN5V02pHP-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1930524183710363649/pu/pl/dj0u0guFSgm50CUQ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 43933,
+        "height": 1280,
+        "media_key": "7_1930524258436030464",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1930524258436030464/pu/img/0V1kp9rcitSAlNsp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930524258436030464/pu/vid/avc1/320x568/N1S1NEpTdXcCFj-C.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930524258436030464/pu/vid/avc1/480x852/p76bLd1hyqqWoO-j.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930524258436030464/pu/vid/avc1/720x1280/YiRoynmJ-Czz3FI9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1930524258436030464/pu/pl/naDYaC3kQBVOF3ta.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930524127737389056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsqZd0AboAA9zGV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930524127871512576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsqZd0gaMAAFrk5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1930524183710363649",
+            "7_1930524258436030464",
+            "3_1930524127737389056",
+            "3_1930524127871512576"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1930524304946438249",
+        "created_at": "2025-06-05T07:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T08:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930524304946438249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kg7HQePqOl",
+              "end": 42,
+              "expanded_url": "https://x.com/VVV8964/status/1930524304946438249/video/1",
+              "media_key": "7_1930524183710363649",
+              "start": 19,
+              "url": "https://t.co/Kg7HQePqOl"
+            },
+            {
+              "display_url": "pic.x.com/Kg7HQePqOl",
+              "end": 42,
+              "expanded_url": "https://x.com/VVV8964/status/1930524304946438249/video/1",
+              "media_key": "7_1930524258436030464",
+              "start": 19,
+              "url": "https://t.co/Kg7HQePqOl"
+            },
+            {
+              "display_url": "pic.x.com/Kg7HQePqOl",
+              "end": 42,
+              "expanded_url": "https://x.com/VVV8964/status/1930524304946438249/video/1",
+              "media_key": "3_1930524127737389056",
+              "start": 19,
+              "url": "https://t.co/Kg7HQePqOl"
+            },
+            {
+              "display_url": "pic.x.com/Kg7HQePqOl",
+              "end": 42,
+              "expanded_url": "https://x.com/VVV8964/status/1930524304946438249/video/1",
+              "media_key": "3_1930524127871512576",
+              "start": 19,
+              "url": "https://t.co/Kg7HQePqOl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930524304946438249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太感动了，时代革命，光复香港，看哭了 https://t.co/Kg7HQePqOl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 243,
+          "like_count": 779,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 1714
+        },
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

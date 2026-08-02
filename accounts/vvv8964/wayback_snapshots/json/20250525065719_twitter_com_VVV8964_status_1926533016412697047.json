@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1926533016412697047",
+    "created_at": "2025-05-25T06:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T07:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926533016412697047"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "twitter",
+          "probability": 0.903,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "18114332",
+          "start": 3,
+          "username": "awfulman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926533016412697047",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4566
+    },
+    "referenced_tweets": [
+      {
+        "id": "1056603741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @awfulman: twitter is faggot shit"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1926533016412697047",
+        "created_at": "2025-05-25T06:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T07:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926533016412697047"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "twitter",
+              "probability": 0.903,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "18114332",
+              "start": 3,
+              "username": "awfulman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926533016412697047",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4566
+        },
+        "referenced_tweets": [
+          {
+            "id": "1056603741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @awfulman: twitter is faggot shit"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "18114332",
+        "conversation_id": "1056603741",
+        "created_at": "2008-12-14T09:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2008-12-14T10:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1056603741"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "twitter",
+              "probability": 0.9567,
+              "start": 0,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1056603741",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 848,
+          "impression_count": 0,
+          "like_count": 11045,
+          "quote_count": 83,
+          "reply_count": 51,
+          "retweet_count": 4566
+        },
+        "reply_settings": "everyone",
+        "text": "twitter is faggot shit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "男高中生 人在加拿大  ||  大脑损伤逆转中  ||  欢迎跟我玩  ||  记录日常和药物使用  ||   科学用药 不提倡任何人滥用药物 请负责任地使用",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 233,
+          "like_count": 610,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 1502
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-14T09:37:52.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forums.somethingawful.com/forumdisplay.p…",
+                "end": 22,
+                "expanded_url": "http://forums.somethingawful.com/forumdisplay.php?forumid=219",
+                "start": 0,
+                "url": "http://t.co/WVjbfTB9y9"
+              }
+            ]
+          }
+        },
+        "id": "18114332",
+        "name": "that awful man",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "http://t.co/WVjbfTB9y9",
+        "username": "awfulman",
+        "verified": false
+      }
+    ]
+  }
+}

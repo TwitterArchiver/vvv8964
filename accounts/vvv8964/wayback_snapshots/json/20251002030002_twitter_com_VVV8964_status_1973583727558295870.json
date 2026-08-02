@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1973583716774785024"
+      ]
+    },
+    "author_id": "1561334508212723713",
+    "conversation_id": "1973581513729143129",
+    "created_at": "2025-10-02T03:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T04:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973583727558295870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1764820595387305984",
+          "start": 0,
+          "username": "miaoning000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kJxs53aUkF",
+          "end": 36,
+          "expanded_url": "https://x.com/VVV8964/status/1973583727558295870/photo/1",
+          "media_key": "16_1973583716774785024",
+          "start": 13,
+          "url": "https://t.co/kJxs53aUkF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973583727558295870",
+    "in_reply_to_user_id": "1764820595387305984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973581513729143129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaoning000 https://t.co/kJxs53aUkF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 188,
+        "media_key": "16_1973583716774785024",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G2OT7xTbMAAOQpI.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G2OT7xTbMAAOQpI.mp4"
+          }
+        ],
+        "width": 256
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973581510373679105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2OR7V0aIAE92oW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973581510927327236",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2OR7X4aIAQRuYQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1973583716774785024"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1973581513729143129",
+        "created_at": "2025-10-02T03:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T04:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973583727558295870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764820595387305984",
+              "start": 0,
+              "username": "miaoning000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kJxs53aUkF",
+              "end": 36,
+              "expanded_url": "https://x.com/VVV8964/status/1973583727558295870/photo/1",
+              "media_key": "16_1973583716774785024",
+              "start": 13,
+              "url": "https://t.co/kJxs53aUkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973583727558295870",
+        "in_reply_to_user_id": "1764820595387305984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973581513729143129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaoning000 https://t.co/kJxs53aUkF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973581510373679105",
+            "3_1973581510927327236"
+          ]
+        },
+        "author_id": "1764820595387305984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1973581513729143129",
+        "created_at": "2025-10-02T02:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T03:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973581513729143129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qHe5Yx61RV",
+              "end": 35,
+              "expanded_url": "https://x.com/miaoning000/status/1973581513729143129/photo/1",
+              "media_key": "3_1973581510373679105",
+              "start": 12,
+              "url": "https://t.co/qHe5Yx61RV"
+            },
+            {
+              "display_url": "pic.x.com/qHe5Yx61RV",
+              "end": 35,
+              "expanded_url": "https://x.com/miaoning000/status/1973581513729143129/photo/1",
+              "media_key": "3_1973581510927327236",
+              "start": 12,
+              "url": "https://t.co/qHe5Yx61RV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973581513729143129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "腊肉笑笑😄，腊肉哭哭😭 https://t.co/qHe5Yx61RV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 336,
+          "like_count": 3305,
+          "listed_count": 5,
+          "media_count": 292,
+          "tweet_count": 4477
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:10:05.000Z",
+        "description": "呐…这里是喵宁 谢谢你喜欢我♪ 看见会回fo│高二网络寄生虫/爱人@wanchunshi/🚪30￥/MTX/ overdose💊/双相/凉席印suki/我真的很友善，不信你和我说句话就知道了♡\n愿神明保佑世人✙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "wanchunshi"
+              }
+            ]
+          }
+        },
+        "id": "1764820595387305984",
+        "location": "氢溴酸右美沙芬-普瑞巴林-盐酸美金刚-盐酸金刚烷胺",
+        "name": "喵宁💊🏳‍⚧",
+        "pinned_tweet_id": "1969574044296233168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764821147739357184/b-2HvW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2769,
+          "following_count": 2893,
+          "like_count": 13554,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 6408
+        },
+        "username": "miaoning000",
+        "verified": false
+      }
+    ]
+  }
+}
