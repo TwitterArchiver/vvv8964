@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1561334508212723713",
+    "conversation_id": "1841655589912621128",
+    "created_at": "2024-10-03T01:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T02:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841655781483282901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1629058457222656001",
+          "start": 0,
+          "username": "nursenika1840"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841655781483282901",
+    "in_reply_to_user_id": "1629058457222656001",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841655589912621128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nursenika1840 太嗯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "conversation_id": "1841655589912621128",
+        "created_at": "2024-10-03T01:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T02:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841655781483282901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1629058457222656001",
+              "start": 0,
+              "username": "nursenika1840"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841655781483282901",
+        "in_reply_to_user_id": "1629058457222656001",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841655589912621128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nursenika1840 太嗯了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841655582589325312"
+          ]
+        },
+        "author_id": "1629058457222656001",
+        "conversation_id": "1841655589912621128",
+        "created_at": "2024-10-03T01:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T02:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841655589912621128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z13isdIAs7",
+              "end": 123,
+              "expanded_url": "https://x.com/nursenika1840/status/1841655589912621128/photo/1",
+              "media_key": "3_1841655582589325312",
+              "start": 100,
+              "url": "https://t.co/z13isdIAs7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841655589912621128",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我从来不拉黑我爹，为什么要拉黑，他当年怎么拷打你的，你拷打回去啊，很多人有家庭矛盾，被父母骂了，欺负了，就自残，生闷气，不说话，抑郁，我的建议是，有啥话当面锣对面鼓的说清楚，有啥不敢的，就是得拷打。 https://t.co/z13isdIAs7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "加拿大男高 如果你给我点赞的话我会很开心\n不OD 正常用药 正在解锁致幻剂\n大脑损伤逆转中\n🍁",
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831347605709926400/0nb02hLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 57,
+          "like_count": 53,
+          "listed_count": 0,
+          "tweet_count": 138
+        },
+        "username": "VVV8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T09:59:45.000Z",
+        "description": "如有移民问题可以私信，只能力所能及回答。",
+        "id": "1629058457222656001",
+        "name": "澳洲护士卡子弟",
+        "pinned_tweet_id": "1791700234860740900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648533563825082369/SW0QqoYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44738,
+          "following_count": 307,
+          "like_count": 2103,
+          "listed_count": 179,
+          "tweet_count": 5673
+        },
+        "username": "nursenika1840",
+        "verified": true
+      }
+    ]
+  }
+}
